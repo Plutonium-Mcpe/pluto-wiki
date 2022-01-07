@@ -15,6 +15,7 @@ jobs:
         run: php build/check-skeleton.php docs content
   namecheck:
     name: Nom fichier
+    needs: skeletoncheck
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
