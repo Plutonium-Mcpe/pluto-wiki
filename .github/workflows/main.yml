@@ -30,7 +30,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Validations du skelette
-        run: php build/file-name-validator docs
+        run: php build/file-name-validator.php docs
   unicitycheck:
     name: Unicité
     needs: skeletoncheck
