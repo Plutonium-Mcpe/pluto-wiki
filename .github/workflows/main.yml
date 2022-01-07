@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Validations du skelette
-        run: php build/check-skeleton.php docs content
+        run: php build/file-skeleton-generator.php docs
   namecheck:
     name: Nom fichier
     needs: skeletoncheck
@@ -30,7 +30,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Validations du skelette
-        run: php build/check-skeleton.php docs name
+        run: php build/file-name-validator docs
   unicitycheck:
     name: Unicité
     needs: skeletoncheck
@@ -43,4 +43,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Validations du skelette
-        run: php build/check-skeleton.php docs name
+        run: php build/unicity-build-folder docs
