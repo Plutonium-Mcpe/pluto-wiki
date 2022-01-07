@@ -4,9 +4,12 @@ if (count($argv) !== 3) {
     die("Format invalide");
 }
 
+$cache = [];
+
 $callable = match ($argv[2]) {
     'content' => 'checkSkeleton',
     'name' => 'checkName',
+    'unicity' => 'checkUnicity',
     default => null
 };
 
@@ -109,6 +112,29 @@ function checkName(string $file): void
                 throw new RuntimeException("Le nom du fichier n'est pas valide, actuel: $filename, voulu: $name" . "_category");
             }
         }
+    }
+    print_r("Fichier $file valide\n");
+}
+
+function checkUnicity(string $file)
+{
+    global $cache;
+    $contents = file_get_contents($file);
+    print_r("Contenu du fichier $file récupéré\n");
+    $filename = getFilename($file);
+    $category = substr($filename, strlen($filename) - 9) === "_category";
+    $name = getId($contents);
+    if ($category) {
+        $categName = substr($filename, strlen($filename) - 9);
+        if (isset($cache[$categName][$name . "_category"])) {
+            throw new RuntimeException("L'index pour la catégorie $categName existe déjà");
+        }
+    } else {
+        $categ = getCategory($contents);
+        if (isset($cache[$categ][$name])) {
+            throw new RuntimeException("$name pour la catégorie $categ existe déjà");
+        }
+        $cache[$categ][$name] = $file;
     }
     print_r("Fichier $file valide\n");
 }

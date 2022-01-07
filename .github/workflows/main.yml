@@ -7,14 +7,21 @@ on:
 
 jobs:
   skeletoncheck:
-    name: Validation du skelette
+    name: Skelette fichier
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Validations du skelette
         run: php build/check-skeleton.php docs content
   namecheck:
-    name: Validation des fichiers
+    name: Nom fichier
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validations du skelette
+        run: php build/check-skeleton.php docs name
+  unicitycheck:
+    name: Unicité
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
