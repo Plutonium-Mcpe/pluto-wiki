@@ -8,7 +8,12 @@ on:
 jobs:
   skeletoncheck:
     name: Skelette fichier
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
     steps:
       - uses: actions/checkout@v2
       - name: Validations du skelette
@@ -16,7 +21,12 @@ jobs:
   namecheck:
     name: Nom fichier
     needs: skeletoncheck
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
     steps:
       - uses: actions/checkout@v2
       - name: Validations du skelette
@@ -24,7 +34,12 @@ jobs:
   unicitycheck:
     name: Unicité
     needs: skeletoncheck
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
     steps:
       - uses: actions/checkout@v2
       - name: Validations du skelette
