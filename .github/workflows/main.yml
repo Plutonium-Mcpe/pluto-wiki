@@ -43,4 +43,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Validations du skelette
-        run: php build/unicity-build-folder docs
+        run: php build/unicity-build-folder.php docs
