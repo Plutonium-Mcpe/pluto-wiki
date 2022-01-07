@@ -1,0 +1,16 @@
+name: 'Gère spam PR'
+on:
+  pull_request:
+    types: [labeled, unlabeled, reopened]
+jobs:
+  pr_issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dessant/support-requests@v2
+        with:
+          support-label:  "Type: Spam"
+          issue-comment: >
+            @{issue-author}, nous utilisons ce biais pour permettre à la communauté de collaborer au wiki de plutonium.  
+            Cependant cette pull request semble être du spam, si cela est une erreur, veuiller en rouvrir une en donnant plus de détails.
+          close-issue: true
+          lock-issue: false
