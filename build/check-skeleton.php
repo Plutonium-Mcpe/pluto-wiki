@@ -55,6 +55,13 @@ function getCategory(string $contents): string
 
 function getFilename(string $path): string
 {
+    $file = getFolder($path);
+    $ret = $file[array_key_last($file)];
+    return substr($ret, 0, strlen($ret) - 3);
+}
+
+function getFolder(string $path): array
+{
     $file = explode('\\', $path);
     if (count($file) === 1) {
         $file = explode('/', $file[0]);
@@ -62,8 +69,7 @@ function getFilename(string $path): string
             throw new RuntimeException("Les noms de dossiers ne sont pas valides");
         }
     }
-    $ret = $file[array_key_last($file)];
-    return substr($ret, 0, strlen($ret) - 3);
+    return $file;
 }
 
 function checkSkeleton(string $file): void
@@ -103,14 +109,29 @@ function checkName(string $file): void
     $name = getId($contents);
     print_r("Id: $name trouvé et valide\n");
     $filename = getFilename($file);
+    $isCategory = substr($filename, strlen($filename) - 9) === "_category";
     if ($filename !== $name) {
-        $category = substr($filename, strlen($filename) - 9) !== "_category";
-        if ($category) {
+        if (!$isCategory) {
             throw new RuntimeException("Le nom du fichier n'est pas valide, actuel: $filename, voulu: $name");
         } else {
             if ($filename !== $name . "_category") {
                 throw new RuntimeException("Le nom du fichier n'est pas valide, actuel: $filename, voulu: $name" . "_category");
             }
+        }
+    }
+    $folders = getFolder($file);
+    if (count($folders) - 2 < 0) {
+        throw new RuntimeException("L'arborescence des dossiers est invalides");
+    }
+    if ($isCategory) {
+        $catNam = substr($filename, 0, strlen($filename) - 9);
+        if ($folders[count($folders) - 2] !== $catNam) {
+            throw new RuntimeException("$catNam n'est pas dans le bon dossier");
+        }
+    } else {
+        $categ = getCategory($contents);
+        if ($folders[count($folders) - 2] !== $categ) {
+            throw new RuntimeException("$filename n'est pas dans le bon dossier");
         }
     }
     print_r("Fichier $file valide\n");
