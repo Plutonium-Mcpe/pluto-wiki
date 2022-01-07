@@ -11,8 +11,8 @@ Cet endroit regroupe toutes les sources des pages du wiki pour le serveur pluton
 
 # Sommaire
 
-* [Introduction]()
-* [Contribuer]()
+* [Introduction](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#introduction)
+* [Contribuer](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#contribuer)
   * [Règles de contribution]()
   * [Les Pull Request]()
     * [Faire une Pull Request]()
