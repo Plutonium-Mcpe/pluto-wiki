@@ -6,12 +6,17 @@ on:
   workflow_dispatch:
 
 jobs:
-  codegen:
-    name: Validation des fichiers
+  skeletoncheck:
+    name: Validation du skelette
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
-
       - name: Validations du skelette
-        run: php build/generate-skeleton.php docs
+        run: php build/check-skeleton.php docs skeleton
+  namecheck:
+    name: Validation des fichiers
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validations du skelette
+        run: php build/check-skeleton.php docs name
