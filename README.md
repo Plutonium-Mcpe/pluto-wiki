@@ -13,12 +13,14 @@ Cet endroit regroupe toutes les sources des pages du wiki pour le serveur pluton
 
 * [Introduction](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#introduction)
 * [Contribuer](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#contribuer)
-  * [Règles de contribution]()
-  * [Les Pull Request]()
-    * [Faire une Pull Request]()
-    * [Recommandations pour les Pull Request]()
-  * [Les Issues]()
-* [Liens utiles de documentations]()
+  * [Règles de contribution](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#règles-de-contribution)
+    * [Nommage de fichiers](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#nommage-des-fichiers)
+    * [Utilisation du markdown](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#utilisation-du-markdown)
+  * [Les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#les-pull-request)
+    * [Faire une Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#faire-une-pull-request)
+    * [Recommandations pour les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#recommandations-pour-les-pulls-requests)
+  * [Les Issues](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#les-issues)
+* [Liens utiles de documentations](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#liens-utiles-de-documentation)
 
 # Introduction
 
@@ -33,7 +35,7 @@ Le but principal de ce répertoire est de fournir à la communauté de s'exprime
 Pour toute participation incluant la modification ou l'ajout de pages dans le wiki, nous utilisons le système de Pull Request intégré à GitHub
 Pour toute demande de modification / report de faute d'orthographe etc ... Les issues sont à utiliser
 
-Si vous ne savez pas quoi faire mais que vous souhaiter quand même participer à la vie du wiki, commenter, exprimer vous, reliser, chercher des bugs dans les [Issues]()
+Si vous ne savez pas quoi faire mais que vous souhaiter quand même participer à la vie du wiki, commenter, exprimer vous, reliser, chercher des bugs dans les [Issues](https://github.com/ShockedPlot7560/pluto-wiki/issues/new)
 
 **Toute contribution inutile ou abusive seront automatiquement décliné par l'équipe sans devoir donner de raisons, si pour autant vous pensez que c'est une erreur, il vous faudra surement fournir plus de détails la prochaine fois.**
 
