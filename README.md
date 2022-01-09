@@ -11,16 +11,16 @@ Cet endroit regroupe toutes les sources des pages du wiki pour le serveur pluton
 
 # Sommaire
 
-* [Introduction](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#introduction)
-* [Contribuer](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#contribuer)
-  * [Règles de contribution](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#règles-de-contribution)
-    * [Nommage de fichiers](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#nommage-des-fichiers)
-    * [Utilisation du markdown](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#utilisation-du-markdown)
-  * [Les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#les-pull-request)
-    * [Faire une Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#faire-une-pull-request)
-    * [Recommandations pour les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#recommandations-pour-les-pulls-requests)
-  * [Les Issues](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#les-issues)
-* [Liens utiles de documentations](https://github.com/ShockedPlot7560/pluto-wiki/blob/main/README.md#liens-utiles-de-documentation)
+* [Introduction](https://github.com/ShockedPlot7560/pluto-wiki/README.md#introduction)
+* [Contribuer](https://github.com/ShockedPlot7560/pluto-wiki/README.md#contribuer)
+  * [Règles de contribution](https://github.com/ShockedPlot7560/pluto-wiki/README.md#règles-de-contribution)
+    * [Nommage de fichiers](https://github.com/ShockedPlot7560/pluto-wiki/README.md#nommage-des-fichiers)
+    * [Utilisation du markdown](https://github.com/ShockedPlot7560/pluto-wiki/README.md#utilisation-du-markdown)
+  * [Les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/README.md#les-pull-request)
+    * [Faire une Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/README.md#faire-une-pull-request)
+    * [Recommandations pour les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/README.md#recommandations-pour-les-pulls-requests)
+  * [Les Issues](https://github.com/ShockedPlot7560/pluto-wiki/README.md#les-issues)
+* [Liens utiles de documentations](https://github.com/ShockedPlot7560/pluto-wiki/README.md#liens-utiles-de-documentation)
 
 # Introduction
 
@@ -37,7 +37,7 @@ Pour toute demande de modification / report de faute d'orthographe etc ... Les i
 
 Si vous ne savez pas quoi faire mais que vous souhaiter quand même participer à la vie du wiki, commenter, exprimer vous, reliser, chercher des bugs dans les [Issues](https://github.com/ShockedPlot7560/pluto-wiki/issues/new)
 
-> Nous utilisons des syntax qui nous sont propres pour ajoutés des fonctionnalités au wiki, voir [SYNTAX.md]() pour plus d'information.
+> Nous utilisons des syntax qui nous sont propres pour ajoutés des fonctionnalités au wiki, voir [SYNTAX.md](https://github.com/ShockedPlot7560/pluto-wiki/blob/stable/SYNTAX.md) pour plus d'information.
 
 **Toute contribution inutile ou abusive seront automatiquement décliné par l'équipe sans devoir donner de raisons, si pour autant vous pensez que c'est une erreur, il vous faudra surement fournir plus de détails la prochaine fois.**
 
