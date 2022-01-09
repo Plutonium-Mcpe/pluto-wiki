@@ -37,6 +37,8 @@ Pour toute demande de modification / report de faute d'orthographe etc ... Les i
 
 Si vous ne savez pas quoi faire mais que vous souhaiter quand même participer à la vie du wiki, commenter, exprimer vous, reliser, chercher des bugs dans les [Issues](https://github.com/ShockedPlot7560/pluto-wiki/issues/new)
 
+> Nous utilisons des syntax qui nous sont propres pour ajoutés des fonctionnalités au wiki, voir [SYNTAX.md]() pour plus d'information.
+
 **Toute contribution inutile ou abusive seront automatiquement décliné par l'équipe sans devoir donner de raisons, si pour autant vous pensez que c'est une erreur, il vous faudra surement fournir plus de détails la prochaine fois.**
 
 ## Règles de contribution
