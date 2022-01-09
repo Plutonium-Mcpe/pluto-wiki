@@ -11,16 +11,16 @@ Cet endroit regroupe toutes les sources des pages du wiki pour le serveur pluton
 
 # Sommaire
 
-* [Introduction](https://github.com/ShockedPlot7560/pluto-wiki/README.md#introduction)
-* [Contribuer](https://github.com/ShockedPlot7560/pluto-wiki/README.md#contribuer)
-  * [Règles de contribution](https://github.com/ShockedPlot7560/pluto-wiki/README.md#règles-de-contribution)
-    * [Nommage de fichiers](https://github.com/ShockedPlot7560/pluto-wiki/README.md#nommage-des-fichiers)
-    * [Utilisation du markdown](https://github.com/ShockedPlot7560/pluto-wiki/README.md#utilisation-du-markdown)
-  * [Les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/README.md#les-pull-request)
-    * [Faire une Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/README.md#faire-une-pull-request)
-    * [Recommandations pour les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/README.md#recommandations-pour-les-pulls-requests)
-  * [Les Issues](https://github.com/ShockedPlot7560/pluto-wiki/README.md#les-issues)
-* [Liens utiles de documentations](https://github.com/ShockedPlot7560/pluto-wiki/README.md#liens-utiles-de-documentation)
+* [Introduction](https://github.com/ShockedPlot7560/pluto-wiki#introduction)
+* [Contribuer](https://github.com/ShockedPlot7560/pluto-wiki#contribuer)
+  * [Règles de contribution](https://github.com/ShockedPlot7560/pluto-wiki#règles-de-contribution)
+    * [Nommage de fichiers](https://github.com/ShockedPlot7560/pluto-wiki#nommage-des-fichiers)
+    * [Utilisation du markdown](https://github.com/ShockedPlot7560/pluto-wiki#utilisation-du-markdown)
+  * [Les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki#les-pull-request)
+    * [Faire une Pull Request](https://github.com/ShockedPlot7560/pluto-wiki#faire-une-pull-request)
+    * [Recommandations pour les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki#recommandations-pour-les-pulls-requests)
+  * [Les Issues](https://github.com/ShockedPlot7560/pluto-wiki#les-issues)
+* [Liens utiles de documentations](https://github.com/ShockedPlot7560/pluto-wiki#liens-utiles-de-documentation)
 
 # Introduction
 
