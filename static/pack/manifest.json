@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+      "description": "Pack de plutonium",
+      "name": "PlutoPackV3",
+      "uuid": "ed7b0932-f208-37b0-8c8d-5d7e5560bb77",
+      "version": [3, 1, 0]
+    },
+    "modules": [
+      {
+        "description": "Pack de plutonium",
+        "version": [0, 0, 1],
+        "uuid": "0892c7d2-6fbf-4cfa-897b-736ef436fb62",
+        "type": "resources"
+      }
+    ]
+  }

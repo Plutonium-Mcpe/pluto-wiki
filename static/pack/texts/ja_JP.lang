@@ -1,0 +1,106 @@
+#####ITEMS#####
+
+##armure opalite
+item.chainmail_helmet.name=Casque en Opalite
+item.chainmail_chestplate.name=Plastron en Opalite
+item.chainmail_leggings.name=Jambières en Opalite
+item.chainmail_boots.name=Bottes en Opalite
+##armure plutonium
+item.golden_helmet.name=Casque en Plutonium
+item.golden_chestplate.name=Plaston en Plutonium
+item.golden_leggings.name=Jambières en Plutonium
+item.golden_boots.name=Bottes en Plutonium
+
+##Épée
+item.golden_sword.name=Épée en Opalite
+item.golden_axe.name=Épée en Plutonium
+#item.nether_axe.name=Hache en Opalite
+#item.netherite_axe.name=Hache en Opalite
+
+#item.minecraft.netherite_axe=Hache en Opalite
+#item.minecraft.netherite_axe.name=Hache en Opalite
+##Hammer
+item.golden_pickaxe.name=Hammer en Opalite
+item.golden_shovel.name=Hammer en Plutonium
+##Houe
+item.golden_hoe.name=Houe en Opalite
+##Unclaim Finder
+item.clock.name=Unclaim Finder
+##Dynamite
+item.egg.name=Dynamite
+##Lucky Block
+tile.sponge.dry.name=Lucky block
+##Cave Block
+##tile.noteblock.name=Cave block
+##Hand Glider
+item.dragon_breath.name=Hand Glider
+##Opalite ingot
+item.emerald.name=Lingot d'Opalite
+##randome ore
+tile.gold_ore.name=Random ore
+
+#Zephir
+tile.glazedTerracotta.red.name=Minerai de Zephir
+item.phantom_membrane.name=Crystal de Zephir
+item.nautilus_shell.name=Fragment de Zephir
+
+tile.emerald_block.name=Bloc d'Opalite
+tile.emerald_ore.name=Minerai d'Opalite
+##graines
+item.nether_wart.name=Graines d'Opalite
+item.beetroot_seeds.name=Graines de Plutonium
+##casque
+item.skull.skeleton.name=Hood Helmet
+item.skull.zombie.name=Scuba Helmet
+##apple
+item.apple_golden.name=Pomme en opalite
+##Heal Stick
+item.mushroom_stew.name=Heal Stick
+item.clock_item.name=Unclaim Finder
+#plutonium
+item.rabbit_foot.name=Poussier de Plutonium
+item.ghast_tear.name=Fragment de Plutonium
+item.fermented_spider_eye.name=Lingot de Plutonium
+
+item.record_13.desc=XP Collector
+tile.glazedTerracotta.black.name=Obsidienne Améliorer
+tile.glazedTerracotta.brown.name=Cave Block
+tile.glazedTerracotta.white.name=Drawer
+tile.glowingobsidian.name=Block Effect
+tile.glazedTerracotta.magenta.name=Ascenseur Tiers I
+
+tipped_arrow.effect.invisibility=ObsiBreaker
+tipped_arrow.effect.jump=Unclaim Finder
+tipped_arrow.effect.waterBreathing=Seed Planter
+tipped_arrow.effect.heal=Sky Ring
+
+tipped_arrow.effect.regeneration=Antimatter Stick
+potion.regeneration=§9§k
+
+#tipped_arrow.effect.harm=Feed Stick
+#potion.harm=§r
+item.beetroot_soup.name=Feed Stick
+
+tipped_arrow.effect.poison=Speed Stick
+#tipped_arrow.effect.moveSpeed=Speed Stick
+
+potion.invisibility=§9§k
+potion.jump=§9§k
+potion.waterBreathing=§9§k
+
+#potion.moveSpeed=§9§k
+potion.poison=§9§k
+
+potion.heal=§r
+
+item.turtle_shell_piece.name=Billet
+
+item.netherite_axe.name=Hache en Opalite
+item.netherite_sword.name=Épée Céleste
+item.netherite_hoe.name=Farm Spade
+
+#tipped_arrow.effect.fireResistance=Farm Spade
+#potion.fireResistance=§9§k
+
+item.netherite_shovel.name=Cadeau
+item.pufferfish.name=Sucre d'Orge
