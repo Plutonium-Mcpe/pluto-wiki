@@ -29,7 +29,7 @@ jobs:
         php: [8.0.11]
     steps:
       - uses: actions/checkout@v2
-      - name: Validations du skelette
+      - name: Nommage des fichiers
         run: php build/file-name-validator.php docs
   unicitycheck:
     name: Unicité
@@ -42,5 +42,5 @@ jobs:
         php: [8.0.11]
     steps:
       - uses: actions/checkout@v2
-      - name: Validations du skelette
+      - name: Unicité des ids
         run: php build/unicity-build-folder.php docs
