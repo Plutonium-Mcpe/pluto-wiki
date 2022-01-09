@@ -5,7 +5,7 @@ $zipPath = dirname(__DIR__) . "/static/";
 $archive = new ZipArchive();
 if ($archive->open($zipPath . "plutonium.zip") === true) {
 	echo "Archive plutonium.zip trouvé\n";
-	$exportPath = $zipPath . "pack";
+	$exportPath = $zipPath . "plutonium";
 	if (is_dir($exportPath)) {
 		recremove($exportPath);
 		echo "Dossier: $exportPath supprimé\n";
