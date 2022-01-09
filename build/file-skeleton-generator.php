@@ -18,9 +18,9 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
 	$filename = getFilename($file);
 	$category = substr($filename, strlen($filename) - 9) === "_category";
 	if ($category) {
-		$skeletonHeaderRegex = "/---(\r\n|\r|\n)id: .+(\r\n|\r|\n)title: .+(\r\n|\r|\n)icon: \".+\"(\r\n|\r|\n)---(\r\n|\r|\n)___/i";
+		$skeletonHeaderRegex = "/---(\r\n|\r|\n)id: .+(\r\n|\r|\n)title: .+(\r\n|\r|\n)description: \".+\"(\r\n|\r|\n)icon: \".+\"(\r\n|\r|\n)---(\r\n|\r|\n)___/i";
 	} else {
-		$skeletonHeaderRegex = "/---(\r\n|\r|\n)id: .+(\r\n|\r|\n)title: .+(\r\n|\r|\n)category: .+(\r\n|\r|\n)icon: \".+\"(\r\n|\r|\n)---(\r\n|\r|\n)___/i";
+		$skeletonHeaderRegex = "/---(\r\n|\r|\n)id: .+(\r\n|\r|\n)title: .+(\r\n|\r|\n)category: .+(\r\n|\r|\n)description: \".+\"(\r\n|\r|\n)icon: \".+\"(\r\n|\r|\n)---(\r\n|\r|\n)___/i";
 	}
 	$head = preg_match($skeletonHeaderRegex, $contents);
 	if ($head !== 1) {

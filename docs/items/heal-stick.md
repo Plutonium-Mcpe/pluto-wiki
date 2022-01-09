@@ -2,6 +2,7 @@
 id: heal-stick
 title: Heal stick
 category: items
+description: Les heals sticks, ca fait du bien
 icon: "https://user-images.githubusercontent.com/66992287/148551743-072b34ad-dee2-4328-9bda-1ea2ac4e97aa.png"
 ---
 ___

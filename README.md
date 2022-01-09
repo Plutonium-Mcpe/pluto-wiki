@@ -67,6 +67,7 @@ Chaque fichier correspondant à une page **DOIT**:
 id: //id à remplacer
 title: // titre de la page
 category: // category id
+description: // description courte de la page
 icon: // lien vers l'icône de la page entre guillemet
 ---
 ___
