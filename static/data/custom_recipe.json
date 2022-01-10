@@ -1,0 +1,20 @@
+[
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "items/opalite_ingot"
+            }
+        },
+        "output": [
+            {
+                "name": "blocks/opalite_block"
+            }
+        ],
+        "shape": [
+            ["A", "A", "A"],
+            ["A", "A", "A"],
+            ["A", "A", "A"]
+        ]
+    }
+]
