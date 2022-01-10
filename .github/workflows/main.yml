@@ -61,3 +61,24 @@ jobs:
         with:
           commit_message: Extraction des ressource packs
           branch: ${{ github.ref }}
+  build-craft:
+    name: Construction des crafts customs
+    runs-on: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Ajout librairies nécessaire
+        run: |
+          cd build && composer require shockedplot7560/craft-generator && cd ../
+      - name: Construction craft custom
+        run: |
+          php build/build-custom-craft.php
+      - name: Commit change
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Ajout des craft customs
+          branch: ${{ github.ref }}
