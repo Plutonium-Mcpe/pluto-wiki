@@ -64,6 +64,7 @@ jobs:
   build-craft:
     name: Construction des crafts customs
     runs-on: ${{ matrix.image }}
+    needs: extract-pack
     strategy:
       fail-fast: false
       matrix:
