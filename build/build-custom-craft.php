@@ -13,7 +13,11 @@ $recipes = json_decode(file_get_contents($recipePath), true);
 
 @mkdir(dirname(__DIR__) . "/static/craft");
 foreach ($recipes as $recipe) {
-	$craft = new Craft(1);
+	$craft = new Craft(1, [
+		"size_base" => [
+			128, 128
+		]
+	]);
 	$base = 0;
 	$j = 0;
 	for ($i=1; $i <= 9 ; $i++) {
