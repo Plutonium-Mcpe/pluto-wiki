@@ -52,6 +52,6 @@ foreach ($recipes as $recipe) {
 	$craft->addItem(new Item($outputpath), Craft::CRAFT_SLOT_RESULT);
 
 	$craftname = "craft_" . explode("/", $outputname)[array_key_last(explode("/", $outputname))];
-	echo "add: $craftname";
+	echo "add: $craftname\n";
 	$craft->export(dirname(__DIR__) . "/static/craft/" . $craftname . ".png");
 }
