@@ -45,8 +45,10 @@ Si vous ne savez pas quoi faire mais que vous souhaiter quand même participer �
 
 Toutes personnes souhaitant contribuer au wiki doit se soumettre au règles de contribution 
 
-Tout les documents du wiki de plutonium sont effectués en [Mardown, un guide est diponible ici](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/) et les images proposés pour illustrer les pages doivent être uploadés d'abord sur GitHub via l'outils d'édition. 
-> Aucun dossier ne proposant d'image ou média n'est proposé car chaque illustration est ensuite revu avant d'être mise en version finale sur le site officiel de Plutonium, il faudra passer par des outils externes.
+Tout les documents du wiki de plutonium sont effectués en [Mardown, un guide est diponible ici](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/) et les images utilisés doivent être présentes ou bien validé par l'équipe.  
+Un dossier entier est consacré aux images d'illustrations contenant les craft moddés / vanilla, les textures vanilla et modées.  
+
+**Si une illustrations est nécessaires pour la page, il vous faudra dans un premier temps l'upload via GitHub, nous nous chargerons ensuite de l'intégré aux fichiers si celui-ci pertinent et respecte nos règles internes.**
 
 ### Nommage des fichiers
 
@@ -70,17 +72,25 @@ id: //id à remplacer
 title: // titre de la page
 category: // category id
 description: // description courte de la page
-icon: // lien vers l'icône de la page entre guillemet
+icon: // lien vers l'icône de la page entre guillemet ou lien relatif vers la textures: textures/items/une_texture.png
 ---
 ___
 //suite du document
 ```
 
+Pour intégrer un icon à votre page / catégorie, il vous sera demandé de fournir soit:
+* un lien vers l'image donné (en .png) 
+* un lien relatif vers l'image en question
+  * deux dossiers sont disponibles pour le moment: craft / textures où textures comporte tout les sous-dossier tels que dans ``static/vanilla/textures`` actuels
+  * *Ex: textures/items/opalite_ingot.png* pointe vers le lingot d'opalite
+
 ### Utilisation du markdown
 
 Les pages étant écrites en markdown pour être générer ensuite côté serveur, il est nécessaire de suivre cette norme.  
 De plus, il est important d'éviter au maximum l'html pur directement au sein du documents mais de privilégié la syntax markdown qui est très complète.
-> [Voir une documentation](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
+> [Voir une documentation](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)  
+> Pour ajouter des fonctionnalitées en plus, nous utilisons des syntax en plus qui nous est propre:  
+> [Voir notre syntax](https://github.com/ShockedPlot7560/pluto-wiki/blob/stable/SYNTAX.md)
 
 ## Les Pull Request
 
