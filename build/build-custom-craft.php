@@ -20,7 +20,11 @@ foreach ($recipes as $recipe) {
 	}
 	$craftname = "craft_" . explode("/", $outputname)[array_key_last(explode("/", $outputname))];
 	echo "found: $craftname";
-	$craft = new Craft(1);
+	$craft = new Craft(1, [
+		"size_base" => [
+			32, 32
+		]
+	]);
 	$base = 0;
 	$j = 0;
 	for ($i=1; $i <= 9 ; $i++) {
