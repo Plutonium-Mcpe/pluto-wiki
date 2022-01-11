@@ -59,3 +59,13 @@ Si la catégorie donné est inexistante, pose problème, la miniature ne sera pa
 > *Exemple: {{thumbnail#items/heal-stick}} mettra l'icônes de la page du Heal stick en haut à gauche de la page*
 
 Si la catégorie ou la page donné est inexistante ou pose problème, la miniature ne sera pas affiché et l'espace sera donc laisser vide.
+
+## Les images
+
+Les images vous permettent d'insérer tout type d'image au sein de votre page, passant des craft au screen pour montrer un patern de ferme / gameplay.
+
+### Pointer un craft  
+
+> Pour pointer un craft, la syntax suivante doit être respecté: ``{{craft#craft/craft_un_item}}`` ou la regex suivante: ``{{craft#([a-z\-\_])+\/([a-z\/\-\_])+}}``
+> *``craft_un_item`` est à remplacer par le nom du craft souhaité. Noté bien que les craft sont généré automatiquement et nommé avec un craft_ par défault.*
+> *Exemple: {{craft#craft/craft_heal_stick}} affichera une fois sur le site, le craft du heal stick*
