@@ -1,6 +1,6 @@
 [
     {
-        "block": "crafting_table",
+        "block": "crafting_table", 
         "input": {
             "A": {
                 "name": "items/opalite_ingot",
