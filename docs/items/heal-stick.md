@@ -3,7 +3,7 @@ id: heal-stick
 title: Heal stick
 category: items
 description: Les heals sticks, ca fait du bien
-icon: "https://user-images.githubusercontent.com/66992287/148551743-072b34ad-dee2-4328-9bda-1ea2ac4e97aa.png"
+icon: "textures/items/heal_stick.png"
 ---
 ___
 ## Description
@@ -21,4 +21,4 @@ Utiliser les sur le sol pour vous regénérer si le cooldown est finit
 
 > Craft débloqué au niveau 2 du métier de #job/guerrier
 
-![heal_stick_craft](https://user-images.githubusercontent.com/66992287/148552885-6b7067aa-8a46-4bd8-901d-37cc01ca6ea9.png)
+{{craft#craft/craft_heal_stick}}

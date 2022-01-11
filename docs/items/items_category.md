@@ -2,6 +2,6 @@
 id: items
 title: Items
 description: Tout les iteems du jeu
-icon: "https://user-images.githubusercontent.com/66992287/148553937-af45caeb-82d7-4fd1-8108-f3e7ba8f3287.png"
+icon: "textures/items/heal_stick.png"
 ---
 ___
