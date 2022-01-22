@@ -14,7 +14,7 @@ Utiliser les sur le sol pour vous regénérer si le cooldown est finit
 ### Caractéristiques:
 
 * ``Effet:`` Restaure 10 points de vie (<img src="https://user-images.githubusercontent.com/66992287/148552833-5dca13e9-6fd3-455f-9043-ad5968730f4d.png" style='display: inline-block;position: relative;top: 6px;'>)
-* ``Durabilité:`` Utilisation unique
+* ``Durabilité:`` 5 Utilisation
 * ``Cooldown:`` 10s entre chaque utilisation
     
 ### Craft: 
