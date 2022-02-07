@@ -277,7 +277,7 @@
         "input": {
             "A": {
                 "name": "blocks/obsidian",
-                "folder": "vanila"
+                "folder": "vanilla"
             },
             "B": {
                 "name": "blocks/cobblestone",
