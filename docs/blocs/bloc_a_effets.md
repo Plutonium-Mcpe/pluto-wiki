@@ -1,9 +1,9 @@
 ---
-id: Bloc_à_effet
+id: bloc-a-effet
 title: Bloc à Effets
 category: blocs
 description: Les Bloc à Effets peuvent autant être nuisible que bénéfique dépendant de si on l'utilise ou si on le subit
-icon: "textures/items/elevatooor.png"
+icon: "textures/blocs/glowing_obsidian.png"
 ---
 ## Description : 
 
@@ -16,6 +16,6 @@ Ce block peut autant être nuisible que bénéfique dépendant de si on l'utilis
 
 ## Craft :
 
-Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de ce block 
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de ce block 
 
-{{craft#craft/craft_block_a_effets}}
+{{craft#craft/craft_glowing_obsidian}}
