@@ -3,7 +3,7 @@ id: ascenseur
 title: Ascenseur
 category: blocs
 description: Les ascenseurs
-icon: "textures/items/elevatooor.png"
+icon: "textures/items/elevator.png"
 ---
 ___
 ## Description : 
@@ -22,4 +22,4 @@ Pour l'utilisation de ce block il faut obligatoirement qu'il soit relier avec un
 
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de ce block 
 
-{{craft#craft/craft_ascenseur}} 
+{{craft#craft/craft_elevator}} 
