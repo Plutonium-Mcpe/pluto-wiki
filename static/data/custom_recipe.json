@@ -245,5 +245,32 @@
             ["A", " ", "A"],
             [" ", " ", " "]
         ]
+    },{
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "blocks/opalite_block",
+                "folder": "plutonium"
+            },
+            "B": {
+                "name": "blocks/iron_block",
+                "folder": "vanilla"
+            },
+            "C": {
+                "name": "items/zephir",
+                "folder": "plutonium"
+            }
+        },
+        "output": [
+            {
+                "name": "blocks/elevatooor",
+                "folder": "plutonium"
+            }
+        ],
+        "shape": [
+            ["A", "B", "A"],
+            ["B", "C", "B"],
+            ["A", "B", "A"]
+        ]
     }
 ]
