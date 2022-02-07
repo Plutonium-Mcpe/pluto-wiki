@@ -263,7 +263,7 @@
         },
         "output": [
             {
-                "name": "blocks/elevatooor",
+                "name": "blocks/elevator",
                 "folder": "plutonium"
             }
         ],
@@ -271,6 +271,80 @@
             ["A", "B", "A"],
             ["B", "C", "B"],
             ["A", "B", "A"]
+        ]
+    }
+{
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "blocks/opalite_block",
+                "folder": "plutonium"
+            },
+            "B": {
+                "name": "items/stick",
+                "folder": "vanilla"
+            }
+        },
+        "output": [
+            {
+                "name": "items/opalite_hammer",
+                "folder": "plutonium"
+            }
+        ],
+        "shape": [
+            ["A", "A", "A"],
+            ["A", "B", "A"],
+            [" ", "B", " "]
+        ]
+    },{
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "items/plutonium_ingot",
+                "folder": "plutonium"
+            }
+        },
+        "output": [
+            {
+                "name": "items/plutonium_helmet",
+                "folder": "plutonium"
+            }
+        ],
+        "shape": [
+            ["A", "A", "A"],
+            ["A", " ", "A"],
+            [" ", " ", " "]
+        ]
+    },{
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "blocks/obsidian",
+                "folder": "vannila"
+            },
+            "B": {
+                "name": "blocks/cobblestone",
+                "folder": "vanilla"
+            },
+            "C": {
+                "name": "blocks/diamond_block",
+                "folder": "vannilla"
+            }, 
+            "D": {
+                "name": "items/opalite_ingot",
+                "folder": "plutonium"
+            }
+        },
+        "output": [
+            {
+                "name": "blocks/bloc_a_effets",
+                "folder": "plutonium"
+            }
+        ],
+        "shape": [
+            ["A", "B", "A"],
+            ["B", "C", "B"],
+            ["B", "D", "B"]
         ]
     }
 ]
