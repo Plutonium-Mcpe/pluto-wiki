@@ -11,7 +11,7 @@ Ce block peut autant être nuisible que bénéfique dépendant de si on l'utilis
 
 ## Caractéristique 
 
-- `` Les effes `` : Dès que vous passer sur ce block des effets comme nausée, faim, faiblesse ou encore poisson. 
+- `` Les effets `` : Dès que vous passer sur ce block des effets comme nausée, faim, faiblesse ou encore poisson. 
 - `` Durée des effets ``  : 10 secondes
 
 ## Craft :
