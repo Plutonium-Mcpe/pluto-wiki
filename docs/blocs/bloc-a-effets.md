@@ -1,5 +1,5 @@
 ---
-id: bloc-a-effet
+id: bloc-a-effets
 title: Bloc à Effets
 category: blocs
 description: Les Bloc à Effets peuvent autant être nuisible que bénéfique dépendant de si on l'utilise ou si on le subit
