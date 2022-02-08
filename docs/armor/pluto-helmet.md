@@ -18,6 +18,6 @@ De quoi pouvoir respirer dans l'eau, tel un poisson, n'est ce pas un rêve ?
 
 ### Craft
 
-> Aucun niveau spécial requis pour le craft
+Aucun niveau spécial requis pour le craft
 
 {{craft#craft/craft_plutonium_helmet}}
