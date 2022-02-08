@@ -61,10 +61,24 @@ jobs:
         with:
           commit_message: Extraction des ressource packs
           branch: ${{ github.ref }}
+  craft-validator:
+    name: Validation des crafts customs
+    runs-on: ${{ matrix.image }}
+    needs: extract-pack
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validation craft custom
+        run: |
+          php build/custom-craft-validator.php
   build-craft:
     name: Construction des crafts customs
     runs-on: ${{ matrix.image }}
-    needs: extract-pack
+    needs: [extract-pack, craft-validator]
     strategy:
       fail-fast: false
       matrix:
