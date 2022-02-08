@@ -1,0 +1,27 @@
+{
+    "input": {
+        "A": {
+            "name": "items/opalite_ingot",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "blocks/tnt_side",
+            "folder": "vanilla"
+        },
+        "C": {
+            "name": "blocks/leaves_oak_opaque",
+            "folder": "vanilla"
+        }
+    },
+    "output": [
+        {
+            "name": "items/dynamite",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        ["C", "A", "C"],
+        ["A", "B", "A"],
+        ["C", "A", "C"]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "input": {
+        "A": {
+            "name": "blocks/obsidian",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "blocks/cobblestone",
+            "folder": "vanilla"
+        },
+        "C": {
+            "name": "blocks/diamond_block",
+            "folder": "vanilla"
+        }, 
+        "D": {
+            "name": "items/opalite_ingot",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "blocks/glowing_obsidian",
+            "folder": "vanilla"
+        }
+    ],
+    "shape": [
+        ["A", "B", "A"],
+        ["B", "C", "B"],
+        ["B", "D", "B"]
+    ]
+}

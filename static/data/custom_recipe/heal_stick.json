@@ -1,0 +1,27 @@
+{
+    "input": {
+        "A": {
+            "name": "items/opalite_ingot",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "items/diamond",
+            "folder": "vanilla"
+        },
+        "C": {
+            "name": "items/stick",
+            "folder": "vanilla"
+        }
+    },
+    "output": [
+        {
+            "name": "items/heal_stick",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", "A", " "],
+        ["B", "C", "B"],
+        [" ", "C", " "]
+    ]
+}

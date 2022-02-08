@@ -19,4 +19,4 @@ Ce block peut autant être nuisible que bénéfique dépendant de si on l'utilis
 
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de ce block 
 
-{{craft#craft/craft_glowing_obsidian}}
+{{craft#craft/craft_block_effects}}

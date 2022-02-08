@@ -1,0 +1,31 @@
+{
+    "input": {
+        "A": {
+            "name": "blocks/lapis_block",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/elytra",
+            "folder": "vanilla"
+        },
+        "C": {
+            "name": "items/diamond",
+            "folder": "vanilla"
+        },
+        "D": {
+            "name": "items/string",
+            "folder": "vanilla"
+        }
+    },
+    "output": [
+        {
+            "name": "items/hand_glider",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", "A", " "],
+        ["A", "B", "A"],
+        ["C", "D", "C"]
+    ]
+}
