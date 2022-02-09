@@ -18,6 +18,6 @@ Jeter la simplement comme un oeuf, cacher vous et ca fera boom.
 
 ### Craft
 
-Aucun niveau spécial requis pour le craft
+> Aucun niveau spécial requis pour le craft
 
 {{craft#craft/craft_dynamite}}

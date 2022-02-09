@@ -20,6 +20,6 @@ Pour l'utilisation de ce block il faut obligatoirement qu'il soit relier avec un
  
 ## Craft :
 
-Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de ce block 
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de ce block 
 
 {{craft#craft/craft_elevator}} 
