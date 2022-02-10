@@ -11,16 +11,16 @@ Cet endroit regroupe toutes les sources des pages du wiki pour le serveur pluton
 
 # Sommaire
 
-* [Introduction](https://github.com/ShockedPlot7560/pluto-wiki#introduction)
-* [Contribuer](https://github.com/ShockedPlot7560/pluto-wiki#contribuer)
-  * [Règles de contribution](https://github.com/ShockedPlot7560/pluto-wiki#règles-de-contribution)
-    * [Nommage de fichiers](https://github.com/ShockedPlot7560/pluto-wiki#nommage-des-fichiers)
-    * [Utilisation du markdown](https://github.com/ShockedPlot7560/pluto-wiki#utilisation-du-markdown)
-  * [Les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki#les-pull-request)
-    * [Faire une Pull Request](https://github.com/ShockedPlot7560/pluto-wiki#faire-une-pull-request)
-    * [Recommandations pour les Pull Request](https://github.com/ShockedPlot7560/pluto-wiki#recommandations-pour-les-pulls-requests)
-  * [Les Issues](https://github.com/ShockedPlot7560/pluto-wiki#les-issues)
-* [Liens utiles de documentations](https://github.com/ShockedPlot7560/pluto-wiki#liens-utiles-de-documentation)
+* [Introduction](https://github.com/Plutonium-Mcpe/pluto-wiki#introduction)
+* [Contribuer](https://github.com/Plutonium-Mcpe/pluto-wiki#contribuer)
+  * [Règles de contribution](https://github.com/Plutonium-Mcpe/pluto-wiki#règles-de-contribution)
+    * [Nommage de fichiers](https://github.com/Plutonium-Mcpe/pluto-wiki#nommage-des-fichiers)
+    * [Utilisation du markdown](https://github.com/Plutonium-Mcpe/pluto-wiki#utilisation-du-markdown)
+  * [Les Pull Request](https://github.com/Plutonium-Mcpe/pluto-wiki#les-pull-request)
+    * [Faire une Pull Request](https://github.com/Plutonium-Mcpe/pluto-wiki#faire-une-pull-request)
+    * [Recommandations pour les Pull Request](https://github.com/Plutonium-Mcpe/pluto-wiki#recommandations-pour-les-pulls-requests)
+  * [Les Issues](https://github.com/Plutonium-Mcpe/pluto-wiki#les-issues)
+* [Liens utiles de documentations](https://github.com/Plutonium-Mcpe/pluto-wiki#liens-utiles-de-documentation)
 
 # Introduction
 
@@ -35,9 +35,9 @@ Le but principal de ce répertoire est de fournir à la communauté de s'exprime
 Pour toute participation incluant la modification ou l'ajout de pages dans le wiki, nous utilisons le système de Pull Request intégré à GitHub
 Pour toute demande de modification / report de faute d'orthographe etc ... Les issues sont à utiliser
 
-Si vous ne savez pas quoi faire mais que vous souhaiter quand même participer à la vie du wiki, commenter, exprimer vous, reliser, chercher des bugs dans les [Issues](https://github.com/ShockedPlot7560/pluto-wiki/issues/new)
+Si vous ne savez pas quoi faire mais que vous souhaiter quand même participer à la vie du wiki, commenter, exprimer vous, reliser, chercher des bugs dans les [Issues](https://github.com/Plutonium-Mcpe/pluto-wiki/issues/new)
 
-> Nous utilisons des syntax qui nous sont propres pour ajoutés des fonctionnalités au wiki, voir [SYNTAX.md](https://github.com/ShockedPlot7560/pluto-wiki/blob/stable/SYNTAX.md) pour plus d'information.
+> Nous utilisons des syntax qui nous sont propres pour ajoutés des fonctionnalités au wiki, voir [SYNTAX.md](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/SYNTAX.md) pour plus d'information.
 
 **Toute contribution inutile ou abusive seront automatiquement décliné par l'équipe sans devoir donner de raisons, si pour autant vous pensez que c'est une erreur, il vous faudra surement fournir plus de détails la prochaine fois.**
 
@@ -90,7 +90,7 @@ Les pages étant écrites en markdown pour être générer ensuite côté serveu
 De plus, il est important d'éviter au maximum l'html pur directement au sein du documents mais de privilégié la syntax markdown qui est très complète.
 > [Voir une documentation](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)  
 > Pour ajouter des fonctionnalitées en plus, nous utilisons des syntax en plus qui nous est propre:  
-> [Voir notre syntax](https://github.com/ShockedPlot7560/pluto-wiki/blob/stable/SYNTAX.md)
+> [Voir notre syntax](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/SYNTAX.md)
 
 ## Les Pull Request
 
@@ -104,10 +104,10 @@ Avant que vos modifications soit réviser par la team gérant le wiki, tout les 
 ### Faire une Pull Request
 
 La méthode basique pour effectuer une Pull Request sur github est la suivante:
-1. [Créer un fork du répertoire de base](https://github.com/ShockedPlot7560/pluto-wiki/fork) Ceci vous donnera votre propre copie du wiki permettant ainsi d'effectuer vos modifications
+1. [Créer un fork du répertoire de base](https://github.com/Plutonium-Mcpe/pluto-wiki/fork) Ceci vous donnera votre propre copie du wiki permettant ainsi d'effectuer vos modifications
 2. Créer une nouvelle branche pour vos changements
 3. Effectuer vos modifications sur la branche précédement créer
-4. Vous pouvez ensuite créer une nouvelle [Pull Request](https://github.com/ShockedPlot7560/pluto-wiki/pull/new) sur le répertoire de base 
+4. Vous pouvez ensuite créer une nouvelle [Pull Request](https://github.com/Plutonium-Mcpe/pluto-wiki/pull/new) sur le répertoire de base 
 
 ### Recommandations pour les pulls requests
 
