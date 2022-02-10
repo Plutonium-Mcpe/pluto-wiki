@@ -29,7 +29,10 @@ Quartz | 10xp
 
 ## XP nécessaire
 
-
+Niveau | XP maximum | Différence avec niveau précédent
+:----: | :--------: | :------------------------------:
+1 | 100 | 100
+2 | 500 | 400
 
 ## Récompenses
 
