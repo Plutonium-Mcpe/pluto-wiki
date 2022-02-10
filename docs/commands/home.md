@@ -1,5 +1,5 @@
 ---
-id: homee
+id: home
 title: Commandes pour les homes
 category: commands
 description: Pouvoir sauvegarder le lieu de sa base, de sa ferme ou même d'un pillage, c'est essentiel et possible grâce à ces commandes

@@ -1,6 +1,6 @@
 ---
 id: teleportation
-title: Commande de teleportation
+title: Commandes de teleportation
 category: commands
 description: Marcher, courir c'est bien, mais la téléportation c'est mieux ! Une commande et vous voilà auprès de votre ami !
 icon: "textures/items/ender_pearl.png"
