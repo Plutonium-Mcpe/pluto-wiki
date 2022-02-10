@@ -36,6 +36,7 @@ Parfois, il vous sera utile de vous rendre dans une certaine zone d'un serveur, 
 * ``/minage1 & /minage2 ...``: Sur le même principe que les commandes de lobby, vous permettra de vous téléporter au serveur minage portant le numéro spécifié.
 * ``/shop``: Vous téléportera au Shop du serveur courant
 * ``/boss``: Vous amènera au monde des boss et leurs arènes
+* ``/box``: Téléporte au monde où se situe les box
 
 ## Autres
 
