@@ -1,6 +1,6 @@
 ---
 id: keytransform
-title: /keytransform
+title: Commande keytransform
 category: commands
 description: Besoin de transformer vos clés de votes en clés plus rares ? Cette commande est faites pour vous
 icon: "textures/blocks/command_block.png"
