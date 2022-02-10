@@ -2,7 +2,7 @@
 id: faction
 title: Commandes pour les factions 
 category: commands
-description: Vous souhaitez devenir les plus riches du serveur ? Travaillez en equipe pour évoluer plus vite sur le serveur ? Creez ou rejoignez un Faction ! 
+description: Vous souhaitez devenir les plus riches & puissant du serveur ? Travaillez en equipe pour évoluer plus vite et plus d'amuser sur le serveur ? Creez ou rejoignez une faction ! 
 icon: "textures/blocks/command_block.png"
 ---
 ___
