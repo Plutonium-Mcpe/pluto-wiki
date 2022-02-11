@@ -19,6 +19,6 @@ Utiliser les sur le sol pour vous régénérer si le cooldown est fini.
     
 ### Craft: 
 
-> Craft débloqué au niveau 2 du métier de #job/guerrier
+> Craft débloqué au niveau 2 du métier de #help/guerrier
 
 {{craft#craft/craft_heal_stick}}
