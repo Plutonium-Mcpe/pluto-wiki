@@ -1,0 +1,23 @@
+{
+    "input": {
+        "A": {
+            "name": "blocks/plutonium_pepite",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "items/opalite_hoe",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "blocks/trapped_chest_front",
+            "folder": "vanilla"
+        }
+    ],
+    "shape": [
+        ["A", "B", "A"],
+        ["B", " ", "B"],
+        ["A", "B", "A"]
+    ]
+}
