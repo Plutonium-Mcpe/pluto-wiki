@@ -1,82 +1,91 @@
 <?php
 
+require(__DIR__) . "/build-base.php";
+
 $zipPath = dirname(__DIR__) . "/static/";
 @mkdir($zipPath);
 $archive = new ZipArchive();
 if ($archive->open($zipPath . "plutonium.zip") === true) {
-	echo "Archive plutonium.zip trouvé\n";
-	$exportPath = $zipPath . "plutonium";
-	if (is_dir($exportPath)) {
-		recremove($exportPath);
-		echo "Dossier: $exportPath supprimé\n";
-	}
-	$archive->extractTo($exportPath);
-	$archive->close();
-	if (is_dir($exportPath)) {
-		echo "Archive décompressé\n";
-		$dir = dir($exportPath);
-		while (($file = $dir->read()) !== false) {
-			if (!in_array($file, [".", ".."], true)) {
-				// printing Filesystem objects/functions with PHP
-				break;
-			}
-		}
-		$dir->close();
-		echo "Dossier trouvé: $file\n";
-		reccopy($exportPath . "/" . $file, $exportPath);
-		echo "Dossier copié\n";
-		recremove($exportPath . "/" . $file);
-	} else {
-		throw new RuntimeException("Erreur lors de l'extraction");
-	}
+    printWarning("'plutonium' archive found");
+    $exportPath = $zipPath . "plutonium";
+    if (is_dir($exportPath)) {
+        recremove($exportPath);
+        printStatement("folder: $exportPath delete");
+    }
+    $archive->extractTo($exportPath);
+    $archive->close();
+    if (is_dir($exportPath)) {
+        printSuccess("'plutonium' archive extract");
+        $dir = dir($exportPath);
+        while (($file = $dir->read()) !== false) {
+            if (!in_array($file, [".", ".."], true)) {
+                // printing Filesystem objects/functions with PHP
+                break;
+            }
+        }
+        $dir->close();
+        printStatement("folder: $file found");
+        reccopy($exportPath . "/" . $file, $exportPath);
+        printStatement("folder: $file copied");
+        recremove($exportPath . "/" . $file);
+        printStatement("folder: $file deleted");
+    } else {
+        printError("An error occured in pack extraction");
+        exit(1);
+    }
 } else {
-	throw new RuntimeException("Archive plutonium.zip non trouvé");
+    printError("'plutonium' archive not found");
+    exit(1);
 }
 $archive = new ZipArchive();
 if ($archive->open($zipPath . "vanilla.zip") === true) {
-	echo "Archive vanilla.zip trouvé\n";
-	$exportPath = $zipPath . "vanilla";
-	if (is_dir($exportPath)) {
-		recremove($exportPath);
-		echo "Dossier: $exportPath supprimé\n";
-	}
-	$archive->extractTo($exportPath);
-	$archive->close();
-	if (is_dir($exportPath)) {
-		echo "Archive décompressé\n";
-	} else {
-		throw new RuntimeException("Erreur lors de l'extraction");
-	}
+    printWarning("'vanilla' archive found");
+    $exportPath = $zipPath . "vanilla";
+    if (is_dir($exportPath)) {
+        recremove($exportPath);
+        printStatement("folder: $exportPath deleted");
+    }
+    $archive->extractTo($exportPath);
+    $archive->close();
+    if (is_dir($exportPath)) {
+        printSuccess("'vanilla' archive extract");
+    } else {
+        printError("An error occured in pack extraction");
+        exit(1);
+    }
 } else {
-	throw new RuntimeException("Archive vanilla.zip non trouvé");
+    printError("'vanilla' archive not found");
+    exit(1);
 }
 
-function reccopy($src, $dst) {
-	$dir = opendir($src);
-	@mkdir($dst);
-	while ( $file = readdir($dir) ) {
-		if (( $file != '.' ) && ( $file != '..' )) {
-			if ( is_dir($src . '/' . $file) ) {
-				reccopy($src . '/' . $file, $dst . '/' . $file);
-			} else {
-				copy($src . '/' . $file, $dst . '/' . $file);
-			}
-		}
-	}
-	closedir($dir);
+function reccopy($src, $dst)
+{
+    $dir = opendir($src);
+    @mkdir($dst);
+    while ($file = readdir($dir)) {
+        if (($file != '.') && ($file != '..')) {
+            if (is_dir($src . '/' . $file)) {
+                reccopy($src . '/' . $file, $dst . '/' . $file);
+            } else {
+                copy($src . '/' . $file, $dst . '/' . $file);
+            }
+        }
+    }
+    closedir($dir);
 }
 
-function recremove($src) {
-	$dir = opendir($src);
-	while ( $file = readdir($dir) ) {
-		if (( $file != '.' ) && ( $file != '..' )) {
-			if ( is_dir($src . '/' . $file) ) {
-				recremove($src . '/' . $file);
-			} else {
-				unlink($src . '/' . $file);
-			}
-		}
-	}
-	rmdir($src);
-	closedir($dir);
+function recremove($src)
+{
+    $dir = opendir($src);
+    while ($file = readdir($dir)) {
+        if (($file != '.') && ($file != '..')) {
+            if (is_dir($src . '/' . $file)) {
+                recremove($src . '/' . $file);
+            } else {
+                unlink($src . '/' . $file);
+            }
+        }
+    }
+    rmdir($src);
+    closedir($dir);
 }

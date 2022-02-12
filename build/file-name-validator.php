@@ -3,45 +3,53 @@
 require __DIR__ . "/build-base.php";
 
 if (count($argv) !== 2) {
-    die("Fournir un chemin valide");
+    printError("Invalid argument given");
+    exit(1);
 }
 
 foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_PATHNAME)) as $file) {
+    printWarning("find: $file");
     if (substr($file, -3) !== ".md") {
+        printStatement("skipped due to invalid extension");
         continue;
     }
     $contents = file_get_contents($file);
     if ($contents === false) {
-        throw new RuntimeException("Erreur dans la récupération du contenu du fichier $file");
+        printError("error in the recovery of the file content");
+        exit(1);
     }
-    print_r("Contenu du fichier $file récupéré\n");
+    printStatement("file content get");
     $name = getId($contents);
-    print_r("Id: $name trouvé et valide\n");
     $filename = getFilename($file);
     $isCategory = substr($filename, strlen($filename) - 9) === "_category";
     if ($filename !== $name) {
         if (!$isCategory) {
-            throw new RuntimeException("Le nom du fichier n'est pas valide, actuel: $filename, voulu: $name");
+            printError("file name is not valid, current: $filename, wanted: $name");
+            exit(1);
         } else {
             if ($filename !== $name . "_category") {
-                throw new RuntimeException("Le nom du fichier n'est pas valide, actuel: $filename, voulu: $name" . "_category");
+                printError("file name is not valid, current: $filename, wanted: $name" . "_category");
+                exit(1);
             }
         }
     }
     $folders = getFolder($file);
     if (count($folders) - 2 < 0) {
-        throw new RuntimeException("L'arborescence des dossiers est invalides");
+        printError("invalid file tree");
+        exit(1);
     }
     if ($isCategory) {
         $catNam = substr($filename, 0, strlen($filename) - 9);
         if ($folders[count($folders) - 2] !== $catNam) {
-            throw new RuntimeException("$catNam n'est pas dans le bon dossier");
+            printError("$catName is not in the right folder");
+            exit;
         }
     } else {
         $categ = getCategory($contents);
         if ($folders[count($folders) - 2] !== $categ) {
-            throw new RuntimeException("$filename n'est pas dans le bon dossier");
+            printError("$filename is not in the right folder");
+            exit(1);
         }
     }
-    print_r("Fichier $file valide\n");
+    printSuccess(getFilename($file) . " valid");
 }

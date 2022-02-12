@@ -8,16 +8,18 @@ require __DIR__ . "/build-base.php";
 
 $recipePath = dirname(__DIR__) . "/static/data/custom_recipe";
 if (!is_dir($recipePath)) {
-    throw new RuntimeException("$recipePath est introuvable");
+    printError("$recipePath est introuvable");
+    exit(1);
 }
 
 @mkdir(dirname(__DIR__) . "/static/craft");
 
 foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($recipePath, FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_PATHNAME)) as $file) {
-    print_r("find $file\n");
+    printWarning("find: $file");
     $data = json_decode(file_get_contents($file), true);
     if ($data === null) {
-        throw new RuntimeException("Invalid json provided in $file");
+        printError("invalid json provided in $file");
+        exit(1);
     }
     $craft = new Craft(1, [
         "size_base" => [
@@ -26,6 +28,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($recipePat
     ]);
     $base = 0;
     $j = 0;
+    printStatement("analyse shape");
     for ($i=1; $i <= 9 ; $i++) {
         if ($base > 2) {
             $base = 0;
@@ -37,13 +40,15 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($recipePat
             continue;
         }
         if (!isset($data["input"][$shape]["name"])) {
-            throw new RuntimeException("Invalide shape donné: $shape");
+            printError("invalid shape given: $file");
+            exit(1);
         }
         $itemName = $data["input"][$shape]["name"];
         $itemfolder = $data["input"][$data["shape"][$base][$j]]["folder"];
         $itempath = dirname(__DIR__) . "/static/$itemfolder/textures/$itemName.png";
         if (!is_file($itempath)) {
-            throw new RuntimeException("Texture: $itemName.png introuvable dans le dossier $itemfolder/textures");
+            printError("texture: $itemName.png not found in folder: $itemfolder/textures");
+            exit(1);
         }
         $item = new Item($itempath);
         $craft->addItem($item, $i);
@@ -53,13 +58,21 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($recipePat
     $outputfolder = $data["output"][0]["folder"];
     $outputpath = dirname(__DIR__) . "/static/$outputfolder/textures/$outputname.png";
     if (!is_file($outputpath)) {
-        throw new RuntimeException("Texture: $outputname.png introuvable dans le dossier $outputfolder/textures");
+        printError("texture: $outputname.png not found in folder: $outputfolder/textures");
+        exit(1);
     }
     $craft->addItem(new Item($outputpath), Craft::CRAFT_SLOT_RESULT);
 
+    printStatement("export to craft");
     $filename = getFilename($file);
     $resultname = substr($filename, 0, mb_strlen($filename) - 2);
     $craftname = "craft_" . $resultname;
-    $craft->export(dirname(__DIR__) . "/static/craft/" . $craftname . ".png");
-    print_r("add: $craftname\n");
+    $exportPath = dirname(__DIR__) . "/static/craft/" . $craftname . ".png";
+    $craft->export($exportPath);
+    if (is_file($exportPath)) {
+        printSuccess("$craftname created");
+    } else {
+        printError("an error occured in $craftname export");
+        exit(1);
+    }
 }

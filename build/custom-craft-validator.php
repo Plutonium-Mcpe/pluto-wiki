@@ -4,55 +4,71 @@ require __DIR__ . "/build-base.php";
 
 $recipePath = dirname(__DIR__) . "/static/data/custom_recipe";
 if (!is_dir($recipePath)) {
-    throw new RuntimeException("$recipePath est introuvable");
+    printError("$recipePath not found");
+    exit(1);
 }
 
 foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($recipePath, FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_PATHNAME)) as $file) {
-    print_r("find $file\n");
+    printWarning("find: $file");
     $data = json_decode(file_get_contents($file), true);
     if ($data === null) {
-        throw new RuntimeException("Invalid json provided in $file");
+        printError("invalid json provided");
+        exit(1);
     }
+    printStatement("Valid json format");
     if (!isset($data["input"])) {
-        throw new RuntimeException("input element is missing in $file");
+        printError("'input' element is missing");
+        exit(1);
     }
     if (!isset($data["output"])) {
-        throw new RuntimeException("output element is missing in $file");
+        printError("'output' element is missing");
+        exit(1);
     }
     if (!isset($data["shape"])) {
-        throw new RuntimeException("shape element is missing in $file");
+        printError("'shape' element is missing");
+        exit(1);
     }
     for ($i=0; $i < 3; $i++) {
         for ($j = 0;$j < 3;$j++) {
             if (!isset($data["shape"][$i][$j])) {
-                throw new RuntimeException("Shape $i | $j is missing in $file");
+                printError("'shape' $i | $j is missing");
+                exit(1);
             }
             $inputType = $data["shape"][$i][$j];
             if (($inputType !== " " && $inputType !== "") && !isset($data["input"][$inputType])) {
-                throw new RuntimeException("Input name $inputType is missing from input element in $file");
+                printError("'input' name $inputType is missing from input element");
+                exit(1);
             }
         }
     }
+    printStatement("valid shape data");
     foreach ($data["input"] as $inputType => $dat) {
         if (!isset($dat["folder"])) {
-            throw new RuntimeException("folder element is missing in input in $file");
+            printError("'folder' element is missing in input");
+            exit(1);
         }
         if (!isset($dat["name"])) {
-            throw new RuntimeException("name element is missing in input in $file");
+            printError("'name' element is missing in input");
+            exit(1);
         }
         $texturePath = dirname(__DIR__) . "/static/" . $dat["folder"] . "/textures/" . $dat["name"] . ".png";
         if (!is_file($texturePath)) {
-            throw new RuntimeException("Unknow texture name : $texturePath in $file");
+            printError("unknow texture, path not found for: $texturePath");
+            exit(1);
         }
     }
     if (!isset($data["output"][0]["folder"])) {
-        throw new RuntimeException("folder element is missing in output in $file");
+        printError("'folder' element is missing in output");
+        exit(1);
     }
     if (!isset($data["output"][0]["name"])) {
-        throw new RuntimeException("name element is missing in output in $file");
+        printError("'name' element is missing in output");
+        exit(1);
     }
     $texturePath = dirname(__DIR__) . "/static/" . $data["output"][0]["folder"] . "/textures/" . $data["output"][0]["name"] . ".png";
     if (!is_file($texturePath)) {
-        throw new RuntimeException("Unknow texture name : $texturePath in $file");
+        printError("unknow texture, path not found for: $texturePath");
+        exit(1);
     }
+    printSuccess(getFilename($file) . " valid");
 }
