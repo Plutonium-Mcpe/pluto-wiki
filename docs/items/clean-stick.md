@@ -3,7 +3,7 @@ id: clean-stick
 title: Clean stick
 category: items
 description: Cette baguette vous permettra de vous débarasser de vos items indésirables
-icon: ""
+icon: "xx"
 ---
 ___
 ## Description
