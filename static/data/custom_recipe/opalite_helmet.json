@@ -1,0 +1,19 @@
+{
+    "input": {
+        "A": {
+            "name": "blocks/opalite_block",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "items/opalite_helmet",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        ["A", "A", "A"],
+        ["A", " ", "A"],
+        [" ", " ", " "]
+    ]
+}
