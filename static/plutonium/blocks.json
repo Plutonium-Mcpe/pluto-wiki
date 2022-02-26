@@ -1,0 +1,187 @@
+{
+  "format_version": [1, 1, 0],
+  "plutonium:opalite_block": {
+    "textures": "opalite_block",
+    "sound": "stone"
+  },
+  "plutonium:plutonium_block": {
+    "textures": "plutonium_block",
+    "sound": "stone"
+  },
+  "plutonium:zephir_block": {
+    "textures": "zephir_block",
+    "sound": "stone"
+  },
+  "plutonium:opalite_ore": {
+    "textures": "opalite_ore",
+    "sound": "stone"
+  },
+  "plutonium:random_ore": {
+    "textures": "random_ore",
+    "sound": "stone"
+  },
+  "plutonium:zephir_ore": {
+    "textures": "zephir_ore",
+    "sound": "stone"
+  },
+  "plutonium:lucky_block": {
+    "textures": "lucky_block",
+    "sound": "grass"
+  },
+  "plutonium:elevator": {
+    "textures": "elevator",
+    "sound": "stone"
+  },
+  "plutonium:upgraded_obsidian": {
+    "textures": "upgraded_obsidian",
+    "sound": "stone"
+  },
+  "plutonium:block_effect": {
+    "textures": "block_effect",
+    "sound": "stone"
+  },
+  "plutonium:wooden_drawer": {
+    "textures": "wooden_drawer",
+    "sound": "wood"
+  },
+  "plutonium:stone_drawer": {
+    "textures": "stone_drawer",
+    "sound": "wood"
+  },
+  "plutonium:iron_drawer": {
+    "textures": "iron_drawer",
+    "sound": "wood"
+  },
+  "plutonium:diamond_drawer": {
+    "textures": "diamond_drawer",
+    "sound": "wood"
+  },
+  "plutonium:opalite_drawer": {
+    "textures": "opalite_drawer",
+    "sound": "wood"
+  },
+  "plutonium:plutonium_drawer": {
+    "textures": "plutonium_drawer",
+    "sound": "wood"
+  },
+  "plutonium:cave_block": {
+    "textures": "cave_block",
+    "sound": "glass"
+  },
+  "plutonium:tnt_lvl2" : {
+    "sound" : "grass",
+    "textures" : {
+      "down" : "tnt_lvl2_bottom",
+      "side" : "tnt_lvl2_side",
+      "up" : "tnt_lvl2_top"
+    }
+  },
+  "plutonium:tnt_lvl3" : {
+    "sound" : "grass",
+    "textures" : {
+      "down" : "tnt_lvl3_bottom",
+      "side" : "tnt_lvl3_side",
+      "up" : "tnt_lvl3_top"
+    }
+  },
+  "plutonium:tnt_lvl4" : {
+    "sound" : "grass",
+    "textures" : {
+      "down" : "tnt_lvl4_bottom",
+      "side" : "tnt_lvl4_side",
+      "up" : "tnt_lvl4_top"
+    }
+  },
+  "plutonium:tnt_lvl5" : {
+    "sound" : "grass",
+    "textures" : {
+      "down" : "tnt_lvl5_bottom",
+      "side" : "tnt_lvl5_side",
+      "up" : "tnt_lvl5_top"
+    }
+  },
+  "plutonium:tnt_lvl6" : {
+    "sound" : "grass",
+    "textures" : {
+      "down" : "tnt_lvl6_bottom",
+      "side" : "tnt_lvl6_side",
+      "up" : "tnt_lvl6_top"
+    }
+  },
+  "plutonium:tnt_lvl7" : {
+    "sound" : "grass",
+    "textures" : {
+      "down" : "tnt_lvl7_bottom",
+      "side" : "tnt_lvl7_side",
+      "up" : "tnt_lvl7_top"
+    }
+  },
+  "plutonium:tnt_lvl8" : {
+    "sound" : "grass",
+    "textures" : {
+      "down" : "tnt_lvl8_bottom",
+      "side" : "tnt_lvl8_side",
+      "up" : "tnt_lvl8_top"
+    }
+  },
+  "plutonium:tnt_lvl9" : {
+    "sound" : "grass",
+    "textures" : {
+      "down" : "tnt_lvl9_bottom",
+      "side" : "tnt_lvl9_side",
+      "up" : "tnt_lvl9_top"
+    }
+  },
+
+  "plutonium:opalite_plant" : {
+    "sound" : "grass",
+    "textures" : "opalite_plant"
+  },
+
+  "plutonium:plutonium_furnace" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "plutonium_furnace_top",
+      "east" : "plutonium_furnace_side",
+      "north" : "plutonium_furnace_side",
+      "south" : "plutonium_furnace_front_off",
+      "up" : "plutonium_furnace_top",
+      "west" : "plutonium_furnace_side"
+    }
+  },
+  "plutonium:lit_plutonium_furnace" : {
+    "sound": "stone",
+    "textures" : {
+      "down" : "plutonium_furnace_top",
+      "east" : "plutonium_furnace_side",
+      "north" : "plutonium_furnace_side",
+      "south" : "plutonium_furnace_front_off",
+      "up" : "plutonium_furnace_top",
+      "west" : "plutonium_furnace_side"
+    }
+  },
+
+  "plutonium:opalite_furnace" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "opalite_furnace_top",
+      "east" : "opalite_furnace_side",
+      "north" : "opalite_furnace_side",
+      "south" : "opalite_furnace_front_off",
+      "up" : "opalite_furnace_top",
+      "west" : "opalite_furnace_side"
+    }
+  },
+  "plutonium:lit_opalite_furnace" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "opalite_furnace_top",
+      "east" : "opalite_furnace_side",
+      "north" : "opalite_furnace_side",
+      "south" : "opalite_furnace_front_off",
+      "up" : "opalite_furnace_top",
+      "west" : "opalite_furnace_side"
+    }
+  }
+
+}
