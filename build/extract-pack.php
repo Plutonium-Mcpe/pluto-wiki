@@ -60,7 +60,7 @@ if ($archive->open($zipPath . "vanilla.zip") === true) {
 
 function reccopy($src, $dst)
 {
-    if(!is_dir($src)){
+    if (!is_dir($src)) {
         return;
     }
     $dir = opendir($src);
@@ -79,6 +79,9 @@ function reccopy($src, $dst)
 
 function recremove($src)
 {
+    if (!is_dir($src)) {
+        return;
+    }
     $dir = opendir($src);
     while ($file = readdir($dir)) {
         if (($file != '.') && ($file != '..')) {
