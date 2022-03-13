@@ -16,6 +16,10 @@ if (!is_dir($recipePath)) {
 
 foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($recipePath, FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_PATHNAME)) as $file) {
     printWarning("find: $file");
+    if (substr($file, strlen($file) - 5, 5) !== ".json") {
+        printStatement("skipped because extension not recognized");
+        continue;
+    }
     $data = json_decode(file_get_contents($file), true);
     if ($data === null) {
         printError("invalid json provided in $file");
