@@ -1,0 +1,27 @@
+{
+    "input": {
+        "A": {
+            "name": "items/stick",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/zephir",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "blocks/diamond_block",
+            "folder": "vanilla"
+        }
+    },
+    "output": [
+        {
+            "name": "items/speed_stick",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", "C", "B"],
+        ["C", "A", "C"],
+        ["A", "C", " "]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "input": {
+        "A": {
+            "name": "items/stick",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/zephir",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "items/beef_cooked",
+            "folder": "vanilla"
+        }
+    },
+    "output": [
+        {
+            "name": "items/feed_stick",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", "B", " "],
+        ["C", "A", "C"],
+        [" ", "A", " "]
+    ]
+}

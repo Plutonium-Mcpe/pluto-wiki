@@ -1,0 +1,31 @@
+{
+    "input": {
+        "A": {
+            "name": "items/stick",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/zephir",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "items/opalite_ingot",
+            "folder": "plutonium"
+        },
+        "D": {
+            "name": "items/seed_planter",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "items/replanter",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", "B", "C"],
+        [" ", "D", "B"],
+        ["A", " ", " "]
+    ]
+}
