@@ -19,8 +19,8 @@
     },
     "output": [
         {
-            "name": "blocks/glowing_obsidian",
-            "folder": "vanilla"
+            "name": "blocks/block_effect",
+            "folder": "plutonium"
         }
     ],
     "shape": [

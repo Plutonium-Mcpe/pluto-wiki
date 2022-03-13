@@ -1,7 +1,7 @@
 {
     "input": {
         "A": {
-            "name": "items/plutonium_pepite",
+            "name": "items/plutonium_fragment",
             "folder": "plutonium"
         },
         "B": {

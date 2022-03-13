@@ -1,16 +1,20 @@
 {
     "input": {
         "A": {
-            "name": "blocks/upgraded_obsidian",
+            "name": "items/opalite_ingot",
             "folder": "plutonium"
         },
         "B": {
-            "name": "items/plutonium_poussier",
+            "name": "items/zephir",
             "folder": "plutonium"
         },
         "C": {
-            "name": "items/stick",
-            "folder": "vanilla"
+            "name": "blocks/upgraded_obsidian",
+            "folder": "plutonium"
+        },
+        "D": {
+            "name": "items/plutonium_dust",
+            "folder": "plutonium"
         }
     },
     "output": [
@@ -20,8 +24,8 @@
         }
     ],
     "shape": [
-        ["A", "B", "A"],
-        [" ", "C", " "],
-        [" ", "C", " "]
+        [" ", "C", "D"],
+        ["A", "B", "C"],
+        ["A", "A", " "]
     ]
 }
