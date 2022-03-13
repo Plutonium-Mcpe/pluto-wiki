@@ -1,7 +1,7 @@
 {
     "input": {
         "A": {
-            "name": "blocks/opalite_ingot",
+            "name": "items/opalite_ingot",
             "folder": "plutonium"
         },
         "B": {
