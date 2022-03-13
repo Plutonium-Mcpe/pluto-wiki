@@ -19,4 +19,4 @@ Le FarmingChest est un outil qui va beaucoup facilité la vie des farmers sur le
 
 > A faire
 
-{{craft#craft/craft_farmingchest}} 
+{{craft#craft/craft_farming_chest}} 
