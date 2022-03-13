@@ -34,6 +34,9 @@ jobs:
         php: [8.0.11]
     steps:
       - uses: actions/checkout@v2
+      - name: Pull repository
+        run: |
+          git pull && git rebase
       - name: Validation craft custom
         run: |
           php build/custom-craft-validator.php
@@ -48,6 +51,9 @@ jobs:
         php: [8.0.11]
     steps:
       - uses: actions/checkout@v2
+      - name: Pull repository
+        run: |
+          git pull && git rebase
       - name: Ajout librairies nécessaire
         run: |
           cd build && composer require shockedplot7560/craft-generator && cd ../
