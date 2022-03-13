@@ -60,11 +60,6 @@ jobs:
       - name: Construction craft custom
         run: |
           php build/build-custom-craft.php
-      - name: Commit change
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Ajout des craft customs
-          branch: ${{ github.ref }}
       - name: Create Pull Request & Commit change
         uses: peter-evans/create-pull-request@v3
         with:
