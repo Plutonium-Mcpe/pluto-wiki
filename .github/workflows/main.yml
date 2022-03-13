@@ -44,3 +44,16 @@ jobs:
       - uses: actions/checkout@v2
       - name: Unicité des ids
         run: php build/unicity-build-folder.php docs
+  contentcheck:
+    name: Validation du contenu
+    needs: ["namecheck", "unicitycheck"]
+    runs-on: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Contenu des fichiers
+        run: php build/file-content-validator.php docs
