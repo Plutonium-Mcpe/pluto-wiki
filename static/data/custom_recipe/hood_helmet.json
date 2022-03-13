@@ -1,0 +1,27 @@
+{
+    "input": {
+        "A": {
+            "name": "items/zephir",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "items/opalite_helmet",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "blocks/obsidian",
+            "folder": "vanilla"
+        }
+    },
+    "output": [
+        {
+            "name": "items/hood_helmet",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        ["A", "C", "A"],
+        ["C", "B", "C"],
+        [" ", " ", " "]
+    ]
+}

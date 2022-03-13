@@ -1,0 +1,23 @@
+{
+    "input": {
+        "A": {
+            "name": "items/stick",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/plutonium_ingot",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "items/plutonium_pickaxe",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        ["B", "B", "B"],
+        [" ", "A", " "],
+        [" ", "A", " "]
+    ]
+}

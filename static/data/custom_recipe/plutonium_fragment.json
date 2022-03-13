@@ -1,0 +1,19 @@
+{
+    "input": {
+        "A": {
+            "name": "items/plutonium_dust",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "items/plutonium_fragment",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        ["A", "A", "A"],
+        ["A", "A", "A"],
+        ["A", "A", "A"]
+    ]
+}
