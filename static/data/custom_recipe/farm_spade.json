@@ -1,0 +1,35 @@
+{
+    "input": {
+        "A": {
+            "name": "items/stick",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/opalite_hoe",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "blocks/pumpkin_side",
+            "folder": "vanilla"
+        },
+        "D": {
+            "name": "blocks/melon_side",
+            "folder": "vanilla"
+        },
+        "E": {
+            "name": "blocks/zephir_block",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "items/farm_spade",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", "C", "E"],
+        [" ", "B", "D"],
+        ["A", " ", " "]
+    ]
+}
