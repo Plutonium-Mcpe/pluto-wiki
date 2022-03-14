@@ -7,8 +7,11 @@ if (count($argv) !== 2) {
     exit(1);
 }
 
+$hasError = false;
+
 foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_PATHNAME)) as $file) {
     printWarning("find: $file");
+    $subError = false;
     if (substr($file, -3) !== ".md") {
         printStatement("skipped due to invalid extension");
         continue;
@@ -16,7 +19,8 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     $contents = file_get_contents($file);
     if ($contents === false) {
         printError("error in the recovery of the file content");
-        exit(1);
+        $subError = true;
+        continue;
     }
     printStatement("file content get");
     $name = getId($contents);
@@ -25,31 +29,44 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     if ($filename !== $name) {
         if (!$isCategory) {
             printError("file name is not valid, current: $filename, wanted: $name");
-            exit(1);
+            $subError = true;
+            continue;
         } else {
             if ($filename !== $name . "_category") {
                 printError("file name is not valid, current: $filename, wanted: $name" . "_category");
-                exit(1);
+                $subError = true;
+                continue;
             }
         }
     }
     $folders = getFolder($file);
     if (count($folders) - 2 < 0) {
         printError("invalid file tree");
-        exit(1);
+        $subError = true;
+        continue;
     }
     if ($isCategory) {
         $catNam = substr($filename, 0, strlen($filename) - 9);
         if ($folders[count($folders) - 2] !== $catNam) {
             printError("$catName is not in the right folder");
-            exit;
+            $subError = true;
+            continue;
         }
     } else {
         $categ = getCategory($contents);
         if ($folders[count($folders) - 2] !== $categ) {
             printError("$filename is not in the right folder");
-            exit(1);
+            $subError = true;
+            continue;
         }
     }
-    printSuccess(getFilename($file) . " valid");
+    if (!$subError) {
+        printSuccess(getFilename($file) . " valid");
+    } else {
+        $hasError = true;
+    }
+}
+
+if ($hasError) {
+    exit(1);
 }

@@ -9,8 +9,11 @@ if (count($argv) !== 2) {
     exit(1);
 }
 
+$hasError = false;
+
 foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_PATHNAME)) as $file) {
     printWarning("find: $file");
+    $subError = false;
     if (substr($file, -3) !== ".md") {
         printStatement("skipped due to invalid extension");
         continue;
@@ -18,7 +21,8 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     $contents = file_get_contents($file);
     if ($contents === false) {
         printError("error in the recovery of the file content");
-        exit(1);
+        $subError = true;
+        continue;
     }
     printStatement("file content get");
     $filename = getFilename($file);
@@ -29,18 +33,24 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
         $categName = substr($filename, strlen($filename) - 9);
         if (isset($cache[$categName][$name . "_category"])) {
             printError("category index for: $categName already exist");
-            exit(1);
+            $subError = true;
+            continue;
         }
     } else {
         printStatement("article format detected");
         $categ = getCategory($contents);
         if (isset($cache[$categ][$name])) {
             printError("$name for category: $categ already exist");
-            exit(1);
+            $subError = true;
+            continue;
         }
         $cache[$categ][$name] = $file;
     }
-    printSuccess(getFilename($file) . " valid");
+    if (!$subError) {
+        printSuccess(getFilename($file) . " valid");
+    } else {
+        $hasError = true;
+    }
 }
 
 foreach ($cache as $categ => $art) {
@@ -55,6 +65,11 @@ foreach ($cache as $categ => $art) {
     }
     if (!$asIndex) {
         printError("category: $categ has no index");
-        exit(1);
+        $hasError = true;
+        continue;
     }
+}
+
+if($hasError){
+    exit(1);
 }

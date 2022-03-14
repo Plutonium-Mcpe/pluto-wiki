@@ -2,6 +2,7 @@
 
 require(__DIR__) . "/build-base.php";
 
+$hasError = false;
 $zipPath = dirname(__DIR__) . "/static/";
 @mkdir($zipPath);
 $archive = new ZipArchive();
@@ -31,11 +32,11 @@ if ($archive->open($zipPath . "plutonium.zip") === true) {
         printStatement("folder: $file deleted");
     } else {
         printError("An error occured in pack extraction");
-        exit(1);
+        $hasError = true;
     }
 } else {
     printError("'plutonium' archive not found");
-    exit(1);
+    $hasError = true;
 }
 $archive = new ZipArchive();
 if ($archive->open($zipPath . "vanilla.zip") === true) {
@@ -51,10 +52,13 @@ if ($archive->open($zipPath . "vanilla.zip") === true) {
         printSuccess("'vanilla' archive extract");
     } else {
         printError("An error occured in pack extraction");
-        exit(1);
+        $hasError = true;
     }
 } else {
     printError("'vanilla' archive not found");
+    $hasError = true;
+}
+if($hasError){
     exit(1);
 }
 

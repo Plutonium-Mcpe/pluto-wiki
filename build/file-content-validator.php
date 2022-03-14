@@ -7,8 +7,10 @@ if (count($argv) !== 2) {
     exit(1);
 }
 
+$hasError = false;
 foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_PATHNAME)) as $file) {
     printWarning("find: $file");
+    $subError = false;
     if (substr($file, -3) !== ".md") {
         printStatement("skipped due to invalid extension");
         continue;
@@ -16,7 +18,8 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     $contents = file_get_contents($file);
     if ($contents === false) {
         printError("error in the recovery of the file content");
-        exit(1);
+        $subError = true;
+        continue;
     }
     printStatement("file content get");
     $name = getId($contents);
@@ -45,7 +48,8 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
                         $foundMatches++;
                     } else {
                         printError("cant found the craft file: $staticPath");
-                        exit(1);
+                        $subError = true;
+                        continue;
                     }
                 }
             } else {
@@ -64,7 +68,8 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
                         $foundMatches++;
                     } else {
                         printError("cant found the image file: $path");
-                        exit(1);
+                        $subError = true;
+                        continue;
                     }
                 }
             } else {
@@ -72,12 +77,20 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
             }
             if ($foundMatches !== count($allMatches)) {
                 printError("format not recognized, not supported or invalid detect, found " . count($allMatches) . " patern and get $foundMatches valid pattern");
-                exit(1);
+                $subError = true;
+                continue;
             }
         }
-        printSuccess(getFilename($file) . " valid");
+        if (!$subError) {
+            printSuccess(getFilename($file) . " valid");
+        } else {
+            $hasError = true;
+        }
     } else {
         printStatement("skipped, a format corresponding to a category was found");
         continue;
     }
+}
+if ($hasError) {
+    exit(1);
 }
