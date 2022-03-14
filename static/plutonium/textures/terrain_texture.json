@@ -10,200 +10,261 @@
 		"fire_1": {
 			"textures": "textures/blocks/fire_1"
 		},
-
-		"opalite_block": {
-			"textures": "textures/blocks/opalite_block"
-		},
-		"plutonium_block": {
-			"textures": "textures/blocks/plutonium_block"
-		},
-		"zephir_block": {
-			"textures": "textures/blocks/zephir_block"
-		},
-		"opalite_ore": {
-			"textures": "textures/blocks/opalite_ore"
-		},
-		"random_ore": {
-			"textures": "textures/blocks/random_ore"
-		},
-		"zephir_ore": {
-			"textures": "textures/blocks/zephir_ore"
-		},
-		"lucky_block": {
-			"textures": "textures/blocks/lucky_block"
-		},
-		"elevator": {
-			"textures": "textures/blocks/elevator"
-		},
-		"block_effect": {
-			"textures": "textures/blocks/block_effect"
-		},
 		"wooden_drawer": {
-			"textures": "textures/blocks/drawers/wooden_drawer"
+			"textures": "textures/blocks/drawers/wood/wooden_drawer"
+		},
+		"wooden_drawer_front": {
+			"textures": "textures/blocks/drawers/wood/wooden_drawer_front"
 		},
 		"stone_drawer": {
-			"textures": "textures/blocks/drawers/stone_drawer"
+			"textures": "textures/blocks/drawers/stone/stone_drawer"
+		},
+		"stone_drawer_front": {
+			"textures": "textures/blocks/drawers/stone/stone_drawer_front"
 		},
 		"iron_drawer": {
-			"textures": "textures/blocks/drawers/iron_drawer"
+			"textures": "textures/blocks/drawers/iron/iron_drawer"
+		},
+		"iron_drawer_front": {
+			"textures": "textures/blocks/drawers/iron/iron_drawer_front"
 		},
 		"diamond_drawer": {
-			"textures": "textures/blocks/drawers/diamond_drawer"
+			"textures": "textures/blocks/drawers/diamond/diamond_drawer"
+		},
+		"diamond_drawer_front": {
+			"textures": "textures/blocks/drawers/diamond/diamond_drawer_front"
 		},
 		"opalite_drawer": {
-			"textures": "textures/blocks/drawers/opalite_drawer"
+			"textures": "textures/blocks/drawers/opalite/opalite_drawer"
+		},
+		"opalite_drawer_front": {
+			"textures": "textures/blocks/drawers/opalite/opalite_drawer_front"
 		},
 		"plutonium_drawer": {
-			"textures": "textures/blocks/drawers/plutonium_drawer"
+			"textures": "textures/blocks/drawers/plutonium/plutonium_drawer"
 		},
-		"cave_block": {
-			"textures": "textures/blocks/cave_block"
+		"plutonium_drawer_front": {
+			"textures": "textures/blocks/drawers/plutonium/plutonium_drawer_front"
 		},
-		"upgraded_obsidian": {
-			"textures": "textures/blocks/upgraded_obsidian"
+		"opalite_furnace": {
+			"textures": [
+				"textures/blocks/furnaces/opalite/furnace_front_off",
+				"textures/blocks/furnaces/opalite/furnace_front_on",
+				"textures/blocks/furnaces/opalite/furnace_side",
+				"textures/blocks/furnaces/opalite/furnace_top"
+			]
 		},
-
+		"opalite_furnace_front": {
+			"textures": [
+				"textures/blocks/furnaces/opalite/opalite_furnace_front_off",
+				"textures/blocks/furnaces/opalite/opalite_furnace_front_on"
+			]
+		},
+		"opalite_furnace_front_off": {
+			"textures": "textures/blocks/furnaces/opalite/opalite_furnace_front_off"
+		},
+		"opalite_furnace_front_on": {
+			"textures": "textures/blocks/furnaces/opalite/opalite_furnace_front_on"
+		},
+		"opalite_furnace_side": {
+			"textures": [
+				"textures/blocks/furnaces/opalite/opalite_furnace_side",
+				"textures/blocks/furnaces/opalite/opalite_furnace_side"
+			]
+		},
+		"opalite_furnace_top": {
+			"textures": [
+				"textures/blocks/furnaces/opalite/opalite_furnace_top",
+				"textures/blocks/furnaces/opalite/opalite_furnace_top"
+			]
+		},
+		"plutonium_furnace": {
+			"textures": [
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_front_off",
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_front_on",
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_side",
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_top"
+			]
+		},
+		"plutonium_furnace_front": {
+			"textures": [
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_front_off",
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_front_on"
+			]
+		},
+		"plutonium_furnace_front_off": {
+			"textures": "textures/blocks/furnaces/plutonium/plutonium_furnace_front_off"
+		},
+		"plutonium_furnace_front_on": {
+			"textures": "textures/blocks/furnaces/plutonium/plutonium_furnace_front_on"
+		},
+		"plutonium_furnace_side": {
+			"textures": [
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_side",
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_side"
+			]
+		},
+		"plutonium_furnace_top": {
+			"textures": [
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_top",
+				"textures/blocks/furnaces/plutonium/plutonium_furnace_top"
+			]
+		},
+		"opalite_ore": {
+			"textures": "textures/blocks/ores/opalite_ore"
+		},
+		"random_ore": {
+			"textures": "textures/blocks/ores/random_ore"
+		},
+		"zephir_ore": {
+			"textures": "textures/blocks/ores/zephir_ore"
+		},
+		"opalite_plant_0": {
+			"textures": "textures/blocks/plants/opalite/opalite_plant_0"
+		},
+		"opalite_plant_1": {
+			"textures": "textures/blocks/plants/opalite/opalite_plant_0"
+		},
+		"opalite_plant_2": {
+			"textures": "textures/blocks/plants/opalite/opalite_plant_1"
+		},
+		"opalite_plant_3": {
+			"textures": "textures/blocks/plants/opalite/opalite_plant_1"
+		},
+		"opalite_plant_4": {
+			"textures": "textures/blocks/plants/opalite/opalite_plant_1"
+		},
+		"opalite_plant_5": {
+			"textures": "textures/blocks/plants/opalite/opalite_plant_2"
+		},
+		"opalite_plant_6": {
+			"textures": "textures/blocks/plants/opalite/opalite_plant_2"
+		},
+		"opalite_plant_7": {
+			"textures": "textures/blocks/plants/opalite/opalite_plant_3"
+		},
+		"plutonium_plant_0": {
+			"textures": "textures/blocks/plants/plutonium/plutonium_plant_0"
+		},
+		"plutonium_plant_1": {
+			"textures": "textures/blocks/plants/plutonium/plutonium_plant_0"
+		},
+		"plutonium_plant_2": {
+			"textures": "textures/blocks/plants/plutonium/plutonium_plant_1"
+		},
+		"plutonium_plant_3": {
+			"textures": "textures/blocks/plants/plutonium/plutonium_plant_1"
+		},
+		"plutonium_plant_4": {
+			"textures": "textures/blocks/plants/plutonium/plutonium_plant_1"
+		},
+		"plutonium_plant_5": {
+			"textures": "textures/blocks/plants/plutonium/plutonium_plant_2"
+		},
+		"plutonium_plant_6": {
+			"textures": "textures/blocks/plants/plutonium/plutonium_plant_2"
+		},
+		"plutonium_plant_7": {
+			"textures": "textures/blocks/plants/plutonium/plutonium_plant_3"
+		},
 		"tnt_lvl2_side": {
-			"textures": "textures/blocks/tnt/tnt_lvl2_side"
+			"textures": "textures/blocks/tnts/lvl2/tnt_lvl2_side"
 		},
 		"tnt_lvl2_bottom": {
-			"textures": "textures/blocks/tnt/tnt_lvl2_bottom"
+			"textures": "textures/blocks/tnts/lvl2/tnt_lvl2_bottom"
 		},
 		"tnt_lvl2_top": {
-			"textures": "textures/blocks/tnt/tnt_lvl2_top"
+			"textures": "textures/blocks/tnts/lvl2/tnt_lvl2_top"
 		},
 		"tnt_lvl3_side": {
-			"textures": "textures/blocks/tnt/tnt_lvl3_side"
+			"textures": "textures/blocks/tnts/lvl3/tnt_lvl3_side"
 		},
 		"tnt_lvl3_bottom": {
-			"textures": "textures/blocks/tnt/tnt_lvl3_bottom"
+			"textures": "textures/blocks/tnts/lvl3/tnt_lvl3_bottom"
 		},
 		"tnt_lvl3_top": {
-			"textures": "textures/blocks/tnt/tnt_lvl3_top"
+			"textures": "textures/blocks/tnts/lvl3/tnt_lvl3_top"
 		},
 		"tnt_lvl4_side": {
-			"textures": "textures/blocks/tnt/tnt_lvl4_side"
+			"textures": "textures/blocks/tnts/lvl4/tnt_lvl4_side"
 		},
 		"tnt_lvl4_bottom": {
-			"textures": "textures/blocks/tnt/tnt_lvl4_bottom"
+			"textures": "textures/blocks/tnts/lvl4/tnt_lvl4_bottom"
 		},
 		"tnt_lvl4_top": {
-			"textures": "textures/blocks/tnt/tnt_lvl4_top"
+			"textures": "textures/blocks/tnts/lvl4/tnt_lvl4_top"
 		},
 		"tnt_lvl5_side": {
-			"textures": "textures/blocks/tnt/tnt_lvl5_side"
+			"textures": "textures/blocks/tnts/lvl5/tnt_lvl5_side"
 		},
 		"tnt_lvl5_bottom": {
-			"textures": "textures/blocks/tnt/tnt_lvl5_bottom"
+			"textures": "textures/blocks/tnts/lvl5/tnt_lvl5_bottom"
 		},
 		"tnt_lvl5_top": {
-			"textures": "textures/blocks/tnt/tnt_lvl5_top"
+			"textures": "textures/blocks/tnts/lvl5/tnt_lvl5_top"
 		},
 		"tnt_lvl6_side": {
-			"textures": "textures/blocks/tnt/tnt_lvl6_side"
+			"textures": "textures/blocks/tnts/lvl6/tnt_lvl6_side"
 		},
 		"tnt_lvl6_bottom": {
-			"textures": "textures/blocks/tnt/tnt_lvl6_bottom"
+			"textures": "textures/blocks/tnts/lvl6/tnt_lvl6_bottom"
 		},
 		"tnt_lvl6_top": {
-			"textures": "textures/blocks/tnt/tnt_lvl6_top"
+			"textures": "textures/blocks/tnts/lvl6/tnt_lvl6_top"
 		},
 		"tnt_lvl7_side": {
-			"textures": "textures/blocks/tnt/tnt_lvl7_side"
+			"textures": "textures/blocks/tnts/lvl7/tnt_lvl7_side"
 		},
 		"tnt_lvl7_bottom": {
-			"textures": "textures/blocks/tnt/tnt_lvl7_bottom"
+			"textures": "textures/blocks/tnts/lvl7/tnt_lvl7_bottom"
 		},
 		"tnt_lvl7_top": {
-			"textures": "textures/blocks/tnt/tnt_lvl7_top"
+			"textures": "textures/blocks/tnts/lvl7/tnt_lvl7_top"
 		},
 		"tnt_lvl8_side": {
-			"textures": "textures/blocks/tnt/tnt_lvl8_side"
+			"textures": "textures/blocks/tnts/lvl8/tnt_lvl8_side"
 		},
 		"tnt_lvl8_bottom": {
-			"textures": "textures/blocks/tnt/tnt_lvl8_bottom"
+			"textures": "textures/blocks/tnts/lvl8/tnt_lvl8_bottom"
 		},
 		"tnt_lvl8_top": {
-			"textures": "textures/blocks/tnt/tnt_lvl8_top"
+			"textures": "textures/blocks/tnts/lvl8/tnt_lvl8_top"
 		},
 		"tnt_lvl9_side": {
-			"textures": "textures/blocks/tnt/tnt_lvl9_side"
+			"textures": "textures/blocks/tnts/lvl9/tnt_lvl9_side"
 		},
 		"tnt_lvl9_bottom": {
-			"textures": "textures/blocks/tnt/tnt_lvl9_bottom"
+			"textures": "textures/blocks/tnts/lvl9/tnt_lvl9_bottom"
 		},
 		"tnt_lvl9_top": {
-			"textures": "textures/blocks/tnt/tnt_lvl9_top"
+			"textures": "textures/blocks/tnts/lvl9/tnt_lvl9_top"
 		},
-
-
+		"block_effect": {
+			"textures": "textures/blocks/others/block_effect"
+		},
+		"cave_block": {
+			"textures": "textures/blocks/others/cave_block"
+		},
 		"decrafteur": {
-			"textures": "textures/blocks/decrafteur"
+			"textures": "textures/blocks/others/decrafteur"
 		},
-
-
-
-		"opalite_plant" : {
-			"textures" : [
-				"textures/blocks/opalite_plant_0",
-				"textures/blocks/opalite_plant_1",
-				"textures/blocks/opalite_plant_2",
-				"textures/blocks/opalite_plant_3"
-			]
+		"elevator": {
+			"textures": "textures/blocks/others/elevator"
 		},
-
-		"plutonium_furnace" : {
-			"textures" : [
-				"textures/blocks/furnaces/plutonium_furnace_front_off",
-				"textures/blocks/furnaces/plutonium_furnace_front_on",
-				"textures/blocks/furnaces/plutonium_furnace_side",
-				"textures/blocks/furnaces/plutonium_furnace_top"
-			]
+		"lucky_block": {
+			"textures": "textures/blocks/others/lucky_block"
 		},
-		"plutonium_furnace_front" : {
-			"textures" : [
-				"textures/blocks/furnaces/plutonium_furnace_front_off",
-				"textures/blocks/furnaces/plutonium_furnace_front_on"
-			]
+		"opalite_block": {
+			"textures": "textures/blocks/others/opalite_block"
 		},
-		"plutonium_furnace_front_off" : {
-			"textures" : "textures/blocks/furnaces/plutonium_furnace_front_off"
+		"plutonium_block": {
+			"textures": "textures/blocks/others/plutonium_block"
 		},
-		"plutonium_furnace_front_on" : {
-			"textures" : "textures/blocks/furnaces/opalite_furnace_front_on"
+		"zephir_block": {
+			"textures": "textures/blocks/others/zephir_block"
 		},
-		"plutonium_furnace_side" : {
-			"textures" : [ "textures/blocks/furnaces/plutonium_furnace_side", "textures/blocks/furnaces/plutonium_furnace_side" ]
-		},
-		"plutonium_furnace_top" : {
-			"textures" : [ "textures/blocks/furnaces/plutonium_furnace_top", "textures/blocks/furnaces/plutonium_furnace_top" ]
-		},
-
-		"opalite_furnace" : {
-			"textures" : [
-				"textures/blocks/furnaces/furnace_front_off",
-				"textures/blocks/furnaces/furnace_front_on",
-				"textures/blocks/furnaces/furnace_side",
-				"textures/blocks/furnaces/furnace_top"
-			]
-		},
-		"opalite_furnace_front" : {
-			"textures" : [
-				"textures/blocks/furnaces/opalite_furnace_front_off",
-				"textures/blocks/furnaces/opalite_furnace_front_on"
-			]
-		},
-		"opalite_furnace_front_off" : {
-			"textures" : "textures/blocks/furnaces/opalite_furnace_front_off"
-		},
-		"opalite_furnace_front_on" : {
-			"textures" : "textures/blocks/furnaces/opalite_furnace_front_on"
-		},
-		"opalite_furnace_side" : {
-			"textures" : [ "textures/blocks/furnaces/opalite_furnace_side", "textures/blocks/furnaces/opalite_furnace_side" ]
-		},
-		"opalite_furnace_top" : {
-			"textures" : [ "textures/blocks/furnaces/opalite_furnace_top", "textures/blocks/furnaces/opalite_furnace_top" ]
+		"upgraded_obsidian": {
+			"textures": "textures/blocks/others/upgraded_obsidian"
 		}
 	}
 }

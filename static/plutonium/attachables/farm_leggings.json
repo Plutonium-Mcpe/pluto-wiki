@@ -8,7 +8,7 @@
         "enchanted": "armor_enchanted"
       },
       "textures": {
-        "default": "textures/models/armor/farm_legs",
+        "default": "textures/models/armor/farm/farm_legs",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
       "geometry": {

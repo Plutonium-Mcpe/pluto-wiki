@@ -8,7 +8,7 @@
         "enchanted": "armor_enchanted"
       },
       "textures": {
-        "default": "textures/models/armor/hood_helmet_main",
+        "default": "textures/models/armor/others/hood_helmet_main",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
       "geometry": {

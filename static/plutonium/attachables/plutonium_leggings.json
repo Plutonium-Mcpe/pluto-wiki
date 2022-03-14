@@ -8,7 +8,7 @@
         "enchanted": "armor_enchanted"
       },
       "textures": {
-        "default": "textures/models/armor/plutonium_legs",
+        "default": "textures/models/armor/plutonium/plutonium_legs",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
       "geometry": {

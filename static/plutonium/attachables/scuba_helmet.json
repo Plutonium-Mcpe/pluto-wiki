@@ -8,7 +8,7 @@
         "enchanted": "armor_enchanted"
       },
       "textures": {
-        "default": "textures/models/armor/scuba_helmet_main",
+        "default": "textures/models/armor/others/scuba_helmet_main",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
       "geometry": {

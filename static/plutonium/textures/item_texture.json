@@ -2,197 +2,194 @@
 	"resource_pack_name": "PlutoniumRPV4",
 	"texture_name": "atlas.items",
 	"texture_data": {
-		"unknown": {
-			"textures": "textures/items/unknown"
-		},
-		"feed_stick": {
-			"textures": "textures/items/feed_stick"
-		},
-		"billet": {
-			"textures": "textures/items/billet"
-		},
-		"opalite_ingot": {
-			"textures": "textures/items/opalite_ingot"
-		},
-		"clean_stick": {
-			"textures": "textures/items/clean_stick"
-		},
-		"clesucre_key": {
-			"textures": "textures/items/clesucre_key"
-		},
-		"common_key": {
-			"textures": "textures/items/common_key"
-		},
-		"hand_glider": {
-			"textures": "textures/items/hand_glider"
-		},
-		"opalite_axe": {
-			"textures": "textures/items/opalite_axe"
-		},
-		"opalite_hoe": {
-			"textures": "textures/items/opalite_hoe"
-		},
-		"opalite_key": {
-			"textures": "textures/items/opalite_key"
-		},
-		"opalite_seed": {
-			"textures": "textures/items/opalite_seed"
-		},
-		"opalite_sword": {
-			"textures": "textures/items/opalite_sword"
-		},
-		"opalite_hammer": {
-			"textures": "textures/items/opalite_hammer"
-		},
-		"plutonium_fragment": {
-			"textures": "textures/items/plutonium_fragment"
-		},
-		"plutonium_ingot": {
-			"textures": "textures/items/plutonium_ingot"
-		},
-		"plutonium_key": {
-			"textures": "textures/items/plutonium_key"
-		},
-		"plutonium_dust": {
-			"textures": "textures/items/plutonium_dust"
-		},
-		"plutonium_seed": {
-			"textures": "textures/items/plutonium_seed"
-		},
-		"plutonium_sword": {
-			"textures": "textures/items/plutonium_sword"
-		},
-		"plutonium_hammer": {
-			"textures": "textures/items/plutonium_hammer"
-		},
-		"skyring": {
-			"textures": "textures/items/skyring"
-		},
-		"blue_unclaim_finder": {
-			"textures": "textures/items/blue_unclaim_finder"
-		},
-		"red_unclaim_finder": {
-			"textures": "textures/items/red_unclaim_finder"
-		},
-		"vote_key": {
-			"textures": "textures/items/vote_key"
-		},
-		"zephir": {
-			"textures": "textures/items/zephir"
-		},
-		"speed_stick": {
-			"textures": "textures/items/speed_stick"
-		},
-		"heal_stick": {
-			"textures": "textures/items/heal_stick"
-		},
-		"dynamite": {
-			"textures": "textures/items/dynamite"
-		},
-		"seed_planter": {
-			"textures": "textures/items/seed_planter"
-		},
-		"replanter": {
-			"textures": "textures/items/replanter"
-		},
-		"opalite_apple": {
-			"textures": "textures/items/opalite_apple"
-		},
-		"xp_collector": {
-			"textures": "textures/items/xp_collector"
-		},
-		"energie": {
-			"textures": "textures/items/energie"
-		},
-		"opalite_pickaxe": {
-			"textures": "textures/items/opalite_pickaxe"
-		},
-		"opalite_shovel": {
-			"textures": "textures/items/opalite_shovel"
-		},
-		"plutonium_shovel": {
-			"textures": "textures/items/plutonium_shovel"
-		},
-		"plutonium_pickaxe": {
-			"textures": "textures/items/plutonium_pickaxe"
-		},
-		"plutonium_hoe": {
-			"textures": "textures/items/plutonium_hoe"
-		},
-		"plutonium_axe": {
-			"textures": "textures/items/plutonium_axe"
-		},
-		"hood_helmet": {
-			"textures": "textures/items/hood_helmet"
-		},
-		"scuba_helmet": {
-			"textures": "textures/items/scuba_helmet"
-		},
 		"opalite_helmet": {
-			"textures": "textures/items/opalite_helmet"
+			"textures": "textures/items/armors/opalite/opalite_helmet"
 		},
 		"opalite_chestplate": {
-			"textures": "textures/items/opalite_chestplate"
+			"textures": "textures/items/armors/opalite/opalite_chestplate"
 		},
 		"opalite_leggings": {
-			"textures": "textures/items/opalite_leggings"
+			"textures": "textures/items/armors/opalite/opalite_leggings"
 		},
 		"opalite_boots": {
-			"textures": "textures/items/opalite_boots"
+			"textures": "textures/items/armors/opalite/opalite_boots"
 		},
 		"plutonium_helmet": {
-			"textures": "textures/items/plutonium_helmet"
+			"textures": "textures/items/armors/plutonium/plutonium_helmet"
 		},
 		"plutonium_chestplate": {
-			"textures": "textures/items/plutonium_chestplate"
+			"textures": "textures/items/armors/plutonium/plutonium_chestplate"
 		},
 		"plutonium_leggings": {
-			"textures": "textures/items/plutonium_leggings"
+			"textures": "textures/items/armors/plutonium/plutonium_leggings"
 		},
 		"plutonium_boots": {
-			"textures": "textures/items/plutonium_boots"
+			"textures": "textures/items/armors/plutonium/plutonium_boots"
 		},
 		"farm_helmet": {
-			"textures": "textures/items/farm_helmet"
+			"textures": "textures/items/armors/farm/farm_helmet"
 		},
 		"farm_chestplate": {
-			"textures": "textures/items/farm_chestplate"
+			"textures": "textures/items/armors/farm/farm_chestplate"
 		},
 		"farm_leggings": {
-			"textures": "textures/items/farm_leggings"
+			"textures": "textures/items/armors/farm/farm_leggings"
 		},
 		"farm_boots": {
-			"textures": "textures/items/farm_boots"
+			"textures": "textures/items/armors/farm/farm_boots"
 		},
-		"plutonium_coal": {
-			"textures": "textures/items/plutonium_coal"
+		"hood_helmet": {
+			"textures": "textures/items/armors/others/hood_helmet"
+		},
+		"scuba_helmet": {
+			"textures": "textures/items/armors/others/scuba_helmet"
 		},
 		"opalite_bow": {
-			"textures": "textures/items/opalite_bow"
+			"textures": "textures/items/bows/opalite/opalite_bow"
 		},
 		"plutonium_bow": {
-			"textures": "textures/items/plutonium_bow"
-		},
-		"royal_sceptre": {
-			"textures": "textures/items/royal_sceptre"
-		},
-		"obsi_breaker": {
-			"textures": "textures/items/obsi_breaker"
-		},
-		"farm_spade": {
-			"textures": "textures/items/farm_spade"
-		},
-		"brouilleur": {
-			"textures": "textures/items/brouilleur"
-		},
-		"industrial_potato": {
-			"textures": "textures/items/industrial_potato"
+			"textures": "textures/items/bows/plutonium/plutonium_bow"
 		},
 		"industrial_carrot": {
-			"textures": "textures/items/industrial_carrot"
+			"textures": "textures/items/foods/industrial_carrot"
+		},
+		"industrial_potato": {
+			"textures": "textures/items/foods/industrial_potato"
 		},
 		"industrial_wheat": {
-			"textures": "textures/items/industrial_wheat"
+			"textures": "textures/items/foods/industrial_wheat"
+		},
+		"opalite_apple": {
+			"textures": "textures/items/foods/opalite_apple"
+		},
+		"vote_key": {
+			"textures": "textures/items/keys/vote_key"
+		},
+		"common_key": {
+			"textures": "textures/items/keys/common_key"
+		},
+		"opalite_key": {
+			"textures": "textures/items/keys/opalite_key"
+		},
+		"plutonium_key": {
+			"textures": "textures/items/keys/plutonium_key"
+		},
+		"clesucre_key": {
+			"textures": "textures/items/keys/clesucre_key"
+		},
+		"opalite_ingot": {
+			"textures": "textures/items/ores/opalite_ingot"
+		},
+		"plutonium_dust": {
+			"textures": "textures/items/ores/plutonium_dust"
+		},
+		"plutonium_fragment": {
+			"textures": "textures/items/ores/plutonium_fragment"
+		},
+		"plutonium_ingot": {
+			"textures": "textures/items/ores/plutonium_ingot"
+		},
+		"zephir": {
+			"textures": "textures/items/ores/zephir"
+		},
+		"opalite_seed": {
+			"textures": "textures/items/seeds/opalite_seed"
+		},
+		"plutonium_seed": {
+			"textures": "textures/items/seeds/plutonium_seed"
+		},
+		"clean_stick": {
+			"textures": "textures/items/sticks/clean_stick"
+		},
+		"feed_stick": {
+			"textures": "textures/items/sticks/feed_stick"
+		},
+		"heal_stick": {
+			"textures": "textures/items/sticks/heal_stick"
+		},
+		"royal_sceptre": {
+			"textures": "textures/items/sticks/royal_sceptre"
+		},
+		"speed_stick": {
+			"textures": "textures/items/sticks/speed_stick"
+		},
+		"opalite_axe": {
+			"textures": "textures/items/tools/axes/opalite_axe"
+		},
+		"plutonium_axe": {
+			"textures": "textures/items/tools/axes/plutonium_axe"
+		},
+		"opalite_hammer": {
+			"textures": "textures/items/tools/hammers/opalite_hammer"
+		},
+		"plutonium_hammer": {
+			"textures": "textures/items/tools/hammers/plutonium_hammer"
+		},
+		"opalite_hoe": {
+			"textures": "textures/items/tools/hoes/opalite_hoe"
+		},
+		"plutonium_hoe": {
+			"textures": "textures/items/tools/hoes/plutonium_hoe"
+		},
+		"opalite_pickaxe": {
+			"textures": "textures/items/tools/pickaxes/opalite_pickaxe"
+		},
+		"plutonium_pickaxe": {
+			"textures": "textures/items/tools/pickaxes/plutonium_pickaxe"
+		},
+		"opalite_shovel": {
+			"textures": "textures/items/tools/shovels/opalite_shovel"
+		},
+		"plutonium_shovel": {
+			"textures": "textures/items/tools/shovels/plutonium_shovel"
+		},
+		"opalite_sword": {
+			"textures": "textures/items/tools/swords/opalite_sword"
+		},
+		"plutonium_sword": {
+			"textures": "textures/items/tools/swords/plutonium_sword"
+		},
+		"farm_spade": {
+			"textures": "textures/items/tools/others/farm_spade"
+		},
+		"obsi_breaker": {
+			"textures": "textures/items/tools/others/obsi_breaker"
+		},
+		"replanter": {
+			"textures": "textures/items/tools/others/replanter"
+		},
+		"seed_planter": {
+			"textures": "textures/items/tools/others/seed_planter"
+		},
+		"billet": {
+			"textures": "textures/items/others/billet"
+		},
+		"blue_unclaim_finder": {
+			"textures": "textures/items/others/blue_unclaim_finder"
+		},
+		"brouilleur": {
+			"textures": "textures/items/others/brouilleur"
+		},
+		"dynamite": {
+			"textures": "textures/items/others/dynamite"
+		},
+		"energie": {
+			"textures": "textures/items/others/energie"
+		},
+		"hand_glider": {
+			"textures": "textures/items/others/hand_glider"
+		},
+		"plutonium_coal": {
+			"textures": "textures/items/others/plutonium_coal"
+		},
+		"red_unclaim_finder": {
+			"textures": "textures/items/others/red_unclaim_finder"
+		},
+		"skyring": {
+			"textures": "textures/items/others/skyring"
+		},
+		"xp_collector": {
+			"textures": "textures/items/others/xp_collector"
 		}
 	}
 }
