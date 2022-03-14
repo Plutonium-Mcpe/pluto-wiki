@@ -24,7 +24,6 @@ Bottes Opalite {{image#items/armors/opalite/opalite_boots}} | test | test | test
 
 # Craft : 
 
-
 - ``Casque Opalite ``:
 
 {{craft#craft/craft_opalite_helmet}} 
