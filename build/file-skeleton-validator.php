@@ -20,7 +20,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     if ($contents === false) {
         printError("error in the recovery of the file content");
         $subError = true;
-        exit(1);
+        goto end;
     }
     printStatement("file content get");
     $filename = getFilename($file);
@@ -36,12 +36,13 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     if ($head !== 1) {
         printError("invalid header given");
         $subError = true;
-        exit(1);
+        goto end;
     }
     $name = getId($contents);
     if (!$category) {
         $categ = getCategory($contents);
     }
+    end:
     if (!$subError) {
         printSuccess(getFilename($file) . " valid");
     } else {

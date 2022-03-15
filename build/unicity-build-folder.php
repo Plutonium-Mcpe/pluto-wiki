@@ -22,7 +22,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     if ($contents === false) {
         printError("error in the recovery of the file content");
         $subError = true;
-        continue;
+        goto end;
     }
     printStatement("file content get");
     $filename = getFilename($file);
@@ -34,7 +34,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
         if (isset($cache[$categName][$name . "_category"])) {
             printError("category index for: $categName already exist");
             $subError = true;
-            continue;
+            goto end;
         }
     } else {
         printStatement("article format detected");
@@ -42,10 +42,11 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
         if (isset($cache[$categ][$name])) {
             printError("$name for category: $categ already exist");
             $subError = true;
-            continue;
+            goto end;
         }
         $cache[$categ][$name] = $file;
     }
+    end:
     if (!$subError) {
         printSuccess(getFilename($file) . " valid");
     } else {
@@ -70,6 +71,6 @@ foreach ($cache as $categ => $art) {
     }
 }
 
-if($hasError){
+if ($hasError) {
     exit(1);
 }

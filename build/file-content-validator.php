@@ -19,7 +19,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     if ($contents === false) {
         printError("error in the recovery of the file content");
         $subError = true;
-        continue;
+        goto end;
     }
     printStatement("file content get");
     $name = getId($contents);
@@ -49,7 +49,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
                     } else {
                         printError("cant found the craft file: $staticPath");
                         $subError = true;
-                        continue;
+                        goto end;
                     }
                 }
             } else {
@@ -69,7 +69,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
                     } else {
                         printError("cant found the image file: $path");
                         $subError = true;
-                        continue;
+                        goto end;
                     }
                 }
             } else {
@@ -78,9 +78,10 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
             if ($foundMatches !== count($allMatches)) {
                 printError("format not recognized, not supported or invalid detect, found " . count($allMatches) . " patern and get $foundMatches valid pattern");
                 $subError = true;
-                continue;
+                goto end;
             }
         }
+        end:
         if (!$subError) {
             printSuccess(getFilename($file) . " valid");
         } else {
