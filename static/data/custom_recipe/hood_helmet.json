@@ -1,11 +1,11 @@
 {
     "input": {
         "A": {
-            "name": "items/zephir",
+            "name": "items/ores/zephir",
             "folder": "plutonium"
         },
         "B": {
-            "name": "items/opalite_helmet",
+            "name": "items/armors/opalite/opalite_helmet",
             "folder": "plutonium"
         },
         "C": {
@@ -15,7 +15,7 @@
     },
     "output": [
         {
-            "name": "items/hood_helmet",
+            "name": "items/armors/others/hood_helmet",
             "folder": "plutonium"
         }
     ],

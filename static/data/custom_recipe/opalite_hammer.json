@@ -1,7 +1,7 @@
 {
     "input": {
         "A": {
-            "name": "blocks/opalite_block",
+            "name": "blocks/others/opalite_block",
             "folder": "plutonium"
         },
         "B": {
@@ -11,7 +11,7 @@
     },
     "output": [
         {
-            "name": "items/opalite_hammer",
+            "name": "items/tools/hammers/opalite_hammer",
             "folder": "plutonium"
         }
     ],

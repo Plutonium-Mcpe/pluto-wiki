@@ -1,25 +1,25 @@
 {
     "input": {
         "A": {
-            "name": "items/opalite_ingot",
+            "name": "items/ores/opalite_ingot",
             "folder": "plutonium"
         },
         "B": {
-            "name": "items/zephir",
+            "name": "items/ores/zephir",
             "folder": "plutonium"
         },
         "C": {
-            "name": "blocks/upgraded_obsidian",
+            "name": "blocks/others/upgraded_obsidian",
             "folder": "plutonium"
         },
         "D": {
-            "name": "items/plutonium_dust",
+            "name": "items/ores/plutonium_dust",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/obsi_breaker",
+            "name": "items/tools/others/obsi_breaker",
             "folder": "plutonium"
         }
     ],

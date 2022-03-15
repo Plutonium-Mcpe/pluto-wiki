@@ -1,7 +1,7 @@
 {
     "input": {
         "A": {
-            "name": "blocks/opalite_block",
+            "name": "blocks/others/opalite_block",
             "folder": "plutonium"
         },
         "B": {
@@ -9,13 +9,13 @@
             "folder": "vanilla"
         },
         "C": {
-            "name": "items/zephir",
+            "name": "items/ores/zephir",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "blocks/elevator",
+            "name": "blocks/others/elevator",
             "folder": "plutonium"
         }
     ],

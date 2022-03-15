@@ -5,7 +5,7 @@
             "folder": "vanilla"
         },
         "B": {
-            "name": "items/zephir",
+            "name": "items/ores/zephir",
             "folder": "plutonium"
         },
         "C": {
@@ -15,7 +15,7 @@
     },
     "output": [
         {
-            "name": "items/speed_stick",
+            "name": "items/sticks/speed_stick",
             "folder": "plutonium"
         }
     ],

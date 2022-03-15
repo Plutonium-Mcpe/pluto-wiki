@@ -1,13 +1,13 @@
 {
     "input": {
         "A": {
-            "name": "items/plutonium_ingot",
+            "name": "items/ores/plutonium_ingot",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/plutonium_chestplate",
+            "name": "items/armors/plutonium/plutonium_chestplate",
             "folder": "plutonium"
         }
     ],

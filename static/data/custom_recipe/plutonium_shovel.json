@@ -5,13 +5,13 @@
             "folder": "vanilla"
         },
         "B": {
-            "name": "items/plutonium_ingot",
+            "name": "items/ores/plutonium_ingot",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/plutonium_shovel",
+            "name": "items/tools/shovels/plutonium_shovel",
             "folder": "plutonium"
         }
     ],

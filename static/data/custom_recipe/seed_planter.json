@@ -5,17 +5,17 @@
             "folder": "vanilla"
         },
         "B": {
-            "name": "items/plutonium_seed",
+            "name": "items/seeds/plutonium_seed",
             "folder": "plutonium"
         },
         "C": {
-            "name": "items/opalite_ingot",
+            "name": "items/ores/opalite_ingot",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/seed_planter",
+            "name": "items/tools/others/seed_planter",
             "folder": "plutonium"
         }
     ],

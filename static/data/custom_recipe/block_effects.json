@@ -13,13 +13,13 @@
             "folder": "vanilla"
         }, 
         "D": {
-            "name": "items/opalite_ingot",
+            "name": "items/ores/opalite_ingot",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "blocks/block_effect",
+            "name": "blocks/others/block_effect",
             "folder": "plutonium"
         }
     ],

@@ -1,13 +1,13 @@
 {
     "input": {
         "A": {
-            "name": "items/opalite_ingot",
+            "name": "items/ores/opalite_ingot",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "blocks/opalite_block",
+            "name": "blocks/others/opalite_block",
             "folder": "plutonium"
         }
     ],

@@ -1,11 +1,11 @@
 {
     "input": {
         "A": {
-            "name": "items/plutonium_fragment",
+            "name": "items/ores/plutonium_fragment",
             "folder": "plutonium"
         },
         "B": {
-            "name": "items/opalite_hoe",
+            "name": "items/tools/hoes/opalite_hoe",
             "folder": "plutonium"
         }
     },

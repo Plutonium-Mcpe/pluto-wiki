@@ -1,7 +1,7 @@
 {
     "input": {
         "A": {
-            "name": "items/opalite_ingot",
+            "name": "items/ores/opalite_ingot",
             "folder": "plutonium"
         },
         "B": {
@@ -15,7 +15,7 @@
     },
     "output": [
         {
-            "name": "items/dynamite",
+            "name": "items/others/dynamite",
             "folder": "plutonium"
         }
     ],

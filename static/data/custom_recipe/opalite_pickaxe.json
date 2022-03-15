@@ -5,13 +5,13 @@
             "folder": "vanilla"
         },
         "B": {
-            "name": "items/opalite_ingot",
+            "name": "items/ores/opalite_ingot",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/opalite_pickaxe",
+            "name": "items/tools/pickaxes/opalite_pickaxe",
             "folder": "plutonium"
         }
     ],

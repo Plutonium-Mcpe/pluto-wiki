@@ -19,7 +19,7 @@
     },
     "output": [
         {
-            "name": "items/hand_glider",
+            "name": "items/others/hand_glider",
             "folder": "plutonium"
         }
     ],

@@ -1,13 +1,13 @@
 {
     "input": {
         "A": {
-            "name": "items/plutonium_dust",
+            "name": "items/ores/plutonium_dust",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/plutonium_fragment",
+            "name": "items/ores/plutonium_fragment",
             "folder": "plutonium"
         }
     ],

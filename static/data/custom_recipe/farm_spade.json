@@ -5,7 +5,7 @@
             "folder": "vanilla"
         },
         "B": {
-            "name": "items/opalite_hoe",
+            "name": "items/tools/hoes/opalite_hoe",
             "folder": "plutonium"
         },
         "C": {
@@ -17,13 +17,13 @@
             "folder": "vanilla"
         },
         "E": {
-            "name": "blocks/zephir_block",
+            "name": "blocks/others/zephir_block",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/farm_spade",
+            "name": "items/tools/others/farm_spade",
             "folder": "plutonium"
         }
     ],
