@@ -15,7 +15,7 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
 
-## Casque en opalite
+## Casque en opalite {{image#items/armors/opalite/opalite_helmet}}
 
 ### Caractéristiques
 
@@ -27,7 +27,9 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 {{craft#craft/craft_opalite_helmet}} 
 
-## Plastron en opalite
+---
+
+## Plastron en opalite {{image#items/armors/opalite/opalite_chestplate}}
 
 ### Caractéristiques
 
@@ -39,7 +41,9 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 {{craft#craft/craft_opalite_chestplate}} 
 
-## Jambières en opalite
+---
+
+## Jambières en opalite {{image#items/armors/opalite/opalite_leggings}}
 
 ### Caractéristiques
 
@@ -51,7 +55,9 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 {{craft#craft/craft_opalite_leggings}} 
 
-## Bottes en opalite
+---
+
+## Bottes en opalite {{image#items/armors/opalite/opalite_boots}}
 
 ### Caractéristiques
 
