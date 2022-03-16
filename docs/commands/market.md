@@ -26,15 +26,15 @@ Pour vendre un item à un prix précis, prenez le dans votre main puis effectué
 
 Dans l'interface du market, les derniers objets ne sont pas en vente mais permettent une utilisation optimal du market. Pour les utiliser il faut double clic dessus.
 
- ``Le billet : [ Attente shocked ]`` : Vous permet de voir vos items qui sont actuelement en vente dans le market.  
+ ``Le billet : {{image#items/others/billet}}`` : Vous permet de voir vos items qui sont actuelement en vente dans le market.  
  
- ``La pomme de terre pourris : [ Attente shocked ]`` : Vous permet de voir vos items qui ont expirés ou qui sont annulés.  
+ ``La pomme de terre pourris : {{image#items/potato_poisonous}}`` : Vous permet de voir vos items qui ont expirés ou qui sont annulés.  
  
- `` Les blocs de pierre : [ Attente shocked ]`` : Vous permet d'aller à la page suivante ou précedente du market pour voir les autres objets proposés par les joueurs.  
+ `` Les blocs de pierre : {{image#blocks/stone}}`` : Vous permet d'aller à la page suivante ou précedente du market pour voir les autres objets proposés par les joueurs.  
 
- `` Le coffres : [ Attente shocked ]`` : Il faut uniquement passer son curseur dessus puis vous verrez le numéros de la page ou vous vous trouvez ainsi que le temps avant la prochaine mise à jours du market.   
+ `` Le coffres : {{image#blocks/chest_front}}`` : Il faut uniquement passer son curseur dessus puis vous verrez le numéros de la page ou vous vous trouvez ainsi que le temps avant la prochaine mise à jours du market.   
 
- `` Le livre enchanté : [ Attente shocked ]`` : Permet de voir la liste des catégories proposer permétant une recherche plus rapide d'items précis. Les catégories sont : 
+ `` Le livre enchanté : {{image#items/book_enchanted}}`` : Permet de voir la liste des catégories proposer permétant une recherche plus rapide d'items précis. Les catégories sont : 
    * Les blocs  
    * Les armures  
    * La nouriture  
