@@ -13,8 +13,6 @@ L’armures en opalite est une armure modé comportant de nombreux avantages dan
 Cette armure est la plus basique des armures modé mais loins d’être la plus faible des armures disponibles sur le serveur. 
 Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez faible.
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
-
 ## Casque en opalite {{image#items/armors/opalite/opalite_helmet}}
 
 ### Caractéristiques
@@ -24,6 +22,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 - ``Durabilité`` : test
 
 ### Craft 
+
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_opalite_helmet}} 
 
@@ -39,6 +39,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Craft 
 
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+
 {{craft#craft/craft_opalite_chestplate}} 
 
 ---
@@ -53,6 +55,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Craft 
 
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+
 {{craft#craft/craft_opalite_leggings}} 
 
 ---
@@ -66,5 +70,7 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 - ``Durabilité`` : test
 
 ### Craft 
+
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_opalite_boots}} 
