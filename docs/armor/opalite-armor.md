@@ -13,28 +13,52 @@ L’armures en opalite est une armure modé comportant de nombreux avantages dan
 Cette armure est la plus basique des armures modé mais loins d’être la plus faible des armures disponibles sur le serveur. 
 Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez faible.
 
-## Caractéristiques & informations : 
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
 
-Armure | Effets ajouté | Points d'armure | Durabilité |
-:---: | --- | --- | ---
-Casque Opalite {{image#items/armors/opalite/opalite_helmet}} | test | test | test
-Plastron Opalite {{image#items/armors/opalite/opalite_chestplate}} | test | test | test
-Jambière Opalite {{image#items/armors/opalite/opalite_leggings}} | test | test | test
-Bottes Opalite {{image#items/armors/opalite/opalite_boots}} | test | test | test
+## Casque en opalite
 
-# Craft : 
+### Caractéristiques
 
-- ``Casque Opalite ``:
+- ``Effets ajoutés`` : test
+- ``Points d'armure`` : test
+- ``Durabilité`` : test
+
+### Craft 
 
 {{craft#craft/craft_opalite_helmet}} 
-- ``Plastron Opalite ``:
+
+## Plastron en opalite
+
+### Caractéristiques
+
+- ``Effets ajoutés`` : test
+- ``Points d'armure`` : test
+- ``Durabilité`` : test
+
+### Craft 
 
 {{craft#craft/craft_opalite_chestplate}} 
-- ``Jambière Opalite ``:
+
+## Jambières en opalite
+
+### Caractéristiques
+
+- ``Effets ajoutés`` : test
+- ``Points d'armure`` : test
+- ``Durabilité`` : test
+
+### Craft 
 
 {{craft#craft/craft_opalite_leggings}} 
-- ``Bottes Opalite ``:
+
+## Bottes en opalite
+
+### Caractéristiques
+
+- ``Effets ajoutés`` : test
+- ``Points d'armure`` : test
+- ``Durabilité`` : test
+
+### Craft 
 
 {{craft#craft/craft_opalite_boots}} 
-
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
