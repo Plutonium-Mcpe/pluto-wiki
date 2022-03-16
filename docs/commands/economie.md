@@ -3,7 +3,7 @@ id: economie
 title: Commande de l'économie
 category: commands
 description: L'argent c'est bien, mais pouvoir l'utiliser c'est mieux, on vous explique tout !
-icon: "textures/others/billet.png"
+icon: "textures/items/others/billet.png"
 ---
 ___
 ## Description
