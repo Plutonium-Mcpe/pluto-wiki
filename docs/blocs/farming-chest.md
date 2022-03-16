@@ -3,7 +3,7 @@ id: farming-chest
 title: Farming chest
 category: blocs
 description: Le FarmingChest est un outil qui va beaucoup facilité la vie des farmers sur le serveur
-icon: "textures/blocks/chest.png"
+icon: "textures/blocks/trapped_chest_front.png"
 ---
 ___
 ## Description : 
