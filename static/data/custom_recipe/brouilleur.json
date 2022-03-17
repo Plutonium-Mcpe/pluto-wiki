@@ -3,7 +3,7 @@
  },
     "output": [
         {
-            "name": "items/brouilleur",
+            "name": "items/others/brouilleur",
             "folder": "plutonium"
         }
     ],
