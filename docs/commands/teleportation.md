@@ -38,7 +38,6 @@ Parfois, il vous sera utile de vous rendre dans une certaine zone d'un serveur, 
 * ``/boss``: Vous amènera au monde des boss et leurs arènes
 * ``/box``: Téléporte au monde où se situe les box
 
-## Autres
+## Autre
 
 * ``/rtp``: **Disponible que en serveur Minage**, vous permettra de vous téléporter aléatoirement sur la carte, pratique pour vous éloigner rapidement du spawn.
-* ``/allowtp``: permet d'activé ou de désactiver le fait que les guides puisse se téléporter sur vous sans demande de téléportation. Les guides n'ont pas cette permission par défaut.
