@@ -1,6 +1,6 @@
 ---
 id: Plutonium-armor
-title: Armure en PLutonium
+title: Armure en Plutonium
 category: armor
 description: L'armure en Plutonium 
 icon: "textures/items/Plutonium_helmet.png"
