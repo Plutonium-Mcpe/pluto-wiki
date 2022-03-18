@@ -27,10 +27,10 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     $category = substr($filename, strlen($filename) - 9) === "_category";
     if ($category) {
         printStatement("category format detected");
-        $skeletonHeaderRegex = "/---(\r\n|\r|\n)id: .+(\r\n|\r|\n)title: .+(\r\n|\r|\n)description: .+(\r\n|\r|\n)icon: \".+\"(\r\n|\r|\n)---(\r\n|\r|\n)___/i";
+        $skeletonHeaderRegex = "/---(\r\n|\r|\n)id: .+(\r\n|\r|\n)title: .+(\r\n|\r|\n)description: .+(\r\n|\r|\n)icon: \".+\"(\r\n|\r|\n)---(\r\n|\r|\n)___/";
     } else {
         printStatement("article format detected");
-        $skeletonHeaderRegex = "/---(\r\n|\r|\n)id: .+(\r\n|\r|\n)title: .+(\r\n|\r|\n)category: .+(\r\n|\r|\n)description: .+(\r\n|\r|\n)icon: \".+\"(\r\n|\r|\n)---(\r\n|\r|\n)___/i";
+        $skeletonHeaderRegex = "/---(\r\n|\r|\n)id: .+(\r\n|\r|\n)title: .+(\r\n|\r|\n)category: .+(\r\n|\r|\n)description: .+(\r\n|\r|\n)icon: \".+\"(\r\n|\r|\n)---(\r\n|\r|\n)___/";
     }
     $head = preg_match($skeletonHeaderRegex, $contents);
     if ($head !== 1) {
@@ -41,6 +41,11 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     $name = getId($contents);
     if (!$category) {
         $categ = getCategory($contents);
+    }
+    if (preg_replace("/[a-z\-]+/", "", $name) !== "") {
+        printError("the id of the file does not have the right format");
+        $subError = true;
+        goto end;
     }
     end:
     if (!$subError) {
