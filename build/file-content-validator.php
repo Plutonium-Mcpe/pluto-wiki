@@ -33,7 +33,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
         if (count($allMatches) === 0) {
             printStatement("skipped, no patern available to test");
         } else {
-            preg_match_all("/{{craft#([a-z\-\_])+\/([a-z\/\-\_])+}}/i", $contents, $craftMatches);
+            preg_match_all("/{{craft#([a-z\-\_])+\/([a-z\/\-\_])+}}/", $contents, $craftMatches);
             $craftMatches = $craftMatches[0];
             if (count($craftMatches) > 0) {
                 foreach ($craftMatches as $context) {
@@ -55,7 +55,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
             } else {
                 printStatement("no craft patern found");
             }
-            preg_match_all("/{{image#([a-zA-Z1-9\/_\.])+}}/i", $contents, $imageMatches);
+            preg_match_all("/{{image#([a-zA-Z1-9\/_\.])+}}/", $contents, $imageMatches);
             $imageMatches = $imageMatches[0];
             if (count($imageMatches) > 0) {
                 foreach ($imageMatches as $context) {

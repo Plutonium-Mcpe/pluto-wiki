@@ -9,10 +9,6 @@ function getId(string $contents): string
         exit(1);
     }
     $name = substr($contents, 7, $pos-7);
-    if (preg_match("/^[a-z1-9\-]+$/i", $name) !== 1) {
-        printError("invalid format for the id");
-        exit(1);
-    }
     return $name;
 }
 
@@ -26,10 +22,6 @@ function getCategory(string $contents): string
         exit(1);
     }
     $categ = substr($contents, $catPos + 10, $iconPos - $catPos - 10);
-    if (preg_match("/^[a-z1-9\-]+$/i", $categ) !== 1) {
-        printError("invalid format for the category");
-        exit(1);
-    }
     return $categ;
 }
 
