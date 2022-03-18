@@ -1,5 +1,5 @@
 ---
-id: Plutonium-armor
+id: plutonium-armor
 title: Armure en Plutonium
 category: armor
 description: L'armure en Plutonium 
