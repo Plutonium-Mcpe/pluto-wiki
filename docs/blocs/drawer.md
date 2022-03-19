@@ -20,7 +20,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 200 items 
+- ``Stockage ``: 500 items 
 
 ### Craft 
 
@@ -31,7 +31,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 500 items 
+- ``Stockage ``: 2500 items 
 
 ### Craft 
 
@@ -42,7 +42,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 100 items 
+- ``Stockage ``: 5000 items 
 
 ### Craft 
 
@@ -53,7 +53,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 2000 items 
+- ``Stockage ``: 10000 items 
 
 ### Craft 
 
@@ -64,7 +64,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 5000 items 
+- ``Stockage ``: 25000 items 
 
 ### Craft 
 
@@ -75,7 +75,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 10000 items 
+- ``Stockage ``: 100000 items 
 
 ### Craft 
 
