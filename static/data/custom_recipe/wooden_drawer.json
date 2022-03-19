@@ -3,7 +3,7 @@
  },
     "output": [
         {
-            "name": "blocks/drawers/stone/wooden_drawer_front",
+            "name": "blocks/drawers/wooden/wooden_drawer_front",
             "folder": "plutonium"
         }
     ],
