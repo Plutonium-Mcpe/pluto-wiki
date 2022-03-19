@@ -1,0 +1,15 @@
+{
+    "input": {
+ },
+    "output": [
+        {
+            "name": "blocks/drawers/diamond/diamond_drawer_front",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", " ", " "],
+        [" ", " ", " "],
+        [" ", " ", " "]
+    ]
+}
