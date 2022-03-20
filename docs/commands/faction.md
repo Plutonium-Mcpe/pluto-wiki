@@ -2,7 +2,7 @@
 id: faction
 title: Commandes pour les factions 
 category: commands
-description: Vous souhaitez devenir les plus riches & puissant du serveur ? Travaillez en equipe pour évoluer plus vite et plus d'amuser sur le serveur ? Creez ou rejoignez une faction ! 
+description: Vous souhaitez devenir les plus riches & puissant du serveur ? Travaillez en équipe pour évoluer plus vite et plus d'amuser sur le serveur ? Créez ou rejoignez une faction ! 
 icon: "textures/blocks/command_block.png"
 ---
 ___
@@ -11,10 +11,9 @@ ___
 Une faction est sorte de team où plusieurs joueurs se retrouvent pour réaliser des actions en groupe, du pvp, des bases, des constructions etc...
 C'est un lieu basé sur la confiance de ces membres malgré le faite que la trahison est autorisé sur le serveur. De nombreux avantages dans le gamplay vous seront apportés si vous etes dans une faction ! 
 
-Il y a 4 niveaux de rend diférents dans les factions : 
+Il y a 3 niveaux de rand différents dans les factions : 
 
 - Chef 
-- Sous-chef
 - Officier 
 - Membre  
 
