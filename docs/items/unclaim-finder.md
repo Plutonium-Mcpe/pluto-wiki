@@ -1,6 +1,6 @@
 ---
 id: unclaim-finder
-title: Les Unclaim finder
+title: Les Unclaims finder
 category: items
 description: Les unclaims finder vous permettent de trouver des bases
 icon: "textures/items/others/red_unclaim_finder.png"
@@ -17,7 +17,7 @@ Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre
 
 ### Caractéristiques
 
-- **Zone de détection** : zone de 50x50x200 autour de vous 
+- **Zone de détection** : Zone de 50x50x200 autour de vous 
 - **Blocs détecté** : Coffres ; fours ; entonoire ; cadres 
 - **Durabilité** : infinie 
 
@@ -31,7 +31,7 @@ Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre
 
 ### Caractéristiques
 
-- **Zone de détection** : zone de 50x50x200 autour de vous 
+- **Zone de détection** : Zone de 50x50x200 autour de vous 
 - **Blocs détecté** : Dropper ; Distributeur 
 - **Durabilité** : infinie 
 
