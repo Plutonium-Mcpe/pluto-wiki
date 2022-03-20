@@ -1,6 +1,6 @@
 ---
 id: drawer
-title: Les Drawers
+title: [New] Les Drawers
 category: blocs
 description: Les Drawers vous permettent de stocker de grandes quantités de stuff.  
 icon: "textures/blocks/drawers/plutonium/plutonium_drawer_front.png"
