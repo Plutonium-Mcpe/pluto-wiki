@@ -1,0 +1,15 @@
+{
+    "input": {
+ },
+    "output": [
+        {
+            "name": "items/others/red_unclaim_finder",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", " ", " "],
+        [" ", " ", " "],
+        [" ", " ", " "]
+    ]
+}
