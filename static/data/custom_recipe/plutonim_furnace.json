@@ -1,0 +1,15 @@
+{
+    "input": {
+ },
+    "output": [
+        {
+            "name": "blocks/furnaces/plutonium/plutonium_furnace_front_off",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", " ", " "],
+        [" ", " ", " "],
+        [" ", " ", " "]
+    ]
+}
