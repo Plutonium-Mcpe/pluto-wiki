@@ -13,7 +13,7 @@ Si vous souhaitez chercher des bases à piller, les unclaims finder vous seront 
 Il vous permettent de détecter différentes blocs comme des coffres, droppers ou entonnoirs dans une certaine zone autour de vous. 
 Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre main puis un chiffre apparaîtra au-dessus de votre barre d’inventaire représentant le nombre de pourcentage trouvé.
  
-## Unclaim finder rouge {{image#items/items/others/red_unclaim_finder}}
+## Unclaim finder rouge {{image#items/others/red_unclaim_finder}}
 
 ### Caractéristiques
 
@@ -27,7 +27,7 @@ Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre
 
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette items
 
-## Unclaim finder bleu {{image#items/items/others/blue_unclaim_finder}}
+## Unclaim finder bleu {{image#items/others/blue_unclaim_finder}}
 
 ### Caractéristiques
 
