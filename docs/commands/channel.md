@@ -1,6 +1,6 @@
 ---
 id: channel
-title: Les channels
+title: [New] Les channels
 category: commands
 description: Pouvoir discuter avec ses amis, le serveur ou bien sa team est essentiel !
 icon: "textures/blocks/command_block.png"
