@@ -14,12 +14,12 @@ Il vous permettra d'éviter un bon nombre de pillages
 
 ## Caractéristiques :
 
-- `` Zone d'action ``: ** 50 x 50 x 255 ** au tour du brouilleur 
+- `` Zone d'action ``: ** 50x50x 255 ** au tour du brouilleur 
 
 - `` Recharge de durabilité ``: Une poussière en plutonium {{image#items/ores/plutonium_dust}} = 10 points de charge 
 
-- `` Perte de durabilité ``: La durabilité descend rapidement lorsqu'une personne avec un unclaim dans ca main ce trouve dans la zone du brouilleur. 
-1 seconde = -2 durabilités 
+- `` Perte de durabilité ``: La durabilité descend rapidement lorsqu'une personne avec un unclaim dans sa main se trouve dans la zone du brouilleur. 
+1 seconde = -1 durabilités 
 
 ## Craft : 
 
