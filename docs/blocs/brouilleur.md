@@ -3,7 +3,7 @@ id: brouilleur
 title: Brouilleur
 category: blocs
 description: Un brouilleur
-icon: "textures/items/brouilleur.png"
+icon: "textures/items/others/brouilleur.png"
 ---
 ___
 ## Description : 
