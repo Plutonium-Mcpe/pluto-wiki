@@ -23,4 +23,6 @@ Il vous permettra d'éviter un bon nombre de pillages
 
 ## Craft : 
 
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de ce bloc.
+
 {{craft#craft/craft_brouilleur}}
