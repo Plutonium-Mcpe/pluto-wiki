@@ -3,7 +3,7 @@ id: plutonium-armor
 title: Armure en Plutonium
 category: armor
 description: L'armure en Plutonium 
-icon: "textures/items/Plutonium_helmet.png"
+icon: "textures/items/plutonium_helmet.png"
 ---
 ___
 
