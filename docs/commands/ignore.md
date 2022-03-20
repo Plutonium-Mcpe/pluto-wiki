@@ -1,6 +1,6 @@
 ---
 id: ignore
-title: Commande ignore
+title: [New] Commande ignore
 category: commands
 description: Pouvoir se prévenir de tout spam ou insulte est maintenant possible avec cette commande.
 icon: "textures/blocks/command_block.png"
