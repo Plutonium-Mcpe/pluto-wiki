@@ -24,7 +24,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Craft 
 
-{{craft#craft/wooden_drawer}} 
+{{craft#craft/craft_wooden_drawer}} 
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du drawer.
 
 ## Drawer en Pierre {{image#blocks/drawers/stone/stone_drawer_front}}
@@ -35,7 +35,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Craft 
 
-{{craft#craft/stone_drawer}}
+{{craft#craft/craft_stone_drawer}}
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du drawer. 
 
 ## Drawer en Fer {{image#blocks/drawers/iron/iron_drawer_front}}
@@ -46,7 +46,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Craft 
 
-{{craft#craft/iron_drawer}}
+{{craft#craft/craft_iron_drawer}}
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du drawer. 
 
 ## Drawer en Diamant {{image#blocks/drawers/diamond/diamond_drawer_front}}
@@ -57,7 +57,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Craft 
 
-{{craft#craft/diamond_drawer}} 
+{{craft#craft/craft_diamond_drawer}} 
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du drawer.
 
 ## Drawer en Opalite {{image#blocks/drawers/opalite/opalite_drawer_front}}
@@ -68,7 +68,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Craft 
 
-{{craft#craft/opalite_drawer}} 
+{{craft#craft/craft_opalite_drawer}} 
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du drawer.
 
 ## Drawer en Plutonium {{image#blocks/drawers/plutonium/plutonium_drawer_front}}
@@ -79,5 +79,5 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Craft 
 
-{{craft#craft/plutonium_drawer}} 
+{{craft#craft/craft_plutonium_drawer}} 
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du drawer.
