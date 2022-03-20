@@ -17,9 +17,9 @@ Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre
 
 ### Caractéristiques
 
-- **Zone de détection** : Zone de 50x50x200 autour de vous 
-- **Blocs détecté** : Coffres ; fours ; entonoire ; cadres 
-- **Durabilité** : infinie 
+- **Zone de détection** : Zone de 50x50x300 autour de vous 
+- **Blocs détecté** : Coffres ; fours ; cadres 
+- **Durabilité** : 1 heur dans la main d'un jour 
 
 ### Craft 
 
@@ -31,9 +31,9 @@ Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre
 
 ### Caractéristiques
 
-- **Zone de détection** : Zone de 50x50x200 autour de vous 
-- **Blocs détecté** : Dropper ; Distributeur 
-- **Durabilité** : infinie 
+- **Zone de détection** : Zone de 25x25x300 autour de vous 
+- **Blocs détecté** : Dropper ; Distributeur ; Rntonoire ; Coffres ; Fours ; Cadres ; Drawer
+- **Durabilité** : 3 heurs dans la main d'un joueur  
 
 ### Craft 
 
