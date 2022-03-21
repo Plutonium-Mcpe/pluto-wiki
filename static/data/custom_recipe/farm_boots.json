@@ -1,0 +1,15 @@
+{
+    "input": {
+ },
+    "output": [
+        {
+            "name": "items/armors/farm/farm_boots",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", " ", " "],
+        [" ", " ", " "],
+        [" ", " ", " "]
+    ]
+}
