@@ -17,10 +17,10 @@ Une limite de homes a été défini par serveur pour éviter les abus dont voici
 Nombre de homes | Grade |
 :---: | ---
 5 | Joueur
-8 | VIP
-10 | Divin
-12 | Titan
-14 | Légende
+8 | Aventurier
+12 | VIP
+15 | Titan
+18 | Légende
 
 Ainsi, un joueur avec le grade normal sera limité à 5 homes par serveurs. *Exemple: 5 homes en minage et 5 en faction*
 
