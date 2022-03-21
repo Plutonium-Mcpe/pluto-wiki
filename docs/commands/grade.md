@@ -14,10 +14,13 @@ Ces commandes ne vous donneront pas un énorme avantage dans votre aventure mais
 ## Utilisation 
 
 * ``/ec & /enderchest ``: Vous permet d'ouvrir votre enderchest n'importe où sur le serveur. 
-> Commande disponible pour tous les grades   
+> Commande disponible pour tous les grades & voteur   
 
 * ``/repair ``: Vous permet de réparer un outil ou armure que vous avez dans votre main sans necesité d'xp. 
 > Commande disponible pour tous les grades sauf VIP  
  
 * ``/repair all ``: Vous permet de réparer tous les outils ou armures que vous avez dans votre inventaire sans necesité d'xp. Il y a un coldown de 30 secondes sur cette commande. 
 > Commande disponible pour tous les grades sauf VIP 
+  
+* ``/furnace ``: Permet de cuire instantanement l'objet que vous avez dans votre main. 
+> Commande disponible pour tous les grades & voteur  
