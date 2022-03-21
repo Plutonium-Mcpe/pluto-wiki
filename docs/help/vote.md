@@ -3,7 +3,7 @@ id: vote
 title: Vote
 category: help
 description: Fonctionnalités des votes et récompenses
-icon: "textures/plutonium_ui/job/farmer.png"
+icon: "textures/items/keys/vote_key.png"
 ---
 ___
 
