@@ -54,4 +54,12 @@ Pour achetez un item, il suffit de double clic sur celui si puis confirmer l'ach
 * Chaque objet dans le market expired reste 3 jours avant d'être clear si l'item est pas recupéré préalablement.
 * Pour les mobiles, sauf lors de la confirmation d'un achat, quand il faut double clic sur un objet il faut le sélectionné puis le déplacer vers un autre emplacement ( dans votre inventaire par exemple ).
 * Il y a pas de limite de prix dans la vente d'objet mais si le staff remarque des abus, l'objet sera supprimer du market et vous pourrez être sanctionné.
-* Si un de vos items est vendu, l'argent vous sera directement versé et un message dans le chat sera envoyé.  
+* Si un de vos items est vendu, l'argent vous sera directement versé et un message dans le chat sera envoyé. 
+* En fonction de grade, vous avez différents avantage sur le market, vous permettant d'avoir des frais reduit ou plus de place de vente disponible :  
+ Taxe market | Place de vente | Grade |
+:---: | --- | ---
+5% | 10 | Joueur
+4% | 15 | Aventurier
+3% | 20 | VIP
+2% | 25 | Titan
+1% | 30 | Légende
