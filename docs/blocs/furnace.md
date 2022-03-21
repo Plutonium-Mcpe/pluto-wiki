@@ -21,7 +21,8 @@ Mais il vous permettent en plus de récupérer de l’xp pour le métier de #min
 - `` Durabilité ``: Infinie 
 
 ### Craft : 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du four.
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du four.  
+
 {{craft#craft/craft_opalite_furnace}}
 
 ## Four en Plutonium {{image#blocks/furnaces/plutonium/plutonium_furnace_front_off}}:
@@ -33,5 +34,6 @@ Mais il vous permettent en plus de récupérer de l’xp pour le métier de #min
 - `` Durabilité ``: Infinie 
 
 ### Craft : 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du four.
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du four.  
+
 {{craft#craft/craft_plutonim_furnace}}  
