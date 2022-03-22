@@ -24,7 +24,7 @@ Ceci fait, il suffit de cocher la case pour accepter les "Privacy Policy" du sit
 
 Lien du site : https://minecraftpocket-servers.com/server/83692/vote/ 
 
-![Vote](https://user-images.githubusercontent.com/91474741/159535022-0171c4d5-9ba8-40bd-a265-b48e36cee25d.png)
+<img style="margin: 0 auto;display:block;" src="https://user-images.githubusercontent.com/91474741/159535022-0171c4d5-9ba8-40bd-a265-b48e36cee25d.png">
 
 ## Récompences votes 
 
@@ -35,5 +35,4 @@ Quand vous votez sur le serveur vous êtes sûr d'obtenir certains avantages en 
 Ceci n'est pas la seule récompense que nous vous proposons si vous votez avec assiduité. En effet, pour les personnes qui voteront tous les jours d'un mois ou jusqu'à 3 jours d'oubli auront à la fin de chaque mois d'autres récompenses. 
 Pour ceux qui votent tous les jours d'un mois auront une chance d'être tirés au sort pour gagner des nitro ou encore divers grades. Le reste des joueurs gagneront divers key. 
 
-![image](https://user-images.githubusercontent.com/91474741/159535785-a84cd283-6a0c-4552-81f7-6ed84730ff9a.png)
- 
+<img style="margin: 0 auto;display:block;" src="https://user-images.githubusercontent.com/91474741/159535785-a84cd283-6a0c-4552-81f7-6ed84730ff9a.png"> 
