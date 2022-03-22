@@ -33,4 +33,7 @@ Quand vous votez sur le serveur vous êtes sûr d'obtenir certains avantages en 
 - `` Récompenses votes direct `` : 1 key vote, accès aux commandes /ec & /furnace pendant 24h 
 
 Ceci n'est pas la seule récompense que nous vous proposons si vous votez avec assiduité. En effet, pour les personnes qui voteront tous les jours d'un mois ou jusqu'à 3 jours d'oubli auront à la fin de chaque mois d'autres récompenses. 
-Pour ceux qui votent tous les jours d'un mois auront une chance d'être tirés au sort pour gagner des nitro ou encore divers grades. Le reste gagneront divers key.  
+Pour ceux qui votent tous les jours d'un mois auront une chance d'être tirés au sort pour gagner des nitro ou encore divers grades. Le reste des joueurs gagneront divers key. 
+
+![image](https://user-images.githubusercontent.com/91474741/159535785-a84cd283-6a0c-4552-81f7-6ed84730ff9a.png)
+ 
