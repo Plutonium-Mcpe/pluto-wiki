@@ -24,7 +24,7 @@ Ceci fait, il suffit de cocher la case pour accepter les "Privacy Policy" du sit
 
 Lien du site : https://minecraftpocket-servers.com/server/83692/vote/ 
 
-![Vote](https://user-images.githubusercontent.com/91474741/159534066-006185df-05ed-41d7-b1b1-b010f01b6f8a.png)
+![Vote](https://user-images.githubusercontent.com/91474741/159535022-0171c4d5-9ba8-40bd-a265-b48e36cee25d.png)
 
 ## Récompences votes 
 
