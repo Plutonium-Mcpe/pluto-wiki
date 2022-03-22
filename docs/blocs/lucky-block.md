@@ -66,7 +66,7 @@ Une Elytra {{image#items/elytra}} | 0.5%
 16 Fioles d'xp {{image#items/experience_bottle}} | 0.5%
 16 Flèches {{image#items/arrow}} | 0.5%
 4 Dynamites {{image#items/others/dynamite}} | 0.5%
-1 Hanglider {{image#others/hand_glider}} | 0.5%
+1 Hanglider {{image#items/others/hand_glider}} | 0.5%
 Une Ender perle {{image#items/ender_pearl}} | 0.5%
 Un bloc de diamant {{image#blocks/diamond_block}} | 0.5%
 64 Graines d'Opalite {{image#items/seeds/opalite_seed}} | 0.5%
