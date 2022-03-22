@@ -8,13 +8,13 @@ icon: "textures/items/others/brouilleur.png"
 ___
 ## Description : 
 
-Le brouilleur est un objet modé vous permettant de cacher les pourcentages d'une zone aux yeux d'un #unclaim finder rouge et #unclaim finder bleu . 
+Le brouilleur est un objet modé vous permettant de cacher les pourcentages d'une zone aux yeux d'un #items/unclaim-finder qu'il soit rouge ou bleu. 
 Son fonctionnement est simple grace à son interface lorsqu'il est posé pour autant il vous sera bien utile pour sécuriser plus sereinement votre progression sur le serveur. 
 Il vous permettra d'éviter un bon nombre de pillages 
 
 ## Caractéristiques :
 
-- `` Zone d'action ``: ** 50x50x 255 ** au tour du brouilleur 
+- `` Zone d'action ``: **50x50x255** au tour du brouilleur 
 
 - `` Recharge de durabilité ``: Une poussière en plutonium {{image#items/ores/plutonium_dust}} = 10 points de charge 
 
