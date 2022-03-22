@@ -1,0 +1,16 @@
+
+{
+    "input": {
+ },
+    "output": [
+        {
+            "name": "blocks/others/upgraded_obsidian",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", " ", " "],
+        [" ", " ", " "],
+        [" ", " ", " "]
+    ]
+}
