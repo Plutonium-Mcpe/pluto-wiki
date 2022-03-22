@@ -28,7 +28,7 @@ Une enclume | 4%
 8 Graines d'Opalite | 3%
 1 Pioche en diamant | 2%
 16 Obsidiennes | 2%
-3000$  | 2%
+3000$ {{image#items/others/billet}} | 2% items/others/billet
 8 Sables des âmes | 2%
 8 Lapis-lazuli | 2%
 8 Bone meal | 2%
