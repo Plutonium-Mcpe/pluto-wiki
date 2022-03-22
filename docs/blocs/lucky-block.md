@@ -15,7 +15,7 @@ Faite donc jouez votre chance pour obtenir les objets les plus rare et chères d
 ## Utilisation : 
 
 Events disponible | Pourcentage |
-:---: | ---
+:---- | ---
 Rien  | 20%
 16 Terres {{image#blocks/grass_side_carried}} | 4%
 Une enclume | 4%
