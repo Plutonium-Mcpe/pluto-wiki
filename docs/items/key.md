@@ -17,7 +17,7 @@ Les keys servent de récompense à diverses actions que vous pouvez réaliser su
 
 ### Key vote {{image#items/keys/vote_key}}
 
-- Permet l'utilisation des #commands/keytranform.
+- Permet l'utilisation des #commands/keytransform.
 - Permet d'ouvrir la box vote ( #box ). 
 - Obtenable via les récompences quotidiennes des voteurs ( #votes ).    
 
