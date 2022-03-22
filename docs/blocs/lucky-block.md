@@ -16,6 +16,6 @@ Faite donc jouez votre chance pour obtenir les objets les plus rare et chères d
 
 Events disponible | Pourcentage |
 :---: | ---
-- 10k $  | 2%
-- Poussière en plutonium | 3%
-- Livre karma | 1%
+ 10k $  | 2%
+ Poussière en plutonium | 3%
+ Livre karma | 1%
