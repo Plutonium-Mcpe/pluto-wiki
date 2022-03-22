@@ -17,7 +17,7 @@ Faite donc jouez votre chance pour obtenir les objets les plus rare et chères d
 Events disponible | Pourcentage |
 :---: | ---
 Rien  | 20%
-16 Terres | 3%
+16 Terres {{image#vanilla/textures/blocks/grass_side_carried}}| 3%
 Une enclume | 4%
 32 Pastèques | 3%
 8 Charbons | 3%
