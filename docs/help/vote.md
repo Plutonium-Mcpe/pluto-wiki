@@ -24,6 +24,8 @@ Ceci fait, il suffit de cocher la case pour accepter les "Privacy Policy" du sit
 
 Lien du site : https://minecraftpocket-servers.com/server/83692/vote/ 
 
+![Vote](https://user-images.githubusercontent.com/91474741/159534066-006185df-05ed-41d7-b1b1-b010f01b6f8a.png)
+
 ## Récompences votes 
 
 Quand vous votez sur le serveur vous êtes sûr d'obtenir certains avantages en effectuant la commande **/vote** en jeu.
