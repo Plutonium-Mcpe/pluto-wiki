@@ -19,7 +19,7 @@ Les keys servent de récompense à diverses actions que vous pouvez réaliser su
 
 - Permet l'utilisation des #commands/keytransform.
 - Permet d'ouvrir la box vote ( #box ). 
-- Obtenable via les récompences quotidiennes des voteurs ( #votes ).    
+- Obtenable via les récompences quotidiennes des voteurs (#help/vote).    
 
 ### Key commune {{image#items/keys/common_key}}
 
