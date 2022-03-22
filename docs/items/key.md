@@ -17,7 +17,7 @@ Les keys servent de récompense à diverses actions que vous pouvez réaliser su
 
 ### Key vote {{image#items/keys/vote_key}}
 
-- Permet l'utilisation des #keytransforme.
+- Permet l'utilisation des #commands/keytranform.
 - Permet d'ouvrir la box vote ( #box ). 
 - Obtenable via les récompences quotidiennes des voteurs ( #votes ).    
 
@@ -35,8 +35,3 @@ Les keys servent de récompense à diverses actions que vous pouvez réaliser su
 
 - Permet d'ouvrir la box plutonium ( #box ).
 - Obtenable via les commandes de keytransform & via les récompences pour les personnes qui ont voté tout les jours d'un mois.
-
-### Key clesucre {{image#items/keys/clesucre_key}} 
-
-- Je ne sais pas 
-- Je ne sais pas 
