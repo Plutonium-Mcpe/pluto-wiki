@@ -8,13 +8,13 @@ icon: "textures/blocks/elevator.png"
 ___
 ## Description : 
 
-Ce bloc vous permet de monter ainsi que descendre d'étage rapidement en seulement 1 clique en prenant 1 seul bloc d'espace. Il pourra vous être utile pour un farm, sécuriser des zone dans un base claim etc. Faites jouer votre imagination ! 
+Ce bloc vous permet de monter ainsi que descendre d'un étage en seulement 1 clique et en prenant qu'un seul bloc d'espace. Il pourra vous être utile pour une farm, sécuriser des zones dans un base claim ou encore faciliter vos déplacements dans une construction. Faites jouer votre imagination ! 
 
 ## Caractéristiques :
 
-Pour l'utilisation de ce block il faut obligatoirement qu'il soit relier avec un autre ascenseur situer au dessous ou au dessus du premier block. 
+Pour l'utilisation de ce block il faut obligatoirement qu'il soit relier avec un autre ascenseur situer au dessous ou au dessus du premier. 
 
-- ``Distance maximal de téléportation``: 5 blocks 
+- ``Distance maximal de téléportation``: 5 blocs 
 - ``Monter d'un étage``: sauter 
 - ``Descendre d'un étage``: s'accroupir 
  
