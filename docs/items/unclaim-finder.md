@@ -18,25 +18,26 @@ Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre
 ### Caractéristiques
 
 - **Zone de détection** : Zone de 50x50x300 autour de vous 
-- **Blocs détecté** : Coffres ; fours ; cadres 
+- **Blocs détectés** : Coffre ; four ; cadre 
 - **Durabilité** : 1 heur dans la main d'un jour 
 
 ### Craft 
 
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette items  
+
 {{craft#craft/craft_red_unclaim_finder}} 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette items
 
 ## Unclaim finder bleu {{image#items/others/blue_unclaim_finder}}
 
 ### Caractéristiques
 
 - **Zone de détection** : Zone de 25x25x300 autour de vous 
-- **Blocs détecté** : Dropper ; Distributeur ; Rntonoire ; Coffres ; Fours ; Cadres ; Drawer
+- **Blocs détectés** : Dropper ; Distributeur ; Entonnoir ; Coffre ; Four ; Cadre ; Drawer
 - **Durabilité** : 3 heurs dans la main d'un joueur  
 
 ### Craft 
 
-{{craft#craft/craft_blue_unclaim_finder}} 
-
 > Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette items
+
+{{craft#craft/craft_blue_unclaim_finder}} 
