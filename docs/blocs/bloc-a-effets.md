@@ -8,11 +8,11 @@ icon: "textures/blocks/others/block_effect.png"
 ___
 ## Description : 
 
-Ce block peut autant être nuisible que bénéfique dépendant de si on l'utilise ou si on le subit. Si vous marché sur ce block, de nombreux effets nocifs vous serons ajouté à votre égard. Il peut par exemple être utilisé pour un troll, protéger une base claim ou encore dans une trap pour facilité le kill de l'ennemies.
+Ce block peut autant être nuisible que bénéfique dépendant de si on l'utilise ou si on le subit. Si vous marché sur ce block, de nombreux effets nocifs vous serons ajoutés à votre égard. Il peut par exemple être utilisé pour un troll, protéger une base claim ou encore dans une trap pour facilité le kill de l'ennemie.
 
 ## Caractéristique 
 
-- `` Les effets `` : Dès que vous passer sur ce block des effets comme nausée, faim, faiblesse ou encore poisson. 
+- `` Les effets subient`` : Nausée, faim, faiblesse et poisson. 
 - `` Durée des effets ``  : 10 secondes
 
 ## Craft :
