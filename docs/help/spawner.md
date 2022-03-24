@@ -1,6 +1,6 @@
 ---
 id: spawner
-title: Vote
+title: Les spawners
 category: help
 description: Fonctionnalités des spawners
 icon: "textures/blocks/mob_spawner.png"
@@ -9,16 +9,16 @@ ___
 
 ## Introduction 
 
-Les spawners sont des blocs vanilla permettant de générer en continue et infiniment la créature ou l'annimal qui se trouve dans lui. 
+Les spawners sont des blocs vanilla permettant de générer en continue et infiniment la créature ou l'annimal qui se trouve dans lui.  
 Un nouveau système de génération et utilisation des spawners a été mis en place sur le serveur.    
-Ce dispositif permet d'évité l'abus du farm des spawners ainsi que crée engoument sur leurs recherche.
+Ce dispositif permet d'évité l'abus du farm des spawners ainsi que crée engoument sur leurs recherche.  
 
 ## Explication 
 
-Les spawners sont donc dès à présent directement générés sur les maps factions des différents serveurs. Les spawners se trouvent dans des salles builds comportant entre 1 et 4 spawners du même type.
-Il n’est maintenant plus possible de casser des spawners pour les récupérer, néanmoins si tous les spawners d’une salle sont cassés, une nouvelle sera directement généré sur la map. Le nombre de salles avec spawners sur la map sera donc toujours le même tout au long de la version.
+Les spawners sont donc dès à présent directement générés sur les maps factions des différents serveurs. Les spawners se trouvent dans des salles builds comportant entre 1 et 4 spawners du même type.  
+Il n’est maintenant plus possible de casser des spawners pour les récupérer, néanmoins si tous les spawners d’une salle sont cassés, une nouvelle sera directement généré sur la map. Le nombre de salles avec spawners sur la map sera donc toujours le même tout au long de la version.  
 Les spawners ne sont également plus disponibles à l’achat au shop les rendant donc irrécupérables et très rares.   
-A vous de faire jouer votre patience pour en trouver ainsi que d’en prendre soin !
+A vous de faire jouer votre patience pour en trouver ainsi que d’en prendre soin !   
 
 **Chaque salle a un type et nombre de spawners généré aleatoirement à partir des données si dessous :** 
 
