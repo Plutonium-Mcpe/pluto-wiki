@@ -8,7 +8,7 @@ icon: "textures/blocks/command_block.png"
 ___
 ## Description  
 
-Une faction est sorte de team où plusieurs joueurs se retrouvent pour réaliser des actions en groupe, du pvp, des bases, des constructions etc...
+Une faction est sorte de team où jusqu'à joueurs se retrouvent pour réaliser des actions en groupe, du pvp, des bases, des constructions etc...
 C'est un lieu basé sur la confiance de ces membres malgré le faite que la trahison est autorisé sur le serveur. De nombreux avantages dans le gamplay vous seront apportés si vous etes dans une faction ! 
 
 Il y a 3 niveaux de rand différents dans les factions : 
@@ -23,7 +23,7 @@ Il y a 3 niveaux de rand différents dans les factions :
 * ``/f help ``: Permet de visualiser une liste complete des commandes lié au faction disponible sur le serveur ig directement
 * ``/f info <faction> ``: Permet de visualiser tout les informations importante sur une faction comme ca date de creation, ces membres etc... 
 * ``/f create <nom> ``: Permet la cration d'une faction avec un nom choisie.     
- **Informations** : Vous ne pouvez pas creer deux faction du même nom ni creer de faction si vous en avez déjà une. 
+ **Informations** : Vous ne pouvez pas créer deux factions du même nom ni créer de faction si vous en avez déjà une. 
 * ``/f delete ``: Permet de supprimer ca faction. 
  **Informations** : Seul le chef de la faction peut delete ca faction, ceci supprimera toutes les données de cette faction.   
 * ``/f invite <pseudo> ``: Permet d'inviter un joueur dans ca faction.  
@@ -38,7 +38,7 @@ Il y a 3 niveaux de rand différents dans les factions :
 * ``/f leave ``: Permet de quitter votre faction.  
 * ``/f description <description> ``: Permet de modifier la description de votre faction.  
  **Informations** : Seul le chef d'une faction peut changer ceci, une limite de 200 carractères est defini sur les descriptions de faction.  
-* ``/f sethome ``: Permet de mettre un home dispinible pour tout les memebres de la faction.    
+* ``/f sethome ``: Permet de mettre un home disponible pour tout les memebres de la faction.    
  **Information** : Seul le chef d'une faction peut placer son f home.  
 * ``/f home ``: Permet de se téléporter au home de votre faction.
 * ``/f delhome ``: Permet de supprimer le f home de votre faction.  
