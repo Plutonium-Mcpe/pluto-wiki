@@ -9,9 +9,9 @@ ___
 ## Description  
 
 Une faction est sorte de team où jusqu'à joueurs se retrouvent pour réaliser des actions en groupe, du pvp, des bases, des constructions etc...
-C'est un lieu basé sur la confiance de ces membres malgré le faite que la trahison est autorisé sur le serveur. De nombreux avantages dans le gamplay vous seront apportés si vous etes dans une faction ! 
+C'est un lieu basé sur la confiance de ces membres malgré le faite que la trahison est autorisé sur le serveur. De nombreux avantages dans le gameplay vous seront apportés si vous etes dans une faction ! 
 
-Il y a 3 niveaux de rand différents dans les factions : 
+Il y a 3 niveaux de rang différents dans les factions : 
 
 - Chef 
 - Officier 
@@ -22,7 +22,7 @@ Il y a 3 niveaux de rand différents dans les factions :
 
 * ``/f help ``: Permet de visualiser une liste complete des commandes lié au faction disponible sur le serveur ig directement
 * ``/f info <faction> ``: Permet de visualiser tout les informations importante sur une faction comme ca date de creation, ces membres etc... 
-* ``/f create <nom> ``: Permet la cration d'une faction avec un nom choisie.     
+* ``/f create <nom> ``: Permet la création d'une faction avec un nom choisi.     
  **Informations** : Vous ne pouvez pas créer deux factions du même nom ni créer de faction si vous en avez déjà une. 
 * ``/f delete ``: Permet de supprimer ca faction. 
  **Informations** : Seul le chef de la faction peut delete ca faction, ceci supprimera toutes les données de cette faction.   
@@ -30,7 +30,7 @@ Il y a 3 niveaux de rand différents dans les factions :
  **Information** : Il faut bien rentrer le pseudo exacte de joueur qui doit etre ajouté ( mettre " au debut et à la fin du pseudo si il y a des espace ).   
 * ``/f accept ``: Permet d'accepter une invitation pour rejoindre une faction. 
 * ``/f deny ``: Permet de refusé une invitation pour rejoindre une faction. 
-* ``/f promote <pseudo> ``: Permet d'augementer de rand un membre ou officier d'une faction à son.   
+* ``/f promote <pseudo> ``: Permet d'augementer de rang un membre ou officier d'une faction à son.   
  **Information** : Seul le chef d'une faction peut utiliser cette commande sur un de ces membres.
 * ``/f demote <pseudo> ``: Permet de retrograder un officier ou sous-chef à son grade inferieur une personne de votre faction.   
  **Information** : Seul le chef d'une faction peut utiliser cette commande sur un de ces officiers.
