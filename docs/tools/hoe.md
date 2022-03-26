@@ -19,9 +19,21 @@ Elles vous seront donc utile par leur rapidité lors de la création de farm par
 - ``Zone de bêchage`` : 3x3
 - ``Durabilité`` : à def 
 
+### Craft 
+
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette outil
+
+{{craft#craft/craft_opalite_hoe}} 
+
 ## Houe Plutonium {{image#items/tools/hoes/plutonium_hoe}}
 
 ### Caractéristiques
 
 - ``Zone de bêchage`` : 5x5
 - ``Durabilité`` : à def 
+
+### Craft 
+
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette outil
+
+{{craft#craft/craft_plutonium_hoe}} 
