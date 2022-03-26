@@ -3,7 +3,7 @@ id: hammer
 title: Les Hammers
 category: tools
 description: Les Hammers
-icon: "textures/items/tools/items/tools/hammers/plutonium_hammer.png"
+icon: "textures/items/tools/hammers/plutonium_hammer.png"
 ---
 ___
 ## Description   
