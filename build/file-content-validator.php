@@ -27,7 +27,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     $isCategory = substr($filename, strlen($filename) - 9) === "_category";
     if (!$isCategory) {
         $foundMatches = 0;
-        preg_match_all("/{{.+#.+}}/", $contents, $allMatches);
+        preg_match_all("/{{[a-z1-9]+#[a-z\-\_\/]+}}/", $contents, $allMatches);
         $allMatches = $allMatches[0];
         printStatement("find " . count($allMatches) . " patterns to validate");
         if (count($allMatches) === 0) {
