@@ -10,7 +10,7 @@ ___
 
 Les haches en Plutonium et Opalite vous permettent de casser le bois comme si vous étiez un vrai bûcheron. 
 En effet ces deux haches moddé permettent une récolte plus efficace du bois par leur vitesse augmentée ! 
-Pratique pour augmenter facilement son métier de #help#bucherons n’est-ce pas ? 
+Pratique pour augmenter facilement son métier de #help/bucherons n’est-ce pas ? 
 
 ## Hache Opalite {{image#items/tools/axes/opalite_axe}}
 
