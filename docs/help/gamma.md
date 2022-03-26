@@ -6,7 +6,7 @@ description: Le boss Gamma
 icon: "https://user-images.githubusercontent.com/91474741/160209086-5033f678-29a0-469a-a893-dd865e536b29.png"
 ---
 ___
-<img style="float:right;max-width: 300px;" src="https://user-images.githubusercontent.com/91474741/160209086-5033f678-29a0-469a-a893-dd865e536b29.png">
+<img class="thumbnail-right" src="https://user-images.githubusercontent.com/91474741/160209086-5033f678-29a0-469a-a893-dd865e536b29.png">
 
 ## Description 
 

@@ -6,7 +6,7 @@ description: Le boss Beta
 icon: "https://user-images.githubusercontent.com/91474741/160209033-bf2f7ee5-9991-477b-92ec-1169cc2915bc.png"
 ---
 ___
-<img style="float:right;max-width: 300px;" src="https://user-images.githubusercontent.com/91474741/160209033-bf2f7ee5-9991-477b-92ec-1169cc2915bc.png">
+<img class="thumbnail-right" src="https://user-images.githubusercontent.com/91474741/160209033-bf2f7ee5-9991-477b-92ec-1169cc2915bc.png">
 
 ## Description 
 

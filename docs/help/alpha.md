@@ -6,7 +6,7 @@ description: Le boss Alpha
 icon: "https://user-images.githubusercontent.com/91474741/160202571-2e5e2f38-e312-4527-838b-ec873acadb69.png"
 ---
 ___
-<img style="float:right;max-width: 300px;" src="https://user-images.githubusercontent.com/91474741/160202571-2e5e2f38-e312-4527-838b-ec873acadb69.png">
+<img class="thumbnail-right" src="https://user-images.githubusercontent.com/91474741/160202571-2e5e2f38-e312-4527-838b-ec873acadb69.png">
 
 ## Description 
 
