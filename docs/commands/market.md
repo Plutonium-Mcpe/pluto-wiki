@@ -3,7 +3,7 @@ id: market
 title: Le market
 category: commands
 description: Vous souhaitez vendre ou acheter un item en tout serenité et facilement ? Rien de mieux que utiliser le market !
-icon: "textures/items/turtle_shell_piece.png"
+icon: "textures/items/others/billet.png"
 ---
 ___
 ## Description
