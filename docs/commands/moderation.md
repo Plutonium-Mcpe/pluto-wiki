@@ -3,7 +3,7 @@ id: moderation
 title: Les commandes de modération
 category: commands
 description: La modération est à la base d'un serveur, il est indispensable pour garder un serveur optimal et une bonne experience joueur. 
-icon: "textures/items/command_block.png"
+icon: "textures/blocks/command_block.png"
 ---
 ___
 ## Description 
