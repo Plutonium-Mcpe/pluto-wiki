@@ -8,7 +8,7 @@ icon: "textures/items/tools/pickaxes/plutonium_pickaxe.png"
 ___
 ## Description
 
-Les pioches moddé Opalite et plutonium sont des outils permettant un minage bien plus efficace. 
+Les pioches moddés Opalite et plutonium sont des outils permettant un minage bien plus efficace. 
 En effet ces deux outils sont bien plus rapide que toutes les autres pioches disponibles sur le serveur. 
 Elles vous transformeront en mineur hors-pair !
 
