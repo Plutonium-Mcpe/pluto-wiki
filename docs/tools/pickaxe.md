@@ -3,7 +3,7 @@ id: pickaxe
 title: [New] Les Pioches Moddées
 category: tools
 description: Les Pioches Moddées
-icon: "textures/items/tools/swords/plutonium_sword.png"
+icon: "textures/items/tools/pickaxes/plutonium_pickaxe.png"
 ---
 ___
 ## Description
