@@ -21,16 +21,16 @@ manger par un poussin si mignon.
 **Boss :**  
 - ``Points de vie ``: 5 000 pv
 - ``Dégât ``: 10 {{image#ui/heart}} pour un joueur sans armure, cooldown d'une demi-seconde
-- ``Vitesse ``: Quand il est calme 0.5, quand il est énerver 2
 - ``Régénération ``: 1 PV par seconde à partir du moment où le boss n'a pas pris de dégâts pendant plus de 10 secondes
 - ``Attaque spéciale ``: Éclaire 
-- ``Butin à sa mort ``: Entre une et deux clés Opalite {{image#items/keys/opalite_key}}; 200 powers de faction ; 25 xp du #help/guerrier ; 10 000 orbes d'xp
+- ``Butin à sa mort ``
+    - Entre une et deux clés Opalite {{image#items/keys/opalite_key}};
+    - 200 powers de faction ; 25 xp du #help/guerrier 
+    - 10 000 orbes d'xp
 
 **Éclaire :** 
 
 - ``Dégât ``: 7.5 {{image#ui/heart}} pour un joueur sans armure 
-- ``Vitesse ``: Instantané
-- ``Taille ``: 1.5
 - ``Fréquence d'apparition ``: Entre 10 et 20 secondes 
 - ``Quantité par vague ``: Entre 3 et 6 éclaires
 - ``Impacte ``: Enflamme le sol dans un rayon de 2 blocs

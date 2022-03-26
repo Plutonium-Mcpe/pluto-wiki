@@ -24,15 +24,16 @@ plus puissant arriveront à l’éliminer !
 **Boss :**  
 - ``Points de vie ``: 10 000 pv
 - ``Dégât ``: 15 {{image#ui/heart}} pour un joueur sans armure
-- ``Vitesse ``: 0.75 
 - ``Régénération ``: 3 PV par seconde à partir du moment où le boss n'a pas pris de dégâts pendant plus de 10 secondes
 - ``Attaque spéciale ``: Pluie de météorites 
-- ``Butin à sa mort ``: Une clé en Plutonium {{image#items/keys/plutonium_key}} ; Entre une et deux clés Opalite {{image#items/keys/opalite_key}}; 250 powers de faction 
+- ``Butin à sa mort ``
+    - Une clé en Plutonium {{image#items/keys/plutonium_key}} 
+    - Entre une et deux clés Opalite {{image#items/keys/opalite_key}}
+    - 250 powers de faction 
 
 **Météorite <img style="width:16px;height:16px" src="https://user-images.githubusercontent.com/91474741/160203589-b557ff77-6f11-4e7a-b70d-1102e098bbcb.png"> :** 
 
 - ``Dégât ``: 10 {{image#ui/heart}} pour un joueur sans armure 
-- ``Vitesse ``: 5
 - ``Fréquence d'apparition ``: Entre 10 et 20 secondes 
 - ``Quantité par vague ``: Entre 1 et 3 météorites
 - ``Impacte ``: Enflamme le sol dans un rayon de 3 blocs
