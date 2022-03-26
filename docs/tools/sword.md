@@ -1,7 +1,7 @@
 ---
 id: sword
 title: Les Épées Moddées
-category: items
+category: tools
 description: Les Épées Moddées
 icon: "textures/items/tools/swords/plutonium_sword.png"
 ---
