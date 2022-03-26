@@ -1,28 +1,9 @@
 name: Craft
 
 on:
-  push:
-  pull_request:
   workflow_dispatch:
 
 jobs:
-  extract-pack:
-    name: Extraction des pack de ressource
-    runs-on: ${{ matrix.image }}
-    strategy:
-      fail-fast: false
-      matrix:
-        image: [ubuntu-20.04]
-        php: [8.0.11]
-    steps:
-      - uses: actions/checkout@v2
-      - name: Extraction
-        run: php build/extract-pack.php
-      - name: Commit change
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Extraction des ressource packs
-          branch: ${{ github.ref }}
   craft-validator:
     name: Validation des crafts customs
     runs-on: ${{ matrix.image }}
