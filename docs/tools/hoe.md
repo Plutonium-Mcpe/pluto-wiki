@@ -1,6 +1,6 @@
 ---
 id: hoe
-title: Les Houes Moddées
+title: [New] Les Houes Moddées
 category: tools
 description: Les Houes Moddées
 icon: "textures/items/tools/items/tools/hoes/plutonium_hoe"
