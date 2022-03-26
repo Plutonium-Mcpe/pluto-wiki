@@ -12,7 +12,7 @@ Les épées moddées en Plutonium et Opalite vous permettront de dominer vos enn
 Elles vous donneront de réels avantages par leurs puissances et les coups spéciaux qu’elles opèrent par raport aux épées vanila. 
 Un craft, un écharnement, et le tour est joué pour vous démarquez lors de vos pvp !
 
-##  Épées Opalite {{image#items/tools/swords/opalite_sword}}
+##  Épée Opalite {{image#items/tools/swords/opalite_sword}}
 
 ### Caractéristiques
 
@@ -26,12 +26,12 @@ Un craft, un écharnement, et le tour est joué pour vous démarquez lors de vos
 
 {{craft#craft/craft_opalite_sword}} 
 
-##  Épées Plutonium {{image#items/tools/swords/plutonium_sword}}
+##  Épée Plutonium {{image#items/tools/swords/plutonium_sword}}
 
 ### Caractéristiques
 
 - ``Dégats`` : 2.5 {{image#ui/heart}}
-- ``Coups speciaux`` : KnockBack II & Flammes
+- ``Coups speciaux`` : KnockBack III & Flammes
 - ``Durabilité`` : à def
 
 ### Craft 
