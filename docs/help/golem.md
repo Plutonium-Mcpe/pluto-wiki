@@ -1,6 +1,6 @@
 ---
 id: golem
-title: Le Golem en opalite
+title: [New] Le Golem en opalite
 category: help
 description: Votre meilleur compagnon
 icon: "textures/items/opalite_ingot.png"
