@@ -3,15 +3,16 @@ id: golem
 title: [New] Le Golem en opalite
 category: help
 description: Votre meilleur compagnon
-icon: "textures/items/opalite_ingot.png"
+icon: "https://user-images.githubusercontent.com/91474741/160235541-81195a32-2935-4ff8-b390-d3c0d3615d18.png"
 ---
 ___
+<img class="thumbnail-right" src="https://user-images.githubusercontent.com/91474741/160235541-81195a32-2935-4ff8-b390-d3c0d3615d18.png">
 ## Description
 
 Avez vous jamais réver d'un compagnon qui peut farmer à votre place, vous protéger ou tout simplement vous tenir chaud et compagnie ?  
 Le golem en Opalite est votre allié juré, avec le grand nombre de mode et de compétences qu'il peut acquérir et apprendre, il vous sera nécessaire de trouver le meilleur compromis.
 
-## Les différents modes
+## Modes disponible
 
 ### Passif
 
