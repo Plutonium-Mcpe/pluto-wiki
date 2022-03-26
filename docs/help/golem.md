@@ -6,7 +6,8 @@ description: Votre meilleur compagnon
 icon: "https://user-images.githubusercontent.com/91474741/160235541-81195a32-2935-4ff8-b390-d3c0d3615d18.png"
 ---
 ___
-<img class="thumbnail-right" src="https://user-images.githubusercontent.com/91474741/160235541-81195a32-2935-4ff8-b390-d3c0d3615d18.png">
+<img class="thumbnail-right" src="https://user-images.githubusercontent.com/91474741/160235541-81195a32-2935-4ff8-b390-d3c0d3615d18.png">  
+
 ## Description
 
 Avez vous jamais réver d'un compagnon qui peut farmer à votre place, vous protéger ou tout simplement vous tenir chaud et compagnie ?  
@@ -26,7 +27,7 @@ Aucune réplique ou attaque ne sera effectué dans ce mode.
 
 ### Vous suivre
 
-Vous souhaiter vous rendre à votre nouvelle base, ou même faire protéger un autre secteur de votre ferme ?  
+Vous souhaitez vous rendre à votre nouvelle base, ou même faire protéger un autre secteur de votre ferme ?  
 Le suivit de joueur va vous permettre d'amener votre golem là où vous le souhaiter. Partout où vous y irez, il essayera de vous suivre.
 
 ### Tuer les monstres/animaux
