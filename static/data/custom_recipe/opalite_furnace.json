@@ -1,6 +1,18 @@
 {
     "input": {
- },
+        "A": {
+            "name": "blocks/others/opalite_block",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "blocks/others/zephir_block",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "blocks/furnace_front_off",
+            "folder": "vanilla"
+        }
+    },
     "output": [
         {
             "name": "blocks/furnaces/opalite/opalite_furnace_front_off",
@@ -8,8 +20,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["A", "A", "A"],
+        ["A", "B", "A"],
+        ["A", "C", "A"]
     ]
 }

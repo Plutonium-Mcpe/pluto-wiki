@@ -1,6 +1,18 @@
 {
     "input": {
- },
+        "A": {
+            "name": "items/string",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "blocks/others/opalite_block",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "items/armors/farm/farm_chestplate",
@@ -8,8 +20,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["A", " ", "A"],
+        ["A", "B", "A"],
+        ["B", "C", "B"]
     ]
 }

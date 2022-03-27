@@ -1,20 +1,24 @@
 {
     "input": {
         "A": {
-            "name": "blocks/obsidian",
+            "name": "blocks/soul_sand",
             "folder": "vanilla"
         },
         "B": {
-            "name": "blocks/cobblestone",
-            "folder": "vanilla"
-        },
-        "C": {
-            "name": "blocks/diamond_block",
-            "folder": "vanilla"
-        }, 
-        "D": {
             "name": "items/ores/opalite_ingot",
             "folder": "plutonium"
+        },
+        "D": {
+            "name": "blocks/cobblestone",
+            "folder": "vanilla"
+        }, 
+        "C": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        },
+        "E": {
+            "name": "blocks/iron_block",
+            "folder": "vanilla"
         }
     },
     "output": [
@@ -24,8 +28,8 @@
         }
     ],
     "shape": [
-        ["A", "B", "A"],
-        ["B", "C", "B"],
+        ["A", "A", "A"],
+        ["E", "C", "E"],
         ["B", "D", "B"]
     ]
 }

@@ -1,6 +1,18 @@
 {
     "input": {
- },
+        "A": {
+            "name": "items/ores/plutonium_dust",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "blocks/diamond_block",
+            "folder": "vanilla"
+        },
+        "C": {
+            "name": "blocks/drawers/iron/iron_drawer_front",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "blocks/drawers/diamond/diamond_drawer_front",
@@ -8,8 +20,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["B", "B", "B"],
+        ["B", "A", "B"],
+        ["B", "C", "B"]
     ]
 }

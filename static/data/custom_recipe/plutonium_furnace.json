@@ -9,7 +9,7 @@
             "folder": "plutonium"
         },
         "C": {
-            "name": "blocks/drawers/opalite/opalite_drawer_front",
+            "name": "blocks/furnaces/opalite/opalite_furnace_front_off",
             "folder": "plutonium"
         },
         "D": {
@@ -39,7 +39,7 @@
     },
     "output": [
         {
-            "name": "blocks/drawers/plutonium/plutonium_drawer_front",
+            "name": "blocks/furnaces/plutonium/plutonium_furnace_front_off",
             "folder": "plutonium"
         }
     ],

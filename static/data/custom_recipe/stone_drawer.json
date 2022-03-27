@@ -1,6 +1,18 @@
 {
     "input": {
- },
+        "A": {
+            "name": "blocks/others/zephir_block",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "blocks/stone",
+            "folder": "vanilla"
+        },
+        "C": {
+            "name": "blocks/drawers/wood/wooden_drawer_front",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "blocks/drawers/stone/stone_drawer_front",
@@ -8,8 +20,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["B", "B", "B"],
+        ["B", "A", "B"],
+        ["B", "C", "B"]
     ]
 }

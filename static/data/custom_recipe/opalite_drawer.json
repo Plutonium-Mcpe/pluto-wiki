@@ -1,6 +1,18 @@
 {
     "input": {
- },
+        "A": {
+            "name": "items/ores/plutonium_fragment",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "blocks/others/opalite_block",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "blocks/drawers/diamond/diamond_drawer_front",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "blocks/drawers/opalite/opalite_drawer_front",
@@ -8,8 +20,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["B", "B", "B"],
+        ["B", "A", "B"],
+        ["B", "C", "B"]
     ]
 }

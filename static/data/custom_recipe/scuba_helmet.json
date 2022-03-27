@@ -11,6 +11,10 @@
         "C": {
             "name": "blocks/diamond_block",
             "folder": "vanilla"
+        },
+        "D": {
+            "name": "blocks/glass",
+            "folder": "vanilla"
         }
     },
     "output": [
@@ -21,7 +25,7 @@
     ],
     "shape": [
         ["A", "C", "A"],
-        ["C", "B", "C"],
+        ["D", "B", "D"],
         [" ", " ", " "]
     ]
 }

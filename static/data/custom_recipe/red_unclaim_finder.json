@@ -1,6 +1,22 @@
 {
     "input": {
- },
+        "A": {
+            "name": "blocks/glass_red",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "blocks/others/opalite_block",
+            "folder": "plutonium"
+        },
+        "D": {
+            "name": "blocks/gold_block",
+            "folder": "vanilla"
+        }
+    },
     "output": [
         {
             "name": "items/others/red_unclaim_finder",
@@ -8,8 +24,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["A", "C", "A"],
+        ["B", "D", "B"],
+        ["A", "C", "A"]
     ]
 }

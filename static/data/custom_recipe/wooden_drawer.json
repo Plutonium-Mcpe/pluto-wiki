@@ -1,6 +1,42 @@
 {
     "input": {
- },
+        "A": {
+            "name": "blocks/others/zephir_block",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "blocks/planks_oak",
+            "folder": "vanilla"
+        },
+        "D": {
+            "name": "blocks/planks_acacia",
+            "folder": "vanilla"
+        },
+        "H": {
+            "name": "blocks/planks_jungle",
+            "folder": "vanilla"
+        },
+        "F": {
+            "name": "blocks/planks_spruce",
+            "folder": "vanilla"
+        },
+        "C": {
+            "name": "blocks/log_birch",
+            "folder": "vanilla"
+        },
+        "E": {
+            "name": "blocks/log_oak",
+            "folder": "vanilla"
+        },
+        "G": {
+            "name": "blocks/log_big_oak",
+            "folder": "vanilla"
+        },
+        "I": {
+            "name": "blocks/log_acacia",
+            "folder": "vanilla"
+        }
+    },
     "output": [
         {
             "name": "blocks/drawers/wood/wooden_drawer_front",
@@ -8,8 +44,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["B", "I", "H"],
+        ["C", "A", "G"],
+        ["D", "E", "F"]
     ]
 }

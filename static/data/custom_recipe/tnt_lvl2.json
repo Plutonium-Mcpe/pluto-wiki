@@ -1,27 +1,23 @@
 {
     "input": {
         "A": {
-            "name": "items/gunpowder",
-            "folder": "vanilla"
-        },
-        "B": {
             "name": "items/paper",
             "folder": "vanilla"
         },
-        "C": {
-            "name": "items/string",
+        "B": {
+            "name": "blocks/tnt_side",
             "folder": "vanilla"
         }
     },
     "output": [
         {
-            "name": "items/others/dynamite",
+            "name": "blocks/tnts/lvl2/tnt_lvl2_side",
             "folder": "plutonium"
         }
     ],
     "shape": [
-        [" ", "B", "C"],
+        ["B", "B", "B"],
         ["B", "A", "B"],
-        ["A", "B", " "]
+        ["B", "B", "B"]
     ]
 }
