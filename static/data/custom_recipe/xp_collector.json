@@ -8,10 +8,6 @@
             "name": "blocks/others/zephir_block",
             "folder": "plutonium"
         },
-        "C": {
-            "name": "blocks/glass_pane_top",
-            "folder": "vanilla"
-        },
         "D": {
             "name": "blocks/glass",
             "folder": "vanilla"
@@ -29,7 +25,7 @@
     ],
     "shape": [
         ["D", "E", "D"],
-        ["C", "B", "C"],
+        ["D", "B", "D"],
         ["A", "B", "A"]
     ]
 }
