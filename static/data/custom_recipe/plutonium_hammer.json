@@ -1,6 +1,18 @@
 {
     "input": {
- },
+        "A": {
+            "name": "items/ores/plutonium_ingot",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "items/stick",
+            "folder": "vanilla"
+        },
+        "C": {
+            "name": "blocks/others/zephir_block",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "items/tools/hammers/plutonium_hammer",
@@ -8,8 +20,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["A", "A", "A"],
+        ["A", "C", "A"],
+        [" ", "B", " "]
     ]
 }

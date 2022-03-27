@@ -1,0 +1,23 @@
+{
+    "input": {
+        "A": {
+            "name": "blocks/sand",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/gunpowder",
+            "folder": "vanilla"
+        }
+    },
+    "output": [
+        {
+            "name": "blocks/tnt_side",
+            "folder": "vanilla"
+        }
+    ],
+    "shape": [
+        ["B", "A", "B"],
+        ["A", "B", "A"],
+        ["B", "A", "B"]
+    ]
+}

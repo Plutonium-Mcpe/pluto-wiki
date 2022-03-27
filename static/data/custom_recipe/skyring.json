@@ -1,27 +1,23 @@
 {
     "input": {
         "A": {
-            "name": "items/ores/opalite_ingot",
+            "name": "items/ores/zephir",
             "folder": "plutonium"
         },
         "B": {
-            "name": "blocks/iron_block",
-            "folder": "vanilla"
-        },
-        "C": {
-            "name": "blocks/stone",
+            "name": "blocks/diamond_block",
             "folder": "vanilla"
         }
     },
     "output": [
         {
-            "name": "blocks/others/elevator",
+            "name": "items/others/skyring",
             "folder": "plutonium"
         }
     ],
     "shape": [
         ["A", "B", "A"],
-        ["B", "C", "B"],
+        ["B", " ", "B"],
         ["A", "B", "A"]
     ]
 }

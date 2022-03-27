@@ -1,6 +1,26 @@
 {
     "input": {
- },
+        "A": {
+            "name": "items/ores/plutonium_dust",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "blocks/others/zephir_block",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "blocks/iron_block",
+            "folder": "vanilla"
+        },
+        "D": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        },
+        "E": {
+            "name": "items/others/blue_unclaim_finder",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "items/others/brouilleur",
@@ -8,8 +28,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["E", "D", " "],
+        ["D", "C", " "],
+        ["A", "B", "A"]
     ]
 }

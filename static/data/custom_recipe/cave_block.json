@@ -1,6 +1,18 @@
 {
     "input": {
- },
+        "A": {
+            "name": "blocks/others/opalite_block",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "blocks/glass",
+            "folder": "vanilla"
+        },
+        "C": {
+            "name": "blocks/others/zephir_block",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "blocks/others/cave_block",
@@ -8,8 +20,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["B", "B", "B"],
+        ["B", "C", "B"],
+        ["A", "B", "A"]
     ]
 }

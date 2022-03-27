@@ -1,23 +1,23 @@
 {
     "input": {
         "A": {
-            "name": "items/wheat",
+            "name": "items/coal",
             "folder": "vanilla"
         },
         "B": {
-            "name": "items/ores/zephir",
+            "name": "items/ores/plutonium_dust",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/armors/farm/farm_helmet",
+            "name": "items/others/plutonium_coal",
             "folder": "plutonium"
         }
     ],
     "shape": [
-        ["A", "A", "A"],
-        ["B", " ", "B"],
-        [" ", " ", " "]
+        [" ", "B", " "],
+        ["B", "A", "B"],
+        [" ", "B", " "]
     ]
 }

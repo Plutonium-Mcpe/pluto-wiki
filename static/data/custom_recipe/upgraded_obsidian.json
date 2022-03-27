@@ -1,7 +1,11 @@
 
 {
     "input": {
- },
+        "A": {
+            "name": "blocks/obsidian",
+            "folder": "vanilla"
+        }
+    },
     "output": [
         {
             "name": "blocks/others/upgraded_obsidian",
@@ -9,8 +13,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["A", "A", "A"],
+        ["A", "A", "A"],
+        ["A", "A", "A"]
     ]
 }

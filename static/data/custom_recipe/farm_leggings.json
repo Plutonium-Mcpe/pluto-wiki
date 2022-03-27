@@ -1,6 +1,18 @@
 {
     "input": {
- },
+        "A": {
+            "name": "blocks/iron_block",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "items/ores/opalite_ingot",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "items/armors/farm/farm_leggings",
@@ -8,8 +20,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["B", "A", "B"],
+        ["C", " ", "C"],
+        ["C", " ", "C"]
     ]
 }

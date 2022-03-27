@@ -1,27 +1,27 @@
 {
     "input": {
         "A": {
-            "name": "items/gunpowder",
+            "name": "items/stick",
             "folder": "vanilla"
         },
         "B": {
-            "name": "items/paper",
+            "name": "blocks/obsidian",
             "folder": "vanilla"
         },
         "C": {
-            "name": "items/string",
-            "folder": "vanilla"
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/others/dynamite",
+            "name": "items/sticks/clean_stick",
             "folder": "plutonium"
         }
     ],
-    "shape": [
-        [" ", "B", "C"],
+    "shape":  [
+        [" ", "C", " "],
         ["B", "A", "B"],
-        ["A", "B", " "]
+        [" ", "A", " "]
     ]
 }

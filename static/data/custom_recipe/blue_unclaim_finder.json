@@ -1,6 +1,22 @@
 {
     "input": {
- },
+        "A": {
+            "name": "items/others/red_unclaim_finder",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "items/ores/plutonium_dust",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        },
+        "D": {
+            "name": "blocks/glass_blue",
+            "folder": "vanilla"
+        }
+    },
     "output": [
         {
             "name": "items/others/blue_unclaim_finder",
@@ -8,8 +24,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["D", "C", "D"],
+        ["B", "A", "B"],
+        ["D", "C", "D"]
     ]
 }

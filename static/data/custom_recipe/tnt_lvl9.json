@@ -1,23 +1,23 @@
 {
     "input": {
         "A": {
-            "name": "items/wheat",
+            "name": "items/paper",
             "folder": "vanilla"
         },
         "B": {
-            "name": "items/ores/zephir",
+            "name": "blocks/tnts/lvl8/tnt_lvl8_side",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/armors/farm/farm_helmet",
+            "name": "blocks/tnts/lvl9/tnt_lvl9_side",
             "folder": "plutonium"
         }
     ],
     "shape": [
-        ["A", "A", "A"],
-        ["B", " ", "B"],
-        [" ", " ", " "]
+        ["A", "B", "A"],
+        ["B", "B", "B"],
+        ["A", "B", "A"]
     ]
 }

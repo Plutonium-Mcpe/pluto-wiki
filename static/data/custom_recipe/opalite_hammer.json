@@ -7,6 +7,10 @@
         "B": {
             "name": "items/stick",
             "folder": "vanilla"
+        },
+        "C": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium" 
         }
     },
     "output": [
@@ -17,7 +21,7 @@
     ],
     "shape": [
         ["A", "A", "A"],
-        ["A", "B", "A"],
+        ["A", "C", "A"],
         [" ", "B", " "]
     ]
 }

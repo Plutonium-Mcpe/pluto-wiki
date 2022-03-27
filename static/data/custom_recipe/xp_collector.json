@@ -1,6 +1,26 @@
 {
     "input": {
- },
+        "A": {
+            "name": "blocks/iron_block",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "blocks/others/zephir_block",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "blocks/glass_pane_top",
+            "folder": "vanilla"
+        },
+        "D": {
+            "name": "blocks/glass",
+            "folder": "vanilla"
+        },
+        "E": {
+            "name": "items/ores/plutonium_fragment",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "items/others/xp_collector",
@@ -8,8 +28,8 @@
         }
     ],
     "shape": [
-        [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["D", "E", "D"],
+        ["C", "B", "C"],
+        ["A", "B", "A"]
     ]
 }

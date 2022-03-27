@@ -1,6 +1,14 @@
 {
     "input": {
- },
+        "A": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "blocks/others/opalite_block",
+            "folder": "plutonium"
+        }
+    },
     "output": [
         {
             "name": "items/armors/farm/farm_boots",
@@ -9,7 +17,7 @@
     ],
     "shape": [
         [" ", " ", " "],
-        [" ", " ", " "],
-        [" ", " ", " "]
+        ["B", " ", "B"],
+        ["A", " ", "A"]
     ]
 }
