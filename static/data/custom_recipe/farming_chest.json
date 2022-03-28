@@ -1,12 +1,24 @@
 {
     "input": {
         "A": {
-            "name": "items/ores/plutonium_fragment",
+            "name": "blocks/others/zephir_block",
             "folder": "plutonium"
         },
         "B": {
+            "name": "blocks/chest_front",
+            "folder": "vanilla"
+        },
+        "C": {
             "name": "items/tools/hoes/opalite_hoe",
             "folder": "plutonium"
+        },
+        "D": {
+            "name": "items/ores/plutonium_fragment",
+            "folder": "plutonium"
+        },
+        "E": {
+            "name": "blocks/planks_oak",
+            "folder": "vanilla"
         }
     },
     "output": [
@@ -16,8 +28,8 @@
         }
     ],
     "shape": [
-        ["A", "B", "A"],
-        ["B", " ", "B"],
+        ["E", "E", "E"],
+        ["D", "C", "D"],
         ["A", "B", "A"]
     ]
 }
