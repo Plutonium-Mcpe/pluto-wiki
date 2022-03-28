@@ -3,10 +3,10 @@ id: golem
 title: [New] Le Golem en opalite
 category: help
 description: Votre meilleur compagnon
-icon: "https://user-images.githubusercontent.com/91474741/160235541-81195a32-2935-4ff8-b390-d3c0d3615d18.png"
+icon: "https://user-images.githubusercontent.com/66992287/160475233-1e2b6b94-215a-4bcf-a1d1-451dbbd6592d.png"
 ---
 ___
-<img class="thumbnail-right" src="https://user-images.githubusercontent.com/91474741/160235541-81195a32-2935-4ff8-b390-d3c0d3615d18.png">  
+<img class="thumbnail-right" src="https://user-images.githubusercontent.com/66992287/160475233-1e2b6b94-215a-4bcf-a1d1-451dbbd6592d.png">  
 
 ## Description
 
