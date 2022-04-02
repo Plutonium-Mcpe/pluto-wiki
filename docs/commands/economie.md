@@ -1,6 +1,6 @@
 ---
 id: economie
-title: Commande de l'économie
+title: Commande liées à l'économie
 category: commands
 description: L'argent c'est bien, mais pouvoir l'utiliser c'est mieux, on vous explique tout !
 icon: "textures/items/others/billet.png"
@@ -8,16 +8,18 @@ icon: "textures/items/others/billet.png"
 ___
 ## Description
 
-Plutonium, comme dans la vie réelle, se base sur un système stable d'économie qui a pour but de pouvoir marchander sur le serveur. Que ca soit avec les joueurs ou le shop, l'argent, ou la money comme on aime bien l'appeler, est indispensable pour tout joueurs et n'est pas à négliger.
+Plutonium, comme dans la vie réelle, se base sur un système stable d'économie pour pouvoir marchander sur le serveur. Que ce soit avec d'autres joueurs ou le magasin, l'argent est indispensable pour tout joueur, il faut y accorder une grande importance.
 
-Tout les moyens sont bons pour gagner de l'argent, et vous serez confrontés à de nombreuses situations, où vous en gagnerez mais où vous en perdrez aussi !
+Tous les moyens sont bons pour gagner de l'argent, vous serez confrontés à de nombreuses situations où vous en gagnerez et en perdrez !  
+
+Si vous débuter votre aventure sur le serveur, vous commencerez avec 1000$. Il est fortement recommandé d'en prendre soin pour avancer au plus vite.
 
 ## Utilisation
 
-- ``/seemoney <joueur>`` : Permet de voir la quantité d'argent que possède le joueur spécifié
-- ``/pay <joueur> <montant>`` : Donner le montant au joueur indiqué, attention, nécessite que vous ayez le montant précisé
-- ``/mymoney`` : Pour regarder son argent, similaire au **/seemoney** de soi-même
-- ``/topmoney`` : Affichera le classement des plus riches sur le serveur
-- ``/cash <montan>`` : Transforme le montant indiqué en un billet dans votre inventaire. Peut ensuite être récupérer dans sa banque en tapant le sol avec le billet en main.
+- ``/seemoney <joueur>`` : Permet de voir la quantité d'argent que possède le joueur spécifié.
+- ``/pay <joueur> <montant>`` : Permet de donner de l’argent au joueur désigné.
+- ``/mymoney`` : Pour consulter son argent, similaire au **/seemoney** mais pour soi-même.
+- ``/topmoney`` : Affichera le classement des joueurs les plus riches sur le serveur.
+- ``/cash <montant>`` : Transforme le montant indiqué en un billet. Peut ensuite être récupéré en tapant le sol avec le billet en main.
 
-- ``/sell <hand|all>`` : Si **hand** est écrit, permet de vendre au shop, les items tenus en main, si **all** est précisé, vendras tout les items de son inventaire vendable au shop **(accessible que à partir du grade Aventurier)**
+> Un classement des joueurs les plus riches est disponible sur le site internet, permettant ainsi de se projeter, de se défier envers les autres joueurs pour espérer monter sur le podium.
