@@ -1,18 +1,18 @@
 ---
 id: channel
-title: [New] Les channels
+title: [New] Les cannaux
 category: commands
-description: Pouvoir discuter avec ses amis, le serveur ou bien sa team est essentiel !
+description: Pouvoir discuter avec ses amis, le serveur ou bien son équipe est essentiel !
 icon: "textures/blocks/command_block.png"
 ---
 ___
 ## Description
 
-Pouvoir discuter avec le serveur est important, ca permet de tisser des lien mais aussi de parler pour parler et surtout de poser ses questions, ses offres marchandes.   
-Cependant, discuter avec sa faction uniquement lorsque vous êtes en plein pillage est bien plus prioritaire que vous ne voulez pas divulger des coordonnées. Les différents channels sur plutonium sont accessibles avec cette commande.
+Pouvoir discuter sur le serveur est important, cela permet de tisser des liens et aussi de discuter simplement. Mais surtout, de poser ses questions ou de proposer ses offres marchandes.   
+Discuter uniquement avec sa faction est également important, par exemple lorsque vous êtes en plein pillage pour ne pas divulguer des coordonnées. Les différents canaux de Plutonium sont accessibles avec cette commande.
 
 ## Utilisation
 
-* ``/channel all``: Permet de se brancher sur le canal général et donc de pouvoir discuter avec n'importe qui, chaque message envoyé sera donc transmis à tout le serveur.
-* ``/channel private``: Vous avez reçu un message d'un ami ? Vous en avez marre de taper la commande ``/msg`` tout le temps ? Ce channel vous permet de transmettre chacun de vos messages au dernier joueur qui vous a envoyé un message privé.
-* ``/channel faction``: Permet de pouvoir simplement discuter avec uniquement les membres de sa faction.
+* ``/channel all``: Permet de se brancher sur le canal général et de discuter avec n'importe qui. Chaque message envoyé sera transmit à l’entièreté du serveur.
+* ``/channel private``: Vous avez reçu un message d'un ami ? Vous en avez marre de taper la commande ``/msg`` tout le temps ? Ce canal vous permet de transmettre vos messages au dernier joueur qui vous a envoyé un message privé sans effectuer de commandes.
+* ``/channel faction``: Permet de discuter avec les membres de sa faction uniquement. 
