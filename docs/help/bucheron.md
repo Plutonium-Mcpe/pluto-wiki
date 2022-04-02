@@ -26,13 +26,25 @@ Chêne sombre | 10px
 
 ## XP nécessaire
 
-Niveau | XP maximum | Différence avec niveau précédent
-:----: | :--------: | :------------------------------:
-1 | 100 | 100
-2 | 500 | 400
+Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque niveau :
+![Xp nécessaire par niveai](https://user-images.githubusercontent.com/66992287/161386721-a92cdd10-867f-4824-bf0f-6dcdcb54fc68.png)
 
 ## Récompenses
 
 Niveau | Récompenses
 :----: | :---------: 
-1 | Blabla
+1 | 16 lucky block
+2 | 5 000$
+3 | Craft épée en opalite {{image#items/tools/swords/opalite_sword}}
+4 | Craft bottes en opalite {{image#items/armors/opalite/opalite_boots}}
+5 | Craft hache en opalite {{image#items/tools/axes/opalite_axe}}
+6 | 5x64 bottle d'xp {{image#items/experience_bottle}}
+7 | 3 clés en opalite {{image#items/keys/opalite_key}}
+8 | 50 000$
+9 | 64 lucky block
+10 | 75 000$
+11 | Craft hache en plutonium {{image#items/tools/axes/plutonium_axe}}
+12 | 2 fragements en plutonium {{image#items/ores/plutonium_fragment}}
+13 | 1 clé en plutonium {{image#items/keys/plutonium_key}}
+14 | 100 000$
+15 | Craft bottes en plutonium {{image#items/armors/plutonium/plutonium_boots}}
