@@ -1,6 +1,6 @@
 ---
 id: information
-title: Commande informations
+title: Commande d'informations
 category: commands
 description: Accéder à des informations utiles facilement, une nécessiter
 icon: "textures/blocks/command_block.png"
@@ -8,7 +8,7 @@ icon: "textures/blocks/command_block.png"
 ___
 ## Description
 
-Imaginons que vous venez de quitter le discord sans faire exprès mais que vous n'avez plus le lien. Si vous souhaiter acheter un grade mais vous ne trouver pas le lien de la boutique ! Les commandes d'informations sont là pour vous procurer des informations simples, mais utiles.
+Imaginons que vous venez de quitter le discord sans faire exprès mais que vous n'avez plus le lien. Si vous souhaitez acheter un grade mais vous ne trouver pas le lien de la boutique ! Les commandes d'informations sont là pour vous procurer des informations simples, mais utiles.
 
 ## Utilisation
 
