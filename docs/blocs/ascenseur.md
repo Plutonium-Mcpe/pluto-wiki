@@ -8,7 +8,7 @@ icon: "textures/blocks/elevator.png"
 ___
 ## Description : 
 
-Ce bloc vous permet de monter ainsi que descendre d'un étage en seulement 1 clique et en prenant qu'un seul bloc d'espace. Il pourra vous être utile pour une ferme, sécuriser des zones dans une base claim ou encore faciliter vos déplacements dans une construction. Faites jouer votre imagination ! 
+Ce bloc vous permet de monter ainsi que descendre d'un étage en seulement 1 click et en prenant qu'un seul bloc d'espace. Il pourra vous être utile pour une ferme, sécuriser des zones dans une base claim ou encore faciliter vos déplacements dans une construction. Faites jouer votre imagination ! 
 
 ## Caractéristiques :
 
