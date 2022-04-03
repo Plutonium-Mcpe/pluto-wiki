@@ -9,7 +9,7 @@ ___
 ## Description
 
 La Dynamite est la meilleure amie de tout bon pilleur ! Bim Bam et le tour est joué !  
-Jeter la simplement comme un oeuf, cacher vous et ca fera boom.
+Jeter la simplement comme un oeuf, cacheé-vous et ça fera boom.
 
 ## Caractéristiques: 
 
