@@ -10,7 +10,7 @@ ___
 
 ## Description
 
-Avez vous jamais réver d'un compagnon qui peut farmer à votre place, vous protéger ou tout simplement vous tenir chaud et compagnie ?  
+Avez-vous jamais rêvé d'un compagnon qui peut farmer à votre place, vous protéger ou tout simplement vous tenir chaud et compagnie ?  
 Le golem en Opalite est votre allié juré, avec le grand nombre de mode et de compétences qu'il peut acquérir et apprendre, il vous sera nécessaire de trouver le meilleur compromis.
 
 ## Modes disponible
@@ -23,7 +23,7 @@ Attention cependant, si un joueur l'attaque il ne répliquera pas, il n'attaquer
 ### Pas bouger
 
 Simple et rapide, le golem ne bougera pas, restera inerte et ne fera plus rien.  
-Aucune réplique ou attaque ne sera effectué dans ce mode.
+Aucune réplique ou attaque ne sera effectuée dans ce mode.
 
 ### Vous suivre
 
@@ -32,23 +32,23 @@ Le suivit de joueur va vous permettre d'amener votre golem là où vous le souha
 
 ### Tuer les monstres/animaux
 
-Vous avez une ferme à spawner 
+Vous avez une ferme à spawner et souhaiter les tuer en boucle, le golem est là pour vous aider. Vous êtes dans la nature et souhaiter tuer les animaux et les monstres ? Cette capacité vous permet de faire cela.
 
 ### Protéger les joueurs
 
-Le mode de protection pour une base. En fonction des compétences que vous lui aurez attribué, le golem pourra ainsi détecter les joueurs plus ou moins loin et ainsi protéger la zone.  
-Les dégâts qu'infligera le golem sera eux aussi en fonction du niveau de compétences que vous lui aurez attribué *(pour plus d'infos sur les compéteences, voir plus loin)*.  
-Tout ses déplacements, états de fatigue sont aussi variable en fonction de vos points de compétences.
+Le mode de protection pour une base. En fonction des compétences que vous lui aurez attribuées, le golem pourra ainsi détecter les joueurs plus ou moins loin et ainsi protéger la zone.  
+Les dégâts qu'infligera le golem seront eux aussi en fonction du niveau de compétences que vous lui aurez attribuées *(pour plus d'infos sur les compétences, voir plus loin)*.  
+Tous ses déplacements, états de fatigue sont aussi variables en fonction de vos points de compétences.
 
 ### Récolter des cultures
 
-Qui n'a jamais eu envie de déleguer la culture de ses champs et de la récolte ?  
-Le golem va ainsi pouvoir effectuer cette tâche ingrate pour vous. En fonction des types de plantes que vous lui aurez débloqué dans les compétences, il pourra vous farmer du blé au plutonium, cela dépendra.  
-Attention cependant à son inventaire ! Si il ne peux plus récolter, il laissera toute sa production au sol, quel gachis :/
+Qui n'a jamais eu envie de déléguer la culture de ses champs et de la récolte ?  
+Le golem va ainsi pouvoir effectuer cette tâche ingrate pour vous. En fonction des types de plantes que vous lui aurez débloquées dans les compétences, il pourra vous farmer du blé au plutonium, cela dépendra.  
+Attention cependant à son inventaire ! S'il ne peut plus récolter, il laissera toute sa production au sol, quel gâchis :/
 
 ## Valeurs statiques
 
-En fonction du niveau du golem il obtiendra un nombre de vie plus élevé mais demandera aussi plus d'xp pour le niveau suivant !
+En fonction du niveau du golem il obtiendra un nombre de vies plus élevé mais demandera aussi plus d'xp pour le niveau suivant !
 
 Niveau | Vie maximum | Gain de vie | XP maximum | Différence niveau précédent | Équivalent bloc opalite
 :----: | :---------: | :---------: | :--------: | :-------------------------: | :---------------------:
