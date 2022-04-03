@@ -26,8 +26,9 @@ Chêne sombre | 10px
 
 ## XP nécessaire
 
-Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque niveau :
-![Xp nécessaire par niveai](https://user-images.githubusercontent.com/66992287/161386721-a92cdd10-867f-4824-bf0f-6dcdcb54fc68.png)
+Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque niveau :  
+
+<img style="margin: 0 auto;" src="https://user-images.githubusercontent.com/66992287/161420578-59810d1c-9161-4ede-a1a5-8c36a42b0118.png">
 
 ## Récompenses
 
