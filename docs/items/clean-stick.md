@@ -8,7 +8,7 @@ icon: "textures/items/sticks/clean_stick.png"
 ___
 ## Description
 
-Item simple, efficace, vous permet de retirer de votre inventaire tout les items qui ne vous sont pas utiles lors de vos session de minage.  
+Item simple, efficace, vous permet de retirer de votre inventaire tous les items qui ne vous sont pas utiles lors de vos sessions de minage.  
 
 > Taper le sol, ou utiliser le pour pouvoir l'activer
 
