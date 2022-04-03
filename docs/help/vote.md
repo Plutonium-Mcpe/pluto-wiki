@@ -1,6 +1,6 @@
 ---
 id: vote
-title: Vote
+title: Les votes pour le serveur
 category: help
 description: Fonctionnalités des votes et récompenses
 icon: "textures/items/keys/vote_key.png"
@@ -17,14 +17,14 @@ Les votes se basent sur votre pseudo Minecraft  en jeu et votre appareil, si vou
 ## Comment voter pour Plutonium ? 
 
 Pour voter sur le serveur, il faut tout d'abord vous diriger vers le lien du site ci-dessous. 
-Puis une fois sur la page internet, il faut dans un premier temps entrer entièrement votre pseudo Microsoft ( celui que vous avez en jeu ) dans la zone de texte. 
+Puis une fois sur la page internet, il faut dans un premier temps entrer entièrement votre pseudo Microsoft (celui que vous avez en jeu) dans la zone de texte. 
 Si votre pseudo comporte un espace, il faut  mettre " au début et à la fin de celui-ci.   
-Exemple : "Edited Newt"  
-Ceci fait, il suffit de cocher la case pour accepter les "Privacy Policy" du site, remplire la captcha et cliquer sur le bouton **Vote**. Un message de confirmation vous sera ensuite envoyé sur le site. 
+> Exemple : "Edited Newt"  
+Ceci fait, il suffit de cocher la case pour accepter les "Privacy Policy" du site, compléter la captcha et cliquer sur le bouton **Vote**. Un message de confirmation vous sera ensuite envoyé sur le site. 
 
 Lien du site : https://minecraftpocket-servers.com/server/83692/vote/ 
 
-<img style="margin: 0 auto;display:block;" src="https://user-images.githubusercontent.com/91474741/159535022-0171c4d5-9ba8-40bd-a265-b48e36cee25d.png">
+<img style="margin: 10px auto;display:block;" src="https://user-images.githubusercontent.com/91474741/159535022-0171c4d5-9ba8-40bd-a265-b48e36cee25d.png">
 
 ## Récompences votes 
 
