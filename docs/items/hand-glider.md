@@ -18,6 +18,6 @@ Il vous suffit de l'avoir dans la main et vous en serez protégé
  
 ## Craft  
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette items  
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cet item.  
 
 {{craft#craft/craft_hand_glider}} 
