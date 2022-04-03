@@ -2,7 +2,7 @@
 id: bloc-a-effets
 title: Bloc à Effets
 category: blocs
-description: Les bloc à effets peuvent autant être nuisible que bénéfique dépendant de si on l'utilise ou si on le subit
+description: Les blocs à effets peuvent autant être nuisible que bénéfique dépendant de si on l'utilise ou si on le subit
 icon: "textures/blocks/others/block_effect.png"
 ---
 ___
