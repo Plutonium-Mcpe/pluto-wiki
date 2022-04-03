@@ -2,7 +2,7 @@
 id: heal-stick
 title: Heal stick
 category: items
-description: Les heals sticks, ca fait du bien
+description: Les heals sticks, ça fait du bien
 icon: "textures/items/heal_stick.png"
 ---
 ___
@@ -13,12 +13,12 @@ Utiliser les sur le sol pour vous régénérer si le cooldown est fini.
 
 ### Caractéristiques:
 
-* ``Effet:`` Restaure 10 points de vie (<img src="https://user-images.githubusercontent.com/66992287/148552833-5dca13e9-6fd3-455f-9043-ad5968730f4d.png" style='display: inline-block;position: relative;top: 6px;'>)
+* ``Effet:`` Restaure 10pv {{image#ui/heart}}
 * ``Durabilité:`` 5 Utilisations
 * ``Cooldown:`` 10s entre chaque utilisation
     
 ### Craft: 
 
-> Craft débloqué au niveau 2 du métier de #help/guerrier
+> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cet item.  
 
 {{craft#craft/craft_heal_stick}}
