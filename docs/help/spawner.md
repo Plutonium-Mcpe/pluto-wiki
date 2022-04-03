@@ -2,25 +2,27 @@
 id: spawner
 title: [New] Les spawners
 category: help
-description: Fonctionnalités des spawners
+description: Le système de génération des spawners
 icon: "textures/blocks/mob_spawner.png"
 ---
 ___
 
 ## Introduction 
 
-Les spawners sont des blocs vanilla permettant de générée en continue et infiniment la créature ou l'animal qui se trouve dans lui.  
+Les spawners sont des blocs vanilla permettant de générer en continu et infiniment la créature ou l'animal qui se trouve dans lui.  
 Un nouveau système de génération et d'utilisation des spawners a été mis en place sur le serveur.    
-Ce dispositif permet d'éviter l'abus du farm des spawners ainsi que créer engoument sur leurs recherches.  
+Ce dispositif permet d'éviter l'abus du farm des spawners ainsi que créer engouement sur leurs recherches.  
 
 ## Explication 
 
 Les spawners sont donc dès à présent directement générée sur les maps factions des différents serveurs. Les spawners se trouvent dans des salles comportant entre 1 et 4 spawners du même type.  
-Il n’est maintenant plus possible de casser des spawners pour les récupérer, néanmoins si tous les spawners d’une salle sont cassés, une nouvelle sera directement généré sur la map. Le nombre de salles avec spawners sur la map sera donc toujours le même tout au long de la version.  
+Il n’est maintenant plus possible de casser des spawners pour les récupérer, néanmoins si tous les spawners d’une salle sont cassés, une nouvelle sera directement générée sur la map. Le nombre de salles avec spawners sur la map sera donc toujours le même tout au long de la version.  
 Les spawners ne sont également plus disponibles à l’achat au shop les rendant donc irrécupérables et très rares.   
 A vous de faire jouer votre patience pour en trouver ainsi que d’en prendre soin !   
 
 **Chaque salle a un type et nombre de spawners généré aleatoirement à partir des données si dessous :** 
+
+> Les salles de spawner apparraissent entre la couche 16 et 40.
 
 ### Spawner à Squelettes {{image#items/egg_skeleton}}
 
