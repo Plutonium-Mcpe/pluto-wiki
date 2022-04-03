@@ -17,12 +17,12 @@ Selon le type du bois et sa rareté, vous gagnerez plus ou moins d'XP selon ce t
 
 Action | XP gagné
 :------: | :------:
-Chêne | 10xp
-Sapin | 10xp
-Bouleau | 10xp
-Acacia | 10xp
-Tropical | 10xp
-Chêne sombre | 10px
+Chêne | 1xp
+Sapin | 1xp
+Bouleau | 2xp
+Acacia | 3xp
+Tropical | 0.5xp
+Chêne sombre | 1px
 
 ## XP nécessaire
 
