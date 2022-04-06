@@ -1,7 +1,7 @@
 {
     "input": {
         "A": {
-            "name": "items/ores/plutonium_dust",
+            "name": "items/ores/plutonium_ingot",
             "folder": "plutonium"
         },
         "B": {
