@@ -17,9 +17,9 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 - ``Durabilité`` : Durabilité deux fois plus puissante que #armor/opalite-armor
  
 
-## Casque en Plutonium {{image#items/armors/plutonium/plutonium_helmet}}
+## {{image#items/armors/plutonium/plutonium_helmet}} Casque en Plutonium
 
-### Caractéristiques
+### Caractéristique
 
 - ``Effets ajoutés`` : 
     * Vision nocturne
@@ -34,9 +34,9 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ---
 
-## Plastron en plutonium {{image#items/armors/plutonium/plutonium_chestplate}}
+## {{image#items/armors/plutonium/plutonium_chestplate}} Plastron en plutonium
 
-### Caractéristiques
+### Caractéristique
 
 - ``Effets ajoutés`` : 
     * Haste II
@@ -44,36 +44,36 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_plutonium_chestplate}} 
 
 ---
 
-## Jambières en plutonium {{image#items/armors/plutonium/plutonium_leggings}}
+## {{image#items/armors/plutonium/plutonium_leggings}} Jambières en plutonium
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : 
+- ``Effet ajouté`` : 
     * Résistance au feu
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_plutonium_leggings}} 
 
 ---
 
-## Bottes en plutonium {{image#items/armors/plutonium/plutonium_boots}}
+## {{image#items/armors/plutonium/plutonium_boots}} Bottes en plutonium
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : 
+- ``Effet ajouté`` : 
     * Vitesse II
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_plutonium_boots}} 
