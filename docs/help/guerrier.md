@@ -37,15 +37,15 @@ Niveau | Récompenses
 1 | 5 heal sticks {{image#items/sticks/heal_stick}}
 2 | 1 hand glider {{image#items/others/hand_glider}}
 3 | 32 pommes en opalite {{image#items/foods/opalite_apple}}
-4 | 20 000$
+4 | 20 000$ {{image#items/others/billet}}
 5 | 1 unclaim finder bleu {{image#items/others/blue_unclaim_finder}}
-6 | 16 blocs à effets
+6 | 16 blocs à effets {{image#blocks/others/block_effect.png}}
 7 | Craft arc en opalite {{image#items/bows/opalite/opalite_bow}}
 8 | 3 clées en opalite {{image#items/keys/opalite_key}}
 9 | Craft unclaim finder bleu {{image#items/others/blue_unclaim_finder}}
-10 | 75 000$
+10 | 75 000$ {{image#items/others/billet}}
 11 | Craft épée en plutonium {{image#items/tools/swords/plutonium_sword}}
 12 | 2 fragements en plutonium {{image#items/ores/plutonium_fragment}}
 13 | 1 clé en plutonium {{image#items/keys/plutonium_key}}
-14 | 100 000$
+14 | 100 000$ {{image#items/others/billet}}
 15 | Craft plastron en plutonium {{image#items/armors/plutonium/plutonium_chestplate}}
