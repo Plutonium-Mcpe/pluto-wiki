@@ -28,7 +28,7 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 15 du métier #help/farmeur
 
 {{craft#craft/craft_plutonium_helmet}} 
 
@@ -44,7 +44,7 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 15 du métier #help/guerrier
 
 {{craft#craft/craft_plutonium_chestplate}} 
 
@@ -59,7 +59,7 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 15 du métier #help/mineur
 
 {{craft#craft/craft_plutonium_leggings}} 
 
@@ -74,6 +74,6 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 15 du métier #help/bucheron
 
 {{craft#craft/craft_plutonium_boots}} 
