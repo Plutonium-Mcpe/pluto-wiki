@@ -17,7 +17,7 @@ Pratique pour augmenter facilement son métier de #help/bucherons n’est-ce pas
 ### Caractéristiques
 
 - ``Éfficacité ``: Deux fois plus rapide qu'une hache en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: Bientôt disponible
 
 ### Craft 
 
@@ -30,7 +30,7 @@ Pratique pour augmenter facilement son métier de #help/bucherons n’est-ce pas
 ### Caractéristiques
 
 - ``Éfficacité ``: Trois fois plus rapide qu'une hache en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: Bientôt disponible 
 
 ### Craft 
 

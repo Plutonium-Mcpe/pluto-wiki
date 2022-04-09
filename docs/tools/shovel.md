@@ -16,7 +16,7 @@ Pratique si vous avez besoin de creuser une farm ou encore récolter de la terre
 ### Caractéristiques
 
 - ``Éfficacité ``: Deux fois plus rapide qu'une pelle en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: Bientôt disponible
 
 ### Craft 
 
@@ -29,7 +29,7 @@ Pratique si vous avez besoin de creuser une farm ou encore récolter de la terre
 ### Caractéristiques
 
 - ``Éfficacité ``: Trois fois plus rapide qu'une pelle en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: Bientôt disponible
 
 ### Craft 
 

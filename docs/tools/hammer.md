@@ -16,9 +16,8 @@ Bonne séance de minage !
 
 ### Caractéristiques
 
-- ``Zone de creusage ``: Zone de 3x3x1
-- ``Effect ajouté ``: Fatigue I {{image#ui/mining_fatigue_effect}}
-- ``Durabilité`` : à def
+- ``Zone de creusage ``: Zone de 3x1x1
+- ``Durabilité`` : Bientôt disponible
 
 ### Craft 
 
@@ -30,9 +29,8 @@ Bonne séance de minage !
 
 ### Caractéristiques
 
-- ``Zone de creusage ``: Zone de 5x5x1 
-- ``Effect ajouté ``: Fatigue II {{image#ui/mining_fatigue_effect}}
-- ``Durabilité`` : à def
+- ``Zone de creusage ``: Zone de 5x1x1 
+- ``Durabilité`` : Bientôt disponible
 
 ### Craft 
 
