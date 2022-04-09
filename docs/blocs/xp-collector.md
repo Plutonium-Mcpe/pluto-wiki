@@ -19,6 +19,6 @@ Si vous souhaitez utiliser au mieux un spawners, un XP collector pourra vous êt
 
 ## Craft : 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de ce bloc.
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de ce bloc.
 
 {{craft#craft/craft_xp_collector}}
