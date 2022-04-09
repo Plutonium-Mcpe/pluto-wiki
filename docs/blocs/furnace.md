@@ -12,7 +12,7 @@ L’économie du minage de Minecraft normal fonctionne à l’aide de fours pour
 Ces deux fours vous permettent donc de fondre vos minerais plus rapidement que les fours classiques. 
 Mais ils vous permettent en plus de récupérer de l’xp pour le métier de #help/mineur rendant plus rentable le minage pour l’avancement de vos métiers.
 
-## Four en Opalite {{image#blocks/furnaces/opalite/opalite_furnace_front_off}}:
+## {{image#blocks/furnaces/opalite/opalite_furnace_front_off}} Four en Opalite :
 
 ### Caractéristiques
 
@@ -22,11 +22,11 @@ Mais ils vous permettent en plus de récupérer de l’xp pour le métier de #he
 
 ### Craft : 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du four.  
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 
 {{craft#craft/craft_opalite_furnace}}
 
-## Four en Plutonium {{image#blocks/furnaces/plutonium/plutonium_furnace_front_off}}:
+## {{image#blocks/furnaces/plutonium/plutonium_furnace_front_off}} Four en Plutonium :
 
 ### Caractéristiques
 
@@ -36,6 +36,6 @@ Mais ils vous permettent en plus de récupérer de l’xp pour le métier de #he
 
 ### Craft : 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft du four.  
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 
 {{craft#craft/craft_plutonim_furnace}}  
