@@ -16,60 +16,60 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 - ``Points d'armure`` : Résistance un peu plus forte que le stuff en diamant
 - ``Durabilité`` : Durabilité plus puissante que le diamant
 
-## Casque en opalite {{image#items/armors/opalite/opalite_helmet}}
+## {{image#items/armors/opalite/opalite_helmet}} Casque en opalite
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : 
+- ``Effet ajouté`` : 
     * Vision nocturne
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_opalite_helmet}} 
 
 ---
 
-## Plastron en opalite {{image#items/armors/opalite/opalite_chestplate}}
+## {{image#items/armors/opalite/opalite_chestplate}} Plastron en opalite
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : 
+- ``Effet ajouté`` : 
     * Résistance I
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_opalite_chestplate}} 
 
 ---
 
-## Jambières en opalite {{image#items/armors/opalite/opalite_leggings}}
+## {{image#items/armors/opalite/opalite_leggings}} Jambières en opalite
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : 
+- ``Effet ajouté`` : 
     * Haste I
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_opalite_leggings}} 
 
 ---
 
-## Bottes en opalite {{image#items/armors/opalite/opalite_boots}}
+## {{image#items/armors/opalite/opalite_boots}} Bottes en opalite
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : 
+- ``Effet ajouté`` : 
     * Vitesse I
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_opalite_boots}} 
