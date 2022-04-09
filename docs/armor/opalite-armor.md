@@ -17,7 +17,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : test
+- ``Effets ajoutés`` : 
+    * Vision nocturne
 - ``Points d'armure`` : test
 - ``Durabilité`` : test
 
@@ -33,7 +34,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : test
+- ``Effets ajoutés`` : 
+    * Résistance I
 - ``Points d'armure`` : test
 - ``Durabilité`` : test
 
@@ -49,7 +51,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : test
+- ``Effets ajoutés`` : 
+    * Haste I
 - ``Points d'armure`` : test
 - ``Durabilité`` : test
 
@@ -65,7 +68,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : test
+- ``Effets ajoutés`` : 
+    * Vitesse I
 - ``Points d'armure`` : test
 - ``Durabilité`` : test
 

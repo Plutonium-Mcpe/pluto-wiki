@@ -18,7 +18,10 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : test
+- ``Effets ajoutés`` : 
+    * Vision nocturne
+    * Respiration aquatique
+    * Aucune perte de nourriture
 - ``Points d'armure`` : test
 - ``Durabilité`` : test
 
@@ -34,7 +37,9 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : test
+- ``Effets ajoutés`` : 
+    * Haste II
+    * Résistance II
 - ``Points d'armure`` : test
 - ``Durabilité`` : test
 
@@ -50,7 +55,8 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : test
+- ``Effets ajoutés`` : 
+    * Résistance au feu
 - ``Points d'armure`` : test
 - ``Durabilité`` : test
 
@@ -66,7 +72,8 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Caractéristiques
 
-- ``Effets ajoutés`` : test
+- ``Effets ajoutés`` : 
+    * Vitesse II
 - ``Points d'armure`` : test
 - ``Durabilité`` : test
 
