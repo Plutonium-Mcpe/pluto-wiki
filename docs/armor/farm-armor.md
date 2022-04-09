@@ -14,7 +14,7 @@ Le farming est une action de base de Minecraft qui consiste à la production de 
 Sur le serveur, il vous permet de gagner de l'argent, de vous nourrir ou encore d'up vos métiers. 
 Cette armure vous sera donc bien utile durant votre aventure en facilitant le farming.
 
-## Casque de farm {{image#items/armors/farm/farm_helmet}}
+## {{image#items/armors/farm/farm_helmet}} Casque de farm
 
 ### Caractéristiques
 
@@ -25,13 +25,13 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_farm_helmet}} 
 
 ---
 
-## Plastron de farm {{image#items/armors/farm/farm_chestplate}}
+## {{image#items/armors/farm/farm_chestplate}} Plastron de farm 
 
 ### Caractéristiques
 
@@ -41,13 +41,13 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_farm_chestplate}} 
 
 ---
 
-## Jambières de farm {{image#items/armors/farm/farm_leggings}}
+## {{image#items/armors/farm/farm_leggings}} Jambières de farm
 
 ### Caractéristiques
 
@@ -56,13 +56,13 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_farm_leggings}} 
 
 ---
 
-## Bottes de farm {{image#items/armors/farm/farm_boots}}
+## {{image#items/armors/farm/farm_boots}} Bottes de farm
 
 ### Caractéristiques
 
@@ -71,6 +71,6 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_farm_boots}} 
