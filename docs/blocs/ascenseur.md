@@ -12,7 +12,7 @@ Ce bloc vous permet de monter ainsi que descendre d'un étage en seulement 1 cli
 
 ## Caractéristiques :
 
-Pour l'utilisation de ce bloc il faut obligatoirement qu'il s'utilise de pair avec un autre ascenseur situer au-dessous ou au-dessus du premier. 
+Pour l'utilisation de ce bloc il faut obligatoirement qu'il s'utilise de pair avec un autre ascenseur situé au-dessous ou au-dessus du premier. 
 
 - ``Distance maximal de téléportation``: 5 blocs 
 - ``Monter d'un étage``: sauter 
@@ -20,6 +20,6 @@ Pour l'utilisation de ce bloc il faut obligatoirement qu'il s'utilise de pair av
  
 ## Craft :
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de ce block 
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de ce block 
 
 {{craft#craft/craft_elevator}} 
