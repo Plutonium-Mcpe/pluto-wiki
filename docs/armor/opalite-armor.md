@@ -13,14 +13,15 @@ L’armures en opalite est une armure modé comportant de nombreux avantages dan
 Cette armure est la plus basique des armures modé mais loins d’être la plus faible des armures disponibles sur le serveur. 
 Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez faible.
 
+- ``Points d'armure`` : Résistance un peu plus forte que le stuff en diamant
+- ``Durabilité`` : Durabilité plus puissante que le diamant
+
 ## Casque en opalite {{image#items/armors/opalite/opalite_helmet}}
 
 ### Caractéristiques
 
 - ``Effets ajoutés`` : 
     * Vision nocturne
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
@@ -36,8 +37,6 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 - ``Effets ajoutés`` : 
     * Résistance I
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
@@ -53,8 +52,6 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 - ``Effets ajoutés`` : 
     * Haste I
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
@@ -70,8 +67,6 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 - ``Effets ajoutés`` : 
     * Vitesse I
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 

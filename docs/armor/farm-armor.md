@@ -22,8 +22,6 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
     * Respiration aquatique
     * Vision nocturne
     * Aucune perte de nourriture
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
@@ -40,8 +38,6 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 - ``Effets ajoutés`` : 
     * Résistance au feu
     * Haste III
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
@@ -57,8 +53,6 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 - ``Effets ajoutés`` : 
     * Jump boost II
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
@@ -74,8 +68,6 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 - ``Effets ajoutés`` : 
     * Vitesse III
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 

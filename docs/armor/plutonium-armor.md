@@ -12,6 +12,9 @@ ___
 L’armure en plutonium est la plus rare ainsi que la plus forte des armures du serveur. 
 C’est une armure modée permettant une protection et résistance optimale ainsi que des effets les plus complets et puissant possibles. 
 Elle vous donnera des avantages très conséquent vis à vis de vos adversaire dans les combats par exemple. 
+
+- ``Points d'armure`` : Résistance plus forte que #armor/opalite-armor
+- ``Durabilité`` : Durabilité deux fois plus puissante que #armor/opalite-armor
  
 
 ## Casque en Plutonium {{image#items/armors/plutonium/plutonium_helmet}}
@@ -22,8 +25,6 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
     * Vision nocturne
     * Respiration aquatique
     * Aucune perte de nourriture
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
@@ -40,8 +41,6 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 - ``Effets ajoutés`` : 
     * Haste II
     * Résistance II
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
@@ -57,8 +56,6 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 - ``Effets ajoutés`` : 
     * Résistance au feu
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
@@ -74,8 +71,6 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 - ``Effets ajoutés`` : 
     * Vitesse II
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
 
 ### Craft 
 
