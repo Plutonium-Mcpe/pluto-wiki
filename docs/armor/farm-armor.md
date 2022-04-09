@@ -25,7 +25,7 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 6 du métier #help/mineur
 
 {{craft#craft/craft_farm_helmet}} 
 
@@ -41,7 +41,7 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 6 du métier #help/mineur
 
 {{craft#craft/craft_farm_chestplate}} 
 
@@ -56,7 +56,7 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 6 du métier #help/mineur
 
 {{craft#craft/craft_farm_leggings}} 
 
@@ -71,6 +71,6 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 6 du métier #help/mineur
 
 {{craft#craft/craft_farm_boots}} 
