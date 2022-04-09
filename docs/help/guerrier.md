@@ -39,7 +39,7 @@ Niveau | Récompenses
 3 | 32 pommes en opalite {{image#items/foods/opalite_apple}}
 4 | 20 000$ {{image#items/others/billet}}
 5 | 1 unclaim finder bleu {{image#items/others/blue_unclaim_finder}}
-6 | 16 blocs à effets {{image#blocks/others/block_effect.png}}
+6 | 16 blocs à effets {{image#blocks/others/block_effect}}
 7 | Craft arc en opalite {{image#items/bows/opalite/opalite_bow}}
 8 | 3 clées en opalite {{image#items/keys/opalite_key}}
 9 | Craft unclaim finder bleu {{image#items/others/blue_unclaim_finder}}
