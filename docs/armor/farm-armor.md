@@ -16,7 +16,7 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ## {{image#items/armors/farm/farm_helmet}} Casque de farm
 
-### Caractéristiques
+### Caractéristique
 
 - ``Effets ajoutés`` : 
     * Respiration aquatique
@@ -33,7 +33,7 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ## {{image#items/armors/farm/farm_chestplate}} Plastron de farm 
 
-### Caractéristiques
+### Caractéristique
 
 - ``Effets ajoutés`` : 
     * Résistance au feu
@@ -49,9 +49,9 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ## {{image#items/armors/farm/farm_leggings}} Jambières de farm
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : 
+- ``Effet ajouté`` : 
     * Jump boost II
 
 ### Craft 
@@ -64,9 +64,9 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 ## {{image#items/armors/farm/farm_boots}} Bottes de farm
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : 
+- ``Effet ajouté`` : 
     * Vitesse III
 
 ### Craft 
