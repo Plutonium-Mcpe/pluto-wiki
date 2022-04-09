@@ -25,7 +25,7 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 4 du métier #help/farmeur
 
 {{craft#craft/craft_opalite_helmet}} 
 
@@ -55,7 +55,7 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 5 du métier #help/mineur
 
 {{craft#craft/craft_opalite_leggings}} 
 
@@ -70,6 +70,6 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Craft 
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 4 du métier #help/bucheron
 
 {{craft#craft/craft_opalite_boots}} 
