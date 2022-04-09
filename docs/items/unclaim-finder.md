@@ -17,11 +17,11 @@ Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre
 
 Il est aussi possible de les placers dans votre seconde main, faciliant ainsi la tâche de recherche de base.
  
-## Unclaim finder rouge {{image#items/others/red_unclaim_finder}}
+## {{image#items/others/red_unclaim_finder}} Unclaim finder rouge
 
 ### Caractéristiques
 
-- **Zone de détection** : Zone de 50x50x300 autour de vous 
+- **Zone de détection** : Zone de 50x50x256 autour de vous 
 - **Blocs détectés** : 
     - Coffre
     - Four
@@ -30,16 +30,16 @@ Il est aussi possible de les placers dans votre seconde main, faciliant ainsi la
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cet item
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item
 
 {{craft#craft/craft_red_unclaim_finder}} 
 
 
-## Unclaim finder bleu {{image#items/others/blue_unclaim_finder}}
+## {{image#items/others/blue_unclaim_finder}} Unclaim finder bleu
 
 ### Caractéristiques
 
-- **Zone de détection** : Zone de 25x25x300 autour de vous 
+- **Zone de détection** : Zone de 25x25x256 autour de vous 
 - **Blocs détectés** : 
     - Dropper
     - Distributeur
