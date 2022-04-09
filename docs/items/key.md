@@ -15,23 +15,23 @@ Les keys servent de récompense à diverses actions que vous pouvez réaliser su
 
 ## Utilisation 
 
-### Key vote {{image#items/keys/vote_key}}
+### {{image#items/keys/vote_key}} Key vote
 
 - Permet l'utilisation des #commands/keytransform.
-- Permet d'ouvrir la box vote (#box). 
+- Permet d'ouvrir la box vote. 
 - Obtenable via les récompences quotidiennes des voteurs (#help/vote).    
 
-### Key commune {{image#items/keys/common_key}}
+### {{image#items/keys/common_key}} Key commune
 
-- Permet d'ouvrir la box commune (#box).
+- Permet d'ouvrir la box commune.
 - Obtenable dans les coffres de War-Zone et via les #boss. 
 
-### Key opalite {{image#items/keys/opalite_key}}
+### {{image#items/keys/opalite_key}} Key opalite
 
-- Permet d'ouvrir la box opalite (#box).
-- Obtenable dans certains kits (#kit) & via les commandes de keytransform.  
+- Permet d'ouvrir la box opalite.
+- Obtenable dans certains kits & via les commandes de keytransform.  
 
-### Key plutonium {{image#items/keys/plutonium_key}}
+### {{image#items/keys/plutonium_key}} Key plutonium
 
-- Permet d'ouvrir la box plutonium (#box).
+- Permet d'ouvrir la box plutonium.
 - Obtenable via les commandes de keytransform & via les récompenses pour les personnes qui ont voté tous les jours d'un mois.
