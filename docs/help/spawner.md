@@ -24,7 +24,7 @@ A vous de faire jouer votre patience pour en trouver ainsi que d’en prendre so
 
 > Les salles de spawner apparraissent entre la couche 16 et 40.
 
-### Spawner à Squelettes {{image#items/egg_skeleton}}
+### {{image#items/egg_skeleton}} Spawner à Squelettes
 
 - `` Probabilité de génération de ce type `` : 30% 
 
@@ -35,7 +35,7 @@ Nombre de spawners dans la salle | Probabilité |
 2 | 30%
 1 | 40%
 
-### Spawner à Creepers {{image#items/egg_creeper}}
+### {{image#items/egg_creeper}} Spawner à Creepers
 
 - `` Probabilité de génération de ce type `` : 30% 
 
@@ -46,7 +46,7 @@ Nombre de spawners dans la salle | Probabilité |
 2 | 30%
 1 | 40%
 
-### Spawner à Araignées {{image#items/egg_spider}}
+### {{image#items/egg_spider}} Spawner à Araignées
 
 - `` Probabilité de génération de ce type `` : 20% 
 
@@ -57,7 +57,7 @@ Nombre de spawners dans la salle | Probabilité |
 2 | 30%
 1 | 47%
 
-### Spawner à Zombies {{image#items/egg_zombie}}
+### {{image#items/egg_zombie}} Spawner à Zombies
 
 - `` Probabilité de génération de ce type `` : 15% 
 
@@ -68,7 +68,7 @@ Nombre de spawners dans la salle | Probabilité |
 2 | 40%
 1 | 40%
 
-### Spawner à Endermans {{image#items/egg_enderman}}
+### {{image#items/egg_enderman}} Spawner à Endermans
 
 - `` Probabilité de génération de ce type `` : 5% 
 
