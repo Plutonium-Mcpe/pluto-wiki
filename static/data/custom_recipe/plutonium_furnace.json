@@ -1,40 +1,16 @@
 {
     "input": {
         "A": {
-            "name": "items/ores/plutonium_ingot",
-            "folder": "plutonium"
-        },
-        "B": {
-            "name": "blocks/others/opalite_block",
+            "name": "items/ores/plutonium_fragment",
             "folder": "plutonium"
         },
         "C": {
             "name": "blocks/furnaces/opalite/opalite_furnace_front_off",
             "folder": "plutonium"
         },
-        "D": {
-            "name": "blocks/diamond_block",
-            "folder": "vanilla"
-        },
-        "E": {
-            "name": "blocks/iron_block",
-            "folder": "vanilla"
-        },
-        "F": {
+        "B": {
             "name": "blocks/others/zephir_block",
             "folder": "plutonium"
-        },
-        "G": {
-            "name": "blocks/gold_block",
-            "folder": "vanilla"
-        },
-        "H": {
-            "name": "blocks/lapis_block",
-            "folder": "vanilla"
-        },
-        "I": {
-            "name": "blocks/redstone_block",
-            "folder": "vanilla"
         }
     },
     "output": [
@@ -44,8 +20,8 @@
         }
     ],
     "shape": [
-        ["E", "F", "G"],
-        ["D", "A", "H"],
-        ["B", "C", "I"]
+        ["A", "A", "A"],
+        ["A", "B", "A"],
+        ["A", "C", "A"]
     ]
 }
