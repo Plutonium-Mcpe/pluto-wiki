@@ -18,7 +18,7 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ## {{image#items/armors/opalite/opalite_helmet}} Casque en opalite
 
-### Caractéristiques
+### Caractéristique
 
 - ``Effet ajouté`` : 
     * Vision nocturne
@@ -33,7 +33,7 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ## {{image#items/armors/opalite/opalite_chestplate}} Plastron en opalite
 
-### Caractéristiques
+### Caractéristique
 
 - ``Effet ajouté`` : 
     * Résistance I
@@ -48,7 +48,7 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ## {{image#items/armors/opalite/opalite_leggings}} Jambières en opalite
 
-### Caractéristiques
+### Caractéristique
 
 - ``Effet ajouté`` : 
     * Haste I
@@ -63,7 +63,7 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ## {{image#items/armors/opalite/opalite_boots}} Bottes en opalite
 
-### Caractéristiques
+### Caractéristique
 
 - ``Effet ajouté`` : 
     * Vitesse I
