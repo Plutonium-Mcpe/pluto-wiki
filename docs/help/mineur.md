@@ -18,15 +18,24 @@ Chaque bloc miné donnera un nombre d'XP qui lui est fixe selon ce tableau :
 Minerais | XP gagné
 :------: | :------:
 Lapis | 1xp
-Fer | 1xp
+Fer | 0.5xp
 Redstone | 1xp
-Charbon | 1xp
+Charbon | 0.75xp
 RandomOre | 2xp
-Or | 2xp
+Or | 0.5xp
 Diamant | 2xp
-Opalite | 3xp
-Zéphir | 4xp
-Quartz | 2xp
+Opalite | 1xp
+Zéphir | 1xp
+Quartz | 3xp
+
+Vous pourrez aussi obtenir de l'xp en minant certains minerai spécifiques :
+
+Minerais | XP gagné
+:------: | :------:
+Fer | 1xp
+Or | 1.5xp
+Opalite | 2.5xp
+Zéphir | 3xp
 
 ## XP nécessaire
 
