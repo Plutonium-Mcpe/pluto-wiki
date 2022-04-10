@@ -13,7 +13,7 @@ Il vous faudra miner pour monter en niveau et ainsi débloquer des crafts, obten
 
 ## Comment XP ?
 
-Chaque bloc miné donnera un nombre d'XP qui lui est fixe selon ce tableau : 
+{{image#items/tools/pickaxes/opalite_pickaxe}} Chaque bloc miné donnera un nombre d'XP qui lui est fixe selon ce tableau : 
 
 Minerais | XP gagné
 :------: | :------:
@@ -28,7 +28,7 @@ Opalite | 1xp
 Zéphir | 1xp
 Quartz | 3xp
 
-Vous pourrez aussi obtenir de l'xp en cuisant certains minerai spécifiques :
+{{image#blocks/furnaces/plutonium/plutonium_furnace_front_on}} Vous pourrez aussi obtenir de l'xp en cuisant certains minerai spécifiques :
 
 Minerais | XP gagné
 :------: | :------:
