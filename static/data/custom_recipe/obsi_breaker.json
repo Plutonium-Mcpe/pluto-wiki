@@ -10,7 +10,7 @@
         },
         "C": {
             "name": "blocks/obsidian",
-            "folder": "plutonium"
+            "folder": "vanilla"
         },
         "D": {
             "name": "items/ores/plutonium_dust",
