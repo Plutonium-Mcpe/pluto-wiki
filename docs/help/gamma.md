@@ -17,10 +17,10 @@ Réfléchissez bien avant de commencer à l'attaquer !
 
 ## Caractéristiques 
 ### Boss :
-- ``Points de vie`` : 2 000 pv
+- ``Points de vie`` : 10 000 pv
 - ``Dégât`` : 7.5 {{image#ui/heart}} pour un joueur sans armure, cooldown d'une seconde
 - ``Agros`` : Zone de 8 blocs 
-- ``Régénération`` : 1 PV par seconde à partir du moment où le boss n'a pas pris de dégâts pendant plus de 10 secondes
+- ``Régénération`` : 1 PV par seconde à partir du moment où le boss n'a pas pris de dégâts pendant plus de 5 secondes
 - ``Attaque spéciale`` : Saut *(voir section suivante)*
 - ``Butin à sa mort``
     - Entre une et trois clés Commune {{image#items/keys/common_key}}
