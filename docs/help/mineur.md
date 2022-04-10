@@ -28,7 +28,7 @@ Opalite | 1xp
 Zéphir | 1xp
 Quartz | 3xp
 
-Vous pourrez aussi obtenir de l'xp en minant certains minerai spécifiques :
+Vous pourrez aussi obtenir de l'xp en cuisant certains minerai spécifiques :
 
 Minerais | XP gagné
 :------: | :------:
