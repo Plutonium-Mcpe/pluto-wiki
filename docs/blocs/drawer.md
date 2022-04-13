@@ -9,13 +9,6 @@ ___
 ## Description : 
 Le drawer est un nouveau moyen de stockage plus rapide, efficace et sécurisé. Vous pouvez dans un drawer mettre d'énormes quantités de stuff puis le fermer et en faire ce que vous souhaitez.  
 En contrepartie, vous ne pouvez pas mettre plusieurs items différents dans un même drawer. 
-Le stockage de ce dernier dépend du niveau de votre drawer qui est dans l'ordre : 
-- Bois
-- Pierre
-- Fer
-- Diamant
-- Opalite
-- Plutonium.
 
 ## Utilisation : 
 
