@@ -17,7 +17,7 @@ Elles vous transformeront en mineur hors-pair !
 ### Caractéristiques
 
 - ``Éfficacité ``: Deux fois plus rapide qu'une pioche en diamant 
-- ``Durabilité ``: Bientôt disponible
+- ``Durabilité ``: 2000
 
 ### Craft 
 
@@ -30,7 +30,7 @@ Elles vous transformeront en mineur hors-pair !
 ### Caractéristiques
 
 - ``Éfficacité ``: Trois fois plus rapide qu'une pioche en diamant 
-- ``Durabilité ``: Bientôt disponible
+- ``Durabilité ``: 5000
 
 ### Craft 
 
