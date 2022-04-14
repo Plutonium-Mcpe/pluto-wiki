@@ -16,8 +16,8 @@ Bonne séance de minage !
 
 ### Caractéristiques
 
-- ``Zone de creusage ``: Zone de 3x1x1
-- ``Durabilité`` : Bientôt disponible
+- ``Zone de creusage ``: Zone de 3x1
+- ``Durabilité`` : 1000
 
 ### Craft 
 
@@ -29,8 +29,8 @@ Bonne séance de minage !
 
 ### Caractéristiques
 
-- ``Zone de creusage ``: Zone de 5x1x1 
-- ``Durabilité`` : Bientôt disponible
+- ``Zone de creusage ``: Zone de 5x1
+- ``Durabilité`` : 2000
 
 ### Craft 
 
