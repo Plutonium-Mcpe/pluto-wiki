@@ -16,9 +16,9 @@ Un craft, un écharnement, et le tour est joué pour vous démarquez lors de vos
 
 ### Caractéristiques
 
-- ``Dégats`` : 1.5 {{image#ui/heart}}
-- ``Coups speciaux`` : KnockBack II & Flammes
-- ``Durabilité`` : Bientôt disponible
+- ``Dégats`` : 1/1.5 {{image#ui/heart}}
+- ``Coups speciaux`` : KnockBack I (Rare) & Flammes
+- ``Durabilité`` : 2500
 
 ### Craft 
 
@@ -30,9 +30,9 @@ Un craft, un écharnement, et le tour est joué pour vous démarquez lors de vos
 
 ### Caractéristiques
 
-- ``Dégats`` : 2.5 {{image#ui/heart}}
-- ``Coups speciaux`` : KnockBack III & Flammes
-- ``Durabilité`` : Bientôt disponible
+- ``Dégats`` : 2/2.5 {{image#ui/heart}}
+- ``Coups speciaux`` : KnockBack II (Rare) & Flammes
+- ``Durabilité`` : 3000
 
 ### Craft 
 

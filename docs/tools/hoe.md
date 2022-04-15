@@ -17,7 +17,7 @@ Elles vous seront donc utile par leur rapidité lors de la création de farm par
 ### Caractéristiques
 
 - ``Zone de bêchage`` : 3x3
-- ``Durabilité`` : Bientôt disponible 
+- ``Durabilité`` : 1000
 
 ### Craft 
 
@@ -30,7 +30,7 @@ Elles vous seront donc utile par leur rapidité lors de la création de farm par
 ### Caractéristiques
 
 - ``Zone de bêchage`` : 5x5
-- ``Durabilité`` : Bientôt disponible
+- ``Durabilité`` : 5000
 
 ### Craft 
 
