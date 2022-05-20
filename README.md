@@ -5,7 +5,7 @@
 
 **Visiter le site**: https://www.plutonium.best/wiki
 
-#### Tutoriel disponible ici: https://github.com/Plutonium-Mcpe/pluto-wiki/CONTRIBUTE.md
+#### Tutoriel disponible ici: [CONTRIBUE.md](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/CONTRIBUTE.md)
 
 # A propos de ce repository
 
