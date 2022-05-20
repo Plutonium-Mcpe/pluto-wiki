@@ -12,30 +12,30 @@ Les épées moddées en Plutonium et Opalite vous permettront de dominer vos enn
 Elles vous donneront de réels avantages par leurs puissances et les coups spéciaux qu’elles opèrent par raport aux épées vanila. 
 Un craft, un écharnement, et le tour est joué pour vous démarquez lors de vos pvp !
 
-##  Épée Opalite {{image#items/tools/swords/opalite_sword}}
+##  {{image#items/tools/swords/opalite_sword}} Épée Opalite
 
 ### Caractéristiques
 
-- ``Dégats`` : 1.5 {{image#ui/heart}}
-- ``Coups speciaux`` : KnockBack II & Flammes
-- ``Durabilité`` : à def
+- ``Dégats`` : 1/1.5 {{image#ui/heart}}
+- ``Coups speciaux`` : KnockBack I (Rare) & Flammes
+- ``Durabilité`` : 2500
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'épées
+> Nécessite le niveau 93du métier #help/bucheron
 
 {{craft#craft/craft_opalite_sword}} 
 
-##  Épée Plutonium {{image#items/tools/swords/plutonium_sword}}
+##  {{image#items/tools/swords/plutonium_sword}} Épée Plutonium
 
 ### Caractéristiques
 
-- ``Dégats`` : 2.5 {{image#ui/heart}}
-- ``Coups speciaux`` : KnockBack III & Flammes
-- ``Durabilité`` : à def
+- ``Dégats`` : 2/2.5 {{image#ui/heart}}
+- ``Coups speciaux`` : KnockBack II (Rare) & Flammes
+- ``Durabilité`` : 3000
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'épées
+> Nécessite le niveau 11 du métier #help/guerrier
 
 {{craft#craft/craft_plutonium_sword}} 

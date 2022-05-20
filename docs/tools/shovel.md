@@ -11,12 +11,12 @@ ___
 Il existe sur le serveur deux pelles moddé en plutonium et opalite. Ces derniers vous permettent de casser la terre ou le gravier bien plus rapidement. 
 Pratique si vous avez besoin de creuser une farm ou encore récolter de la terre pour une construction de farm par exemple.
 
-## Pelle Opalite {{image#items/tools/shovels/opalite_shovel}}
+## {{image#items/tools/shovels/opalite_shovel}} Pelle Opalite
 
 ### Caractéristiques
 
 - ``Éfficacité ``: Deux fois plus rapide qu'une pelle en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: 2000
 
 ### Craft 
 
@@ -24,12 +24,12 @@ Pratique si vous avez besoin de creuser une farm ou encore récolter de la terre
 
 {{craft#craft/craft_opalite_shovel}} 
 
-## Pelle Plutonium {{image#items/tools/shovels/plutonium_shovel}}
+## {{image#items/tools/shovels/plutonium_shovel}} Pelle Plutonium
 
 ### Caractéristiques
 
 - ``Éfficacité ``: Trois fois plus rapide qu'une pelle en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: 5000
 
 ### Craft 
 

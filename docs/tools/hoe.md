@@ -12,28 +12,28 @@ Les houes Opalite et Plutonium utilisent le même principe que les houes normale
 Elles vous permettent de bêcher la terre et l’herbe mais avec des zones plus grande directement. 
 Elles vous seront donc utile par leur rapidité lors de la création de farm par exemple
 
-## Houe Opalite {{image#items/tools/hoes/opalite_hoe}}
+## {image#items/tools/hoes/opalite_hoe}} Houe Opalite
 
 ### Caractéristiques
 
 - ``Zone de bêchage`` : 3x3
-- ``Durabilité`` : à def 
+- ``Durabilité`` : 1000
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette outil
+> Nécessite le niveau 5 du métier #help/farmeur
 
 {{craft#craft/craft_opalite_hoe}} 
 
-## Houe Plutonium {{image#items/tools/hoes/plutonium_hoe}}
+## {{image#items/tools/hoes/plutonium_hoe}} Houe Plutonium
 
 ### Caractéristiques
 
 - ``Zone de bêchage`` : 5x5
-- ``Durabilité`` : à def 
+- ``Durabilité`` : 5000
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette outil
+> Nécessite le niveau 11 du métier #help/farmeur
 
 {{craft#craft/craft_plutonium_hoe}} 

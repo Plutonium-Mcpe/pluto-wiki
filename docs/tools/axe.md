@@ -12,28 +12,28 @@ Les haches en Plutonium et Opalite vous permettent de casser le bois comme si vo
 En effet ces deux haches moddé permettent une récolte plus efficace du bois par leur vitesse augmentée ! 
 Pratique pour augmenter facilement son métier de #help/bucherons n’est-ce pas ? 
 
-## Hache Opalite {{image#items/tools/axes/opalite_axe}}
+## {{image#items/tools/axes/opalite_axe}} Hache Opalite
 
 ### Caractéristiques
 
 - ``Éfficacité ``: Deux fois plus rapide qu'une hache en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: 1000
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette outil
+> Nécessite le niveau 5 du métier #help/bucheron
 
 {{craft#craft/craft_opalite_axe}} 
 
-## Hache Plutonium {{image#items/tools/axes/plutonium_axe}}
+## {{image#items/tools/axes/plutonium_axe}} Hache Plutonium
 
 ### Caractéristiques
 
 - ``Éfficacité ``: Trois fois plus rapide qu'une hache en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: 2000
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette outil
+> Nécessite le niveau 11 du métier #help/bucheron
 
 {{craft#craft/craft_plutonium_axe}} 

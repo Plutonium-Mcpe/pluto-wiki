@@ -13,64 +13,63 @@ L’armures en opalite est une armure modé comportant de nombreux avantages dan
 Cette armure est la plus basique des armures modé mais loins d’être la plus faible des armures disponibles sur le serveur. 
 Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez faible.
 
-## Casque en opalite {{image#items/armors/opalite/opalite_helmet}}
+- ``Points d'armure`` : Résistance un peu plus forte que le stuff en diamant
+- ``Durabilité`` : Durabilité plus puissante que le diamant
 
-### Caractéristiques
+## {{image#items/armors/opalite/opalite_helmet}} Casque en opalite
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+### Caractéristique
+
+- ``Effet ajouté`` : 
+    * Vision nocturne
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 4 du métier #help/farmeur
 
 {{craft#craft/craft_opalite_helmet}} 
 
 ---
 
-## Plastron en opalite {{image#items/armors/opalite/opalite_chestplate}}
+## {{image#items/armors/opalite/opalite_chestplate}} Plastron en opalite
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effet ajouté`` : 
+    * Résistance I
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de l'armure
 
 {{craft#craft/craft_opalite_chestplate}} 
 
 ---
 
-## Jambières en opalite {{image#items/armors/opalite/opalite_leggings}}
+## {{image#items/armors/opalite/opalite_leggings}} Jambières en opalite
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effet ajouté`` : 
+    * Haste I
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 5 du métier #help/mineur
 
 {{craft#craft/craft_opalite_leggings}} 
 
 ---
 
-## Bottes en opalite {{image#items/armors/opalite/opalite_boots}}
+## {{image#items/armors/opalite/opalite_boots}} Bottes en opalite
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effet ajouté`` : 
+    * Vitesse I
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 4 du métier #help/bucheron
 
 {{craft#craft/craft_opalite_boots}} 

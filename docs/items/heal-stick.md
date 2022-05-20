@@ -19,6 +19,6 @@ Utiliser les sur le sol pour vous régénérer si le cooldown est fini.
     
 ### Craft: 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cet item.  
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item.  
 
 {{craft#craft/craft_heal_stick}}

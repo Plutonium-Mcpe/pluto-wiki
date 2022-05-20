@@ -12,66 +12,68 @@ ___
 L’armure en plutonium est la plus rare ainsi que la plus forte des armures du serveur. 
 C’est une armure modée permettant une protection et résistance optimale ainsi que des effets les plus complets et puissant possibles. 
 Elle vous donnera des avantages très conséquent vis à vis de vos adversaire dans les combats par exemple. 
+
+- ``Points d'armure`` : Résistance plus forte que #armor/opalite-armor
+- ``Durabilité`` : Durabilité deux fois plus puissante que #armor/opalite-armor
  
 
-## Casque en Plutonium {{image#items/armors/plutonium/plutonium_helmet}}
+## {{image#items/armors/plutonium/plutonium_helmet}} Casque en Plutonium
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effets ajoutés`` : 
+    * Vision nocturne
+    * Respiration aquatique
+    * Aucune perte de nourriture
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 15 du métier #help/farmeur
 
 {{craft#craft/craft_plutonium_helmet}} 
 
 ---
 
-## Plastron en plutonium {{image#items/armors/plutonium/plutonium_chestplate}}
+## {{image#items/armors/plutonium/plutonium_chestplate}} Plastron en plutonium
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effets ajoutés`` : 
+    * Haste II
+    * Résistance II
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 15 du métier #help/guerrier
 
 {{craft#craft/craft_plutonium_chestplate}} 
 
 ---
 
-## Jambières en plutonium {{image#items/armors/plutonium/plutonium_leggings}}
+## {{image#items/armors/plutonium/plutonium_leggings}} Jambières en plutonium
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effet ajouté`` : 
+    * Résistance au feu
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 15 du métier #help/mineur
 
 {{craft#craft/craft_plutonium_leggings}} 
 
 ---
 
-## Bottes en plutonium {{image#items/armors/plutonium/plutonium_boots}}
+## {{image#items/armors/plutonium/plutonium_boots}} Bottes en plutonium
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effet ajouté`` : 
+    * Vitesse II
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 15 du métier #help/bucheron
 
 {{craft#craft/craft_plutonium_boots}} 

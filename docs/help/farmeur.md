@@ -36,17 +36,17 @@ Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque 
 Niveau | Récompenses
 :----: | :---------: 
 1 | 64 graines opalite {{image#items/seeds/opalite_seed}}
-2 | 32 lucky block
-3 | 16 ascenseurs
+2 | 32 lucky block {{image#blocks/others/lucky_block}}
+3 | 16 ascenseurs {{image#blocks/others/elevator}}
 4 | Craft casque en opalite {{image#items/armors/opalite/opalite_helmet}}
 5 | Craft houe en opalite {{image#items/tools/hoes/opalite_hoe}}
 6 | 64 graines plutonium {{image#items/seeds/plutonium_seed}}
 7 | 2x plus d'opalite loot
 8 | 1 fragement en plutonium {{image#items/ores/plutonium_fragment}}
 9 | Craft farm chest
-10 | 75 000$
+10 | 75 000$ {{image#items/others/billet}}
 11 | Craft houe en plutonium {{image#items/tools/hoes/plutonium_hoe}}
 12 | 2 fragements en plutonium {{image#items/ores/plutonium_fragment}}
 13 | 2x plus de plutonium loot
-14 | 100 000$
+14 | 100 000$ {{image#items/others/billet}}
 15 | Craft casque en plutonium {{image#items/armors/plutonium/plutonium_helmet}}

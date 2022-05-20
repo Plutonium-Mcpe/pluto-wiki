@@ -9,7 +9,7 @@
             "folder": "plutonium"
         },
         "C": {
-            "name": "blocks/others/opalite_block",
+            "name": "items/ores/opalite_ingot",
             "folder": "plutonium"
         }
     },

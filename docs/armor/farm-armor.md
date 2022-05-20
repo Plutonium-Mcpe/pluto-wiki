@@ -14,64 +14,63 @@ Le farming est une action de base de Minecraft qui consiste à la production de 
 Sur le serveur, il vous permet de gagner de l'argent, de vous nourrir ou encore d'up vos métiers. 
 Cette armure vous sera donc bien utile durant votre aventure en facilitant le farming.
 
-## Casque de farm {{image#items/armors/farm/farm_helmet}}
+## {{image#items/armors/farm/farm_helmet}} Casque de farm
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effets ajoutés`` : 
+    * Respiration aquatique
+    * Vision nocturne
+    * Aucune perte de nourriture
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 6 du métier #help/mineur
 
 {{craft#craft/craft_farm_helmet}} 
 
 ---
 
-## Plastron de farm {{image#items/armors/farm/farm_chestplate}}
+## {{image#items/armors/farm/farm_chestplate}} Plastron de farm 
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effets ajoutés`` : 
+    * Résistance au feu
+    * Haste III
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 6 du métier #help/mineur
 
 {{craft#craft/craft_farm_chestplate}} 
 
 ---
 
-## Jambières de farm {{image#items/armors/farm/farm_leggings}}
+## {{image#items/armors/farm/farm_leggings}} Jambières de farm
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effet ajouté`` : 
+    * Jump boost II
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 6 du métier #help/mineur
 
 {{craft#craft/craft_farm_leggings}} 
 
 ---
 
-## Bottes de farm {{image#items/armors/farm/farm_boots}}
+## {{image#items/armors/farm/farm_boots}} Bottes de farm
 
-### Caractéristiques
+### Caractéristique
 
-- ``Effets ajoutés`` : test
-- ``Points d'armure`` : test
-- ``Durabilité`` : test
+- ``Effet ajouté`` : 
+    * Vitesse III
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'armure
+> Nécessite le niveau 6 du métier #help/mineur
 
 {{craft#craft/craft_farm_boots}} 

@@ -12,27 +12,28 @@ Les pioches moddés Opalite et plutonium sont des outils permettant un minage bi
 En effet ces deux outils sont bien plus rapide que toutes les autres pioches disponibles sur le serveur. 
 Elles vous transformeront en mineur hors-pair !
 
-## Pioche Opalite {{image#items/tools/pickaxes/opalite_pickaxe}}
+## {{image#items/tools/pickaxes/opalite_pickaxe}} Pioche Opalite 
 
 ### Caractéristiques
 
 - ``Éfficacité ``: Deux fois plus rapide qu'une pioche en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: 2000
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette outil
+> Nécessite le niveau 5 du métier #help/mineur
 
 {{craft#craft/craft_opalite_pickaxe}} 
-## Pioche Plutonium {{image#items/tools/pickaxes/plutonium_pickaxe}}
+
+## {{image#items/tools/pickaxes/plutonium_pickaxe}} Pioche Plutonium
 
 ### Caractéristiques
 
 - ``Éfficacité ``: Trois fois plus rapide qu'une pioche en diamant 
-- ``Durabilité ``: à def 
+- ``Durabilité ``: 5000
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cette outil
+> Nécessite le niveau 11 du métier #help/mineur
 
 {{craft#craft/craft_plutonium_pickaxe}} 

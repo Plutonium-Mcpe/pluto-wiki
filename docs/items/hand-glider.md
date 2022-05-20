@@ -14,10 +14,10 @@ Il vous suffit de l'avoir dans la main et vous en serez protégé
 ## Caractérisiques 
 
 - `` Effet ajouté ``: Lévitation 
-- `` Durabilité ``: 15 min en fonction
+- `` Durabilité ``: 15 min en fonctionnement
  
 ## Craft  
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de cet item.  
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item.  
 
 {{craft#craft/craft_hand_glider}} 

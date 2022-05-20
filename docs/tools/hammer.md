@@ -12,30 +12,28 @@ Ils vous permettent de casser plusieurs blocs à la fois en une seule fois pour 
 Néanmoins, les hammers sont moins rapides que le reste des pioches du serveur.   
 Bonne séance de minage ! 
 
-## Hammer Opalite {{image#items/tools/hammers/opalite_hammer}}
+## {{image#items/tools/hammers/opalite_hammer}} Hammer Opalite
 
 ### Caractéristiques
 
-- ``Zone de creusage ``: Zone de 3x3x1
-- ``Effect ajouté ``: Fatigue I {{image#ui/mining_fatigue_effect}}
-- ``Durabilité`` : à def
+- ``Zone de creusage ``: Zone de 3x1
+- ``Durabilité`` : 1000
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'hammer
+> Nécessite le niveau 7 du métier #help/mineur
 
 {{craft#craft/craft_opalite_hammer}} 
 
-## Hammer Plutonium {{image#items/tools/hammers/plutonium_hammer}}
+## {{image#items/tools/hammers/plutonium_hammer}} Hammer Plutonium
 
 ### Caractéristiques
 
-- ``Zone de creusage ``: Zone de 5x5x1 
-- ``Effect ajouté ``: Fatigue II {{image#ui/mining_fatigue_effect}}
-- ``Durabilité`` : à def
+- ``Zone de creusage ``: Zone de 5x1
+- ``Durabilité`` : 2000
 
 ### Craft 
 
-> Aucun niveau spécial de métier et nécessaire pour l’utilisation & craft de l'hammer
+> Nécessite le niveau 13 du métier #help/mineur
 
 {{craft#craft/craft_plutonium_hammer}} 
