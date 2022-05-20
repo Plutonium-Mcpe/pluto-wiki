@@ -5,14 +5,14 @@ Pour pouvoir participer, il faut connaitre certaine base, et effectuer certaine 
 
 ### Sommaire
 
-* [Proposer des modifications]()
-  * [Ouvrir une issue]()
-* [Contribuer par soi-même au wiki]()
-  * [Faire une copie du wiki]()
-  * [Modifier ou ajouter des fichiers au wiki]()
-    * [Modifier un fichier existant]()
-    * [Ajouter un fichier]()
-  * [Ouvrir une 'Pull request']()
+* [Proposer des modifications](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/CONTRIBUTE.md#proposer-des-modifications)
+  * [Ouvrir une issue](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/CONTRIBUTE.md#ouvrir-une-issue)
+* [Contribuer par soi-même au wiki](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/CONTRIBUTE.md#ouvrir-une-issue)
+  * [Faire une copie du wiki](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/CONTRIBUTE.md#ouvrir-une-issue)
+  * [Modifier ou ajouter des fichiers au wiki](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/CONTRIBUTE.md#ouvrir-une-issue)
+    * [Modifier un fichier existant](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/CONTRIBUTE.md#ouvrir-une-issue)
+    * [Ajouter un fichier](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/CONTRIBUTE.md#ouvrir-une-issue)
+  * [Ouvrir une 'Pull request'](https://github.com/Plutonium-Mcpe/pluto-wiki/blob/stable/CONTRIBUTE.md#ouvrir-une-issue)
 
 ---
 
