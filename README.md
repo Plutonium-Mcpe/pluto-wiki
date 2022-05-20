@@ -5,6 +5,8 @@
 
 **Visiter le site**: https://www.plutonium.best/wiki
 
+#### Tutoriel disponible ici: https://github.com/Plutonium-Mcpe/pluto-wiki/CONTRIBUTE.md
+
 # A propos de ce repository
 
 Cet endroit regroupe toutes les sources des pages et aricles du wiki du serveur plutonium. Il a été conçu pour que la communauté puisse s'investir dans la conception, la participation et l'élaboration du wiki de Plutonium. 
