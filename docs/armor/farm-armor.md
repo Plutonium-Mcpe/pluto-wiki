@@ -22,6 +22,7 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
     * Respiration aquatique
     * Vision nocturne
     * Aucune perte de nourriture
+- ``Durabilité`` : Durabilité deux fois moins résistante que #armor/opalite-armor
 
 ### Craft 
 
@@ -38,6 +39,7 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 - ``Effets ajoutés`` : 
     * Résistance au feu
     * Haste III
+- ``Durabilité`` : Durabilité deux fois moins résistante que #armor/opalite-armor
 
 ### Craft 
 
@@ -53,6 +55,7 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 - ``Effet ajouté`` : 
     * Jump boost II
+- ``Durabilité`` : Durabilité deux fois moins résistante que #armor/opalite-armor
 
 ### Craft 
 
@@ -68,6 +71,7 @@ Cette armure vous sera donc bien utile durant votre aventure en facilitant le fa
 
 - ``Effet ajouté`` : 
     * Vitesse III
+- ``Durabilité`` : Durabilité deux fois moins résistante que #armor/opalite-armor
 
 ### Craft 
 
