@@ -2,7 +2,7 @@
 id: farm-spade
 title: Farm spade
 category: items
-description: 
+description: Le farm spade est l'outils pour ça. Il va vous permettre de planter de manière optimiser vos plants de citrouilles ou pastèques.
 icon: "textures/items/farm_spade.png"
 ---
 ___
