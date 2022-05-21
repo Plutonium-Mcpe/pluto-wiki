@@ -19,9 +19,9 @@ Action | XP gagné
 :------: | :------:
 Chêne | 1xp
 Sapin | 1xp
-Bouleau | 2xp
-Acacia | 3xp
-Tropical | 0.5xp
+Bouleau | 1xp
+Acacia | 1xp
+Tropical | 1xp
 Chêne sombre | 1px
 
 ## XP nécessaire
