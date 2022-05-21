@@ -1,0 +1,27 @@
+{
+    "input": {
+        "A": {
+            "name": "blocks/diamond_block",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/ores/opalite_ingot",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "items/others/energie",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        ["A", "B", "A"],
+        ["B", "C", "B"],
+        ["A", "B", "A"]
+    ]
+}
