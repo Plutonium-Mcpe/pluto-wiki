@@ -9,11 +9,11 @@
             "folder": "plutonium"
         },
         "C": {
-            "name": "blocks/pumpkin_side",
+            "name": "items/seeds_pumpkin",
             "folder": "vanilla"
         },
         "D": {
-            "name": "blocks/melon_side",
+            "name": "items/seeds_melon",
             "folder": "vanilla"
         },
         "E": {
