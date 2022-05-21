@@ -1,0 +1,23 @@
+{
+    "input": {
+        "A": {
+            "name": "items/stick",
+            "folder": "vanilla"
+        },
+        "B": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "items/sticks/royal_sceptre",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        [" ", " ", "B"],
+        [" ", "A", " "],
+        ["A", " ", " "]
+    ]
+}
