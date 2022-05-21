@@ -1,6 +1,6 @@
 ---
 id: replanter
-title: Replanteur de graines
+title: [New] Replanteur de graines
 category: items
 description: 
 icon: "textures/items/replanter.png"
