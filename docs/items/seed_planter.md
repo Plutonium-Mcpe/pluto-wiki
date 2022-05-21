@@ -2,7 +2,7 @@
 id: seed_planter
 title: Planteur de graines
 category: items
-description: 
+description: Planter les graines d'une farmes peut parfois être fastidant. Le planteur de graines va permettre de planter sur une terre fertilisées et une certaine zone les graines contenu dans l'inventaire.
 icon: "textures/items/seed_planter.png"
 ---
 ___

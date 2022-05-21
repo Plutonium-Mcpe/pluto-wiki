@@ -2,7 +2,7 @@
 id: replanter
 title: [New] Replanteur de graines
 category: items
-description: 
+description: Casser puis reposer peut souvent faire perdre du temps. Le replanteur a été créé dans cet objectif, de pouvoir faire gagner du temps dans les tâches de farm.  
 icon: "textures/items/replanter.png"
 ---
 ___
