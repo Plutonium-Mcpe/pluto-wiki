@@ -17,12 +17,12 @@ Chaque action permettra d'obtenir de l'XP selon ce tableau :
 
 Action | XP gagné
 :------: | :------:
-Tuer un joueur | 10xp
-Araignée | 0.05xp
-Zombie | 0.05xp
-Creeper | 0.05xp
-Squelette | 0.05xp
-Mouton | 0.05xp
+Tuer un joueur | 15xp
+Araignée | 0.1xp
+Zombie | 0.1xp
+Creeper | 0.1xp
+Squelette | 0.1xp
+Mouton | 0.1xp
 
 ## XP nécessaire
 
