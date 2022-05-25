@@ -1,6 +1,6 @@
 ---
 id: plutonium-bloc
-title: Bloc en plutonium
+title: [New] Bloc en plutonium
 category: ores
 description: Le bloc en plutonium
 icon: "textures/blocks/others/plutonium_block.png"
