@@ -3,7 +3,7 @@ id: plutonium-bloc
 title: Bloc en plutonium
 category: ores
 description: Le bloc en plutonium
-icon: "textures/blocks/others/plutonium_block"
+icon: "textures/blocks/others/plutonium_block.png"
 ---
 ___
 ## Craft  
