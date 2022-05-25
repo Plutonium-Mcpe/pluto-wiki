@@ -25,7 +25,7 @@ Accessible dès la couche 20 et jusqu'à la bedrock, il sera plus rare que le di
 Un moyen d'obtenir certains minerais moddés du serveur a été introduit pour diversifier le farm de ces minerais.  
 Ainsi, il vous est possible d'obtenir de l'opalite grâce aux graines en opalite.
 
-Les graines en opalite sont accesible à tous et peuvent être récupérées grâce aux herbes. En les cassant, vous allez ainsi pouvoir avec 5% de chance obtenir une graine en opalite au lieu d'une graine de blé.  
+Les graines en opalite sont accesible à tous et peuvent être récupérées grâce aux herbes. En les cassant, vous allez ainsi pouvoir avec 4% de chance obtenir une graine en opalite au lieu d'une graine de blé.  
 
 Ces graines, une fois récolté peuvent être placées sur une terre labourées, comme du blé pour les faire pousser. Une fois au stade complet, vous obtiendrez les items suivant le tableau ci-dessous:
 

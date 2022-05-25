@@ -1,0 +1,19 @@
+{
+    "input": {
+        "A": {
+            "name": "items/ores/plutonium_ingot",
+            "folder": "plutonium"
+        }
+    },
+    "output": [
+        {
+            "name": "blocks/others/plutonium_block",
+            "folder": "plutonium"
+        }
+    ],
+    "shape": [
+        ["A", "A", "A"],
+        ["A", "A", "A"],
+        ["A", "A", "A"]
+    ]
+}
