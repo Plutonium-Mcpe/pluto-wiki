@@ -50,7 +50,7 @@ Niveau | Récompenses
 13 | {{image#items/ores/plutonium_dust}} 2x plus de plutonium loot 
 14 | {{image#items/ores/plutonium_dust}} 2x poussiére de plutonium 
 15 | {{image#items/keys/plutonium_key}} 1x Clé en pluto 
-16 | {{image#blocs/tnts/lvl5/tnt_lvl5_side}} 1x TNT Niveau 5
+16 | {{image#blocks/tnts/lvl5/tnt_lvl5_side}} 1x TNT Niveau 5
 17 | {{image#items/armors/farm/farm_helmet}} 1x arumure full farm 
 18 | {{image#items/ores/plutonium_fragment}} 2x fragments pluto 
 19 | {{image#items/others/xp_collector}} 1x XP collector 
