@@ -27,9 +27,10 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     $isCategory = substr($filename, strlen($filename) - 9) === "_category";
     if (!$isCategory) {
         $foundMatches = 0;
-        preg_match_all("/{{[a-z1-9]+#[a-z\-\_\/]+}}/", $contents, $allMatches);
+        preg_match_all("/{{[a-z1-9]+#[a-zA-Z1-9\/_\.]+}}/", $contents, $allMatches);
         $allMatches = $allMatches[0];
         printStatement("find " . count($allMatches) . " patterns to validate");
+        $foundMatchesArray = [];
         if (count($allMatches) === 0) {
             printStatement("skipped, no patern available to test");
         } else {
@@ -37,7 +38,12 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
             $craftMatches = $craftMatches[0];
             if (count($craftMatches) > 0) {
                 foreach ($craftMatches as $context) {
+                    if(in_array($context, $foundMatchesArray)){
+                        printStatement("process: $context skipped, already found");
+                        continue;
+                    }
                     printStatement("process: $context");
+                    $baseContext = $context;
                     $context = substr($context, 2, strlen($context) - 4);
                     $data = explode("/", explode("#", $context)[1]);
                     $folder = $data[0];
@@ -45,7 +51,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
                     $staticPath = $folder . "/" . implode("/", $data) . ".png";
                     $absolutePath = dirname(__DIR__) . "/static/" . $staticPath;
                     if (is_file($absolutePath)) {
-                        $foundMatches++;
+                        $foundMatchesArray[] = $baseContext;
                     } else {
                         printError("cant found the craft file: $staticPath");
                         $subError = true;
@@ -59,13 +65,18 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
             $imageMatches = $imageMatches[0];
             if (count($imageMatches) > 0) {
                 foreach ($imageMatches as $context) {
+                    if(in_array($context, $foundMatchesArray)){
+                        printStatement("process: $context skipped, already found");
+                        continue;
+                    }
                     printStatement("process: $context");
+                    $baseContext = $context;
                     $context = substr($context, 2, strlen($context) - 4);
                     $path = explode("#", $context)[1];
                     $path = "textures/$path.png";
                     $rootPath = dirname(__DIR__) . "/static/";
                     if (is_file($rootPath . "plutonium/" . $path) || is_file($rootPath . "vanilla/" . $path)) {
-                        $foundMatches++;
+                        $foundMatchesArray[] = $baseContext;
                     } else {
                         printError("cant found the image file: $path");
                         $subError = true;
@@ -75,8 +86,8 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
             } else {
                 printStatement("no image patern found");
             }
-            if ($foundMatches !== count($allMatches)) {
-                printError("format not recognized, not supported or invalid detect, found " . count($allMatches) . " patern and get $foundMatches valid pattern");
+            if (count(array_unique($foundMatchesArray)) !== count(array_unique($allMatches))) {
+                printError("format not recognized, not supported or invalid detect, found " . count($allMatches) . " patern and get ".count($foundMatchesArray)." valid pattern");
                 $subError = true;
                 goto end;
             }
@@ -86,6 +97,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
             printSuccess(getFilename($file) . " valid");
         } else {
             $hasError = true;
+            exit;
         }
     } else {
         printStatement("skipped, a format corresponding to a category was found");
