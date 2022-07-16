@@ -1,0 +1,118 @@
+item.plutonium:opalite_seed=Opalite Seed
+item.plutonium:plutonium_seed=Plutonium Seed
+item.plutonium:billet=Cash
+item.plutonium:skyring=SkyRing
+item.plutonium:plutonium_coal=Plutonium Coal
+item.plutonium:energie=Energy
+item.plutonium:obsi_breaker=Obsidian Drill
+item.plutonium:dynamite=Dynamite
+item.plutonium:hand_glider=Hang Glider
+item.plutonium:xp_collector=Xp Collector
+item.plutonium:blue_unclaim_finder=Blue Unclaim Finder
+item.plutonium:red_unclaim_finder=Red Unclaim Finder
+item.plutonium:brouilleur=Unclaim Finder Jammer
+item.plutonium:parchment=Parchment
+
+item.plutonium:vote_key=Vote Key
+item.plutonium:common_key=Common Key
+item.plutonium:opalite_key=Opalite Key
+item.plutonium:plutonium_key=Plutonium Key
+item.plutonium:clesucre_key=Sugar Key
+item.plutonium:supreme_key=Suprem Key
+
+item.plutonium:opalite_ingot=Opalite Ingot
+item.plutonium:plutonium_dust=Plutonium Dust
+item.plutonium:plutonium_fragment=Plutonium Fragment
+item.plutonium:plutonium_ingot=Plutonium Ingot
+item.plutonium:zephir=Zephir
+
+item.plutonium:opalite_apple=Opalite Apple
+item.plutonium:industrial_carrot=Industrial Carrot
+item.plutonium:industrial_potato=Industrial Potato
+item.plutonium:industrial_wheat=Industrial Wheat
+
+item.plutonium:opalite_helmet=Opalite Helmet
+item.plutonium:opalite_chestplate=Opalite Chestplate
+item.plutonium:opalite_leggings=Opalite Leggings
+item.plutonium:opalite_boots=Opalite Boots
+
+item.plutonium:plutonium_helmet=Plutonium Helmet
+item.plutonium:plutonium_chestplate=Plutonium Chestplate
+item.plutonium:plutonium_leggings=Plutonium Leggings
+item.plutonium:plutonium_boots=Plutonium Boots
+
+item.plutonium:farm_helmet=Farm Hat
+item.plutonium:farm_chestplate=Farm Overalls (top)
+item.plutonium:farm_leggings=Farm Overalls (bottom)
+item.plutonium:farm_boots=Farm Boots
+
+item.plutonium:opalite_hammer=Opalite Hammer
+item.plutonium:plutonium_hammer=Plutonium Hammer
+
+item.plutonium:opalite_sword=Opalite Sword
+item.plutonium:plutonium_sword=Plutonium Sword
+
+item.plutonium:opalite_pickaxe=Opalite Pickaxe
+item.plutonium:plutonium_pickaxe=Plutonium Pickaxe
+
+item.plutonium:opalite_shovel=Opalite Shovel
+item.plutonium:plutonium_shovel=Plutonium Shovel
+
+item.plutonium:opalite_hoe=Opalite Hoe
+item.plutonium:plutonium_hoe=Plutonium Hoe
+
+item.plutonium:opalite_axe=Opalite Axe
+item.plutonium:plutonium_axe=Plutonium Axe
+
+item.plutonium:hood_helmet=Hood Helmet
+item.plutonium:scuba_helmet=Scuba Helmet
+
+item.plutonium:heal_stick=Heal Stick
+item.plutonium:clean_stick=Clean Stick
+item.plutonium:feed_stick=Feed Stick
+item.plutonium:speed_stick=Speed Strick
+item.plutonium:royal_sceptre=Royal Scepter
+
+item.plutonium:replanter=Replanter
+item.plutonium:seed_planter=Seed Planter
+
+item.plutonium:opalite_bow=Opalite Bow
+item.plutonium:plutonium_bow=Plutonium Bow
+
+item.plutonium:miner_bottle=Miner Bottle
+item.plutonium:farmer_bottle=Famer Bottle
+item.plutonium:warrior_bottle=Warrior Bottle
+item.plutonium:lumberjack_bottle=Lumberjack Bottle
+
+tile.plutonium:block_effect.name=Block Effect
+tile.plutonium:cave_block.name=Cave Block
+tile.plutonium:elevator.name=Elevator
+tile.plutonium:lucky_block.name=Lucky Block
+tile.plutonium:upgraded_obsidian.name=Upgraded Obsidian
+
+tile.plutonium:opalite_block.name=Opalite Block
+tile.plutonium:plutonium_block.name=Plutonium Block
+tile.plutonium:zephir_block.name=Zephir Block
+
+tile.plutonium:opalite_ore.name=Opalite Ore
+tile.plutonium:zephir_ore.name=Zephir Ore
+tile.plutonium:random_ore.name=Random Ore
+
+tile.blast_furnace.name=Plutonium Furnace
+tile.smoker.name=Opalite Furnace
+
+tile.plutonium:wooden_drawer.name=Wooden Drawer
+tile.plutonium:stone_drawer.name=Stone Drawer
+tile.plutonium:iron_drawer.name=Iron Drawer
+tile.plutonium:diamond_drawer.name=Diamond Drawer
+tile.plutonium:opalite_drawer.name=Opalite Drawer
+tile.plutonium:plutonium_drawer.name=Plutonium Drawer
+
+tile.plutonium:tnt_lvl02.name=TNT Level 2
+tile.plutonium:tnt_lvl03.name=TNT Level 3
+tile.plutonium:tnt_lvl04.name=TNT Level 4
+tile.plutonium:tnt_lvl05.name=TNT Level 5
+tile.plutonium:tnt_lvl06.name=TNT Level 6
+tile.plutonium:tnt_lvl07.name=TNT Level 7
+tile.plutonium:tnt_lvl08.name=TNT Level 8
+tile.plutonium:tnt_lvl09.name=TNT Level 9

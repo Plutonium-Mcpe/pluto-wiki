@@ -1,0 +1,118 @@
+item.plutonium:opalite_seed=Graine en Opalite
+item.plutonium:plutonium_seed=Graine en Plutonium
+item.plutonium:billet=Billet
+item.plutonium:skyring=SkyRing
+item.plutonium:plutonium_coal=Charbon en Plutonium
+item.plutonium:energie=Énergie
+item.plutonium:obsi_breaker=Foreuse à obsidienne
+item.plutonium:dynamite=Dynamite
+item.plutonium:hand_glider=Planeur
+item.plutonium:xp_collector=Collecteur d'expérience
+item.plutonium:blue_unclaim_finder=Chercheur de bases bleu
+item.plutonium:red_unclaim_finder=Chercheur de bases rouge
+item.plutonium:brouilleur=Brouilleur
+item.plutonium:parchment=Parchemin
+
+item.plutonium:vote_key=Clé Vote
+item.plutonium:common_key=Clé Commune
+item.plutonium:opalite_key=Clé en Opalite
+item.plutonium:plutonium_key=Clé en Plutonium
+item.plutonium:clesucre_key=Clé en Sucre
+item.plutonium:supreme_key=Clé Suprême
+
+item.plutonium:opalite_ingot=Lingot d'Opalite
+item.plutonium:plutonium_dust=Poussière de Plutonium
+item.plutonium:plutonium_fragment=Fragment de Plutonium
+item.plutonium:plutonium_ingot=Lingot de Plutonium
+item.plutonium:zephir=Zéphir
+
+item.plutonium:opalite_apple=Pomme en Opalite
+item.plutonium:industrial_carrot=Carrote industrielle
+item.plutonium:industrial_potato=Pomme de terre industrielle
+item.plutonium:industrial_wheat=Blé industriel
+
+item.plutonium:opalite_helmet=Casque en Opalite
+item.plutonium:opalite_chestplate=Plastron en Opalite
+item.plutonium:opalite_leggings=Jambières en Opalite
+item.plutonium:opalite_boots=Bottes en Opalite
+
+item.plutonium:plutonium_helmet=Casque en Plutonium
+item.plutonium:plutonium_chestplate=Plastron en Plutonium
+item.plutonium:plutonium_leggings=Jambières en Plutonium
+item.plutonium:plutonium_boots=Bottes en Plutonium
+
+item.plutonium:farm_helmet=Chapeau de farm
+item.plutonium:farm_chestplate=Salopette de farm (haut)
+item.plutonium:farm_leggings=Salopette de farm (bas)
+item.plutonium:farm_boots=Bottes de farm
+
+item.plutonium:opalite_hammer=Marteau en Opalite
+item.plutonium:plutonium_hammer=Marteau en Plutonium
+
+item.plutonium:opalite_sword=Épée en Opalite
+item.plutonium:plutonium_sword=Épée en Plutonium
+
+item.plutonium:opalite_pickaxe=Pioche en Opalite
+item.plutonium:plutonium_pickaxe=Pioche en Plutonium
+
+item.plutonium:opalite_shovel=Pelle en Opalite
+item.plutonium:plutonium_shovel=Pelle en Plutonium
+
+item.plutonium:opalite_hoe=Houe en Opalite
+item.plutonium:plutonium_hoe=Houe en Plutonium
+
+item.plutonium:opalite_axe=Hache en Opalite
+item.plutonium:plutonium_axe=Hache en Plutonium
+
+item.plutonium:hood_helmet=Casque du pilleur
+item.plutonium:scuba_helmet=Casque scaphandrier
+
+item.plutonium:heal_stick=Bâton de soins
+item.plutonium:clean_stick=Bâton de nettoyage
+item.plutonium:feed_stick=Bâton de nourriture
+item.plutonium:speed_stick=Bâton de vitesse
+item.plutonium:royal_sceptre=Sceptre Royal
+
+item.plutonium:replanter=Replanteur de graines
+item.plutonium:seed_planter=Planteur de graines
+
+item.plutonium:opalite_bow=Arc en Opalite
+item.plutonium:plutonium_bow=Arc en Plutonium
+
+item.plutonium:miner_bottle=Bouteille de Mineur
+item.plutonium:farmer_bottle=Bouteille de Farmeur
+item.plutonium:warrior_bottle=Bouteille de Guerrier
+item.plutonium:lumberjack_bottle=Bouteille de Bûcheron
+
+tile.plutonium:block_effect.name=Bloc à Effets
+tile.plutonium:cave_block.name=Cave Block
+tile.plutonium:elevator.name=Ascenseur
+tile.plutonium:lucky_block.name=Lucky Block
+tile.plutonium:upgraded_obsidian.name=Obsidienne améliorée
+
+tile.plutonium:opalite_block.name=Bloc d'Opalite
+tile.plutonium:plutonium_block.name=Bloc de Plutonium
+tile.plutonium:zephir_block.name=Bloc de Zéphir
+
+tile.plutonium:opalite_ore.name=Minerai d'Opalite
+tile.plutonium:zephir_ore.name=Minerai de Zéphir
+tile.plutonium:random_ore.name=Minerai aléatoire
+
+tile.blast_furnace.name=Four en Plutonium
+tile.smoker.name=Four en Opalite
+
+tile.plutonium:wooden_drawer.name=Drawer en Bois
+tile.plutonium:stone_drawer.name=Drawer en Pierre
+tile.plutonium:iron_drawer.name=Drawer en Fer
+tile.plutonium:diamond_drawer.name=Drawer en Diamant
+tile.plutonium:opalite_drawer.name=Drawer en Opalite
+tile.plutonium:plutonium_drawer.name=Drawer en Plutonium
+
+tile.plutonium:tnt_lvl02.name=TNT Niveau 2
+tile.plutonium:tnt_lvl03.name=TNT Niveau 3
+tile.plutonium:tnt_lvl04.name=TNT Niveau 4
+tile.plutonium:tnt_lvl05.name=TNT Niveau 5
+tile.plutonium:tnt_lvl06.name=TNT Niveau 6
+tile.plutonium:tnt_lvl07.name=TNT Niveau 7
+tile.plutonium:tnt_lvl08.name=TNT Niveau 8
+tile.plutonium:tnt_lvl09.name=TNT Niveau 9

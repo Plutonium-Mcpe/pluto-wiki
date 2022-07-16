@@ -110,6 +110,33 @@
 				"textures/blocks/furnaces/plutonium/plutonium_furnace_top"
 			]
 		},
+		"golem_heart": {
+			"textures": "textures/blocks/golem/heart/golem_heart"
+		},
+		"golem_heart_with_gem": {
+			"textures": "textures/blocks/golem/heart/golem_heart_with_gem"
+		},
+		"golem_head_up": {
+			"textures": "textures/blocks/golem/head/golem_head_up"
+		},
+		"golem_head_down": {
+			"textures": "textures/blocks/golem/head/golem_head_down"
+		},
+		"golem_head_front": {
+			"textures": "textures/blocks/golem/head/golem_head_front"
+		},
+		"golem_head_behind": {
+			"textures": "textures/blocks/golem/head/golem_head_behind"
+		},
+		"golem_head_left": {
+			"textures": "textures/blocks/golem/head/golem_head_left"
+		},
+		"golem_head_right": {
+			"textures": "textures/blocks/golem/head/golem_head_right"
+		},
+		"golem_head": {
+			"textures": "textures/textures/models/armor/others/golem_head"
+		},
 		"opalite_ore": {
 			"textures": "textures/blocks/ores/opalite_ore"
 		},
@@ -119,53 +146,29 @@
 		"zephir_ore": {
 			"textures": "textures/blocks/ores/zephir_ore"
 		},
-		"opalite_plant_0": {
-			"textures": "textures/blocks/plants/opalite/opalite_plant_0"
+		"opalite_plant": {
+			"textures" : "textures/blocks/plants/opalite/opalite_plant_0"
 		},
 		"opalite_plant_1": {
-			"textures": "textures/blocks/plants/opalite/opalite_plant_0"
+			"textures" : "textures/blocks/plants/opalite/opalite_plant_1"
 		},
 		"opalite_plant_2": {
-			"textures": "textures/blocks/plants/opalite/opalite_plant_1"
+			"textures" : "textures/blocks/plants/opalite/opalite_plant_2"
 		},
 		"opalite_plant_3": {
-			"textures": "textures/blocks/plants/opalite/opalite_plant_1"
+			"textures" : "textures/blocks/plants/opalite/opalite_plant_3"
 		},
-		"opalite_plant_4": {
-			"textures": "textures/blocks/plants/opalite/opalite_plant_1"
-		},
-		"opalite_plant_5": {
-			"textures": "textures/blocks/plants/opalite/opalite_plant_2"
-		},
-		"opalite_plant_6": {
-			"textures": "textures/blocks/plants/opalite/opalite_plant_2"
-		},
-		"opalite_plant_7": {
-			"textures": "textures/blocks/plants/opalite/opalite_plant_3"
-		},
-		"plutonium_plant_0": {
-			"textures": "textures/blocks/plants/plutonium/plutonium_plant_0"
+		"plutonium_plant": {
+			"textures" : "textures/blocks/plants/plutonium/plutonium_plant_0"
 		},
 		"plutonium_plant_1": {
-			"textures": "textures/blocks/plants/plutonium/plutonium_plant_0"
+			"textures" : "textures/blocks/plants/plutonium/plutonium_plant_1"
 		},
 		"plutonium_plant_2": {
-			"textures": "textures/blocks/plants/plutonium/plutonium_plant_1"
+			"textures" : "textures/blocks/plants/plutonium/plutonium_plant_2"
 		},
 		"plutonium_plant_3": {
-			"textures": "textures/blocks/plants/plutonium/plutonium_plant_1"
-		},
-		"plutonium_plant_4": {
-			"textures": "textures/blocks/plants/plutonium/plutonium_plant_1"
-		},
-		"plutonium_plant_5": {
-			"textures": "textures/blocks/plants/plutonium/plutonium_plant_2"
-		},
-		"plutonium_plant_6": {
-			"textures": "textures/blocks/plants/plutonium/plutonium_plant_2"
-		},
-		"plutonium_plant_7": {
-			"textures": "textures/blocks/plants/plutonium/plutonium_plant_3"
+			"textures" : "textures/blocks/plants/plutonium/plutonium_plant_3"
 		},
 		"tnt_lvl2_side": {
 			"textures": "textures/blocks/tnts/lvl2/tnt_lvl2_side"
