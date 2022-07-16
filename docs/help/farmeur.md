@@ -22,8 +22,8 @@ Citrouilles | 0.3xp
 Carottes | 0.15xp
 Pommes de terre | 0.3xp
 Blé | 0.2xp
-Graine d'Opalite | 25xp
-Graine de Plutonium | 40xp
+Graine d'Opalite | 3xp
+Graine de Plutonium | 3xp
 
 ## XP nécessaire
 
@@ -35,23 +35,23 @@ Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque 
 
 Niveau | Récompenses
 :----: | :---------: 
-1 | Clé en opalite {{image#items/keys/opalite_key}}
-2 | Craft jambiére de farm {{image#items/armors/farm/farm_leggings}}
-3 | Planteur de graines {{image#items/tools/others/seed_planter}}
-4 | Craft houe en opalite {{image#items/tools/hoes/opalite_hoe}}
-5 | 64 graines opalites {{image#items/seeds/opalite_seed}}
-6 | 25 000$ {{image#items/others/billet}}
-7 | 64 graines plutonium {{image#items/seeds/plutonium_seed}}
-8 | 1 poussiére de plutonium {{image#items/ores/plutonium_dust}}
-9 | 2 zéphyrs {{image#items/ores/zephir}}
-10 | Replanteur de graine {{image#items/tools/others/replanter}}
-11 | 5 Clé en opalite {{image#items/keys/opalite_key}}
-12 | Craft houe en plutonium {{image#items/tools/hoes/plutonium_hoe}}
-13 | 2x plus de plutonium loot {{image#items/ores/plutonium_dust}}
-14 | 2 poussiére de plutonium {{image#items/ores/plutonium_dust}}
-15 | 1 Clé en pluto {{image#items/keys/plutonium_key}}
-16 | TNT Niveau 5
-17 | 1 arumure full farm {{image#items/armors/farm/farm_helmet}}
-18 | 2 fragments pluto {{image#items/ores/plutonium_fragment}}
-19 | 1 xp collector {{image#items/ores/plutonium_fragment}}
-20 | Craft jambiéres en plutonium {{image#items/armors/plutonium/plutonium_leggings}}
+1 | {{image#items/keys/opalite_key}} 1x Clé en opalite 
+2 | {{image#items/armors/farm/farm_leggings}} Craft jambiére de farm 
+3 | {{image#items/tools/others/seed_planter}} 1x Planteur de graines 
+4 | {{image#items/tools/hoes/opalite_hoe}} Craft houe en opalite 
+5 | {{image#items/seeds/opalite_seed}} 64x graines opalites 
+6 | {{image#items/others/billet}} 25 000$ 
+7 | {{image#items/seeds/plutonium_seed}} 64x graines plutonium 
+8 | {{image#items/ores/plutonium_dust}} 1x poussiére de plutonium 
+9 | {{image#items/ores/zephir}} 2x zéphyrs 
+10 | {{image#items/tools/others/replanter}} 1x Replanteur de graine 
+11 | {{image#items/keys/opalite_key}} 5x Clé en opalite 
+12 | {{image#items/tools/hoes/plutonium_hoe}} Craft houe en plutonium 
+13 | {{image#items/ores/plutonium_dust}} 2x plus de plutonium loot 
+14 | {{image#items/ores/plutonium_dust}} 2x poussiére de plutonium 
+15 | {{image#items/keys/plutonium_key}} 1x Clé en pluto 
+16 | {{image#blocs/tnts/lvl5/tnt_lvl5_side}} 1x TNT Niveau 5
+17 | {{image#items/armors/farm/farm_helmet}} 1x arumure full farm 
+18 | {{image#items/ores/plutonium_fragment}} 2x fragments pluto 
+19 | {{image#items/others/xp_collector}} 1x XP collector 
+20 | {{image#items/armors/plutonium/plutonium_leggings}} Craft jambiéres en plutonium 
