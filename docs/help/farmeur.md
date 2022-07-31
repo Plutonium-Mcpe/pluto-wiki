@@ -22,8 +22,8 @@ Citrouilles | 0.3xp
 Carottes | 0.15xp
 Pommes de terre | 0.3xp
 Blé | 0.2xp
-Graine d'Opalite | 3xp
-Graine de Plutonium | 3xp
+Graine d'Opalite | 25xp
+Graine de Plutonium | 40xp
 
 ## XP nécessaire
 
