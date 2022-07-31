@@ -10,46 +10,39 @@ if (count($argv) !== 2) {
 }
 
 $hasError = false;
-
+$errors = [];
 foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_PATHNAME)) as $file) {
-    printWarning("find: $file");
     $subError = false;
     if (substr($file, -3) !== ".md") {
-        printStatement("skipped due to invalid extension");
         continue;
     }
     $contents = file_get_contents($file);
     if ($contents === false) {
-        printError("error in the recovery of the file content");
+        $errors[] = "Error in the recovery of the file content ($file)";
         $subError = true;
         goto end;
     }
-    printStatement("file content get");
     $filename = getFilename($file);
     $category = substr($filename, strlen($filename) - 9) === "_category";
     $name = getId($contents);
     if ($category) {
-        printStatement("category format detected");
         $categName = substr($filename, strlen($filename) - 9);
         if (isset($cache[$categName][$name . "_category"])) {
-            printError("category index for: $categName already exist");
+            $errors[] = "Category index for: $categName already exist ($file)";
             $subError = true;
             goto end;
         }
     } else {
-        printStatement("article format detected");
         $categ = getCategory($contents);
         if (isset($cache[$categ][$name])) {
-            printError("$name for category: $categ already exist");
+            $errors[] = "$name for category: $categ already exist ($file)";
             $subError = true;
             goto end;
         }
         $cache[$categ][$name] = $file;
     }
     end:
-    if (!$subError) {
-        printSuccess(getFilename($file) . " valid");
-    } else {
+    if ($subError) {
         $hasError = true;
     }
 }
@@ -65,12 +58,13 @@ foreach ($cache as $categ => $art) {
         }
     }
     if (!$asIndex) {
-        printError("category: $categ has no index");
+        $errors[] = "Category: $categ has no index";
         $hasError = true;
         continue;
     }
 }
 
+printErrors($errors);
 if ($hasError) {
     exit(1);
 }
