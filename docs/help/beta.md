@@ -1,6 +1,6 @@
 ---
 id: beta
-title: [New] Le boss Beta (Arcadia) 
+title: Le boss Beta (Arcadia) 
 category: help
 description: Le boss Beta
 icon: "https://user-images.githubusercontent.com/91474741/160209033-bf2f7ee5-9991-477b-92ec-1169cc2915bc.png"
