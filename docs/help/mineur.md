@@ -47,23 +47,23 @@ Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque 
 
 Niveau | Récompenses
 :----: | :---------: 
-1 | Clé commune {{image#items/keys/common_key}}
-2 | Craft casque de farm {{image#items/armors/farm/farm_helmet}}
-3 | 16 lingots en opalite {{image#items/ores/opalite_ingot}}
-4 | Craft pioche en opalite {{image#items/tools/pickaxes/opalite_pickaxe}}
-5 | Craft four en opalite {{image#blocks/furnaces/opalite/opalite_furnace_front_off}}
-6 | 1 zéphyrs {{image#items/ores/zephir}}
-7 | Craft hammer en opalite {{image#items/tools/hammers/opalite_hammer}}
-8 | 16 blocks d'opalite {{image#blocks/others/opalite_block}}
-9 | 1 poussiére de plutonium {{image#items/ores/plutonium_dust}}
-10 | Craft four en plutonium {{image#blocks/furnaces/plutonium/plutonium_furnace_front_off}}
-11 | 50 000$ {{image#items/others/billet}}
-12 | Craft pioche en plutonium {{image#items/tools/pickaxes/plutonium_pickaxe}}
-13 | 3 foreuses obsidienne {{image#items/tools/others/obsi_breaker}}
-14 | 2 poussiére de plutonium {{image#items/ores/plutonium_dust}}
-15 | Craft hammer en plutonium {{image#items/tools/hammers/plutonium_hammer}}
-16 | 1 charbon en plutonium {{image#items/others/plutonium_coal}}
-17 | Bouteille avec 250 000xp {{image#items/armors/farm/farm_helmet}}
-18 | 2 fragments pluto {{image#items/ores/plutonium_fragment}}
-19 | 200 000$ {{image#items/others/billet}}
-20 | Craft casque en plutonium {{image#items/armors/plutonium/plutonium_helmet}}
+1 | {{image#items/keys/common_key}} 1x Clé commune
+2 | {{image#items/armors/farm/farm_helmet}} Craft casque de farm
+3 | {{image#items/ores/opalite_ingot}} 16x lingots en opalite
+4 | {{image#items/tools/pickaxes/opalite_pickaxe}} Craft pioche en opalite
+5 | {{image#blocks/furnaces/opalite/opalite_furnace_front_off}} Craft four en opalite
+6 | {{image#items/ores/zephir}} 1x zéphyr
+7 | {{image#items/tools/hammers/opalite_hammer}} Craft hammer en opalite
+8 | {{image#blocks/others/opalite_block}} 16x blocks d'opalite
+9 | {{image#items/ores/plutonium_dust}} 1x poussiére de plutonium
+10 | {{image#blocks/furnaces/plutonium/plutonium_furnace_front_off}} Craft four en plutonium
+11 | {{image#items/others/billet}} 50 000$
+12 | {{image#items/tools/pickaxes/plutonium_pickaxe}} Craft pioche en plutonium
+13 | {{image#items/tools/others/obsi_breaker}} 3x foreuses obsidienne
+14 | {{image#items/ores/plutonium_dust}} 2x poussiére de plutonium
+15 | {{image#items/tools/hammers/plutonium_hammer}} Craft hammer en plutonium
+16 | {{image#items/others/plutonium_coal}} 1 charbon en plutonium
+17 | {{image#items/armors/farm/farm_helmet}} Bouteille avec 250 000xp
+18 | {{image#items/ores/plutonium_fragment}} 2x fragments pluto
+19 | {{image#items/others/billet}} 200 000$
+20 | {{image#items/armors/plutonium/plutonium_helmet}} Craft casque en plutonium

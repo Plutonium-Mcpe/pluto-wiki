@@ -78,3 +78,14 @@ function getInput(string $message): string
     $line = fgets($handle);
     return trim($line);
 }
+
+function printErrors(array $error) {
+    if(count($error) !== 0) {
+        printStatement("FAIL, found " . count($error) . " error:");
+        foreach ($error as $key => $value) {
+            printError($value);
+        }
+    }else{
+        printSuccess("SUCCESS, no error found");
+    }
+}

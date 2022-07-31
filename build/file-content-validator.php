@@ -8,36 +8,35 @@ if (count($argv) !== 2) {
 }
 
 $hasError = false;
+$errors = [];
 foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_PATHNAME)) as $file) {
-    printWarning("find: $file");
     $subError = false;
     if (substr($file, -3) !== ".md") {
-        printStatement("skipped due to invalid extension");
         continue;
     }
     $contents = file_get_contents($file);
     if ($contents === false) {
-        printError("error in the recovery of the file content");
+        $errors[] = "Error in the recovery of the file content ($file)";
         $subError = true;
         goto end;
     }
-    printStatement("file content get");
     $name = getId($contents);
     $filename = getFilename($file);
     $isCategory = substr($filename, strlen($filename) - 9) === "_category";
     if (!$isCategory) {
         $foundMatches = 0;
-        preg_match_all("/{{[a-z1-9]+#[a-z\-\_\/]+}}/", $contents, $allMatches);
+        preg_match_all("/{{[a-z1-9]+#[a-zA-Z1-9\/_\.]+}}/", $contents, $allMatches);
         $allMatches = $allMatches[0];
-        printStatement("find " . count($allMatches) . " patterns to validate");
-        if (count($allMatches) === 0) {
-            printStatement("skipped, no patern available to test");
-        } else {
+        $foundMatchesArray = [];
+        if (count($allMatches) !== 0) {
             preg_match_all("/{{craft#([a-z\-\_])+\/([a-z\/\-\_])+}}/", $contents, $craftMatches);
             $craftMatches = $craftMatches[0];
             if (count($craftMatches) > 0) {
                 foreach ($craftMatches as $context) {
-                    printStatement("process: $context");
+                    if(in_array($context, $foundMatchesArray)){
+                        continue;
+                    }
+                    $baseContext = $context;
                     $context = substr($context, 2, strlen($context) - 4);
                     $data = explode("/", explode("#", $context)[1]);
                     $folder = $data[0];
@@ -45,53 +44,50 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
                     $staticPath = $folder . "/" . implode("/", $data) . ".png";
                     $absolutePath = dirname(__DIR__) . "/static/" . $staticPath;
                     if (is_file($absolutePath)) {
-                        $foundMatches++;
+                        $foundMatchesArray[] = $baseContext;
                     } else {
-                        printError("cant found the craft file: $staticPath");
+                        $errors[] = "Cant found the craft file: $staticPath ($file)";
                         $subError = true;
                         goto end;
                     }
                 }
-            } else {
-                printStatement("no craft patern found");
             }
             preg_match_all("/{{image#([a-zA-Z1-9\/_\.])+}}/", $contents, $imageMatches);
             $imageMatches = $imageMatches[0];
             if (count($imageMatches) > 0) {
                 foreach ($imageMatches as $context) {
-                    printStatement("process: $context");
+                    if(in_array($context, $foundMatchesArray)){
+                        continue;
+                    }
+                    $baseContext = $context;
                     $context = substr($context, 2, strlen($context) - 4);
                     $path = explode("#", $context)[1];
                     $path = "textures/$path.png";
                     $rootPath = dirname(__DIR__) . "/static/";
                     if (is_file($rootPath . "plutonium/" . $path) || is_file($rootPath . "vanilla/" . $path)) {
-                        $foundMatches++;
+                        $foundMatchesArray[] = $baseContext;
                     } else {
-                        printError("cant found the image file: $path");
+                        $errors[] = "Cant found the image file: $path ($file)";
                         $subError = true;
                         goto end;
                     }
                 }
-            } else {
-                printStatement("no image patern found");
             }
-            if ($foundMatches !== count($allMatches)) {
-                printError("format not recognized, not supported or invalid detect, found " . count($allMatches) . " patern and get $foundMatches valid pattern");
+            if (count(array_unique($foundMatchesArray)) !== count(array_unique($allMatches))) {
+                $errors[] = "Format not recognized, not supported or invalid detect, found " . count($allMatches) . " patern and get ".count($foundMatchesArray)." valid pattern ($file)";
                 $subError = true;
                 goto end;
             }
         }
         end:
-        if (!$subError) {
-            printSuccess(getFilename($file) . " valid");
-        } else {
+        if ($subError) {
             $hasError = true;
+            printErrors($errors);
+            exit;
         }
-    } else {
-        printStatement("skipped, a format corresponding to a category was found");
-        continue;
     }
 }
+printErrors($errors);
 if ($hasError) {
     exit(1);
 }

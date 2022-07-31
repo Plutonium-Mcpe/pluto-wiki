@@ -110,6 +110,95 @@
       "west" : "plutonium_furnace_side"
     }
   },
+  "plutonium:golem_heart" : {
+    "sound" : "stone",
+    "textures" : "golem_heart"
+  },
+  "plutonium:golem_heart_0" : {
+    "sound" : "stone",
+    "textures" : "golem_heart"
+  },
+  "plutonium:golem_heart_1" : {
+    "sound" : "stone",
+    "textures" : "golem_heart_with_gem"
+  },
+  "plutonium:golem_head" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "golem_head_down",
+      "east" : "golem_head_right",
+      "north" : "golem_head_behind",
+      "south" : "golem_head_front",
+      "up" : "golem_head_up",
+      "west" : "golem_head_left"
+    }
+  },
+  "plutonium:golem_head_0" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "golem_head_down",
+      "east" : "golem_head_right",
+      "north" : "golem_head_behind",
+      "south" : "golem_head_front",
+      "up" : "golem_head_up",
+      "west" : "golem_head_left"
+    }
+  },
+  "plutonium:golem_head_1" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "golem_head_down",
+      "east" : "golem_head_left",
+      "north" : "golem_head_right",
+      "south" : "golem_head_behind",
+      "up" : "golem_head_up",
+      "west" : "golem_head_front"
+    }
+  },
+  "plutonium:golem_head_2" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "golem_head_down",
+      "east" : "golem_head_right",
+      "north" : "golem_head_behind",
+      "south" : "golem_head_front",
+      "up" : "golem_head_up",
+      "west" : "golem_head_left"
+    }
+  },
+  "plutonium:golem_head_3" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "golem_head_down",
+      "east" : "golem_head_left",
+      "north" : "golem_head_right",
+      "south" : "golem_head_behind",
+      "up" : "golem_head_up",
+      "west" : "golem_head_front"
+    }
+  },
+  "plutonium:golem_head_4" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "golem_head_down",
+      "east" : "golem_head_front",
+      "north" : "golem_head_left",
+      "south" : "golem_head_right",
+      "up" : "golem_head_up",
+      "west" : "golem_head_behind"
+    }
+  },
+  "plutonium:golem_head_5" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "golem_head_down",
+      "east" : "golem_head_behind",
+      "north" : "golem_head_front",
+      "south" : "golem_head_left",
+      "up" : "golem_head_up",
+      "west" : "golem_head_right"
+    }
+  },
   "plutonium:opalite_ore": {
     "textures": "opalite_ore",
     "sound": "stone"
@@ -124,13 +213,37 @@
   },
   "plutonium:opalite_plant" : {
     "sound" : "grass",
-    "textures" : "opalite_plant_0"
+    "textures" : "opalite_plant"
   },
-  "beetroot" : {
+  "plutonium:opalite_plant__1" : {
     "sound" : "grass",
-    "textures" : "opalite_plant_0"
+    "textures" : "opalite_plant_1"
   },
-  "plutonium:tnt_lvl2" : {
+  "plutonium:opalite_plant__2" : {
+    "sound" : "grass",
+    "textures" : "opalite_plant_2"
+  },
+  "plutonium:opalite_plant__3" : {
+    "sound" : "grass",
+    "textures" : "opalite_plant_3"
+  },
+  "plutonium:plutonium_plant" : {
+    "sound" : "grass",
+    "textures" : "plutonium_plant_0"
+  },
+  "plutonium:plutonium_plant__1" : {
+    "sound" : "grass",
+    "textures" : "plutonium_plant_1"
+  },
+  "plutonium:plutonium_plant__2" : {
+    "sound" : "grass",
+    "textures" : "plutonium_plant_2"
+  },
+  "plutonium:plutonium_plant__3" : {
+    "sound" : "grass",
+    "textures" : "plutonium_plant_3"
+  },
+  "plutonium:tnt_lvl02" : {
     "sound" : "grass",
     "textures" : {
       "down" : "tnt_lvl2_bottom",
@@ -138,7 +251,7 @@
       "up" : "tnt_lvl2_top"
     }
   },
-  "plutonium:tnt_lvl3" : {
+  "plutonium:tnt_lvl03" : {
     "sound" : "grass",
     "textures" : {
       "down" : "tnt_lvl3_bottom",
@@ -146,7 +259,7 @@
       "up" : "tnt_lvl3_top"
     }
   },
-  "plutonium:tnt_lvl4" : {
+  "plutonium:tnt_lvl04" : {
     "sound" : "grass",
     "textures" : {
       "down" : "tnt_lvl4_bottom",
@@ -154,7 +267,7 @@
       "up" : "tnt_lvl4_top"
     }
   },
-  "plutonium:tnt_lvl5" : {
+  "plutonium:tnt_lvl05" : {
     "sound" : "grass",
     "textures" : {
       "down" : "tnt_lvl5_bottom",
@@ -162,7 +275,7 @@
       "up" : "tnt_lvl5_top"
     }
   },
-  "plutonium:tnt_lvl6" : {
+  "plutonium:tnt_lvl06" : {
     "sound" : "grass",
     "textures" : {
       "down" : "tnt_lvl6_bottom",
@@ -170,7 +283,7 @@
       "up" : "tnt_lvl6_top"
     }
   },
-  "plutonium:tnt_lvl7" : {
+  "plutonium:tnt_lvl07" : {
     "sound" : "grass",
     "textures" : {
       "down" : "tnt_lvl7_bottom",
@@ -178,7 +291,7 @@
       "up" : "tnt_lvl7_top"
     }
   },
-  "plutonium:tnt_lvl8" : {
+  "plutonium:tnt_lvl08" : {
     "sound" : "grass",
     "textures" : {
       "down" : "tnt_lvl8_bottom",
@@ -186,7 +299,7 @@
       "up" : "tnt_lvl8_top"
     }
   },
-  "plutonium:tnt_lvl9" : {
+  "plutonium:tnt_lvl09" : {
     "sound" : "grass",
     "textures" : {
       "down" : "tnt_lvl9_bottom",

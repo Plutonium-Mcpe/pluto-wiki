@@ -3,16 +3,16 @@
 	"header": {
 		"name": "PlutoniumRPV4",
 		"description": "Resource Pack de Plutonium MC:BE V4",
-		"uuid": "7e13210d-70d7-482a-b4ff-af9c268cd5a2",
-		"version": [0, 0, 7],
+		"uuid": "28b71964-2cec-11ec-8d3d-0242ac130003",
+		"version": [0, 0, 11],
 		"min_engine_version": [1, 16, 0]
 	},
 	"modules": [
 		{
-			"description": "Modules Resource Pack de Plutonium MC:BE V4",
+			"description": "Resource Pack de Plutonium MC:BE V4",
 			"type": "resources",
-			"uuid": "e904e305-24a9-4142-ab5e-180f8f5b8051",
-			"version": [0, 0, 7]
+			"uuid": "fcc6d2f3-0ca2-41dd-a584-6c7f3a35a89b",
+			"version": [0, 0, 11]
 		}
 	]
 }

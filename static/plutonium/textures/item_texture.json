@@ -77,6 +77,9 @@
 		"clesucre_key": {
 			"textures": "textures/items/keys/clesucre_key"
 		},
+		"supreme_key": {
+			"textures": "textures/items/keys/supreme_key"
+		},
 		"opalite_ingot": {
 			"textures": "textures/items/ores/opalite_ingot"
 		},
@@ -190,6 +193,24 @@
 		},
 		"xp_collector": {
 			"textures": "textures/items/others/xp_collector"
+		},
+		"golem_gem": {
+			"textures": "textures/items/others/golem_gem"
+		},
+		"farmer_bottle": {
+			"textures": "textures/items/jobs/farmer_bottle"
+		},
+		"miner_bottle": {
+			"textures": "textures/items/jobs/miner_bottle"
+		},
+		"warrior_bottle": {
+			"textures": "textures/items/jobs/warrior_bottle"
+		},
+		"lumberjack_bottle": {
+			"textures": "textures/items/jobs/lumberjack_bottle"
+		},
+		"parchment": {
+			"textures": "textures/items/others/parchment"
 		}
 	}
 }
