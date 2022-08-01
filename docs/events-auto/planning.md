@@ -2,7 +2,7 @@
 id: planning
 title: [NEW] Planning des événements automatique 
 category: events-auto
-description: Planning relatant les heures et jours auxquels se déroulent les event automatique
+description: Planning relatant les heures et jours auxquels se déroulent les évènements automatique
 icon: "textures/items/totem.png"
 ---
 ___

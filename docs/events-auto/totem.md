@@ -3,18 +3,18 @@ id: totem
 title: [NEW] Les totems en warzone
 category: events-auto
 description: Soyez les premier à détruire le totem 
-icon: "https://user-images.githubusercontent.com/109299545/182046178-97bf8b14-9f27-4dc3-a8bf-0556e2cddc21.png"
+icon: "textures/items/totems.png"
 ---
 ___
-<img class="thumbnail-right" src="https://user-images.githubusercontent.com/109299545/182163339-097a92d4-c679-4e26-a395-821ead737e1a.png" alt="le totem du stelite">
+<img class="thumbnail-right" src="https://user-images.githubusercontent.com/109299545/182174544-01995bfe-b948-43cf-aa93-b61008a7c3d5.png">
 
 ## Comment jouer au mode totem ?
 ### Etape 1 : Se rendre aux coordonnées avec sa faction
 Les heures durant lesquelles se déroulent l'évent totem sont indiquée dans #events-auto/planning  
 
-**Coordonnées (xyz)**  
-**Stelite** : -265 74 268  
-**Arcadia** : 258 89 278
+**Coordonnées**  
+**Stelite** : x: -265 y: 74 z: 268  
+**Arcadia** : x: 258 y: 89 z: 278
 
 ### Etape 2 : Casser le totem
 Dès le début de l'évent, votre seul objectif est de détruire le totem sans que ce processus se retrouve interrompu par un joueur d'une autre faction.  

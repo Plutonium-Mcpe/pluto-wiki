@@ -6,15 +6,15 @@ description: Restez le plus longtemps dans la zone !
 icon: "textures/items/diamond_sword.png"
 ---
 ___
-<img class="thumbnail-right" src="https://user-images.githubusercontent.com/109299545/182162108-820aa6b6-80a2-440d-bb29-bbd69ad2b17b.png" alt="le KOTH du stelite">
+<img class="thumbnail-right" src="https://user-images.githubusercontent.com/109299545/182172833-c5f13625-8d8b-4ca5-8ede-722acea9cdc8.png" alt="le KOTH du stelite">
 
 ## Comment jouer au mode KOTH ?
 ### Etape 1 : Se rendre aux coordonnées de la zone de combat avec sa faction
 Les heures durant lesquelles se déroulent l'évent KOTH sont indiquées dans #eventauto/planning  
 
-**Coordonnées (xyz)**  
-**Stelite** : 201 80 -292  
-**Arcadia** : -184 85 -216 et 201 80 -292
+**Coordonnées**  
+**Stelite** : x: 201 y: 80 z: -292  
+**Arcadia** : x: -184 y: 85 z: -216 et x: 201 y: 80 z: -292
 
 ### Etape 2 : Capturer la zone
 Pour gagner le koth, il faut qu'un membre d'une faction reste 1 minute dans la zone de combat sans en sortir.  
