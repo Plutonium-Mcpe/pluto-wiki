@@ -1,7 +1,11 @@
 ---
 id: farmeur
 title: Le métier de farmeur
+<<<<<<<< HEAD:docs/jobs/farmeur.md
 category: jobs
+========
+category: metiers
+>>>>>>>> 0fba05459f419a21b15e20b89cc248a6fff7d71e:docs/metiers/farmeur.md
 description: Faire pousser, récolter et replanter, le maitre mot de ce métier
 icon: "textures/plutonium_ui/job/farmer.png"
 ---

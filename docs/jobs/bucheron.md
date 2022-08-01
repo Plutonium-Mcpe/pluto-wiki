@@ -1,7 +1,11 @@
 ---
 id: bucheron
 title: Le métier de bûcheron
+<<<<<<<< HEAD:docs/jobs/bucheron.md
 category: jobs
+========
+category: metiers
+>>>>>>>> 0fba05459f419a21b15e20b89cc248a6fff7d71e:docs/metiers/bucheron.md
 description: Casser, bûcheronner, abatter et replanter pour monter dans le classement
 icon: "textures/plutonium_ui/job/lumberjack.png"
 ---
