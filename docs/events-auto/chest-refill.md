@@ -1,6 +1,6 @@
 ---
 id: chest-refill
-title: [NEW] Les coffres en War Zone
+title: [New] Les coffres en War Zone
 category: events-auto
 description: Partez à la recherche du stuff de ces coffres présent en Warzone qui se remplissent automatiquement de stuff très intéressant.
 icon: "textures/blocks/chest_front.png"
