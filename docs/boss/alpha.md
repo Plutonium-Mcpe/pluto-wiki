@@ -1,7 +1,7 @@
 ---
 id: alpha
 title: Le boss Alpha (Linaria) 
-category: help
+category: boss
 description: Le boss Alpha
 icon: "https://user-images.githubusercontent.com/91474741/160202571-2e5e2f38-e312-4527-838b-ec873acadb69.png"
 ---
