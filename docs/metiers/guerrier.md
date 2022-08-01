@@ -1,7 +1,7 @@
 ---
 id: guerrier
 title: Le métier de guerrier
-category: help
+category: metiers
 description: Combattre, affronter et tuer ! Seul les plus valeureux sauront atteindre la fin de cet objectif.
 icon: "textures/plutonium_ui/job/warrior.png"
 ---

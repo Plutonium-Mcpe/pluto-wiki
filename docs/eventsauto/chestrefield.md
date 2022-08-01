@@ -1,7 +1,7 @@
 ---
 id: chestrefield
 title: [NEW] Les coffres en War Zone
-category: help
+category: eventsauto
 description: Partez à la recherche du stuff de ces coffres présent en Warzone qui se remplissent automatiquement de stuff intéressant
 icon: "textures/blocks/chest_front.png"
 ---
@@ -26,15 +26,15 @@ Loot |   Nombre   | % d'apparition
 {{image#items/keys/supreme_key}} Clé supreme |     1      | 1%
 
 ## Où trouver ces coffres
-### Serveur stelite :
-<u>**Coffre N°1**</u> : -325 91 -339 <br>
-<u>**Coffre N°2**</u> : 305 78 170
+### Serveur Stelite :
+**Coffre N°1** : -325 91 -339  
+**Coffre N°2** : 305 78 170
 ### Serveur Arcadia :
-<u>**Coffre N°1**</u> : -287 78 209 <br>
-<u>**Coffre N°2**</u> : 260 82 -274
+**Coffre N°1** : -287 78 209  
+**Coffre N°2** : 260 82 -274
 ### Serveur Linaria :
-<u>**Coffre N°1**</u> : 199 90 -196 <br>
-<u>**Coffre N°2**</u> : -184 89 184
+**Coffre N°1** : 199 90 -196  
+**Coffre N°2** : -184 89 184
 
-#### Partez a leur recherche ! Mais attention, ces derniers sont très convoités et vous pouvez vous retrouver face a d'autres joueurs !
+#### Partez à leur recherche ! Mais attention, ces derniers sont très convoités et vous pouvez vous retrouver face a d'autres joueurs !
 <img style="margin: 0 auto;" src="https://user-images.githubusercontent.com/109299545/182045362-5120af39-74e0-4ae2-9392-105f9a2e7280.PNG">
