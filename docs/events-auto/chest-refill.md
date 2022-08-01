@@ -2,7 +2,7 @@
 id: chest-refill
 title: [NEW] Les coffres en War Zone
 category: events-auto
-description: Partez à la recherche du stuff de ces coffres présent en Warzone qui se remplissent automatiquement de stuff très intéressant
+description: Partez à la recherche du stuff de ces coffres présent en Warzone qui se remplissent automatiquement de stuff très intéressant.
 icon: "textures/blocks/chest_front.png"
 ---
 ___
@@ -12,7 +12,7 @@ Toute les **4 heures** 1 des **6 coffres** répartis sur les 3 serveurs se rempl
 Soyez le premier sur les lieux pour récupérer ce stuff !
 
 ## Quelles sont les récompenses possibles de ses derniers ?
-Le tableau ci-dessous vous permet de prendre connaissance des probabilitées d'apparition de chaque loot :
+Le tableau ci-dessous vous permet de prendre connaissance des probabilités d'apparition de chaque loot :
 
 Loot |   Nombre   | % d'apparition
 :------: |:----------:| :------:
