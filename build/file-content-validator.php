@@ -82,8 +82,6 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
         end:
         if ($subError) {
             $hasError = true;
-            printErrors($errors);
-            exit;
         }
     }
 }
