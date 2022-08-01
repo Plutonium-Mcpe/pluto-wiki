@@ -1,6 +1,6 @@
 ---
 id: koth
-title: [NEW] Les koth en warzone
+title: [New] Les koth en warzone
 category: events-auto
 description: Restez le plus longtemps dans la zone !
 icon: "textures/items/diamond_sword.png"
