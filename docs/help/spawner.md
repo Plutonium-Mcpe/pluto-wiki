@@ -1,6 +1,6 @@
 ---
 id: spawner
-title: [New] Les spawners
+title: Les spawners
 category: help
 description: Le système de génération des spawners
 icon: "textures/blocks/mob_spawner.png"

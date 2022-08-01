@@ -1,7 +1,7 @@
 ---
 id: mineur
 title: Le métier de mineur
-category: help
+category: jobs
 description: Miner et gagner des récompenses ! Si tu aimes les cailloux, tu aimeras ce métier.
 icon: "textures/plutonium_ui/job/mineur.png"
 ---

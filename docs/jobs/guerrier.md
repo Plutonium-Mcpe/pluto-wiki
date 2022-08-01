@@ -1,7 +1,7 @@
 ---
 id: guerrier
 title: Le métier de guerrier
-category: help
+category: jobs
 description: Combattre, affronter et tuer ! Seul les plus valeureux sauront atteindre la fin de cet objectif.
 icon: "textures/plutonium_ui/job/warrior.png"
 ---
@@ -65,4 +65,4 @@ Niveau | Récompenses
 17 | {{image#items/others/billet}} 100 000$ 
 18 | {{image#items/ores/plutonium_fragment}} 2x Fragments pluto 
 19 | {{image#items/keys/plutonium_key}} 1x Clé en pluto 
-20 | {{image#items/armors/plutonium/plutonium_leggings}} Craft jambiéres en plutonium 
+20 | {{image#items/armors/plutonium/plutonium_leggings}} Craft jambiéres en plutonium
