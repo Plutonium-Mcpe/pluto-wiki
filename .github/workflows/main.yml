@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  file-check:
-    name: Vérification des fichiers
+  skeletoncheck:
+    name: Skelette fichier
     runs-on: ${{ matrix.image }}
     strategy:
       fail-fast: false
@@ -18,11 +18,54 @@ jobs:
       - uses: actions/checkout@v2
       - name: Validations du skelette
         run: php build/file-skeleton-validator.php docs
+  customcraft:
+    name: Craft custom
+    runs-on: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validations des crafts custom
+        run: php build/custom-craft-validator.php
+  namecheck:
+    name: Nom fichier
+    needs: skeletoncheck
+    runs-on: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
+    steps:
+      - uses: actions/checkout@v2
       - name: Nommage des fichiers
         run: php build/file-name-validator.php docs
+  unicitycheck:
+    name: Unicité
+    needs: skeletoncheck
+    runs-on: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
+    steps:
+      - uses: actions/checkout@v2
       - name: Unicité des ids
         run: php build/unicity-build-folder.php docs
+  contentcheck:
+    name: Validation du contenu
+    needs: ["namecheck", "unicitycheck"]
+    runs-on: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [ubuntu-20.04]
+        php: [8.0.11]
+    steps:
+      - uses: actions/checkout@v2
       - name: Contenu des fichiers
         run: php build/file-content-validator.php docs
-      - name: Validation craft custom
-        run: php build/custom-craft-validator.php
