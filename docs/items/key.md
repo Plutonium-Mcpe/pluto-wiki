@@ -29,7 +29,7 @@ Les keys servent de récompense à diverses actions que vous pouvez réaliser su
 ### {{image#items/keys/opalite_key}} Key opalite
 
 - Permet d'ouvrir la box opalite.
-- Obtenable dans certains kits, ainsi que via les commandes de keytransform et dans les récompenses des #eventauto.
+- Obtenable dans certains kits, ainsi que via les commandes de keytransform et dans les récompenses des #events-auto .
   
 
 ### {{image#items/keys/plutonium_key}} Key plutonium
