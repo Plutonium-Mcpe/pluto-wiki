@@ -29,9 +29,15 @@ Les keys servent de récompense à diverses actions que vous pouvez réaliser su
 ### {{image#items/keys/opalite_key}} Key opalite
 
 - Permet d'ouvrir la box opalite.
-- Obtenable dans certains kits & via les commandes de keytransform.  
+- Obtenable dans certains kits, ainsi que via les commandes de keytransform et dans les récompenses des #events-auto .
+  
 
 ### {{image#items/keys/plutonium_key}} Key plutonium
 
 - Permet d'ouvrir la box plutonium.
-- Obtenable via les commandes de keytransform & via les récompenses pour les personnes qui ont voté tous les jours d'un mois.
+- Obtenable via les commandes de keytransform, ainsi que via les récompenses pour les personnes qui ont voté tous les jours d'un mois et dans les récompenses des #eventauto.
+
+### {{image#items/keys/supreme_key}} Key Suprême
+
+- Permet d'ouvrir la box suprême contenant des objets uniques.
+- Obtenable uniquement dans les kits des grades Légendes ( tout les 5 jours ) et Titan ( tout les 10 jours ). 
