@@ -9,14 +9,14 @@ ___
 
 ## Introduction 
 
-Les spawners sont des blocs vanilla permettant de générer en continu et infiniment la créature ou l'animal qui se trouve dans lui.  
-Un nouveau système de génération et d'utilisation des spawners a été mis en place sur le serveur.    
+Les spawners sont des blocs vanilla permettant de générer reguli et de manière continue la créature ou l'animal qui se trouve dans lui.  
+Néanmoins, un système différent de gestion et d'utilisation des spawners est en place sur le serveur.    
 Ce dispositif permet d'éviter l'abus du farm des spawners ainsi que créer engouement sur leurs recherches.  
 
 ## Explication 
 
-Les spawners sont donc dès à présent directement générée sur les maps factions des différents serveurs. Les spawners se trouvent dans des salles comportant entre 1 et 4 spawners du même type.  
-Il n’est maintenant plus possible de casser des spawners pour les récupérer, néanmoins si tous les spawners d’une salle sont cassés, une nouvelle sera directement générée sur la map. Le nombre de salles avec spawners sur la map sera donc toujours le même tout au long de la version.  
+Les spawners sont donc dès à présent automatiquement  générée sur les maps des différents serveurs factions. Les spawners se trouvent dans des salles comportant entre 1 et 4 spawners.  
+Il n’est maintenant plus possible de casser des spawners pour les récupérer dans votre inventaire. Néanmoins si tous les spawners d’une salle sont cassés, une nouvelle sera automatiquement générée sur la map. Le nombre de salle avec spawners sur la map sera donc toujours le même tout au long de la version.  
 Les spawners ne sont également plus disponibles à l’achat au shop les rendant donc irrécupérables et très rares.   
 A vous de faire jouer votre patience pour en trouver ainsi que d’en prendre soin !   
 
