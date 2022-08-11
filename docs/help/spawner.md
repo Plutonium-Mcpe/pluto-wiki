@@ -15,7 +15,7 @@ Ce dispositif permet d'éviter l'abus du farm des spawners ainsi que créer engo
 
 ## Explication 
 
-Les spawners sont donc dès à présent automatiquement  générée sur les maps des différents serveurs factions. Les spawners se trouvent dans des salles comportant entre 1 et 4 spawners.  
+Les spawners sont donc dès à présent automatiquement générée sur les maps des différents serveurs factions. Les spawners se trouvent dans des salles comportant entre 1 et 4 spawners.  
 Il n’est maintenant plus possible de casser des spawners pour les récupérer dans votre inventaire. Néanmoins si tous les spawners d’une salle sont cassés, une nouvelle sera automatiquement générée sur la map. Le nombre de salle avec spawners sur la map sera donc toujours le même tout au long de la version.  
 Les spawners ne sont également plus disponibles à l’achat au shop les rendant donc irrécupérables et très rares.   
 A vous de faire jouer votre patience pour en trouver ainsi que d’en prendre soin !   
