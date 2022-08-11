@@ -23,7 +23,7 @@ Faites attention, les autres factions peuvent réinitialiser votre avancée uniq
 Le plus simple reste encore de tuer tout vos adversaires ! {{image#items/tools/swords/opalite_sword}}
 
 ### Etape 3 : Récupérer les récompenses
-**Pour les vainqueurs** : entre 500 et 1500 STR pour la faction du vainceur.
+**Pour les vainqueurs** : entre 500 et 1500 power pour la faction du vainqueur.
 
 **Pour tout les participants** : à la fin de l'évent, une pluie du stuff débute afin que chacun puisse partir avec un peu de ce dernier.
 Vous pouvez récupérer des blocks d'opalite, du zephir, des lucky block, des pommes en opalite et des pépites de plutonium.
