@@ -19,7 +19,7 @@ Les heures durant lesquelles se déroulent l'évent totem sont indiquée dans #e
 ### Etape 2 : Casser le totem
 Lorsque l'évent commence, votre objectif est de détruire le totem sans que ce processus de destruction soit interrompu par un joueur d'une autre faction.  
 Cela vous prendra du temps de casser l'ensemble les blocs du totem auto se trouve au milieu de l'arène. Ainsi, il faut que votre faction vous protège afin d'empêcher les autres factions d'interrompre votre minage de totem.  
-Faites attention, les autres factions peuvent réinitialiser votre avancée uniquement en commençant à miner le totem à votre place. Se sera ensuite à vous de tenter de réinitialiser leur progression pour tenter de remporter l'évent en détruisant totalement le totem.  
+Faites attention, les autres factions peuvent réinitialiser votre avancée uniquement en débutant à miner le totem. Se sera ensuite à vous de tenter de réinitialiser leur progression pour tenter de remporter l'événement en détruisant totalement le totem.  
 Le plus simple reste encore de tuer tout vos adversaires ! {{image#items/tools/swords/opalite_sword}}
 
 ### Etape 3 : Récupérer les récompenses
