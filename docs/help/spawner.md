@@ -9,7 +9,7 @@ ___
 
 ## Introduction 
 
-Les spawners sont des blocs vanilla permettant de générer reguli et de manière continue la créature ou l'animal qui se trouve dans lui.  
+Les spawners sont des blocs vanilla permettant de générer régulièrement et de manière continue le monstre ou l'animal qui se trouve dans lui.  
 Néanmoins, un système différent de gestion et d'utilisation des spawners est en place sur le serveur.    
 Ce dispositif permet d'éviter l'abus du farm des spawners ainsi que créer engouement sur leurs recherches.  
 
