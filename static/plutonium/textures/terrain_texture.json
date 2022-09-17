@@ -268,6 +268,24 @@
 		},
 		"upgraded_obsidian": {
 			"textures": "textures/blocks/others/upgraded_obsidian"
+		},
+		"totem_block": {
+			"textures": "textures/blocks/others/totem_block"
+		},
+		"obsidian_state_1": {
+			"textures": "textures/blocks/obsidians/obsidian_state_1"
+		},
+		"obsidian_state_2": {
+			"textures": "textures/blocks/obsidians/obsidian_state_2"
+		},
+		"obsidian_state_3": {
+			"textures": "textures/blocks/obsidians/obsidian_state_3"
+		},
+		"obsidian_state_4": {
+			"textures": "textures/blocks/obsidians/obsidian_state_4"
+		},
+		"lucky_trophee": {
+			"textures": "textures/blocks/others/lucky_trophee"
 		}
 	}
 }

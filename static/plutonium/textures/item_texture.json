@@ -2,6 +2,18 @@
 	"resource_pack_name": "PlutoniumRPV4",
 	"texture_name": "atlas.items",
 	"texture_data": {
+		"farm_helmet": {
+			"textures": "textures/items/armors/farm/farm_helmet"
+		},
+		"farm_chestplate": {
+			"textures": "textures/items/armors/farm/farm_chestplate"
+		},
+		"farm_leggings": {
+			"textures": "textures/items/armors/farm/farm_leggings"
+		},
+		"farm_boots": {
+			"textures": "textures/items/armors/farm/farm_boots"
+		},
 		"opalite_helmet": {
 			"textures": "textures/items/armors/opalite/opalite_helmet"
 		},
@@ -26,17 +38,17 @@
 		"plutonium_boots": {
 			"textures": "textures/items/armors/plutonium/plutonium_boots"
 		},
-		"farm_helmet": {
-			"textures": "textures/items/armors/farm/farm_helmet"
+		"lucky_helmet": {
+			"textures": "textures/items/armors/lucky/lucky_helmet"
 		},
-		"farm_chestplate": {
-			"textures": "textures/items/armors/farm/farm_chestplate"
+		"lucky_chestplate": {
+			"textures": "textures/items/armors/lucky/lucky_chestplate"
 		},
-		"farm_leggings": {
-			"textures": "textures/items/armors/farm/farm_leggings"
+		"lucky_leggings": {
+			"textures": "textures/items/armors/lucky/lucky_leggings"
 		},
-		"farm_boots": {
-			"textures": "textures/items/armors/farm/farm_boots"
+		"lucky_boots": {
+			"textures": "textures/items/armors/lucky/lucky_boots"
 		},
 		"hood_helmet": {
 			"textures": "textures/items/armors/others/hood_helmet"
@@ -47,8 +59,26 @@
 		"opalite_bow": {
 			"textures": "textures/items/bows/opalite/opalite_bow"
 		},
+		"opalite_bow_pulling_0": {
+			"textures": "textures/items/bows/opalite/opalite_bow_pulling_0"
+		},
+		"opalite_bow_pulling_1": {
+			"textures": "textures/items/bows/opalite/opalite_bow_pulling_1"
+		},
+		"opalite_bow_pulling_2": {
+			"textures": "textures/items/bows/opalite/opalite_bow_pulling_2"
+		},
 		"plutonium_bow": {
 			"textures": "textures/items/bows/plutonium/plutonium_bow"
+		},
+		"plutonium_bow_pulling_0": {
+			"textures": "textures/items/bows/plutonium/plutonium_bow_pulling_0"
+		},
+		"plutonium_bow_pulling_1": {
+			"textures": "textures/items/bows/plutonium/plutonium_bow_pulling_1"
+		},
+		"plutonium_bow_pulling_2": {
+			"textures": "textures/items/bows/plutonium/plutonium_bow_pulling_2"
 		},
 		"industrial_carrot": {
 			"textures": "textures/items/foods/industrial_carrot"
@@ -211,6 +241,9 @@
 		},
 		"parchment": {
 			"textures": "textures/items/others/parchment"
+		},
+		"ball": {
+			"textures": "textures/items/others/ball"
 		}
 	}
 }
