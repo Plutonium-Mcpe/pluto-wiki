@@ -26,6 +26,6 @@ Le plus simple reste encore de tuer tout vos adversaires. {{image#items/tools/sw
 **Pour les vainqueurs** : entre 500 et 1500 str
 
 **Pour tout les participants** : à la fin de l'évent, une pluie du stuff débute afin que chacun puisse partir avec un peu de ce dernier.
-Vous pouvez récupérer des blocks d'opalite, du zephir, des lucky block, des pommes en opalite et des pépites de plutonium.
+Vous pouvez récupérer des blocks d'opalite, du zephir, des lucky block, des pommes en opalite, du diamant et des pépites de plutonium.
 
 **Attention** : L'évent ne dure qu'une heure max, prenez vos armes et que le meilleur gagne ! {{image#items/tools/swords/opalite_sword}}

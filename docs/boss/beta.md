@@ -23,13 +23,20 @@ manger par un poussin si mignon.
 - ``Dégât`` : 25 {{image#ui/heart}} pour un joueur sans armure, cooldown d'une demi-seconde
 - ``Régénération`` : 1 PV par seconde à partir du moment où le boss n'a pas pris de dégâts pendant plus de 5 secondes
 - ``Attaque spéciale`` : Éclaire 
-- ``Butin à sa mort ``
-    - Entre une et deux clés Opalite {{image#items/keys/opalite_key}};
-    - 200 powers de faction
-    - 25 xp du #help/guerrier 
-    - 10 000 orbes d'xp
+- ``Butin à sa mort`` : le butin varie pour chaque joueur en fonction du pourcentage de dégât total infligé au boss
 
-**Éclaire :** 
+| Pourcentage de dégât |                                         Stuff gagné                                         |             XP gagné             |
+|:--------------------:|:-------------------------------------------------------------------------------------------:|:--------------------------------:|
+|         2 %          |                                Une clef vote<br/>5 diamands	                                |  1000 xp lvl<br/>20 xp guerrier  |
+|         5 %          |                             Un lucky block<br/>Un billet de 3k	                             |  2000 xp lvl<br/>45 xp guerrier  |
+|         10 %         |            2 lucky block<br/>Un billet de 5k<br/>Une clef vote<br/>10 diamands	             |    4000 xp lvl<br/>métier 90     |
+|         20 %         |                   Une clef commune<br/>3 lucky block<br/>Un billet de 8k	                   | 6000 xp lvl<br/>135 xp guerrier  |
+|         30 %         |                  Une clef commune<br/>3 lucky block<br/>Un billet de 10k	                   | 8000 xp lvl<br/>180 xp guerrier  |
+|         40 %         |             Un zephi<br/>Un billet de 20k<br/>2 clefs votes<br/>3 lucky blocks	             | 10000 xp lvl<br/>225 xp guerrier |
+|         50 %         | Une clef Opa<br/>2 Zephir<br/>2 blocks de diamands<br/>Un billet de 30k<br/>5 lucky blocks	 | 15000 xp lvl<br/>330 xp guerrier |
+|         75 %         |          2 clef en opalite<br/>16 lucky blocks<br/>2 zephir<br/>2 block de diamand          | 20000 xp lvl<br/>450 xp guerrier | 
+
+**Éclair :** 
 
 - ``Dégât`` : 7.5 {{image#ui/heart}} pour un joueur sans armure 
 - ``Fréquence d'apparition`` : Entre 10 et 20 secondes 

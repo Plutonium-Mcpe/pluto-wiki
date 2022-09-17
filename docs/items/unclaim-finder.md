@@ -15,7 +15,7 @@ Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre
 
 > **Attention, il est possible de contrer leur effet avec des brouilleur (#blocs/brouilleur).**
 
-Il est aussi possible de les placers dans votre seconde main, faciliant ainsi la tâche de recherche de base.
+Il est aussi possible de les placers dans votre seconde main, facilitant ainsi la tâche de recherche de base.
  
 ## {{image#items/others/red_unclaim_finder}} Unclaim finder rouge
 
@@ -39,7 +39,7 @@ Il est aussi possible de les placers dans votre seconde main, faciliant ainsi la
 
 ### Caractéristiques
 
-- **Zone de détection** : Zone de 25x25x256 autour de vous 
+- **Zone de détection** : Zone de 50x50x256 autour de vous 
 - **Blocs détectés** : 
     - Dropper
     - Distributeur

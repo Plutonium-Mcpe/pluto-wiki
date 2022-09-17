@@ -9,7 +9,7 @@
             "folder": "plutonium"
         },
         "C": {
-            "name": "blocks/diamond_block",
+            "name": "items/diamond",
             "folder": "vanilla"
         }
     },

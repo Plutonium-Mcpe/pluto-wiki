@@ -13,8 +13,14 @@ Jeter la simplement comme un oeuf, cacheé-vous et ça fera boom.
 
 ## Caractéristiques : 
 
-* ``Effet:`` Explosion semblable à une TnT
+* ``Effet:`` Explosion semblable à une TNT
 * ``Durabilité:`` 1 utilisation
+
+> La dynamite permet de casser de l'obsidienne dans un claim (plus cette dernière reçois de dynamite,
+plus elle se fissure, jusqu'à se casser).
+
+> **Attention** : de l'obsidienne placée dans de l'eau est plus résistante, il faudra donc plus de dynamite
+pour la détruire
 
 ### Craft
 
