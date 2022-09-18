@@ -31,7 +31,7 @@ Niveau | Récompenses
 :----: | :---------: 
 1 | {{image#items/keys/common_key}} 1x Clé commune 
 2 | {{image#items/armors/farm/farm_boots}} Craft bottes de farm
-3 | {{image#blocks/others/lucky_block}} 32x Lucky blocks
+3 | {{image#blocks/others/lucky_block}} 3x Lucky blocks
 4 | {{image#items/tools/axes/opalite_axe}} Craft hache en opalite
 5 | {{image#items/diamond_axe}} Hache en diamant efficacité 5
 6 | {{image#items/tools/axes/opalite_axe}} 1x Hache en opalite
@@ -41,7 +41,7 @@ Niveau | Récompenses
 10 | {{image#items/others/blue_unclaim_finder}} Craft unclaim finder bleu
 11 | {{image#blocks/drawers/diamond/diamond_drawer_front}} 1x Drawer en diamant
 12 | {{image#items/tools/axes/plutonium_axe}} Craft hache en plutonium
-13 | {{image#blocks/others/lucky_block}} 128x Lucky blocks
+13 | {{image#blocks/others/lucky_block}} 10x Lucky blocks
 14 | {{image#items/ores/plutonium_dust}} 2x Poussières en plutonium
 15 | {{image#items/keys/opalite_key}} 2x Clés en opalite 
 16 | {{image#items/ores/plutonium_fragment}} 1x Fragement en plutonium
