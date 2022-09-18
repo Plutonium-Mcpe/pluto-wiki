@@ -1,5 +1,5 @@
 ---
-id: obsidan
+id: obsidian
 title: [New] Obsidienne
 category: blocs
 description: Obsidienne
