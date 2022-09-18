@@ -11,7 +11,7 @@ ___
 Les commandes de home vous sont indispensables, dès lors que vous devrez sauvegarder vos lieus préférés, vous serez obligé d'y penser. Le papier-crayon pour noter les coordonnées c'est bien, mais à un moment ce n'est plus qu'une simple feuille qu'il vous faudra.  
 Sans compter le temps gagné, une commande et vous y serez téléportés.
 
-**Toute téléportation de home vous est impossible dès lors que vous êtes en combat.**
+**Toute téléportation de home vous est impossible dès lors que vous êtes en combat. Il est également impossible de mettre un home dans la WarZone des serveurs faction.**
 
 Une limite de homes a été défini par serveur pour éviter les abus dont voici le tableau : 
 

@@ -21,4 +21,4 @@ Cependant, aucun spawner ne se génère en minage. (voir plus #help/spawner)
 ## Génération des minerais
 Voici un graphique répertoriant la répartition de la génération des minerais selon les couches.  
   
-<img style='margin: 0 auto;' src="https://user-images.githubusercontent.com/66992287/162043926-166757a6-2221-4b87-8501-3fc13e08cfff.png"> 
+<img style='margin: 0 auto;' src="https://user-images.githubusercontent.com/53645183/184145090-2d32b835-4fd1-45ce-9257-78abf8091cde.png"> 
