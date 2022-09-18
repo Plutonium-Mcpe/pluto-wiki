@@ -12,6 +12,8 @@ item.plutonium:blue_unclaim_finder=Chercheur de bases bleu
 item.plutonium:red_unclaim_finder=Chercheur de bases rouge
 item.plutonium:brouilleur=Brouilleur
 item.plutonium:parchment=Parchemin
+item.plutonium:golem_gem=Gemme de Golem
+item.plutonium:ball=§bBalle
 
 item.plutonium:vote_key=Clé Vote
 item.plutonium:common_key=Clé Commune
@@ -45,6 +47,11 @@ item.plutonium:farm_helmet=Chapeau de farm
 item.plutonium:farm_chestplate=Salopette de farm (haut)
 item.plutonium:farm_leggings=Salopette de farm (bas)
 item.plutonium:farm_boots=Bottes de farm
+
+item.plutonium:lucky_helmet=§eCasque LuckyBlock
+item.plutonium:lucky_chestplate=§ePlastron LuckyBlock
+item.plutonium:lucky_leggings=§eJambières LuckyBlock
+item.plutonium:lucky_boots=§eBottes LuckyBlock
 
 item.plutonium:opalite_hammer=Marteau en Opalite
 item.plutonium:plutonium_hammer=Marteau en Plutonium
@@ -87,7 +94,7 @@ item.plutonium:lumberjack_bottle=Bouteille de Bûcheron
 tile.plutonium:block_effect.name=Bloc à Effets
 tile.plutonium:cave_block.name=Cave Block
 tile.plutonium:elevator.name=Ascenseur
-tile.plutonium:lucky_block.name=Lucky Block
+tile.plutonium:classic_lucky_block.name=Lucky Block
 tile.plutonium:upgraded_obsidian.name=Obsidienne améliorée
 
 tile.plutonium:opalite_block.name=Bloc d'Opalite
@@ -116,3 +123,10 @@ tile.plutonium:tnt_lvl06.name=TNT Niveau 6
 tile.plutonium:tnt_lvl07.name=TNT Niveau 7
 tile.plutonium:tnt_lvl08.name=TNT Niveau 8
 tile.plutonium:tnt_lvl09.name=TNT Niveau 9
+
+tile.plutonium:lucky_trophee.name=§eTrophée LuckyBlock
+
+tile.plutonium:obsdian_state_1.name= Obsidienne Légerement Fissurée
+tile.plutonium:obsdian_state_2.name= Obsidienne Fissurée
+tile.plutonium:obsdian_state_3.name= Obsidienne Très Fissurée
+tile.plutonium:obsdian_state_4.name= Obsidienne Brisée

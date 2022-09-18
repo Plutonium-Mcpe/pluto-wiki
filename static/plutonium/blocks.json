@@ -323,7 +323,7 @@
     "textures": "elevator",
     "sound": "stone"
   },
-  "plutonium:lucky_block": {
+  "plutonium:classic_lucky_block": {
     "textures": "lucky_block",
     "sound": "grass"
   },
@@ -341,6 +341,30 @@
   },
   "plutonium:upgraded_obsidian": {
     "textures": "upgraded_obsidian",
+    "sound": "stone"
+  },
+  "plutonium:totem_block": {
+    "textures": "totem_block",
+    "sound": "stone"
+  },
+  "plutonium:obsidian_state_1": {
+    "textures": "obsidian_state_1",
+    "sound": "stone"
+  },
+  "plutonium:obsidian_state_2": {
+    "textures": "obsidian_state_2",
+    "sound": "stone"
+  },
+  "plutonium:obsidian_state_3": {
+    "textures": "obsidian_state_3",
+    "sound": "stone"
+  },
+  "plutonium:obsidian_state_4": {
+    "textures": "obsidian_state_4",
+    "sound": "stone"
+  },
+  "plutonium:lucky_trophee": {
+    "textures": "lucky_trophee",
     "sound": "stone"
   }
 
