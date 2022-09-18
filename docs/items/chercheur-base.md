@@ -1,15 +1,15 @@
 ---
-id: unclaim-finder
-title: Les Unclaims finder
+id: chercheur-base
+title: Les chercheurs de bases
 category: items
-description: Les unclaims finder vous permettent de trouver des bases
+description: Les chercheurs de bases vous permettent de trouver des bases
 icon: "textures/items/others/red_unclaim_finder.png"
 ---
 ___
 ## Description
 
 Plutonium est un serveur pvp faction, à ce titre, de nombreuses personnes font leurs bases sur la map des serveurs factions. 
-Si vous souhaitez chercher des bases à piller, les unclaims finder vous seront pratiquement indispensables. 
+Si vous souhaitez chercher des bases à piller, les chercheurs de bases vous seront pratiquement indispensables. 
 Ils vous permettent de détecter différents blocs comme des coffres, droppers ou entonnoirs dans une certaine zone autour de vous. 
 Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre main puis un chiffre apparaîtra au-dessus de votre barre d’inventaire représentant le nombre de pourcentage trouvé.
 
@@ -17,7 +17,7 @@ Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre
 
 Il est aussi possible de les placers dans votre seconde main, facilitant ainsi la tâche de recherche de base.
  
-## {{image#items/others/red_unclaim_finder}} Unclaim finder rouge
+## {{image#items/others/red_unclaim_finder}} Chercheur de bases rouge
 
 ### Caractéristiques
 
@@ -35,7 +35,7 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
 {{craft#craft/craft_red_unclaim_finder}} 
 
 
-## {{image#items/others/blue_unclaim_finder}} Unclaim finder bleu
+## {{image#items/others/blue_unclaim_finder}} Chercheur de bases bleu
 
 ### Caractéristiques
 
