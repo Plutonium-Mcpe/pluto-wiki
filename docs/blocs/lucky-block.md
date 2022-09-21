@@ -1,13 +1,16 @@
 ---
 id: lucky-block
-title: les lucky blocks
+title: Les lucky blocks
 category: blocs
 description: Jouez à la roulette avec ces blocks
 icon: "textures/blocks/others/lucky_block.png"
 ---
 ___
 
-# Mettez tout en jeux pour tenter de tout gagner avec les lucky blocks
+<img class="thumbnail-right" src="textures/blocks/others/lucky_tophee_full.png">
+
+## Description :
+### Mettez tout en jeux pour tenter de tout gagner avec les lucky blocks !
 En ouvrant un lucky block, tout peut peux se passer : Gagnez un million de $, des items exclusifs aux lucky,
 de l'xp pour vos metiers(jusqu'a 10kxp) ou même un lingot de plutonium, mais prenez le risque
 de tout perdre hahahaha (rire diabolique)
@@ -24,7 +27,7 @@ de tout perdre hahahaha (rire diabolique)
 |                                     Coup de pouce                                      |                              Donne 1000 xp dans un des metiers au hasard (sauf metier déja max)                              |   0,57 %    |
 |                                   Gros coup de pouce                                   |                              Donne 5000 xp dans un des metiers au hasard (sauf metier déja max)                              |   0,23 %    |
 |                                  Enorme coup de pouce                                  |                             Donne 10000 xp dans un des metiers au hasard (sauf metier déja max)                              |   0,11 %    |
-|              {{image#blocks/fire_0_placeholder}}          Allumer le feu               |                                           Met en feu la zone autour du lucky block                                           |   3,41 %    |
+|           {{image#blocks/fire_1_placeholder}                 Allumer le feu            |                                           Met en feu la zone autour du lucky block                                           |   3,41 %    |
 |                                   Une saison au Zoo                                    |                                                 Fait spawn des mobs passifs                                                  |   3,41 %    |
 |                                      Stonk or not                                      | Un message privé dans le chat demande au joueur si il veux parier 20k avec une chance sur deux de doubler ou de tout perdre. |   1,14 %    |
 |            {{image#items/diamond_sword}}      A la guerre comme a la guerre            |                                          Give d'un full opalite enchanté au joueur                                           |    0,4 %    |
@@ -53,7 +56,7 @@ de tout perdre hahahaha (rire diabolique)
 |   {{image#items/tools/others/seed_planter}}                    De quoi rester planté   |                                                Give d'un replanteur de graine                                                |   1,14 %    |
 |                                   Ca plane pour moi                                    |                                                    Give d'un hand glider                                                     |   3,41 %    |
 |     {{image#blocks/others/lucky_block}}                              Very lucky !      |                                                   Give de 10 lucky blocks                                                    |   0,45 %    |
-|                               Tu as une chance infinie !                               |                                   Give d'un trophée (purement décoratif, mais super rare)                                    |   0,005 %   |
+|    {{image#blocks/others/lucky_tophee_full}}            Tu as une chance infinie !     |                                   Give d'un trophée (purement décoratif, mais super rare)                                    |   0,005 %   |
 |             {{image#items/others/billet}}             Tu as gagné au loto              |                                                  Give 1 000 000 $ au joueur                                                  |   0,03 %    |
 |                                Dans la nuit sombre ...                                 |                                        Donne un effet de cécitée au joueur pendant 5m                                        |   2,27 %    |
 |               {{image#blocks/tnt_bottom}}                  Pluie de TNT                |                                      Fait spawn 10 tnt déja allumées sur un seul block                                       |   1,145 %   |
@@ -61,10 +64,10 @@ de tout perdre hahahaha (rire diabolique)
 |               {{image#blocks/obsidian}}                 Une base claim ?               |                                                  Give 3 stacks d'obsidienne                                                  |   0,68 %    |
 |                                  Manque d'expérience                                   |                                                 Enléve toute l'xp du joueur                                                  |   0,11 %    |
 |                                    Frôler la mort :                                    |                             Laisse le joueur a 1/2 coeur et son armure un 1 point de durabilitée                             |   0,23 %    |
-|                                      Lucky boots                                       |                          give les lucky boots au joueurs (armure cosmetique inutile mais rarissime)                          |   0,17 %    |
-|                                     Lucky leggings                                     |                         give le lucky leggings au joueurs (armure cosmetique inutile mais rarissime)                         |   0,17 %    |
-|                                    Lucky chestplate                                    |                       give le lucky chestplate au joueurs  (armure cosmetique inutile mais rarissime)                        |   0,17 %    |
-|                                      Lucky helmet                                      |                          give le lucky helmet au joueurs (armure cosmetique inutile mais rarissime)                          |   0,17 %    |
+|        {{image#items/armors/lucky/lucky_boots}}                     Lucky boots        |                          give les lucky boots au joueurs (armure cosmetique inutile mais rarissime)                          |   0,17 %    |
+|       {{image#items/armors/lucky/lucky_leggings}}                 Lucky leggings       |                         give le lucky leggings au joueurs (armure cosmetique inutile mais rarissime)                         |   0,17 %    |
+|       {{image#items/armors/lucky/lucky_chestplate}}            Lucky chestplate        |                       give le lucky chestplate au joueurs  (armure cosmetique inutile mais rarissime)                        |   0,17 %    |
+|         {{image#items/armors/lucky/lucky_helmet}}                Lucky helmet          |                          give le lucky helmet au joueurs (armure cosmetique inutile mais rarissime)                          |   0,17 %    |
 |                {{image#items/diamond}}                     Bling bling                 |                                                       Give 64 diamands                                                       |   0,97 %    |
 |                                   Une grosse frayeur                                   |                                            Fait spawn le boss alpha et le suprime                                            |   2,27 %    |
 |                                 Que le meilleur gagne                                  |                                                   Fait spawn le boss gama                                                    |   0,57 %    |
