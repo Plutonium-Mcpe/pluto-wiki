@@ -1,12 +1,12 @@
 ---
 id: chest-refill
-title: [New] Les coffres en War Zone
+title: [New] Les coffres en warzone
 category: events-auto
-description: Partez à la recherche du stuff de ces coffres présent en Warzone qui se remplissent automatiquement de stuff très intéressant.
+description: Partez à la recherche du stuff de ces coffres présent en warzone qui se remplissent automatiquement de stuff très intéressant.
 icon: "textures/blocks/chest_front.png"
 ---
 ___
-## Qu'est-ce qu'un coffre de Warzone ?
+## Qu'est-ce qu'un coffre de warzone ?
 En vous baladant dans les warzones des serveurs factions, vous pouvez tomber sur des coffres contenant du stuff avec plus ou moins de valeur.
 Toute les **4 heures** 1 des **6 coffres** répartis sur les 3 serveurs se remplit de stuff.
 Soyez le premier sur les lieux pour récupérer son contenu !
