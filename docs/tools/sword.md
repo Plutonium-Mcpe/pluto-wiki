@@ -22,7 +22,7 @@ Un craft, un écharnement, et le tour est joué pour vous démarquez lors de vos
 
 ### Craft 
 
-> Nécessite le niveau 4 du métier #help/bucheron
+> Nécessite le niveau 4 du métier #help/guerrier
 
 {{craft#craft/craft_opalite_sword}} 
 
