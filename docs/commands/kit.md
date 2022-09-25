@@ -14,14 +14,67 @@ Pour chaque kit que vous récupérez, il faut attendre un certain temps avant de
 > Pour l’utilisation des kits, il vous suffit d’effectuer la commande ``/kit`` puis sélectionner celui que vous souhaitez récupérer si vous y avez accès.
  
 ## Contenu & disponibilité
- 
-Nom du kit | Condition pour y accéder | Contenu | Disponibilité |
-:---: | --- | ---
-Joueur | Aucun | 32 Torches, 64 Steak, 1 épée, 1 pioche et 1 armure en fer | 24h
-Nourriture | Aucun | 64 Steak | 6h
-Aventurier | Grade Aventurier | 1 clé commune, Casque et botte en diamant, plastron et pantalon en fer | 48h
-VIP | Grade VIP | 1 clé commune et opalite, 1 armure diamant, 6 pommes opalite | 48h
-Titan | Grade Titan | 1 clé opalite, Casque et botte en diamant p1, plastron et pantalon en diamant | 48h
-Suprême Titan | Grade Titan | 1 clé Suprême | 10j
-Légende | Grade Légende | 2 clés opalite, 1 armure diamant p1, 16 Pommes opalite | 48h
-Suprême Légende | Grade Légende | 1 clé Suprême | 5j
+
+### Kit Joueur 
+
+``Condition pour y accéder`` : Aucun  
+``Accessible``: Toutes les 24h  
+``Contenu`` : 32 Torches, 64 Steak, 1 épée, 1 pioche, 1 hache, 1 pelle et 1 armure en fer   
+``Screen`` :   
+![image](https://user-images.githubusercontent.com/91474741/192136847-6aa7e8e2-d492-4fc8-92ae-6bf8dd1e1109.png)
+
+### Kit Nourriture 
+
+``Condition pour y accéder`` : Aucun  
+``Accessible``: Toutes les 6h  
+``Contenu`` : 64 Steak
+``Screen`` :  
+![image](https://user-images.githubusercontent.com/91474741/192136567-5f56398a-be55-4d9a-984e-21c56bde5839.png)   
+
+### Kit Aventurier 
+
+``Condition pour y accéder`` : Grade Aventurier 
+``Accessible``: Toutes les 48h  
+``Contenu`` : 1 clé commune, Casque et botte en diamant, plastron et pantalon en fer  
+``Screen`` :   
+
+### Kit VIP 
+
+``Condition pour y accéder`` : Grade VIP  
+``Accessible``: Toutes les 48h  
+``Contenu`` : 1 clé commune et opalite, 1 armure diamant, 6 pommes opalite  
+``Screen`` :   
+![image](https://user-images.githubusercontent.com/91474741/192136872-c886e47c-fd58-4002-9ce7-557312b5b491.png)
+
+### Kit Titan 
+
+``Condition pour y accéder`` : Grade Titan  
+``Accessible``: Toutes les 48h  
+``Contenu`` : 1 clé opalite, Casque et botte en diamant p1, plastron et pantalon en diamant      
+``Screen`` :   
+![image](https://user-images.githubusercontent.com/91474741/192136918-2887bd92-79ad-4de1-a1f0-39fc90e6e7ba.png)
+
+### Kit Suprême Titan 
+
+``Condition pour y accéder`` : Grade Titan  
+``Accessible``: Toutes les 10j  
+``Contenu`` : 1 clé suprême      
+``Screen`` :   
+![image](https://user-images.githubusercontent.com/91474741/192136940-6233936c-507a-42ad-83ee-cf2ecddaf4ed.png)
+
+### Kit Légende 
+
+``Condition pour y accéder`` : Grade Légende  
+``Accessible``: Toutes les 48h  
+``Contenu`` : 2 clés opalite, 1 armure diamant p1, 16 Pommes opalite   
+``Screen`` :   
+![image](https://user-images.githubusercontent.com/91474741/192136967-7b7936a7-a08d-4aec-b368-c55b93ebf216.png)
+
+### Kit Suprême Légende 
+
+``Condition pour y accéder`` : Grade Légende  
+``Accessible``: Toutes les 5j  
+``Contenu`` : 1 clé suprême      
+``Screen`` :   
+![image](https://user-images.githubusercontent.com/91474741/192136940-6233936c-507a-42ad-83ee-cf2ecddaf4ed.png)
+
