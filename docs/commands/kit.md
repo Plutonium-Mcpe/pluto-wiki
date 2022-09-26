@@ -36,7 +36,8 @@ Pour chaque kit que vous récupérez, il faut attendre un certain temps avant de
 ``Condition pour y accéder`` : Grade Aventurier 
 ``Accessible``: Toutes les 48h  
 ``Contenu`` : 1 clé commune, Casque et botte en diamant, plastron et pantalon en fer  
-``Screen`` :   
+``Screen`` :  
+![image](https://user-images.githubusercontent.com/91474741/192357728-c8121f10-3e76-4bed-9289-83a56498a3fc.png) 
 
 ### Kit VIP 
 
@@ -50,31 +51,16 @@ Pour chaque kit que vous récupérez, il faut attendre un certain temps avant de
 
 ``Condition pour y accéder`` : Grade Titan  
 ``Accessible``: Toutes les 48h  
-``Contenu`` : 1 clé opalite, Casque et botte en diamant p1, plastron et pantalon en diamant      
+``Contenu`` : 1 clé opalite, Casque et botte en diamant p1, plastron et pantalon en diamant
+``Kit suprême Titan`` : 1 clé Suprême accessible toutes les 10 jours    
 ``Screen`` :   
 ![image](https://user-images.githubusercontent.com/91474741/192136918-2887bd92-79ad-4de1-a1f0-39fc90e6e7ba.png)
-
-### Kit Suprême Titan 
-
-``Condition pour y accéder`` : Grade Titan  
-``Accessible``: Toutes les 10j  
-``Contenu`` : 1 clé suprême      
-``Screen`` :   
-![image](https://user-images.githubusercontent.com/91474741/192136940-6233936c-507a-42ad-83ee-cf2ecddaf4ed.png)
 
 ### Kit Légende 
 
 ``Condition pour y accéder`` : Grade Légende  
 ``Accessible``: Toutes les 48h  
-``Contenu`` : 2 clés opalite, 1 armure diamant p1, 16 Pommes opalite   
+``Contenu`` : 2 clés opalite, 1 armure diamant p1, 16 Pommes opalite 
+``Kit suprême Légende`` : 1 clé Suprême accessible toutes les 5 jours    
 ``Screen`` :   
 ![image](https://user-images.githubusercontent.com/91474741/192136967-7b7936a7-a08d-4aec-b368-c55b93ebf216.png)
-
-### Kit Suprême Légende 
-
-``Condition pour y accéder`` : Grade Légende  
-``Accessible``: Toutes les 5j  
-``Contenu`` : 1 clé suprême      
-``Screen`` :   
-![image](https://user-images.githubusercontent.com/91474741/192136940-6233936c-507a-42ad-83ee-cf2ecddaf4ed.png)
-
