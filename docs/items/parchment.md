@@ -60,7 +60,7 @@ Pour utiliser un parchemin, il suffit de clique gauche quand vous l'avez dans vo
 * ``Probabilité box Suprême`` : 2.5%
 * ``Durabilitée`` : 4 jours à partir du moment où vous l'utilisez.
 
-> Si vous utilisez ce parchemin alors que vous avez déjà un grade supérieur à Ttan, celui si sera supprimé. 
+> Si vous utilisez ce parchemin alors que vous avez déjà un grade supérieur à Titan, celui si sera supprimé. 
  
 ### {{image#items/others/parchment}} Parchemin 50 levels
  
