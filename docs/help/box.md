@@ -2,7 +2,7 @@
 id: box
 title: Les box
 category: help
-description: Contenu & fonctionnement des box
+description: Contenu et fonctionnement des box
 icon: "textures/blocks/ender_chest_front.png" 
 ---
 ___
