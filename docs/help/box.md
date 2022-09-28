@@ -6,7 +6,6 @@ description: Contenu et fonctionnement des box
 icon: "textures/blocks/ender_chest_front.png" 
 ---
 ___
-
 ## Introduction 
 
 Plus connu sous le nom de **Loot box**, une box correspond à une boîte de butin virtuelle payante ou non, contenant aléatoirement un ou plusieurs objets virtuels. Sur le serveur, il existe 5 box différentes permettant d'obtenir du stuff avec plus ou moins de valeur.   
