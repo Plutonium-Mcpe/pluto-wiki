@@ -3,7 +3,7 @@ id: ball
 title: [New] Ballon de foot
 category: items
 description: Ballon de foot
-icon: "textures/items/ball.png"
+icon: "textures/items/others/ball.png"
 ---
 ___
 ## Description
