@@ -59,7 +59,7 @@ Contenu | Probabilité |
 {{image#blocks/others/lucky_block}} 2 Lucky Block | 5%
 {{image#blocks/others/lucky_block}} 5 Lucky Block | 5%
 {{image#items/bows/opalite/opalite_bow}} 1 Arc opalite | 8%
-{{image#blocks/furnaces/opalite_furnace_on}} 1 Four opalite | 8%
+{{image#blocks/furnaces/opalite/opalite_furnace_on}} 1 Four opalite | 8%
 {{image#items/armors/opalite/opalite_helmet}} 1 Casque opalite full enchanté | 5%
 {{image#items/armors/opalite/opalite_chestplate}} 1 Plastron opalite full enchanté | 5%
 {{image#items/armors/opalite/opalite_leggings}} 1 Jambières opalite full enchanté | 5%
