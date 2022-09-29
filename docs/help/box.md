@@ -3,7 +3,7 @@ id: box
 title: Les box
 category: help
 description: Contenu et fonctionnement des box
-icon: "textures/blocks/ender_chest_front.png" 
+icon: "textures/blocks/ender_chest_front.png"
 ---
 ___
 ## Introduction 
