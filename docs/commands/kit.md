@@ -17,26 +17,23 @@ Pour chaque kit que vous récupérez, il faut attendre un certain temps avant de
 
 ### Kit Joueur 
 
-``Condition pour y accéder`` : Aucun  
+``Condition pour y accéder`` : Aucune  
 ``Accessible``: Toutes les 24h  
 ``Contenu`` : 32 Torches, 64 Steak, 1 épée, 1 pioche, 1 hache, 1 pelle et 1 armure en fer   
-``Screen`` :   
 ![Kit Joueur](https://user-images.githubusercontent.com/91474741/192136847-6aa7e8e2-d492-4fc8-92ae-6bf8dd1e1109.png)
 
 ### Kit Nourriture 
 
-``Condition pour y accéder`` : Aucun  
+``Condition pour y accéder`` : Aucune  
 ``Accessible``: Toutes les 6h  
 ``Contenu`` : 64 Steak
-``Screen`` :  
 ![Kit Nourriture](https://user-images.githubusercontent.com/91474741/192136567-5f56398a-be55-4d9a-984e-21c56bde5839.png)   
 
 ### Kit Aventurier 
 
 ``Condition pour y accéder`` : Grade Aventurier 
 ``Accessible``: Toutes les 48h  
-``Contenu`` : 1 clé commune, Casque et botte en diamant, plastron et pantalon en fer  
-``Screen`` :  
+``Contenu`` : 1 clé commune, Casque et botte en diamant, plastron et pantalon en fer    
 ![Kit Aventurier](https://user-images.githubusercontent.com/91474741/192357728-c8121f10-3e76-4bed-9289-83a56498a3fc.png) 
 
 ### Kit VIP 
@@ -44,7 +41,6 @@ Pour chaque kit que vous récupérez, il faut attendre un certain temps avant de
 ``Condition pour y accéder`` : Grade VIP  
 ``Accessible``: Toutes les 48h  
 ``Contenu`` : 1 clé commune et opalite, 1 armure diamant, 6 pommes opalite  
-``Screen`` :   
 ![Kit VIP](https://user-images.githubusercontent.com/91474741/192136872-c886e47c-fd58-4002-9ce7-557312b5b491.png)
 
 ### Kit Titan 
@@ -52,8 +48,7 @@ Pour chaque kit que vous récupérez, il faut attendre un certain temps avant de
 ``Condition pour y accéder`` : Grade Titan  
 ``Accessible``: Toutes les 48h  
 ``Contenu`` : 1 clé opalite, Casque et botte en diamant p1, plastron et pantalon en diamant
-``Kit suprême Titan`` : 1 clé Suprême accessible toutes les 10 jours    
-``Screen`` :   
+``Kit suprême Titan`` : 1 clé Suprême accessible toutes les 10 jours     
 ![Kit Titan](https://user-images.githubusercontent.com/91474741/192136918-2887bd92-79ad-4de1-a1f0-39fc90e6e7ba.png)
 
 ### Kit Légende 
@@ -61,6 +56,5 @@ Pour chaque kit que vous récupérez, il faut attendre un certain temps avant de
 ``Condition pour y accéder`` : Grade Légende  
 ``Accessible``: Toutes les 48h  
 ``Contenu`` : 2 clés opalite, 1 armure diamant p1, 16 Pommes opalite 
-``Kit suprême Légende`` : 1 clé Suprême accessible toutes les 5 jours    
-``Screen`` :   
+``Kit suprême Légende`` : 1 clé Suprême accessible toutes les 5 jours     
 ![Kit Légende](https://user-images.githubusercontent.com/91474741/192136967-7b7936a7-a08d-4aec-b368-c55b93ebf216.png)
