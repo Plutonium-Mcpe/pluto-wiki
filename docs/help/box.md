@@ -18,7 +18,7 @@ Pour ouvrire une box, il faut tout d'abord avoir une #items/key correspondant à
 Contenu | Probabilité |
 :---: | :---:
 {{image#items/ores/opalite_ingot}} 4 Lingot d'opalite | 19%
-{{image#items/other/dynamite}} 4 Dynamite | 20%
+{{image#items/others/dynamite}} 4 Dynamite | 20%
 {{image#items/seeds/opalite_seed}} 5 Graine d'opalite | 20%
 {{image#items/others/billet}} 1000 $ | 15%
 {{image#items/ores/zephir}} 2 zephir | 10%
@@ -64,7 +64,7 @@ Contenu | Probabilité |
 {{image#items/armors/opalite/opalite_chestplate}} 1 Plastron opalite full enchanté | 5%
 {{image#items/armors/opalite/opalite_leggings}} 1 Jambières opalite full enchanté | 5%
 {{image#items/armors/opalite/opalite_boots}} 1 Bottes opalite full enchanté | 5%
-{{image#items/others/dynamite}} 16 Dynamite | 5%
+{{image#items/others/dynamite}} 16 Dynamite | 5% 
 {{image#items/tools/others/obsi_breaker}} 3 Foreuse à obsidienne | 5%
 {{image#items/seeds/opalite_seed}} 64 Graine d'opalite | 4%
 {{image#blocks/others/opalite_block}} 8 Bloc d'opalite | 2%
