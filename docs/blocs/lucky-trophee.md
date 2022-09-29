@@ -7,6 +7,7 @@ icon: "textures/blocks/others/lucky_tophee_full.png"
 ---
 ___
 
+<img class="thumbnail-right" src="https://cdn.discordapp.com/attachments/538298363653783555/1024772580181278832/lucky_tophee_full.png">
 ## Description :
 
 Le Trophée LuckyBlock est un bloc qui provient des #blocs/lucky-block, il ne se frabrique pas, il est donc collector, vous avez
