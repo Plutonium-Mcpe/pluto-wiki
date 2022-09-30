@@ -8,7 +8,7 @@ icon: "textures/blocks/command_block.png"
 ___
 ## Description
 
-Avoir un grade sur le serveur vous donne de nombreux avantages. Ses avantages sont divers, il vous donne accès à un kit ( #kit ), plus de homes ( #commands/home ) mais aussi à de nouvelles commandes.
+Avoir un grade sur le serveur vous donne de nombreux avantages. Ses avantages sont divers, il vous donne accès à un kit ( #commands/kit ), plus de homes ( #commands/home ) mais aussi à de nouvelles commandes.
 Ces commandes vous seront bien utiles dans de nombreuses situations.
 Le détail plus important de chacun des grades et leur prix est accessible sur la boutique, disponible [ici](https://store.plutonium.best/grades) ou sur le bouton boutique du menu.
 

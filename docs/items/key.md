@@ -24,7 +24,7 @@ Les keys servent de récompense à diverses actions que vous pouvez réaliser su
 ### {{image#items/keys/common_key}} Key commune
 
 - Permet d'ouvrir la box commune.
-- Obtenable dans les coffres de War-Zone et via les #boss. 
+- Obtenable dans les coffres de warzone et via les #boss. 
 
 ### {{image#items/keys/opalite_key}} Key opalite
 
