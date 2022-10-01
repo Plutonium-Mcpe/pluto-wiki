@@ -24,6 +24,6 @@ pour la détruire
 
 ### Craft
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item. 
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation et craft de cet item. 
 
 {{craft#craft/craft_dynamite}}
