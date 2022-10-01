@@ -1,22 +1,23 @@
 ---
+---
 id: farming-chest
 title: Farming chest
 category: blocs
-description: Le FarmingChest est un outil qui va beaucoup faciliter la vie des farmers sur le serveur
+description: Le Farming Chest est un outil qui va beaucoup faciliter la vie des farmers sur le serveur
 icon: "textures/blocks/trapped_chest_front.png"
 ---
 ___
-## Description : 
+## Description  
 
-Le FarmingChest est un outil qui va beaucoup faciliter la vie des farmers sur le serveur. En effet ce coffre permet de récolter toutes les plantations comme le blé ou carotte et les replanter en 1 seconde ! Pour ceci, lorsque les plantations à proximité sont à maturité, il vous suffit d'ouvrir le coffre pour que le FarmingChest se met en fonction. Ce bloc a un seul objectif : le gain de temps pour le farm. 
+Le Farming Chest est un outil qui va beaucoup faciliter la vie des farmers sur le serveur. En effet ce coffre permet de récolter toutes les plantations comme le blé ou carotte et les replanter en 1 seconde ! Pour ceci, lorsque les plantations à proximité sont à maturité, il vous suffit d'ouvrir le coffre pour que le Farming Chest se met en fonction. Ce bloc a un seul objectif : le gain de temps pour le farm. 
 
 > Si le coffre est complet et aucun item ne peut être mit dedans, le résultat de la récolte sera supprimé.
 
-## Caractéristiques : 
+## Caractéristiques  
 
--  ``Zone de récolte`` : 16 x 16 blocs 
--  ``Augmente le métier`` : #help/farmeur
--  ``Place d'item disponible`` :  27 emplacements 
+-  ``Zone de récolte`` : 16x16 Blocs 
+-  ``Augmente le métier`` : #jobs/farmeur
+-  ``Place d'item disponible`` :  27 Emplacements 
 - ``Plantes prises en charges`` : 
     - {{image#items/wheat}} Blé
     - {{image#items/carrot}} Carotte 
@@ -27,8 +28,8 @@ Le FarmingChest est un outil qui va beaucoup faciliter la vie des farmers sur le
 > - **Pomme de terre**: Pomme de terre industrielle
 > - **Carotte**: Carotte industrielle
 
-## Craft :
+## Craft 
 
-> Craft débloquable au niveau 9 du métier #help/farmeur
+> Craft débloquable au niveau 9 du métier #jobs/farmeur
 
 {{craft#craft/craft_farming_chest}} 
