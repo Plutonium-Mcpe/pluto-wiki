@@ -1,5 +1,4 @@
 ---
----
 id: farming-chest
 title: Farming chest
 category: blocs
