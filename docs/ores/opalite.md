@@ -37,7 +37,7 @@ Lingot en Opalite | 15%
 
 > Vous obtenez quelque soit le drop, de l'xp pour le métier de #jobs/farmeur
 
-### Dans les Lucky block & Box
+### Dans les Lucky block et Box
 
 Vous pouvez obtenir des graines et des lingots en cassant les Lucky block. Ils sont disponibles en minage (voir #ores/minage).
 > Vous référer à #blocs/lucky-block pour plus d'informations
