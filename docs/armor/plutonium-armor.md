@@ -28,7 +28,7 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Craft 
 
-> Nécessite le niveau 15 du métier #help/farmeur
+> Nécessite le niveau 15 du métier #jobs/farmeur
 
 {{craft#craft/craft_plutonium_helmet}} 
 
@@ -44,7 +44,7 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Craft 
 
-> Nécessite le niveau 15 du métier #help/guerrier
+> Nécessite le niveau 15 du métier #jobs/guerrier
 
 {{craft#craft/craft_plutonium_chestplate}} 
 
@@ -59,7 +59,7 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Craft 
 
-> Nécessite le niveau 15 du métier #help/mineur
+> Nécessite le niveau 15 du métier #jobs/mineur
 
 {{craft#craft/craft_plutonium_leggings}} 
 
@@ -74,6 +74,6 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Craft 
 
-> Nécessite le niveau 15 du métier #help/bucheron
+> Nécessite le niveau 15 du métier #jobs/bucheron
 
 {{craft#craft/craft_plutonium_boots}} 
