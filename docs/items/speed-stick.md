@@ -13,9 +13,9 @@ Grâce au boost qu'il vous procurera durant quelque seconde vous pourrez obtenir
 
 ### Caractéristiques
 
-* ``Effet:`` Donne Vitesse II {{image#ui/speed_effect}} durant 10s
-* ``Durabilité:`` 10 utilisations
-* ``Cooldown:`` 30 secondes entre chaque utilisation
+* ``Effet`` : Donne Vitesse II {{image#ui/speed_effect}} durant 10s
+* ``Durabilité`` : 10 utilisations
+* ``Cooldown`` : 30 secondes entre chaque utilisation
     
 ### Craft 
 
