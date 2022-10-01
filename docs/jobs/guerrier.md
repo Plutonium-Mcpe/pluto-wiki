@@ -27,7 +27,7 @@ Cependant, pensons à nos amis les farmeurs, il vous sera possible de monter en 
 
 ### 3. En tuant des joueurs
 
-Chaque piéces d'armure rapporte indépendemment une xp précise (voir graphique)
+Chaque piéces d'armure rapporte indépendemment une xp précise (voir tableau)
 
 Matériaux | Casque | Plastron | Jambiéres | Bottes | Epée 
 :----: | :---------: | :---------: | :---------: | :---------:| :---------: 
