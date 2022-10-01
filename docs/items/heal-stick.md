@@ -13,9 +13,9 @@ Utiliser les sur le sol pour vous régénérer si le cooldown est fini.
 
 ### Caractéristiques
 
-* ``Effet:`` Restaure 10 {{image#ui/heart}}
-* ``Durabilité:`` Utilisation unique
-* ``Cooldown:`` 10 secondes entre chaque utilisation
+* ``Effet`` : Restaure 10 {{image#ui/heart}}
+* ``Durabilité`` : Utilisation unique
+* ``Cooldown`` : 10 secondes entre chaque utilisation
     
 ### Craft 
 
