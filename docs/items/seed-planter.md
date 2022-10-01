@@ -8,8 +8,8 @@ icon: "textures/items/seed_planter.png"
 ___
 ## Description
 
-Planter les graines d'une farmes peut parfois être fastidant.  
-Le planteur de graines va permettre de planter sur une terre fertilisées et une certaine zone les graines contenu dans l'inventaire.
+Planter les graines d'une farme peut parfois être fastidant.  
+Le planteur de graines va permettre de planter sur une terre fertilisée et une certaine zone les graines contenu dans l'inventaire.
 
 ### Plantes impactées
 
@@ -20,12 +20,12 @@ Le planteur de graines va permettre de planter sur une terre fertilisées et une
 - {{image#items/seeds/opalite_seed}} Opalite
 - {{image#items/seeds/plutonium_seed}} Plutonium
 
-### Caractéristiques:
+### Caractéristiques
 
 * ``Durabilité`` : 2 000 utilisations
 * ``Zone d'effet`` : 3x3 blocs
 
-### Craft: 
+### Craft 
 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item.  
 
