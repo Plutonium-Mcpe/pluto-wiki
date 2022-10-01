@@ -22,7 +22,7 @@ plus puissant arriveront à l’éliminer !
 
 ## Caractéristiques 
 **Boss :**  
-- ``Points de vie`` : 50 000 points de vie
+- ``Points de vie`` : 25 000 {{image#ui/heart}}
 - ``Dégât`` : 37.5 {{image#ui/heart}} pour un joueur sans armure
 - ``Régénération`` : 3 PV par seconde à partir du moment où le boss n'a pas pris de dégâts pendant plus de 5 secondes
 - ``Attaque spéciale`` : Pluie de météorites  *(voir section suivante)*
