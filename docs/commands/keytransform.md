@@ -19,4 +19,4 @@ Il n'est pas rare que les clés de votes ne vous conviennent pas et que vous sou
 ## Taux de conversion
 
 * **16** clés de votes : 1 clé en **Opalite**
-* **32** clés de votes : 1 clé en **Plutonium**
+* ``32 clés de votes`` : 1 clé en **Plutonium**
