@@ -40,4 +40,4 @@ Parfois, il vous sera utile de vous rendre dans une certaine zone d'un serveur, 
 
 ## Autre
 
-* ``/rtp`` : Dans les serveurs minages, cette commande vous téléporte aléatoirement sur toute la map. Pour les serveurs factions, cette commande vous téléporte aléatoirement dans la limite de 2 000 blocs du spawn. Cette commande est très utile pour vous éloignez rapidement du spawn et gagner du temps.
+* ``/rtp`` : Dans les serveurs minages, cette commande vous téléporte aléatoirement sur toute la map. Pour les serveurs factions, cette commande vous téléporte aléatoirement dans la limite de 2 000 blocs du spawn. Cette commande est très utile pour vous éloigner rapidement du spawn et gagner du temps.
