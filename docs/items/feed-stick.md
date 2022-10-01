@@ -13,8 +13,8 @@ Une utilisation et vous voilà rassasié.
 
 ### Caractéristiques
 
-* ``Effet ``: Vous restaure tout votre barre de nourriture
-* ``Durabilité ``: 25 utilisations
+* ``Effet`` : Vous restaure tout votre barre de nourriture
+* ``Durabilité`` : 25 utilisations
     
 ### Craft 
 
