@@ -19,7 +19,7 @@ manger par un poussin si mignon.
 
 ## Caractéristiques 
 **Boss :**  
-- ``Points de vie`` : 25 000 points de vie
+- ``Points de vie`` : 12 500 {{image#ui/heart}}
 - ``Dégât`` : 25 {{image#ui/heart}} pour un joueur sans armure, cooldown d'une demi-seconde
 - ``Régénération`` : 1 PV par seconde à partir du moment où le boss n'a pas pris de dégâts pendant plus de 5 secondes
 - ``Attaque spéciale`` : Éclaire 
