@@ -17,16 +17,16 @@ Pour ouvrir une box, il faut tout d'abord avoir une #items/key correspondant à 
 
 Contenu | Probabilité |
 :---: | :---:
-{{image#items/ores/opalite_ingot}} 4 Lingots d'opalite | 19%
+{{image#items/ores/opalite_ingot}} 4 Lingots d'Opalite | 19%
 {{image#items/others/dynamite}} 4 Dynamites | 20%
-{{image#items/seeds/opalite_seed}} 5 Graines d'opalite | 20%
-{{image#items/others/billet}} 1000 $ | 15%
-{{image#items/ores/zephir}} 2 zephir | 10%
+{{image#items/seeds/opalite_seed}} 5 Graines d'Opalite | 20%
+{{image#items/others/billet}} 1 000$ | 15%
+{{image#items/ores/zephir}} 2 Zephir | 10%
 {{image#blocks/tnts/lvl2/tnt_lvl2_side}} 1 TNT niveau 2 | 5%
-{{image#items/seeds/plutonium_seed}} 5 Graine de plutonium | 5%
+{{image#items/seeds/plutonium_seed}} 5 Graines de Plutonium | 5%
 {{image#items/keys/common_key}} 1 Clé commune | 3%
 {{image#blocks/others/lucky_block}} 5 Lucky Block | 6%
-{{image#items/keys/opalite_key}} 1 Clé opalite | 2%  
+{{image#items/keys/opalite_key}} 1 Clé Opalite | 2%  
 
 
 ### {{image#items/keys/common_key}} Box commune
@@ -43,35 +43,35 @@ Contenu | Probabilité |
 {{image#blocks/others/lucky_block}} 2 Lucky Block | 10%
 {{image#blocks/others/lucky_block}} 5 Lucky Block | 6%
 {{image#items/elytra}} 1 Elytra | 13%
-{{image#items/tools/swords/opalite_sword}} 1 Épée opalite | 7%
-{{image#items/tools/pickaxes/opalite_pickaxe}} 1 Pioche opalite | 7%
-{{image#items/others/billet}} 1000 $ | 6%
-{{image#items/others/billet}} 15000 $ | 4%
-{{image#items/others/billet}} 20000 $ | 2% 
+{{image#items/tools/swords/opalite_sword}} 1 Épée Opalite | 7%
+{{image#items/tools/pickaxes/opalite_pickaxe}} 1 Pioche Opalite | 7%
+{{image#items/others/billet}} 1 000$ | 6%
+{{image#items/others/billet}} 15 000$ | 4%
+{{image#items/others/billet}} 20 000$ | 2% 
 
-### {{image#items/keys/opalite_key}} Box opalite
+### {{image#items/keys/opalite_key}} Box Opalite
 
 Contenu | Probabilité |
 :---: | :---:
 {{image#items/tools/swords/opalite_sword}} 1 Épée opalite full enchanté | 19%
-{{image#items/ores/opalite_ingot}} 16 Lingots d'opalite | 8%
-{{image#items/ores/opalite_ingot}} 32 Lingots d'opalite | 7%
+{{image#items/ores/opalite_ingot}} 16 Lingots d'Opalite | 8%
+{{image#items/ores/opalite_ingot}} 32 Lingots d'Opalite | 7%
 {{image#blocks/others/lucky_block}} 2 Lucky Block | 5%
 {{image#blocks/others/lucky_block}} 5 Lucky Block | 5%
-{{image#items/bows/opalite/opalite_bow}} 1 Arc opalite | 8%
-{{image#blocks/furnaces/opalite/opalite_furnace_front_off}} 1 Four opalite | 8%
-{{image#items/armors/opalite/opalite_helmet}} 1 Casque opalite full enchanté | 5%
-{{image#items/armors/opalite/opalite_chestplate}} 1 Plastron opalite full enchanté | 5%
-{{image#items/armors/opalite/opalite_leggings}} 1 Jambières opalite full enchanté | 5%
+{{image#items/bows/opalite/opalite_bow}} 1 Arc Opalite | 8%
+{{image#blocks/furnaces/opalite/opalite_furnace_front_off}} 1 Four Opalite | 8%
+{{image#items/armors/opalite/opalite_helmet}} 1 Casque Opalite full enchanté | 5%
+{{image#items/armors/opalite/opalite_chestplate}} 1 Plastron Opalite full enchanté | 5%
+{{image#items/armors/opalite/opalite_leggings}} 1 Jambières Opalite full enchanté | 5%
 {{image#items/armors/opalite/opalite_boots}} 1 Bottes opalite full enchanté | 5%
 {{image#items/others/dynamite}} 16 Dynamites | 5% 
 {{image#items/tools/others/obsi_breaker}} 3 Foreuses à obsidienne | 5%
-{{image#items/seeds/opalite_seed}} 64 Graines d'opalite | 4%
-{{image#blocks/others/opalite_block}} 8 Blocs d'opalite | 2%
+{{image#items/seeds/opalite_seed}} 64 Graines d'Opalite | 4%
+{{image#blocks/others/opalite_block}} 8 Blocs d'Opalite | 2%
 {{image#items/tools/hammers/opalite_hammer}} 1 Marteau opalite full enchanté | 2%
 {{image#items/keys/plutonium_key}} 1 Clé Plutonium | 1%  
 
-### {{image#items/keys/plutonium_key}} Box plutonium
+### {{image#items/keys/plutonium_key}} Box Plutonium
 
 Contenu | Probabilité |
 :---: | :---:
@@ -84,7 +84,7 @@ Contenu | Probabilité |
 {{image#items/ores/plutonium_fragment}} 2 Fragments de PLutonium | 5%
 {{image#items/ores/plutonium_fragment}} 3 Fragments de PLutonium | 5%
 {{image#items/ores/plutonium_ingot}} 1 Lingot de Plutonium | 1%
-{{image#items/others/billet}} 100000 $ | 14%
+{{image#items/others/billet}} 100 000$ | 14%
 
 ### {{image#items/keys/supreme_key}} Box Suprême
 
@@ -101,7 +101,7 @@ Contenu | Probabilité |
 {{image#items/keys/supreme_key}} 1 Clé Suprême | 1.5%
 1 Tête de dragon | 0.5%
 {{image#blocks/tnts/lvl5/tnt_lvl5_side}} 1 TNT niveau 5 | 0.5 %
-{{image#items/others/billet}} 250000 $ | 4.5%
+{{image#items/others/billet}} 250 000$ | 4.5%
 {{image#items/jobs/farmer_bottle}} 1 Bouteille de Farmeur | 5%
 {{image#items/jobs/warrior_bottle}} 1 Bouteille de Guerrier | 3.5%
 {{image#items/jobs/miner_bottle}} 1 Bouteille de Mineur | 1.5%
