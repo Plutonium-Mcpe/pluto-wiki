@@ -13,8 +13,8 @@ Il vous suffit de l'avoir dans la main et vous en serez protégé.
 
 ## Caractérisiques 
 
-- `` Effet ajouté ``: Lévitation 
-- `` Durabilité ``: 15 min en fonctionnement
+- ``Effet ajouté`` : Lévitation 
+- ``Durabilité`` : 15 min en fonctionnement
  
 ## Craft  
 
