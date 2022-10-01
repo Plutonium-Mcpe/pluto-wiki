@@ -6,9 +6,9 @@ description: Les blocs à effets peuvent autant être nuisible que bénéfique d
 icon: "textures/blocks/others/block_effect.png"
 ---
 ___
-## Description : 
+## Description  
 
-Ce bloc peut autant être nuisible que bénéfique dépendant de si on l'utilise ou si on le subit. Si vous marchez sur ce bloc, de nombreux effets nocifs vous serons ajoutés à votre égard. Il peut par exemple être utilisé pour un troll, protéger une base claim ou encore dans une trap pour faciliter le kill de l'ennemie.
+Ce bloc peut autant être nuisible que bénéfique dépendant de si on l'utilise ou si on le subit. Si vous marchez sur ce bloc, de nombreux effets nocifs vous seront ajoutés à votre égard. Il peut par exemple être utilisé pour un troll, protéger une base claim ou encore dans une trap pour faciliter le kill de l'ennemie.
 
 ## Caractéristique 
 
@@ -21,6 +21,6 @@ Ce bloc peut autant être nuisible que bénéfique dépendant de si on l'utilise
 
 ## Craft :
 
-> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de ce block 
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de ce bloc.
 
 {{craft#craft/craft_block_effects}}
