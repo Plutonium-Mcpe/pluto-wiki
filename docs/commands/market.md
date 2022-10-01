@@ -15,7 +15,7 @@ Le market est synchronisé sur tous les serveurs, vos items seront donc disponib
  
 ## Fonctionnement 
 
-Pour ouvrir le market il vous suffit d'effectuer la commande ``/market ``, suite à cela une interface sous forme de double coffre sera ouverte. Vous pouvez fermer ce coffre à tout moment sans contrainte.
+Pour ouvrir le market il vous suffit d'effectuer la commande ``/market``, suite à cela une interface sous forme de double coffre sera ouverte. Vous pouvez fermer ce coffre à tout moment sans contrainte.
 
 Pour regarder les items mis en vente, il faut passer son curseur sur les différents objets où les informations suivantes vous seront montrées :  
 * Le prix de l'objet   
