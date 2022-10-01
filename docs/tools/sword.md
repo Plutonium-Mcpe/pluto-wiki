@@ -10,7 +10,7 @@ ___
 
 Les épées modées en Plutonium et Opalite vous permettront de dominer vos ennemis dans les combats. 
 Elles vous donneront de réels avantages par leurs puissances et les coups spéciaux qu’elles opèrent par raport aux épées vanila. 
-Un craft, un enchantement, et le tour est joué pour vous démarquez lors de vos pvp !
+Un craft, un enchantement, et le tour est joué pour vous démarquer lors de vos pvp !
 
 ##  {{image#items/tools/swords/opalite_sword}} Épée Opalite
 
