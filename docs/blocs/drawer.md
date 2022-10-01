@@ -16,7 +16,7 @@ Lorsque vous posez un drawer, il suffit de cliquer dessus avec l’item que vous
 Pour retirer des items d’un drawer, il faut dans l’interface cliquer sur **Retirer** puis entrer le nombre d’items que vous souhaitez récupérer.   
 Pour récupérer son drawer avec des items dedans, il faut impérativement le fermer via le bouton puis le casser avec une pioche. 
 
-## {{image#blocks/drawers/wood/wooden_drawer_front}} Drawer en bois
+## {{image#blocks/drawers/wood/wooden_drawer_front}} Drawer en Bois
 
 ### Caractéristique
 
@@ -32,7 +32,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 2500 items 
+- ``Stockage ``: 2 500 items 
 
 ### Craft 
 
@@ -44,7 +44,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 5000 items 
+- ``Stockage ``: 5 000 items 
 
 ### Craft 
 
@@ -56,7 +56,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 10000 items 
+- ``Stockage ``: 10 000 items 
 
 ### Craft 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du drawer.
@@ -67,7 +67,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 25000 items 
+- ``Stockage ``: 25 000 items 
 
 ### Craft 
 
@@ -80,7 +80,7 @@ Pour récupérer son drawer avec des items dedans, il faut impérativement le fe
 
 ### Caractéristique
 
-- ``Stockage ``: 100000 items 
+- ``Stockage ``: 100 000 items 
 
 ### Craft 
 
