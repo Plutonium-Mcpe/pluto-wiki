@@ -13,10 +13,10 @@ Pour l'utiliser, il vous suffira de taper le joueur en face avec le sceptre en m
 
 ### Caractéristiques
 
-* ``Effet:`` Immobilise le joueur touché
-* ``Durée de l'immobilisation:`` 2 secondes
-* ``Durabilité:`` 10 utilisations
-* ``Cooldown:`` 1 minute entre chaque utilisation
+* ``Effet`` : Immobilise le joueur touché
+* ``Durée de l'immobilisation`` : 2 secondes
+* ``Durabilité`` : 10 utilisations
+* ``Cooldown`` : 1 minute entre chaque utilisation
     
 ### Craft 
 
