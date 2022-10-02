@@ -19,7 +19,7 @@ manger par un poussin si mignon.
 
 ## Caractéristiques 
 **Boss :**  
-- ``Points de vie`` : 25 000 pv
+- ``Points de vie`` : 12 500 {{image#ui/heart}}
 - ``Dégât`` : 25 {{image#ui/heart}} pour un joueur sans armure, cooldown d'une demi-seconde
 - ``Régénération`` : 1 PV par seconde à partir du moment où le boss n'a pas pris de dégâts pendant plus de 5 secondes
 - ``Attaque spéciale`` : Éclaire 
@@ -27,14 +27,14 @@ manger par un poussin si mignon.
 
 | Pourcentage de dégât |                                         Stuff gagné                                         |             XP gagné             |
 |:--------------------:|:-------------------------------------------------------------------------------------------:|:--------------------------------:|
-|         2 %          |                                Une clef vote<br/>5 diamands	                                |  1000 xp lvl<br/>20 xp guerrier  |
-|         5 %          |                             Un lucky block<br/>Un billet de 3k	                             |  2000 xp lvl<br/>45 xp guerrier  |
-|         10 %         |            2 lucky block<br/>Un billet de 5k<br/>Une clef vote<br/>10 diamands	             |    4000 xp lvl<br/>métier 90     |
-|         20 %         |                   Une clef commune<br/>3 lucky block<br/>Un billet de 8k	                   | 6000 xp lvl<br/>135 xp guerrier  |
-|         30 %         |                  Une clef commune<br/>3 lucky block<br/>Un billet de 10k	                   | 8000 xp lvl<br/>180 xp guerrier  |
-|         40 %         |             Un zephi<br/>Un billet de 20k<br/>2 clefs votes<br/>3 lucky blocks	             | 10000 xp lvl<br/>225 xp guerrier |
-|         50 %         | Une clef Opa<br/>2 Zephir<br/>2 blocks de diamands<br/>Un billet de 30k<br/>5 lucky blocks	 | 15000 xp lvl<br/>330 xp guerrier |
-|         75 %         |          2 clef en opalite<br/>16 lucky blocks<br/>2 zephir<br/>2 block de diamand          | 20000 xp lvl<br/>450 xp guerrier | 
+|         2 %          |                                Une clé vote<br/>5 diamands	                                |  1000 xp lvl<br/>20 xp guerrier  |
+|         5 %          |                             Un Lucky block<br/>3 000$	                             |  2000 xp lvl<br/>45 xp guerrier  |
+|         10 %         |            2 Lucky blocks<br/>5 000$<br/>Une clé vote<br/>10 diamands	             |    4000 xp lvl<br/>métier 90     |
+|         20 %         |                   Une clé commune<br/>3 Lucky block<br/>8 000$	                   | 6000 xp lvl<br/>135 xp guerrier  |
+|         30 %         |                  Une clé commune<br/>3 Lucky block<br/>10 000$	                   | 8000 xp lvl<br/>180 xp guerrier  |
+|         40 %         |             Un zephi<br/>20 000<br/>2 clés votes<br/>3 Lucky blocks	             | 10000 xp lvl<br/>225 xp guerrier |
+|         50 %         | Une clé Opalite<br/>2 Zephir<br/>2 blocks de diamands<br/>30 000$<br/>5 Lucky blocks	 | 15000 xp lvl<br/>330 xp guerrier |
+|         75 %         |          2 clés en Opalite<br/>16 Lucky blocks<br/>2 zephir<br/>2 bloc de diamand          | 20000 xp lvl<br/>450 xp guerrier | 
 
 **Éclair :** 
 
