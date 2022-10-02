@@ -25,7 +25,7 @@ Le plus simple reste encore de tuer tout vos adversaires ! {{image#items/tools/s
 ### Etape 3 : Récupérer les récompenses
 **Pour les vainqueurs** : entre 500 et 1500 power pour la faction du vainqueur.
 
-**Pour tout les participants** : à la fin de l'évent, une pluie du stuff débute afin que chacun puisse partir avec un peu de ce dernier.
-Vous pouvez récupérer des blocks d'opalite, du zephir, des lucky block, des pommes en opalite et des pépites de plutonium.
+**Pour tout les participants** : À la fin de l'évent, une pluie du stuff débute afin que chacun puisse partir avec un peu de ce dernier.
+Vous pouvez récupérer des blocs d'Opalite, du zephir, des Lucky block, des pommes en Opalite et des pépites de Plutonium.
 
 **Attention** : L'évent ne dure qu'une heure au maximum, prenez vos armes rapidement et que le meilleur gagne ! {{image#items/tools/swords/plutonium_sword}}

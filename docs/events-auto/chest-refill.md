@@ -16,14 +16,14 @@ Le tableau ci-dessous vous permet de prendre connaissance des probabilités d'ap
 
 Loot |   Nombre   | % d'apparition
 :------: |:----------:| :------:
-{{image#items/ores/plutonium_dust}} Poussiére en plutonium  |     1      | 10%
-{{image#items/seeds/plutonium_seed}} Graine de plutonium | de 48 à 64 |  90%   
-{{image#items/foods/opalite_apple}} Pomme en opalite | de 8 à 16  |  70%   
-{{image#items/keys/opalite_key}} Clef en opalite |  de 1 à 2  |  40%    
-{{image#items/keys/vote_key}} Clef de Vote |  de 1 à 3  | 60%
+{{image#items/ores/plutonium_dust}} Poussiére en Plutonium  |     1      | 10%
+{{image#items/seeds/plutonium_seed}} Graine de Plutonium | de 48 à 64 |  90%   
+{{image#items/foods/opalite_apple}} Pomme en Opalite | de 8 à 16  |  70%   
+{{image#items/keys/opalite_key}} Clé en Opalite |  de 1 à 2  |  40%    
+{{image#items/keys/vote_key}} Clé de Vote |  de 1 à 3  | 60%
 {{image#items/ores/zephir}} Zephir |  de 1 à 5  | 70%
-{{image#blocks/others/opalite_block}} Block d'opalite | de 5 à 10  | 100%
-{{image#items/keys/supreme_key}} Clé supreme |     1      | 1%
+{{image#blocks/others/opalite_block}} Bloc d'Opalite | de 5 à 10  | 100%
+{{image#items/keys/supreme_key}} Clé Suprême |     1      | 1%
 
 ## Où trouver ces coffres
 ### Serveur Stelite :
