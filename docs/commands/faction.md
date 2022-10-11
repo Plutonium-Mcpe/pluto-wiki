@@ -9,7 +9,7 @@ ___
 ## Description  
 
 Une faction est une équipe comportant jusqu'à 20 joueurs qui s’allient pour réaliser des tâches en groupe comme du pvp, des pillages, des constructions etc...
-C'est un lieu basé sur la confiance de ces membres malgré le faite que la trahison soit autorisé sur le serveur. De nombreux avantages dans le gameplay vous seront apportés si vous faites partie d'une faction ! 
+C'est une équipe basé sur la confiance de ses membres malgré le fait que la trahison soit autorisé sur le serveur. De nombreux avantages dans le gameplay vous seront apportés si vous faites partie d'une faction ! 
 
 Il y a 3 niveaux de rang différents dans les factions : 
 
