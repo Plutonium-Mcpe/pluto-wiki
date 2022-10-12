@@ -33,4 +33,4 @@ Quand vous votez sur le serveur vous êtes sûr d'obtenir certains avantages en 
 
 - ``Récompenses votes direct`` : 1 Clé vote, accès aux commandes /ec & /furnace pendant 24h.  
 
-![vote](https://user-images.githubusercontent.com/91474741/195011846-84558d76-00a9-4827-aacb-d4cd9cc26cc3.png)
+<img style="margin: 0 auto;display:block;" src="https://user-images.githubusercontent.com/91474741/195011846-84558d76-00a9-4827-aacb-d4cd9cc26cc3.png"> 
