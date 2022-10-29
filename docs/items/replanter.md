@@ -20,11 +20,11 @@ Il vous suffiras de casser une plantes listée ci-dessous poussée au maximum et
 - {{image#items/seeds/opalite_seed}} Opalite
 - {{image#items/seeds/plutonium_seed}} Plutonium
 
-### Caractéristiques:
+### Caractéristique
 
 * ``Durabilité`` : 500 utilisations
 
-### Craft: 
+### Craft 
 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item.  
 

@@ -11,13 +11,13 @@ ___
 Le bâton de vitesse va vous permettre de fuir ou de rattraper un joueur en PvP.  
 Grâce au boost qu'il vous procurera durant quelque seconde vous pourrez obtenir de gros avantages.
 
-### Caractéristiques:
+### Caractéristiques
 
-* ``Effet:`` Donne Vitesse II {{image#ui/speed_effect}} durant 10s
-* ``Durabilité:`` 10 utilisations
-* ``Cooldown:`` 30s entre chaque utilisation
+* ``Effet`` : Donne Vitesse II {{image#ui/speed_effect}} durant 10s
+* ``Durabilité`` : 10 utilisations
+* ``Cooldown`` : 30 secondes entre chaque utilisation
     
-### Craft: 
+### Craft 
 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item.  
 

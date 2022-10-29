@@ -11,12 +11,12 @@ ___
 Le bâton de nourriture va pouvoir vous nourrir facilement, rapidement et cela de manière assez illimité.  
 Une utilisation et vous voilà rassasié.
 
-### Caractéristiques:
+### Caractéristiques
 
-* ``Effet:`` Vous restore tout votre barre de nourriture
-* ``Durabilité:`` 25 utilisations
+* ``Effet`` : Vous restaure tout votre barre de nourriture
+* ``Durabilité`` : 25 utilisations
     
-### Craft: 
+### Craft 
 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item.  
 

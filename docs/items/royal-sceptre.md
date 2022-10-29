@@ -11,14 +11,14 @@ ___
 Permet d'immobiliser pendant une certaine période le joueur en face de vous.  
 Pour l'utiliser, il vous suffira de taper le joueur en face avec le sceptre en main.
 
-### Caractéristiques:
+### Caractéristiques
 
-* ``Effet:`` Immobilise le joueur visé
-* ``Durée de l'immobilisation:`` 2 secondes
-* ``Durabilité:`` 10 utilisations
-* ``Cooldown:`` 1min entre chaque utilisation
+* ``Effet`` : Immobilise le joueur touché
+* ``Durée de l'immobilisation`` : 2 secondes
+* ``Durabilité`` : 10 utilisations
+* ``Cooldown`` : 1 minute entre chaque utilisation
     
-### Craft: 
+### Craft 
 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item.  
 
