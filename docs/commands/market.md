@@ -15,7 +15,7 @@ Le market est synchronisé sur tous les serveurs, vos items seront donc disponib
  
 ## Fonctionnement 
 
-Pour ouvrir le market il vous suffit de faire`` /market ``, suite à cela une interface sous forme de coffre sera ouverte. Vous pouvez fermer ce coffre à tout moment sans contrainte.
+Pour ouvrir le market il vous suffit d'effectuer la commande ``/market``, suite à cela une interface sous forme de double coffre sera ouverte. Vous pouvez fermer ce coffre à tout moment sans contrainte.
 
 Pour regarder les items mis en vente, il faut passer son curseur sur les différents objets où les informations suivantes vous seront montrées :  
 * Le prix de l'objet   
@@ -29,19 +29,19 @@ Dans l'interface du market, les derniers objets ne sont pas en vente mais permet
 * ``La pomme de terre pourris : {{image#items/potato_poisonous}}`` : Vous permet de voir vos items qui ont expiré ou qui sont annulés.  
 * `` Les blocs de pierre : {{image#blocks/stone}}`` : Vous permet d'aller à la page suivante ou précédente du market pour voir les autres objets proposés par les joueurs.  
 * `` Le coffres : {{image#blocks/chest_front}}`` : Il faut uniquement passer son curseur dessus puis vous verrez le numéro de la page où vous vous trouvez ainsi que le temps avant la prochaine mises à jour du market.   
-* `` Le livre enchanté : {{image#items/book_enchanted}}`` : Permet de voir la liste des catégories proposer permettant une recherche plus rapide d'items précis. Les catégories sont : 
+* `` Le livre enchanté : {{image#items/book_enchanted}}`` : Permet de voir la liste des catégories proposées permettant une recherche plus rapide d'items précis. Les catégories sont : 
    * Les blocs  
    * Les armures  
    * La nouriture  
    * Les outils
    * Les items en Opalite 
-   * Les items en plutonium
+   * Les items en Plutonium
    * Les items enchantés
    * Les potions
 
-Pour supprimer un objet que vous avez mis en vente, il faut d'abord double-clic sur cet objet quand vous êtes dans l'interface des items en vente. Puis il faut aller dans l'interface des items qui ont expiré ou qui sont annulés où vous pourrez directement récupérer l'item comme s'il était dans un coffre normal. 
+Pour supprimer un objet que vous avez mis en vente, il faut d'abord double clic sur cet objet quand vous êtes dans l'interface des items en vente. Puis il faut aller dans l'interface des items qui ont expiré ou qui sont annulés où vous pourrez directement récupérer l'item comme s'il était dans un coffre normal. 
 
-Pour acheter un item, il suffit de double clic sur celui-ci puis confirmer l'achat vis un autre double-clic sur les laines vertes dans la nouvelle interface. 
+Pour acheter un item, il suffit de double clic sur celui-ci puis confirmer l'achat vis un autre double clic sur les laines vertes dans la nouvelle interface. 
 
 ## Informations supplémentaires
 
