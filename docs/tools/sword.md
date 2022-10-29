@@ -1,16 +1,16 @@
 ---
 id: sword
-title: Les Épées Moddées
+title: Les Épées Modées
 category: tools
-description: Les Épées Moddées
+description: Les Épées Modées
 icon: "textures/items/tools/swords/plutonium_sword.png"
 ---
 ___
 ## Description
 
-Les épées moddées en Plutonium et Opalite vous permettront de dominer vos ennemis dans les combats. 
+Les épées modées en Plutonium et Opalite vous permettront de dominer vos ennemis dans les combats. 
 Elles vous donneront de réels avantages par leurs puissances et les coups spéciaux qu’elles opèrent par raport aux épées vanila. 
-Un craft, un écharnement, et le tour est joué pour vous démarquez lors de vos pvp !
+Un craft, un enchantement, et le tour est joué pour vous démarquer lors de vos pvp !
 
 ##  {{image#items/tools/swords/opalite_sword}} Épée Opalite
 
@@ -22,7 +22,7 @@ Un craft, un écharnement, et le tour est joué pour vous démarquez lors de vos
 
 ### Craft 
 
-> Nécessite le niveau 4 du métier #help/guerrier
+> Nécessite le niveau 4 du métier #jobs/guerrier
 
 {{craft#craft/craft_opalite_sword}} 
 
@@ -36,6 +36,6 @@ Un craft, un écharnement, et le tour est joué pour vous démarquez lors de vos
 
 ### Craft 
 
-> Nécessite le niveau 11 du métier #help/guerrier
+> Nécessite le niveau 11 du métier #jobs/guerrier
 
 {{craft#craft/craft_plutonium_sword}} 
