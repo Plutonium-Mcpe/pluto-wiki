@@ -13,9 +13,8 @@ Une utilisation du clean stick et le tour est joué, tous ces blocs seront insta
 
 ### Caractéristiques:
 
-* ``Blocs supprimés :`` Blocs de Terre & blocs de Pierre
-* ``Durabilité:`` 10 utilisations
-* ``Cooldown:`` 30 secondes entre chaque utilisation
+* ``Blocs supprimés`` : Cobblestone, Blocs de Terre, Granite, Andésite et Diorite
+* ``Durabilité`` : 25 utilisations
     
 ### Craft: 
 
