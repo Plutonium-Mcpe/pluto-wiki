@@ -13,9 +13,9 @@ Si vous souhaitez utiliser au mieux un spawners, un XP collector pourra vous êt
 
 ## Caractéristiques 
 
-- ``Zone d'action `` : 10x10 autour du collecteur d'expérience
-- ``Capacité ``: 25 000 XP de stockage  
-- ``Conversion ``: 25k XP = level 0 -> level 100 
+- ``Zone d'action`` : 10x10 autour du collecteur d'expérience
+- ``Capacité`` : 25 000 XP de stockage  
+- ``Conversion`` : 25k XP = level 0 -> level 100 
 
 ## Craft  
 
