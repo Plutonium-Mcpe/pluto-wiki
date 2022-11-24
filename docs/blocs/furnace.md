@@ -38,4 +38,4 @@ Mais ils vous permettent en plus de récupérer de l’xp pour le métier de #he
 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 
-{{craft#craft/craft_plutonim_furnace}}  
+{{craft#craft/craft_plutonium_furnace}}  
