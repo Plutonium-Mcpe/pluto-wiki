@@ -9,7 +9,7 @@ ___
 ## Description : 
 
 Les TNT moddées fonctionnent exactement comme la tnt classique mais avec un rayon d'action bien plus important. Plus le niveau de la TNT est élevé, plus les dégâts seront importants.
-Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlable !! 
+Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlables !! 
 
 ## {{image#blocks/tnts/lvl2/tnt_lvl2_side}} TNT level 2 :
 
