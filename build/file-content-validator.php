@@ -29,7 +29,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
         $allMatches = $allMatches[0];
         $foundMatchesArray = [];
         if (count($allMatches) !== 0) {
-            preg_match_all("/{{craft#([a-z\-\_])+\/([a-z\/\-\_])+}}/", $contents, $craftMatches);
+            preg_match_all("/{{craft#([a-z1-9\-\_])+\/([a-z1-9\/\-\_])+}}/", $contents, $craftMatches);
             $craftMatches = $craftMatches[0];
             if (count($craftMatches) > 0) {
                 foreach ($craftMatches as $context) {
@@ -74,6 +74,7 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
                 }
             }
             if (count(array_unique($foundMatchesArray)) !== count(array_unique($allMatches))) {
+                var_dump($foundMatchesArray);
                 $errors[] = "Format not recognized, not supported or invalid detect, found " . count($allMatches) . " patern and get ".count($foundMatchesArray)." valid pattern ($file)";
                 $subError = true;
                 goto end;
