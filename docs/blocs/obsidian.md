@@ -7,13 +7,13 @@ icon: "textures/blocks/obsidian.png"
 ---
 ___
 
-## Description :
+## Description 
 
-L'obsidienne sur Plutonium a plusieurs état avant son cassage face aux explosions (5 en tout), à chaque explosion, elle se fissure de plus en plus, au bout de la 5ème explosion, elle se casse définivement.
+L'obsidienne sur Plutonium a plusieurs états avant son cassage face aux explosions (5 en tout), à chaque explosion, elle se fissure de plus en plus, au bout de la 5ème explosion, elle se casse définivement.
 
 ___
 
-## Apparence :
+## Apparence 
 
 | Nom                             | Texture                                                                                                                                             |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
