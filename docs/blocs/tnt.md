@@ -11,7 +11,7 @@ ___
 Les TNT moddées fonctionnent exactement comme la tnt classique mais avec un rayon d'action bien plus important. Plus le niveau de la TNT est élevé, plus les dégâts seront importants.
 Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlable !! 
 
-## {{image#blocks/blocks/tnts/lvl2/tnt_lvl2_side}} TNT level 2 :
+## {{image#blocks/tnts/lvl2/tnt_lvl2_side}} TNT level 2 :
 
 ### Caractéristiques
 
@@ -24,7 +24,7 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlable 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 {{craft#craft/craft/craft_tnt_lvl2}}
 
-## {{image#blocks/blocks/tnts/lvl3/tnt_lvl3_side}} TNT level 3 :
+## {{image#blocks/tnts/lvl3/tnt_lvl3_side}} TNT level 3 :
 
 ### Caractéristiques
 
@@ -37,7 +37,7 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlable 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 {{craft#craft/craft/craft_tnt_lvl3}}
 
-## {{image#blocks/blocks/tnts/lvl4/tnt_lvl4_side}} TNT level 4 :
+## {{image#blocks/tnts/lvl4/tnt_lvl4_side}} TNT level 4 :
 
 ### Caractéristiques
 
@@ -50,7 +50,7 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlable 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 {{craft#craft/craft/craft_tnt_lvl4}}
 
-## {{image#blocks/blocks/tnts/lvl5/tnt_lvl5_side}} TNT level 5 :
+## {{image#blocks/tnts/lvl5/tnt_lvl5_side}} TNT level 5 :
 
 ### Caractéristiques
 
@@ -63,7 +63,7 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlable 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 {{craft#craft/craft/craft_tnt_lvl5}}
 
-## {{image#blocks/blocks/tnts/lvl6/tnt_lvl6_side}} TNT level 6 :
+## {{image#blocks/tnts/lvl6/tnt_lvl6_side}} TNT level 6 :
 
 ### Caractéristiques
 
@@ -76,7 +76,7 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlable 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 {{craft#craft/craft/craft_tnt_lvl6}}
 
-## {{image#blocks/blocks/tnts/lvl7/tnt_lvl7_side}} TNT level 7 :
+## {{image#blocks/tnts/lvl7/tnt_lvl7_side}} TNT level 7 :
 
 ### Caractéristiques
 
@@ -89,7 +89,7 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlable 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 {{craft#craft/craft/craft_tnt_lvl7}}
 
-## {{image#blocks/blocks/tnts/lvl8/tnt_lvl8_side}} TNT level 8 :
+## {{image#blocks/tnts/lvl8/tnt_lvl8_side}} TNT level 8 :
 
 ### Caractéristiques
 
@@ -102,7 +102,7 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlable 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft du four.  
 {{craft#craft/craft/craft_tnt_lvl8}}
 
-## {{image#blocks/blocks/tnts/lvl8/tnt_lvl8_side}} TNT level 9 :
+## {{image#blocks/tnts/lvl8/tnt_lvl8_side}} TNT level 9 :
 
 ### Caractéristiques
 
