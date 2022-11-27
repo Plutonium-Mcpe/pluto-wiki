@@ -23,8 +23,6 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 - ``Effets ajoutés`` : 
     * Vision nocturne
-    * Respiration aquatique
-    * Aucune perte de nourriture
 
 ### Craft 
 
