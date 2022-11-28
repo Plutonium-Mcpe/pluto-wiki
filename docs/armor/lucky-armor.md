@@ -23,29 +23,29 @@ L'armure LuckyBlock est une armure qui est purement esthétique, elle ne possèd
 
 ### Caractéristiques
 
-- ``Durabilité`` : Faible Durabilité
-- ``Résistance`` : Faible Résistance
+- ``Durabilité`` : 77
+- ``Résistance`` : 0
 ---
 
 ## {{image#items/armors/lucky/lucky_chestplate}} Plastron LuckyBlock
 
 ### Caractéristiques
 
-- ``Durabilité`` : Faible Durabilité
-- ``Résistance`` : Faible Résistance
+- ``Durabilité`` : 112
+- ``Résistance`` : 0
 ---
 
 ## {{image#items/armors/lucky/lucky_leggings}} Jambières LuckyBlock
 
 ### Caractéristiques
 
-- ``Durabilité`` : Faible Durabilité
-- ``Résistance`` : Faible Résistance
+- ``Durabilité`` : 105
+- ``Résistance`` : 0
 ---
 
 ## {{image#items/armors/lucky/lucky_boots}} Bottes LuckyBlock
 
 ### Caractéristiques
 
-- ``Durabilité`` : Faible Durabilité
-- ``Résistance`` : Faible Résistance
+- ``Durabilité`` : 91
+- ``Résistance`` : 0
