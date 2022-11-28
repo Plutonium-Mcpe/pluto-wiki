@@ -16,4 +16,4 @@ Le Trophée LuckyBlock est un bloc qui provient des #blocs/lucky-block, il ne se
 
 ## Caractéristique 
 
-Bloc collector très rare qui provient des LuckyBlocks.
+Bloc collector très rare qui provient des #blocs/lucky-block.
