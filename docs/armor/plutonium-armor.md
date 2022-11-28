@@ -39,7 +39,7 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 ### Caractéristique
 
 - ``Durabilité`` : 3000
-- ``Résistance`` : 7
+- ``Résistance`` : 6.5
 - ``Effets ajoutés`` : 
     * Haste II
     * Résistance II
@@ -57,7 +57,7 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 ### Caractéristique
 
 - ``Durabilité`` : 2800
-- ``Résistance`` : 6
+- ``Résistance`` : 5.5
 - ``Effet ajouté`` : 
     * Résistance au feu
 
