@@ -13,5 +13,5 @@ Cette item vous donne un pouvoir magique lorsque vous le porter, celui de marche
 
 ##Caractéristiques 
 
--``Durabilité`` : Infinie 
+-``Durabilité`` : Infinie   
 -``Effet ajouté`` : Vitesse II
