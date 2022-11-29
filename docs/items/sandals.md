@@ -2,7 +2,7 @@
 id: sandals
 title: [New] Des sandales magiques
 category: items
-description: boule de noel
+description: Les sandales magiques permettent de marcher sur l'eau
 icon: "textures/items/christmas/sandals.png"
 ---
 ___
