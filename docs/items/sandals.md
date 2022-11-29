@@ -3,7 +3,7 @@ id: sandals
 title: [New] Des sandales magiques
 category: items
 description: boule de noel
-icon: "textures/items/christmas/sandals"
+icon: "textures/items/christmas/sandals.png"
 ---
 ___
 ## Description
