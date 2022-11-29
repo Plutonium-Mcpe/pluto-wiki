@@ -13,5 +13,5 @@ Cette item vous servira principalement durant un pvp puisqu'il fonctionne comme 
 
 ##Caractéristiques 
 
--``Durabilité`` : Une seul tentative qui touche une personne ou non.
+-``Durabilité`` : Une seul tentative qui touche une personne ou non.  
 -``Durée d'immobilisation`` : 2 secondes
