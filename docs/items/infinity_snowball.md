@@ -1,5 +1,5 @@
 ---
-id: infinity_snowball
+id: infinity-snowball
 title: [New] Boule de neige infini
 category: items
 description: Boule de neige avec 300 d'utilisations
