@@ -1,5 +1,5 @@
 ---
-id: christmas_star
+id: christmas-star
 title: [New] Étoile de Noël
 category: items
 description: Étoile de Noël
