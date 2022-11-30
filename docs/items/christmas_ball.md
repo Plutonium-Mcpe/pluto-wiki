@@ -1,5 +1,5 @@
 ---
-id: christmas_ball
+id: christmas-ball
 title: [New] Boule de Noël
 category: items
 description: boule de noel
