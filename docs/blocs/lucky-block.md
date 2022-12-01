@@ -8,7 +8,7 @@ icon: "textures/blocks/others/lucky_block.png"
 ___
 
 # Mettez tout en jeux pour tenter de tout gagner avec les lucky blocks
-En ouvrant un lucky block, tout peut peux se passer : Gagnez un million de $, des items exclusifs aux lucky,
+En ouvrant un lucky block, tout peut se passer : Gagnez un million de $, des items exclusifs aux lucky,
 de l'xp pour vos metiers(jusqu'a 10kxp) ou même un lingot de plutonium, mais prenez le risque
 de tout perdre hahahaha (rire diabolique)
 

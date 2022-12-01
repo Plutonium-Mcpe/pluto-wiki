@@ -21,10 +21,10 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Caractéristique
 
+- ``Durabilité`` : 2600
+- ``Résistance`` : 5,5
 - ``Effets ajoutés`` : 
     * Vision nocturne
-    * Respiration aquatique
-    * Aucune perte de nourriture
 
 ### Craft 
 
@@ -38,6 +38,8 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Caractéristique
 
+- ``Durabilité`` : 3000
+- ``Résistance`` : 6.5
 - ``Effets ajoutés`` : 
     * Haste II
     * Résistance II
@@ -54,6 +56,8 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Caractéristique
 
+- ``Durabilité`` : 2800
+- ``Résistance`` : 5.5
 - ``Effet ajouté`` : 
     * Résistance au feu
 
@@ -69,6 +73,8 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Caractéristique
 
+- ``Durabilité`` : 2400
+- ``Résistance`` : 5
 - ``Effet ajouté`` : 
     * Vitesse II
 

@@ -20,6 +20,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Caractéristique
 
+- ``Durabilité`` : 1600
+- ``Résistance`` : 5
 - ``Effet ajouté`` : 
     * Vision nocturne
 
@@ -35,6 +37,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Caractéristique
 
+- ``Durabilité`` : 2000
+- ``Résistance`` : 5,5
 - ``Effet ajouté`` : 
     * Résistance I
 
@@ -50,6 +54,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Caractéristique
 
+- ``Durabilité`` : 1800
+- ``Résistance`` : 5
 - ``Effet ajouté`` : 
     * Haste I
 
@@ -65,6 +71,8 @@ Ceci est dû aux nombreux effets qu’elle procure, ainsi que ça rareté assez 
 
 ### Caractéristique
 
+- ``Durabilité`` : 1400
+- ``Résistance`` : 4,5
 - ``Effet ajouté`` : 
     * Vitesse I
 
