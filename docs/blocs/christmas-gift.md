@@ -13,8 +13,8 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 
 |                                         Nom de la récompenses                                         | Probabilité |
 |:-----------------------------------------------------------------------------------------------------:|:-----------:|
-|          {{image#items/armors/christmas/christmas_helmet}} Une armure complète du père noël           |    1,5 %    | 
-|                 {{image#blocks/others/christmas_tree_full.png}} #blocs/christmas-tree                 |   0,25 %    |
+|          {{image#items/armors/christmas/christmas_cap}} Une armure complète du père noël           |    1,5 %    | 
+|                 {{image#items/christmas/christmas_tree}} #blocs/christmas-tree                 |   0,25 %    |
 |                                          Trois boule de noël                                          |     2 %     |
 |                                          Des sandal magique                                           |     2 %     |
 |                                          Un bâton de combat                                           |     2 %     |
@@ -48,7 +48,7 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 |              {{image#blocks/drawers/diamond/diamond_drawer_front}} Un drawer en Diamant               |     1 %     |
 |                   {{image#blocks/drawers/iron/iron_drawer_front}} Un drawer en Fer                    |   2.25 %    |
 |                 {{image#blocks/drawers/stone/stone_drawer_front}} Un drawer en Pierre                 |     3 %     |
-|                   {{image#blocks/drawers/wood/wood_drawer_front}} Un drawer en Bois                   |     4 %     |
+|                   {{image#blocks/drawers/wood/wooden_drawer_front}} Un drawer en Bois                   |     4 %     |
 |                                  {{image#items/diamond}} 64 Diamant                                   |     2 %     |
 |                                 {{image#items/ores/zephir}} Un Zéphyr                                 |     3 %     |
 |                                {{image#items/ores/zephir}} Deux Zéphyr                                |     2 %     |

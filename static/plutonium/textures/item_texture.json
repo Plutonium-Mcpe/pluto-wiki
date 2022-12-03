@@ -244,6 +244,159 @@
 		},
 		"ball": {
 			"textures": "textures/items/others/ball"
+		},
+		"bat_shuriken": {
+			"textures": "textures/items/halloween/bat_shuriken"
+		},
+		"orange_balloon": {
+			"textures": "textures/items/halloween/balloons/orange_balloon"
+		},
+		"gray_balloon": {
+			"textures": "textures/items/halloween/balloons/gray_balloon"
+		},
+		"brown_balloon": {
+			"textures": "textures/items/halloween/balloons/brown_balloon"
+		},
+		"red_balloon": {
+			"textures": "textures/items/halloween/balloons/red_balloon"
+		},
+		"black_balloon": {
+			"textures": "textures/items/halloween/balloons/black_balloon"
+		},
+		"halloween_candy": {
+			"textures": "textures/items/halloween/halloween_candy"
+		},
+		"jason_mask": {
+			"textures": "textures/items/halloween/jason_mask"
+		},
+		"saw": {
+			"textures": "textures/items/halloween/saw"
+		},
+		"invisibility_cloak": {
+			"textures": "textures/items/halloween/invisibility_cloak"
+		},
+		"witch_hat": {
+			"textures": "textures/items/halloween/witch_hat"
+		},
+		"lightning_stick": {
+			"textures": "textures/items/halloween/lightning_stick"
+		},
+		"brain": {
+			"textures": "textures/items/halloween/brain"
+		},
+		"halloween_potion": {
+			"textures": "textures/items/halloween/halloween_potion"
+		},
+		"corrupted_heart": {
+			"textures": "textures/items/halloween/corrupted_heart"
+		},
+		"blue_jersey": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey"
+		},
+		"blue_jersey1": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey1"
+		},
+		"blue_jersey2": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey2"
+		},
+		"blue_jersey3": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey3"
+		},
+		"blue_jersey4": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey4"
+		},
+		"blue_jersey5": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey5"
+		},
+		"blue_jersey6": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey6"
+		},
+		"blue_jersey7": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey7"
+		},
+		"blue_jersey8": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey8"
+		},
+		"blue_jersey9": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey9"
+		},
+		"blue_jersey10": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey10"
+		},
+		"blue_jersey11": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey11"
+		},
+		"blue_jersey_captain": {
+			"textures": "textures/items/armors/foot/blue/blue_jersey"
+		},
+		"red_jersey": {
+			"textures": "textures/items/armors/foot/red/red_jersey"
+		},
+		"red_jersey1": {
+			"textures": "textures/items/armors/foot/red/red_jersey1"
+		},
+		"red_jersey2": {
+			"textures": "textures/items/armors/foot/red/red_jersey2"
+		},
+		"red_jersey3": {
+			"textures": "textures/items/armors/foot/red/red_jersey3"
+		},
+		"red_jersey4": {
+			"textures": "textures/items/armors/foot/red/red_jersey4"
+		},
+		"red_jersey5": {
+			"textures": "textures/items/armors/foot/red/red_jersey5"
+		},
+		"red_jersey6": {
+			"textures": "textures/items/armors/foot/red/red_jersey6"
+		},
+		"red_jersey7": {
+			"textures": "textures/items/armors/foot/red/red_jersey7"
+		},
+		"red_jersey8": {
+			"textures": "textures/items/armors/foot/red/red_jersey8"
+		},
+		"red_jersey9": {
+			"textures": "textures/items/armors/foot/red/red_jersey9"
+		},
+		"red_jersey10": {
+			"textures": "textures/items/armors/foot/red/red_jersey10"
+		},
+		"red_jersey11": {
+			"textures": "textures/items/armors/foot/red/red_jersey11"
+		},
+		"red_jersey_captain": {
+			"textures": "textures/items/armors/foot/red/red_jersey"
+		},
+		"christmas_cap": {
+			"textures": "textures/items/armors/christmas/christmas_cap"
+		},
+		"christmas_coat": {
+			"textures": "textures/items/armors/christmas/christmas_coat"
+		},
+		"christmas_trousers": {
+			"textures": "textures/items/armors/christmas/christmas_trousers"
+		},
+		"christmas_boots": {
+			"textures": "textures/items/armors/christmas/christmas_boots"
+		},
+		"christmas_tree": {
+			"textures": "textures/items/christmas/christmas_tree"
+		},
+		"christmas_ball": {
+			"textures": "textures/items/christmas/christmas_ball"
+		},
+		"fighting_stick": {
+			"textures": "textures/items/christmas/fighting_stick"
+		},
+		"infinity_snowball": {
+			"textures": "textures/items/christmas/infinity_snowball"
+		},
+		"christmas_star": {
+			"textures": "textures/items/christmas/christmas_star"
+		},
+		"magic_sandals": {
+			"textures": "textures/items/christmas/sandals"
 		}
 	}
 }
