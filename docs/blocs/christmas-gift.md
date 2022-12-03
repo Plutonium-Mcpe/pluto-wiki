@@ -13,7 +13,6 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 
 |                                         Nom de la récompenses                                         | Probabilité |
 |:-----------------------------------------------------------------------------------------------------:|:-----------:|
-<<<<<<< HEAD
 |            {{image#items/armors/christmas/christmas_cap}} Chapeau du Père Noël                        |    1,5 %    |
 |          {{image#items/armors/christmas/christmas_coat}} Manteau du Père Noël                         |    1,5 %    |
 |          {{image#items/armors/christmas/christmas_trousers}} Pantalon du Père Noël                    |    1,5 %    |
@@ -24,15 +23,6 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 |                    {{image#items/christmas/fighting_stick}} Un bâton de combat                     |     2 %     |
 |                 {{image#items/christmas/infinity_snowball}}Infinity snowbal                     |    1,5 %    |
 |                 {{image#items/christmas/christmas_star}} Étoile de noël                         |     2 %     |
-=======
-|          {{image#items/armors/christmas/christmas_cap}} Une armure complète du père noël           |    1,5 %    | 
-|                 {{image#items/christmas/christmas_tree}} #blocs/christmas-tree                 |   0,25 %    |
-|                                          Trois boule de noël                                          |     2 %     |
-|                                          Des sandal magique                                           |     2 %     |
-|                                          Un bâton de combat                                           |     2 %     |
-|                                           Infinity snowbal                                            |    1,5 %    |
-|                                            Étoile de noël                                             |     2 %     |
->>>>>>> next-minor
 |                                     10 Bonhomme de neige agressif                                     |    2,5 %    |
 |                {{image#items/others/red_unclaim_finder}} Un chercheurs de bases rouge                 |     2 %     |
 |                {{image#items/others/blue_unclaim_finder}} Un chercheurs de bases bleu                 |     1 %     |
