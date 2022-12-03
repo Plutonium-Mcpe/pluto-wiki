@@ -19,11 +19,11 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 |          {{image#items/armors/christmas/christmas_trousers}} Pantalon du Père Noël                    |    1,5 %    |
 |          {{image#items/armors/christmas/christmas_boots}} Bottes du Père Noël                         |    1,5 %    |
 |                 {{image#items/christmas/christmas_tree}} #blocs/christmas-tree                        |   0,25 %    |
-|                   {{image#items/items/christmas/christmas_ball}} Trois boules de noël                 |     2 %     |
-|              {{image#items/items/christmas/sandals}} Des sandales magiques                            |     2 %     |
-|                    {{image#items/items/sticks/fighting_stick}} Un bâton de combat                     |     2 %     |
-|                 {{image#items/items/christmas/infinity_snowball}}Infinity snowbal                     |    1,5 %    |
-|                 {{image#items/items/christmas/christmas_star}} Étoile de noël                         |     2 %     |
+|                   {{image#items/christmas/christmas_ball}} Trois boules de noël                 |     2 %     |
+|              {{image#items/christmas/sandals}} Des sandales magiques                            |     2 %     |
+|                    {{image#items/christmas/fighting_stick}} Un bâton de combat                     |     2 %     |
+|                 {{image#items/christmas/infinity_snowball}}Infinity snowbal                     |    1,5 %    |
+|                 {{image#items/christmas/christmas_star}} Étoile de noël                         |     2 %     |
 =======
 |          {{image#items/armors/christmas/christmas_cap}} Une armure complète du père noël           |    1,5 %    | 
 |                 {{image#items/christmas/christmas_tree}} #blocs/christmas-tree                 |   0,25 %    |
