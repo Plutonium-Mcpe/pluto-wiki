@@ -15,9 +15,10 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlables
 
 ### Caractéristiques
 
-- ``Zone de dégâts`` : Zone de 7 blocs
+- ``Puissance d'explosion`` : 7
 - ``Casse les blocs dans les claim`` : Oui
 - ``Obtenable`` : Craft et Box Commune
+- ``Nombre de TNT niveau 1 nécessaire`` : 8
 
 ### Craft : 
 
@@ -28,9 +29,10 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlables
 
 ### Caractéristiques
 
-- ``Zone de dégâts`` : Zone de 12 blocs
+- ``Puissance d'explosion`` : 12.3
 - ``Casse les blocs dans les claim`` : Oui
 - ``Obtenable`` : Craft
+- ``Nombre de TNT niveau 1 nécessaire`` : 64
 
 ### Craft : 
 
@@ -41,9 +43,10 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlables
 
 ### Caractéristiques
 
-- ``Zone de dégâts`` : Zone de 21 blocs
+- ``Puissance d'explosion`` : 21.4
 - ``Casse les blocs dans les claim`` : Oui
 - ``Obtenable`` : Craft et récompence niveau 13 #jobs/guerrier
+- ``Nombre de TNT niveau 1 nécessaire`` : 512
 
 ### Craft : 
 
@@ -54,9 +57,10 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlables
 
 ### Caractéristiques
 
-- ``Zone de dégâts`` : Zone de 37 blocs
+- ``Puissance d'explosion`` : 37.5
 - ``Casse les blocs dans les claim`` : Oui
 - ``Obtenable`` : Craft, récompence niveau 16 #jobs/farmeur et Box Suprême
+- ``Nombre de TNT niveau 1 nécessaire`` : 2560
 
 ### Craft : 
 
@@ -67,9 +71,10 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlables
 
 ### Caractéristiques
 
-- ``Zone de dégâts`` : Zone de 55 blocs
+- ``Puissance d'explosion`` : 65.7
 - ``Casse les blocs dans les claim`` : Non
 - ``Obtenable`` : Craft
+- ``Nombre de TNT niveau 1 nécessaire`` : 12800
 
 ### Craft : 
 
@@ -80,9 +85,10 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlables
 
 ### Caractéristiques
 
-- ``Zone de dégâts`` : Zone de 80 blocs
+- ``Puissance d'explosion`` : 114.9
 - ``Casse les blocs dans les claim`` : Non
 - ``Obtenable`` : Craft
+- ``Nombre de TNT niveau 1 nécessaire`` : 64000
 
 ### Craft : 
 
@@ -93,9 +99,10 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlables
 
 ### Caractéristiques
 
-- ``Zone de dégâts`` : Zone de 135 blocs
+- ``Puissance d'explosion`` : 201.1
 - ``Casse les blocs dans les claim`` : Non
 - ``Obtenable`` : Craft
+- ``Nombre de TNT niveau 1 nécessaire`` : 320000
 
 ### Craft : 
 
@@ -106,9 +113,10 @@ Ne jouez pas trop avec ces blocs, ils peuvent rapidement devenir incontrôlables
 
 ### Caractéristiques
 
-- ``Zone de dégâts`` : Zone de 180 blocs
+- ``Puissance d'explosion`` : 351.9
 - ``Casse les blocs dans les claim`` : Non
 - ``Obtenable`` : Craft
+- ``Nombre de TNT niveau 1 nécessaire`` : 1600000
 
 ### Craft : 
 

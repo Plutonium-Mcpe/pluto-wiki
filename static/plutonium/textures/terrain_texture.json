@@ -257,6 +257,9 @@
 		"lucky_block": {
 			"textures": "textures/blocks/others/lucky_block"
 		},
+		"halloween_lucky_block": {
+			"textures": "textures/blocks/others/halloween_lucky_block"
+		},
 		"opalite_block": {
 			"textures": "textures/blocks/others/opalite_block"
 		},
@@ -286,6 +289,42 @@
 		},
 		"lucky_trophee": {
 			"textures": "textures/blocks/others/lucky_trophee"
+		},
+		"candlestick": {
+			"textures": "textures/blocks/halloween/candlestick"
+		},
+		"parquet": {
+			"textures": "textures/blocks/halloween/parquet"
+		},
+		"white_square_present": {
+			"textures": "textures/blocks/christmas/white_present"
+		},
+		"blue_square_present": {
+			"textures": "textures/blocks/christmas/blue_present"
+		},
+		"green_square_present": {
+			"textures": "textures/blocks/christmas/green_present"
+		},
+		"yellow_square_present": {
+			"textures": "textures/blocks/christmas/yellow_present"
+		},
+		"purple_square_present": {
+			"textures": "textures/blocks/christmas/purple_present"
+		},
+		"white_rectangular_present": {
+			"textures": "textures/blocks/christmas/white_present"
+		},
+		"blue_rectangular_present": {
+			"textures": "textures/blocks/christmas/blue_present"
+		},
+		"green_rectangular_present": {
+			"textures": "textures/blocks/christmas/green_present"
+		},
+		"yellow_rectangular_present": {
+			"textures": "textures/blocks/christmas/yellow_present"
+		},
+		"purple_rectangular_present": {
+			"textures": "textures/blocks/christmas/purple_present"
 		}
 	}
 }

@@ -327,6 +327,10 @@
     "textures": "lucky_block",
     "sound": "grass"
   },
+  "plutonium:halloween_lucky_block": {
+    "textures": "halloween_lucky_block",
+    "sound": "grass"
+  },
   "plutonium:opalite_block": {
     "textures": "opalite_block",
     "sound": "stone"
@@ -366,6 +370,53 @@
   "plutonium:lucky_trophee": {
     "textures": "lucky_trophee",
     "sound": "stone"
-  }
-
+  },
+  "plutonium:candlestick": {
+    "textures": "candlestick",
+    "sound": "stone"
+  },
+  "plutonium:parquet": {
+    "textures": "parquet",
+    "sound": "wood"
+  },
+  "plutonium:white_square_present": {
+    "textures": "white_square_present",
+    "sound": "cloth"
+  },
+  "plutonium:blue_square_present": {
+    "textures": "blue_square_present",
+    "sound": "cloth"
+  },
+  "plutonium:green_square_present": {
+    "textures": "green_square_present",
+    "sound": "cloth"
+  },
+  "plutonium:yellow_square_present": {
+    "textures": "yellow_square_present",
+    "sound": "cloth"
+  },
+  "plutonium:purple_square_present": {
+    "textures": "purple_square_present",
+    "sound": "cloth"
+  },
+  "plutonium:white_rectangular_present": {
+    "textures": "white_rectangular_present",
+    "sound": "cloth"
+  },
+    "plutonium:blue_rectangular_present": {
+        "textures": "blue_rectangular_present",
+        "sound": "cloth"
+    },
+    "plutonium:green_rectangular_present": {
+        "textures": "green_rectangular_present",
+        "sound": "cloth"
+    },
+    "plutonium:yellow_rectangular_present": {
+        "textures": "yellow_rectangular_present",
+        "sound": "cloth"
+    },
+    "plutonium:purple_rectangular_present": {
+        "textures": "purple_rectangular_present",
+        "sound": "cloth"
+    }
 }

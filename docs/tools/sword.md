@@ -16,7 +16,7 @@ Un craft, un enchantement, et le tour est joué pour vous démarquer lors de vos
 
 ### Caractéristiques
 
-- ``Dégats`` : 1/1.5 {{image#ui/heart}}
+- ``Dégats`` : 16.5
 - ``Coups speciaux`` : KnockBack I (Rare) & Flammes
 - ``Durabilité`` : 2500
 
@@ -30,7 +30,7 @@ Un craft, un enchantement, et le tour est joué pour vous démarquer lors de vos
 
 ### Caractéristiques
 
-- ``Dégats`` : 2/2.5 {{image#ui/heart}}
+- ``Dégats`` : 21
 - ``Coups speciaux`` : KnockBack II (Rare) & Flammes
 - ``Durabilité`` : 3000
 
