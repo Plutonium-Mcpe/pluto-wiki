@@ -13,6 +13,7 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 
 |                                         Nom de la récompenses                                         | Probabilité |
 |:-----------------------------------------------------------------------------------------------------:|:-----------:|
+<<<<<<< HEAD
 |            {{image#items/armors/christmas/christmas_cap}} Chapeau du Père Noël                        |    1,5 %    |
 |          {{image#items/armors/christmas/christmas_coat}} Manteau du Père Noël                         |    1,5 %    |
 |          {{image#items/armors/christmas/christmas_trousers}} Pantalon du Père Noël                    |    1,5 %    |
@@ -23,6 +24,15 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 |                    {{image#items/items/sticks/fighting_stick}} Un bâton de combat                     |     2 %     |
 |                 {{image#items/items/christmas/infinity_snowball}}Infinity snowbal                     |    1,5 %    |
 |                 {{image#items/items/christmas/christmas_star}} Étoile de noël                         |     2 %     |
+=======
+|          {{image#items/armors/christmas/christmas_cap}} Une armure complète du père noël           |    1,5 %    | 
+|                 {{image#items/christmas/christmas_tree}} #blocs/christmas-tree                 |   0,25 %    |
+|                                          Trois boule de noël                                          |     2 %     |
+|                                          Des sandal magique                                           |     2 %     |
+|                                          Un bâton de combat                                           |     2 %     |
+|                                           Infinity snowbal                                            |    1,5 %    |
+|                                            Étoile de noël                                             |     2 %     |
+>>>>>>> next-minor
 |                                     10 Bonhomme de neige agressif                                     |    2,5 %    |
 |                {{image#items/others/red_unclaim_finder}} Un chercheurs de bases rouge                 |     2 %     |
 |                {{image#items/others/blue_unclaim_finder}} Un chercheurs de bases bleu                 |     1 %     |
@@ -51,7 +61,7 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 |              {{image#blocks/drawers/diamond/diamond_drawer_front}} Un drawer en Diamant               |     1 %     |
 |                   {{image#blocks/drawers/iron/iron_drawer_front}} Un drawer en Fer                    |   2.25 %    |
 |                 {{image#blocks/drawers/stone/stone_drawer_front}} Un drawer en Pierre                 |     3 %     |
-|                   {{image#blocks/drawers/wood/wood_drawer_front}} Un drawer en Bois                   |     4 %     |
+|                   {{image#blocks/drawers/wood/wooden_drawer_front}} Un drawer en Bois                   |     4 %     |
 |                                  {{image#items/diamond}} 64 Diamant                                   |     2 %     |
 |                                 {{image#items/ores/zephir}} Un Zéphyr                                 |     3 %     |
 |                                {{image#items/ores/zephir}} Deux Zéphyr                                |     2 %     |
