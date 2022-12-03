@@ -74,8 +74,11 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
                 }
             }
             if (count(array_unique($foundMatchesArray)) !== count(array_unique($allMatches))) {
-                var_dump($foundMatchesArray);
                 $errors[] = "Format not recognized, not supported or invalid detect, found " . count($allMatches) . " patern and get ".count($foundMatchesArray)." valid pattern ($file)";
+                $diff = array_diff($allMatches, $foundMatchesArray);
+                foreach ($diff as $context) {
+                    $errors[] = "  Invalid format: $context ($file)";
+                }
                 $subError = true;
                 goto end;
             }
