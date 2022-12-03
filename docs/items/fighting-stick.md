@@ -3,7 +3,7 @@ id: fighting-stick
 title: [New] Stick de combat
 category: items
 description: Le stick de combat permet de vous téléporter à votre adversaire
-icon: "textures/items/sticks/fighting_stick.png"
+icon: "textures/items/christmas/fighting_stick.png"
 ---
 ___
 ## Description
