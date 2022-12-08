@@ -41,11 +41,11 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 |    {{image#items/armors/opalite/opalite_helmet}} Un casque en Opalite (enchantement protection 4)     |    1,5 %    |
 | {{image#items/armors/opalite/opalite_chestplate}} Un plastron en Opalite  (enchantement protection 4) |    1,5 %    |
 | {{image#items/armors/opalite/opalite_leggings}} Des jambierres en Opalite  (enchantement protection 4) |    1,5 %    |
-| {{image#items/armors/opalite/opalite_boots}} Une pair de botte en Opalite  (enchantement protection 4) |    1,5 %    |
+| {{image#items/armors/opalite/opalite_boots}} Une paire de bottes en Opalite  (enchantement protection 4) |    1,5 %    |
 |                       {{image#items/armors/farm/farm_helmet}} Un casque de farm                       |    1,5 %    |
 |                    {{image#items/armors/farm/farm_chestplate}} Un plastron de farm                    |    1,5 %    |
 |                    {{image#items/armors/farm/farm_leggings}} Des jambierres de farm                    |    1,5 %    |
-|                   {{image#items/armors/farm/farm_boots}} Une pair de botte de farm                    |    1,5 %    |
+|                   {{image#items/armors/farm/farm_boots}} Une paire de bottes de farm                    |    1,5 %    |
 |           {{image#blocks/drawers/plutonium/plutonium_drawer_front}} Un drawer en Plutonium            |   0,25 %    |
 |              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer en Opalite               |    0,5 %    |
 |              {{image#blocks/drawers/diamond/diamond_drawer_front}} Un drawer en Diamant               |     1 %     |
