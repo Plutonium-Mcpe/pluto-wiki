@@ -12,7 +12,7 @@ Les houes Opalite et Plutonium utilisent le même principe que les houes normale
 Elles vous permettent de bêcher la terre et l’herbe mais avec des zones plus grande directement. 
 Elles vous seront donc utile par leur rapidité lors de la création de farm par exemple.
 
-## {image#items/tools/hoes/opalite_hoe}} Houe Opalite
+## {{image#items/tools/hoes/opalite_hoe}} Houe Opalite
 
 ### Caractéristiques
 

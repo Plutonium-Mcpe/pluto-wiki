@@ -10,7 +10,7 @@ ___
 
 ## Comment jouer au mode KOTH ?
 ### Etape 1 : Se rendre aux coordonnées de la zone de combat avec sa faction
-Les heures durant lesquelles se déroulent l'évent KOTH sont indiquées dans #eventauto/planning  
+Les heures durant lesquelles se déroulent l'évent KOTH sont indiquées dans #event-auto/planning  
 
 **Coordonnées**  
 **Stelite** : x: 201 y: 80 z: -292  
