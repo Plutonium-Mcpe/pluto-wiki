@@ -2,7 +2,7 @@
 id: christmas-ball
 title: [New] Boule de Noël
 category: items
-description: boule de noel
+description: Item pour PvP il permettra d'immobiliser votre adversaire
 icon: "textures/items/christmas/christmas_ball.png"
 ---
 ___
