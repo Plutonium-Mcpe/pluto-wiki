@@ -13,13 +13,16 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 
 |                                         Nom de la récompenses                                         | Probabilité |
 |:-----------------------------------------------------------------------------------------------------:|:-----------:|
-|          {{image#items/armors/christmas/christmas_cap}} Une armure complète du père noël           |    1,5 %    | 
-|                 {{image#items/christmas/christmas_tree}} #blocs/christmas-tree                 |   0,25 %    |
-|                                          Trois boule de noël                                          |     2 %     |
-|                                          Des sandal magique                                           |     2 %     |
-|                                          Un bâton de combat                                           |     2 %     |
-|                                           Infinity snowbal                                            |    1,5 %    |
-|                                            Étoile de noël                                             |     2 %     |
+|            {{image#items/armors/christmas/christmas_cap}} Chapeau du Père Noël                        |    1,5 %    |
+|          {{image#items/armors/christmas/christmas_coat}} Manteau du Père Noël                         |    1,5 %    |
+|          {{image#items/armors/christmas/christmas_trousers}} Pantalon du Père Noël                    |    1,5 %    |
+|          {{image#items/armors/christmas/christmas_boots}} Bottes du Père Noël                         |    1,5 %    |
+|                 {{image#items/christmas/christmas_tree}} #blocs/christmas-tree                        |   0,25 %    |
+|                   {{image#items/christmas/christmas_ball}} Trois boules de noël                 |     2 %     |
+|              {{image#items/christmas/sandals}} Des sandales magiques                            |     2 %     |
+|                    {{image#items/christmas/fighting_stick}} Un bâton de combat                     |     2 %     |
+|                 {{image#items/christmas/infinity_snowball}}Infinity snowbal                     |    1,5 %    |
+|                 {{image#items/christmas/christmas_star}} Étoile de noël                         |     2 %     |
 |                                     10 Bonhomme de neige agressif                                     |    2,5 %    |
 |                {{image#items/others/red_unclaim_finder}} Un chercheurs de bases rouge                 |     2 %     |
 |                {{image#items/others/blue_unclaim_finder}} Un chercheurs de bases bleu                 |     1 %     |
@@ -37,12 +40,12 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 |                        {{image#items/ores/opalite_ingot}} 16 lingot d'Opalite                         |     3 %     |
 |    {{image#items/armors/opalite/opalite_helmet}} Un casque en Opalite (enchantement protection 4)     |    1,5 %    |
 | {{image#items/armors/opalite/opalite_chestplate}} Un plastron en Opalite  (enchantement protection 4) |    1,5 %    |
-| {{image#items/armors/opalite/opalite_leggings}} Des jambierre en Opalite  (enchantement protection 4) |    1,5 %    |
-| {{image#items/armors/opalite/opalite_boots}} Un pair de botte en Opalite  (enchantement protection 4) |    1,5 %    |
+| {{image#items/armors/opalite/opalite_leggings}} Des jambierres en Opalite  (enchantement protection 4) |    1,5 %    |
+| {{image#items/armors/opalite/opalite_boots}} Une paire de bottes en Opalite  (enchantement protection 4) |    1,5 %    |
 |                       {{image#items/armors/farm/farm_helmet}} Un casque de farm                       |    1,5 %    |
 |                    {{image#items/armors/farm/farm_chestplate}} Un plastron de farm                    |    1,5 %    |
-|                    {{image#items/armors/farm/farm_leggings}} Des jambierre de farm                    |    1,5 %    |
-|                   {{image#items/armors/farm/farm_boots}} Une pair de botte de farm                    |    1,5 %    |
+|                    {{image#items/armors/farm/farm_leggings}} Des jambierres de farm                    |    1,5 %    |
+|                   {{image#items/armors/farm/farm_boots}} Une paire de bottes de farm                    |    1,5 %    |
 |           {{image#blocks/drawers/plutonium/plutonium_drawer_front}} Un drawer en Plutonium            |   0,25 %    |
 |              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer en Opalite               |    0,5 %    |
 |              {{image#blocks/drawers/diamond/diamond_drawer_front}} Un drawer en Diamant               |     1 %     |
