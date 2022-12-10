@@ -3,7 +3,7 @@ id: sky-ring
 title: Sky ring
 category: items
 description: Vous envoler n'a jamais été aussi simple !
-icon: "textures/items/others/sky_ring.png"
+icon: "textures/items/sky_ring.png"
 ---
 ___
 ## Description
