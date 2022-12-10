@@ -1,6 +1,6 @@
 ---
-id: sky-ring
-title: Sky ring
+id: skyring
+title: Skyring
 category: items
 description: Vous envoler n'a jamais été aussi simple !
 icon: "textures/items/sky_ring.png"
@@ -8,9 +8,9 @@ icon: "textures/items/sky_ring.png"
 ___
 ## Description
 
-Le Sky ring est un item modés servant principalement en faction mais peut s’avérer être utile en minage.  
+Le Skyring est un item modés servant principalement en faction mais peut s’avérer être utile en minage.  
 Cette item permet a son utilisateur de se téléporter a la couche la plus haute au dessus de lui.  
-Néanmoins le Sky ring a un temps de recharge sinon ca serait trop facile, hehe.
+Néanmoins le Skyring a un temps de recharge sinon ca serait trop facile, hehe.
 
 **Attention** : Le Sky ring ne fonctionne pas en warzone, et si le joueur est en combat
 
