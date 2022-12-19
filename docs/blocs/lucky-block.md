@@ -7,7 +7,7 @@ icon: "textures/blocks/others/lucky_block.png"
 ---
 ___
 
-<img class="thumbnail-right" src="textures/blocks/others/lucky_tophee_full.png">
+<img class="thumbnail-right" src="https://user-images.githubusercontent.com/91474741/197257381-925586a1-6e87-467c-b308-38e8eb51a989.png">
 
 ## Description :
 **Mettez tout en jeux pour tenter de tout gagner avec les lucky blocks !**
