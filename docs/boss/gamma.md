@@ -18,7 +18,7 @@ Réfléchissez bien avant de commencer à l'attaquer !
 ## Caractéristiques 
 ### Boss :
 - ``Respawn`` : Toute les heures
-- ``Points de vie`` : 10 000 pv
+- ``Points de vie`` : 5 000 {{image#ui/heart}}
 - ``Dégât`` : 17.5 {{image#ui/heart}} pour un joueur sans armure, cooldown d'une seconde
 - ``Agros`` : Zone de 8 blocs 
 - ``Régénération`` : 1 PV par seconde à partir du moment où le boss n'a pas pris de dégâts pendant plus de 5 secondes
@@ -27,14 +27,14 @@ Réfléchissez bien avant de commencer à l'attaquer !
 
 | Pourcentage de dégât |                                       Stuff gagné                                       |            XP gagné            |
 |:--------------------:|:---------------------------------------------------------------------------------------:|:------------------------------:|
-|         2 %          |                            4 diamants<br/>1 lingot d'opalite                            | 500 xp lvl<br/>10 xp guerrier  |
-|         5 %          |                              Un lucky block<br/>5 diamands                              | 1000 xp lvl<br/>20 xp guerrier |
-|         10 %         |                     5 diamands<br/>lucky block<br/>un billet de 5k                      |   2000 xp lvl<br/>métier 40    |
-|         20 %         |                Un block de diamand<br/>une clef vote<br/>un billet de 8k                |  3000 xp lvl + 60 xp guerrier  |
-|         30 %         |          10 diamands<br/>Un billet de 10k<br/>Une clef vote<br/>Un lucky block          |  4000 xp lvl + 80 xp guerrier  |
-|         40 %         |           Un zephir<br/>Un billet de 12k<br/>2 clef votes<br/>2 lucky blocks            | 5000 xp lvl + 100 xp guerrier  |
-|         50 %         | 8 lucky block<br/>Un zephir<br/>Une clef commune<br/>2 clefs votes<br/>Un billet de 20k | 7500 xp lvl + 150 xp guerrier  |
-|         75 %         |   Une clef Opa<br/>Une clef commune<br/>16 diamands<br/>Un zephir<br/>10 lucky block    | 10000 xp lvl + 200 xp guerrier | 
+|         2 %          |                            4 Diamants<br/>1 lingot d'opalite                            | 500 xp lvl<br/>10 xp guerrier  |
+|         5 %          |                              Un Lucky block<br/>5 Diamands                              | 1000 xp lvl<br/>20 xp guerrier |
+|         10 %         |                     5 Diamands<br/> Un Lucky block<br/>5 000$                      |   2000 xp lvl<br/>métier 40    |
+|         20 %         |                Un bloc de diamand<br/>Une clé vote<br/>8 000$                |  3000 xp lvl + 60 xp guerrier  |
+|         30 %         |          10 diamands<br/>10 000$<br/>Une clé vote<br/>Un Lucky block          |  4000 xp lvl + 80 xp guerrier  |
+|         40 %         |           Un zephir<br/>12 000$<br/>2 clés votes<br/>2 Lucky blocks            | 5000 xp lvl + 100 xp guerrier  |
+|         50 %         | 8 Lucky block<br/>Un zephir<br/>Une clé commune<br/>2 clés votes<br/>20 000$ | 7500 xp lvl + 150 xp guerrier  |
+|         75 %         |   Une clé Opa<br/>Une clé commune<br/>16 diamands<br/>Un zephir<br/>10 Lucky block    | 10000 xp lvl + 200 xp guerrier | 
 
 ### Saut :
 

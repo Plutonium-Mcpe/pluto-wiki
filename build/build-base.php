@@ -81,7 +81,7 @@ function getInput(string $message): string
 
 function printErrors(array $error) {
     if(count($error) !== 0) {
-        printStatement("FAIL, found " . count($error) . " error:");
+        printError("FAIL, found " . count($error) . " error:");
         foreach ($error as $key => $value) {
             printError($value);
         }

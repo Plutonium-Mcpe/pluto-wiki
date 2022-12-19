@@ -1,16 +1,16 @@
 ---
 id: axe
-title: [New] Les Haches Moddées
+title: [New] Les Haches Modées
 category: tools
-description: Les Haches Moddées
+description: Les Haches Modées
 icon: "textures/items/tools/axes/opalite_axe.png"
 ---
 ___
 ## Description
 
 Les haches en Plutonium et Opalite vous permettent de casser le bois comme si vous étiez un vrai bûcheron. 
-En effet ces deux haches moddé permettent une récolte plus efficace du bois par leur vitesse augmentée ! 
-Pratique pour augmenter facilement son métier de #help/bucherons n’est-ce pas ? 
+En effet ces deux haches modés permettent une récolte bien plus efficace du bois par leur vitesse augmentée ! 
+Pratique pour augmenter facilement et rapidement son métier de #jobs/bucherons n’est-ce pas ? 
 
 ## {{image#items/tools/axes/opalite_axe}} Hache Opalite
 
@@ -21,7 +21,7 @@ Pratique pour augmenter facilement son métier de #help/bucherons n’est-ce pas
 
 ### Craft 
 
-> Nécessite le niveau 5 du métier #help/bucheron
+> Nécessite le niveau 5 du métier #jobs/bucheron
 
 {{craft#craft/craft_opalite_axe}} 
 
@@ -34,6 +34,6 @@ Pratique pour augmenter facilement son métier de #help/bucherons n’est-ce pas
 
 ### Craft 
 
-> Nécessite le niveau 11 du métier #help/bucheron
+> Nécessite le niveau 11 du métier #jobs/bucheron
 
 {{craft#craft/craft_plutonium_axe}} 

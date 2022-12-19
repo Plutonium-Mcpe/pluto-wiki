@@ -15,18 +15,18 @@ Ce dispositif permet d'éviter l'abus du farm des spawners ainsi que créer engo
 
 ## Explication 
 
-Les spawners sont donc dès à présent automatiquement générée sur les maps des différents serveurs factions. Les spawners se trouvent dans des salles comportant entre 1 et 4 spawners.  
+Les spawners sont donc dès à présent automatiquement générés sur les maps des différents serveurs factions. Les spawners se trouvent dans des salles comportant entre 1 et 4 spawners.  
 Il n’est maintenant plus possible de casser des spawners pour les récupérer dans votre inventaire. Néanmoins si tous les spawners d’une salle sont cassés, une nouvelle sera automatiquement générée sur la map. Le nombre de salle avec spawners sur la map sera donc toujours le même tout au long de la version.  
 Les spawners ne sont également plus disponibles à l’achat au shop les rendant donc irrécupérables et très rares.   
 A vous de faire jouer votre patience pour en trouver ainsi que d’en prendre soin !   
 
-**Chaque salle a un type et nombre de spawners généré aleatoirement à partir des données si dessous :** 
+**Chaque salle a un type et nombre de spawner généré aleatoirement à partir des données si dessous :** 
 
 > Les salles de spawner apparraissent entre la couche 16 et 40.
 
 ### {{image#items/egg_skeleton}} Spawner à Squelettes
 
-- `` Probabilité de génération de ce type `` : 30% 
+- `` Probabilité de génération de ce type`` : 30% 
 
 Nombre de spawners dans la salle | Probabilité |
 :---: | ---
@@ -37,7 +37,7 @@ Nombre de spawners dans la salle | Probabilité |
 
 ### {{image#items/egg_creeper}} Spawner à Creepers
 
-- `` Probabilité de génération de ce type `` : 30% 
+- `` Probabilité de génération de ce type`` : 30% 
 
 Nombre de spawners dans la salle | Probabilité |
 :---: | ---
@@ -48,7 +48,7 @@ Nombre de spawners dans la salle | Probabilité |
 
 ### {{image#items/egg_spider}} Spawner à Araignées
 
-- `` Probabilité de génération de ce type `` : 20% 
+- `` Probabilité de génération de ce type`` : 20% 
 
 Nombre de spawners dans la salle | Probabilité |
 :---: | ---
@@ -59,7 +59,7 @@ Nombre de spawners dans la salle | Probabilité |
 
 ### {{image#items/egg_zombie}} Spawner à Zombies
 
-- `` Probabilité de génération de ce type `` : 15% 
+- `` Probabilité de génération de ce type`` : 15% 
 
 Nombre de spawners dans la salle | Probabilité |
 :---: | ---
@@ -70,7 +70,7 @@ Nombre de spawners dans la salle | Probabilité |
 
 ### {{image#items/egg_enderman}} Spawner à Endermans
 
-- `` Probabilité de génération de ce type `` : 5% 
+- `` Probabilité de génération de ce type`` : 5% 
 
 Nombre de spawners dans la salle | Probabilité |
 :---: | ---

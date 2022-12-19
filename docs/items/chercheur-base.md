@@ -11,7 +11,7 @@ ___
 Plutonium est un serveur pvp faction, à ce titre, de nombreuses personnes font leurs bases sur la map des serveurs factions. 
 Si vous souhaitez chercher des bases à piller, les chercheurs de bases vous seront pratiquement indispensables. 
 Ils vous permettent de détecter différents blocs comme des coffres, droppers ou entonnoirs dans une certaine zone autour de vous. 
-Pour l’utilisation des unclaim Finder, il vous suffit de le prendre dans votre main puis un chiffre apparaîtra au-dessus de votre barre d’inventaire représentant le nombre de pourcentage trouvé.
+Pour l’utilisation des chercheurs de bases, il vous suffit de le prendre dans votre main puis un chiffre apparaîtra au-dessus de votre barre d’inventaire représentant le nombre de pourcentage trouvé.
 
 > **Attention, il est possible de contrer leur effet avec des brouilleur (#blocs/brouilleur).**
 
@@ -21,12 +21,12 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
 
 ### Caractéristiques
 
-- **Zone de détection** : Zone de 50x50x256 autour de vous 
-- **Blocs détectés** : 
+- ``Zone de détection`` : Zone de 50x50x256 autour de vous 
+- ``Blocs détectés`` : 
     - Coffre
     - Four
     - Cadre 
-- **Durabilité** : 1 heure dans la main d'un joueur
+- ``Durabilité`` : 1 heure dans la main d'un joueur
 
 ### Craft 
 
@@ -39,8 +39,8 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
 
 ### Caractéristiques
 
-- **Zone de détection** : Zone de 50x50x256 autour de vous 
-- **Blocs détectés** : 
+- ``Zone de détection`` : Zone de 50x50x256 autour de vous 
+- ``Blocs détectés`` : 
     - Dropper
     - Distributeur
     - Entonnoir
@@ -48,10 +48,10 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
     - Four
     - Cadre
     - Drawer
-- **Durabilité** : 3 heures dans la main d'un joueur  
+- ``Durabilité`` : 3 heures dans la main d'un joueur  
 
 ### Craft 
 
-> Nécessite le niveau 9 du métier #help/mineur
+> Nécessite le niveau 9 du métier #jobs/mineur
 
 {{craft#craft/craft_blue_unclaim_finder}} 

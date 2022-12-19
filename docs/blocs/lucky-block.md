@@ -12,8 +12,10 @@ ___
 ## Description :
 **Mettez tout en jeux pour tenter de tout gagner avec les lucky blocks !**
 
-En ouvrant un lucky block, tout peut peux se passer : Gagnez un million de $, des items exclusifs aux lucky,
-de l'xp pour vos metiers(jusqu'a 10kxp) ou même un lingot de plutonium, mais prenez le risque
+En ouvrant un lucky block, tout peut peux se passer : Gagnez un million de $, des items exclusifs aux lucky, des loots incroyables
+
+# Mettez tout en jeux pour tenter de tout gagner avec les lucky blocks
+En ouvrant un lucky block, tout peut se passer : Gagnez un million de $, des items exclusifs aux lucky, de l'xp pour vos metiers(jusqu'a 10kxp) ou même un lingot de plutonium, mais prenez le risque
 de tout perdre hahahaha (rire diabolique)
 
 ## Liste des events possible
@@ -32,7 +34,7 @@ de tout perdre hahahaha (rire diabolique)
 |                                   Une saison au Zoo                                    |                                                 Fait spawn des mobs passifs                                                  |   3,41 %    |
 |                                      Stonk or not                                      | Un message privé dans le chat demande au joueur si il veux parier 20k avec une chance sur deux de doubler ou de tout perdre. |   1,14 %    |
 |            {{image#items/diamond_sword}}      A la guerre comme a la guerre            |                                          Give d'un full opalite enchanté au joueur                                           |    0,4 %    |
-|                 {{image#items/diamond_hoe}}                  On farm ?                 |                                         Give une piece de l'armure de farm au hazard                                         |   1,14 %    |
+|                 {{image#items/diamond_hoe}}                  On farm ?                 |                                         Give une piece de l'armure de farm au hasard                                         |   1,14 %    |
 |                                  Croisons les doigts                                   |                                     Supprime un item de l'inventaire du joueur au hasard                                     |   0,57 %    |
 |                                      Zumba cafew                                       |                                    Plein de particules spawn autour du joueur pendant 5m                                     |   2,27 %    |
 |                                        Là haut                                         |                                                 Tp le joueur à la couche max                                                 |   2,27 %    |

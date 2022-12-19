@@ -20,28 +20,26 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
     if ($contents === false) {
         $errors[] = "Error in the recovery of the file content ($file)";
         $subError = true;
-        goto end;
-    }
-    $filename = getFilename($file);
-    $category = substr($filename, strlen($filename) - 9) === "_category";
-    $name = getId($contents);
-    if ($category) {
-        $categName = substr($filename, strlen($filename) - 9);
-        if (isset($cache[$categName][$name . "_category"])) {
-            $errors[] = "Category index for: $categName already exist ($file)";
-            $subError = true;
-            goto end;
+    }else{
+        $filename = getFilename($file);
+        $category = substr($filename, strlen($filename) - 9) === "_category";
+        $name = getId($contents);
+        if ($category) {
+            $categName = substr($filename, strlen($filename) - 9);
+            if (isset($cache[$categName][$name . "_category"])) {
+                $errors[] = "Category index for: $categName already exist ($file)";
+                $subError = true;
+            }
+        } else {
+            $categ = getCategory($contents);
+            if (isset($cache[$categ][$name])) {
+                $errors[] = "$name for category: $categ already exist ($file)";
+                $subError = true;
+            }else{
+                $cache[$categ][$name] = $file;
+            }
         }
-    } else {
-        $categ = getCategory($contents);
-        if (isset($cache[$categ][$name])) {
-            $errors[] = "$name for category: $categ already exist ($file)";
-            $subError = true;
-            goto end;
-        }
-        $cache[$categ][$name] = $file;
     }
-    end:
     if ($subError) {
         $hasError = true;
     }
