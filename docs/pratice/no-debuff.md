@@ -9,7 +9,7 @@ ___
 
 ## Explication
 
-Le mode No Debuff est le mode de jeux le plus connu en terme de pvp, à la base le pvp de Minecraft était basé uniquement sur ce mode de jeux. Dans ce mode de jeu vous devrez tout simplement affronter vos ennemis en 1v1. Vous avez à disposition des ender pearl pour vous téléportez sur l'ennemi ou tout simplement essayer de se replier.
+Le mode No Debuff est le mode de jeu le plus connu en terme de pvp, à la base le pvp de Minecraft était basé uniquement sur ce mode de jeu. Dans ce mode de jeu vous devrez tout simplement affronter vos ennemis en 1v1. Vous avez à disposition des ender pearl pour vous téléportez sur l'ennemi ou tout simplement essayer de se replier.
 Le reste de votre inventaire est entièrement composé de potion de soins, économiser-les bien car vous en avez pas à l’infinis.
  
 
