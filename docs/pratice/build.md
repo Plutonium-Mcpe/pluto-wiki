@@ -9,7 +9,7 @@ ___
 
 ## Explication
  
-Le mode “Build” consiste à tuer vos ennemis ou les pousser dans le vide grâce aux différents items que vous avez dans votre inventaire. Vous pouvez utiliser une boule de neige (switch ball) pour faire tomber des adversaires dans le vide ou bien utiliser les toiles d'araignées et les blocs de grès afin d'enfermer un de vos ennemis puis le tuer avec l'épée en Plutonium. Mais faites attention au bout d’un certain moment les blocs de grès disparaissent ! Si malheureusement vous tombez dans le vide, pas de panique vous avez à disposition 2 enderpearl pour essayer de vous rattraper ! Et si vous vous faites trap par des blocs vous pouvez utiliser la pioche en Opalite qui est à votre disposition.
+Le mode “Build” consiste à tuer vos ennemis ou les pousser dans le vide grâce aux différents items que vous avez dans votre inventaire. Vous pouvez utiliser une boule de neige (switch ball) pour faire tomber des adversaires dans le vide ou bien utiliser les toiles d'araignées et les blocs de grès afin d'enfermer un de vos ennemis puis le tuer avec l'épée en Plutonium. Mais faites attention au bout d’un certain moment les blocs de grès disparaissent ! Si malheureusement vous tombez dans le vide, pas de panique vous avez à disposition 2 enderpearl pour essayer de vous rattraper ! Et si vous vous faites piéger par des blocs vous pouvez utiliser la pioche en Opalite qui est à votre disposition.
 
 > Vous pouvez entrer dans ce mode de jeu à tout moment en utilisant l'épée en Plutonium se trouvant dans votre inventaire sur le lobby. 
 
