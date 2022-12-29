@@ -12,6 +12,17 @@ function getId(string $contents): string
     return $name;
 }
 
+function getIcon(string $contents): string
+{
+    preg_match("/(\r\n|\r|\n)icon: \"(.+)\"(\r\n|\r|\n)---/i", $contents, $matches);
+    $icon = $matches[2] ?? null;
+    if ($icon === null) {
+        printError("invalid file skeleton");
+        exit(1);
+    }
+    return $icon;
+}
+
 function getCategory(string $contents): string
 {
     $contents = preg_replace("/(\r\n|\r|\n)/i", '', $contents);
