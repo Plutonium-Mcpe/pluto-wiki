@@ -14,6 +14,7 @@ item.plutonium:brouilleur=Unclaim Finder Jammer
 item.plutonium:parchment=Parchment
 item.plutonium:golem_gem=Golem Gem
 item.plutonium:ball=§bBall
+item.plutonium:gold_ball=§gGold Ball
 
 item.plutonium:vote_key=Vote Key
 item.plutonium:common_key=Common Key
@@ -144,6 +145,7 @@ item.plutonium:sandals=Sandals
 item.plutonium:fighting_stick=Fighting Stick
 item.plutonium:infinity_snowball=Infinity Snowball
 item.plutonium:christmas_star=Christmas Star
+item.plutonium:magic_sandals=Magic Sandals
 
 tile.plutonium:block_effect.name=Block Effect
 tile.plutonium:cave_block.name=Cave Block

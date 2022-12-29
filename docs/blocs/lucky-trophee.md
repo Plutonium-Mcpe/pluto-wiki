@@ -3,7 +3,7 @@ id: lucky-trophee
 title: [New] Trophée LuckyBlock
 category: blocs
 description: Trophée LuckyBlock
-icon: "textures/blocks/others/lucky_tophee_full.png"
+icon: "https://cdn.discordapp.com/attachments/538298363653783555/1024772580181278832/lucky_tophee_full.png"
 ---
 ___
 

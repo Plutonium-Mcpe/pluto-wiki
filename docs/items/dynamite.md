@@ -3,7 +3,7 @@ id: dynamite
 title: Dynamite
 category: items
 description: La dynamite, bim bam boum
-icon: "textures/items/dynamite.png"
+icon: "textures/items/others/dynamite.png"
 ---
 ___
 ## Description

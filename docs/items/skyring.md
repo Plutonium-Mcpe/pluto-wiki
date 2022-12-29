@@ -3,7 +3,7 @@ id: skyring
 title: Skyring
 category: items
 description: Vous envoler n'a jamais été aussi simple !
-icon: "textures/items/sky_ring.png"
+icon: "textures/items/others/skyring.png"
 ---
 ___
 ## Description

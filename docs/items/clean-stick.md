@@ -3,7 +3,7 @@ id: clean-stick
 title: Bâton de nettoyage
 category: items
 description: Le bâton de nettoyage vous permet de supprimer les blocs inutiles de votre inventaire !
-icon: "textures/items/clean_stick.png"
+icon: "textures/items/sticks/clean_stick.png"
 ---
 ___
 ## Description

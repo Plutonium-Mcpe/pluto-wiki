@@ -3,7 +3,7 @@ id: feed-stick
 title: Bâton de nourriture
 category: items
 description: Pouvoir se nourrir facilement, rapidement et pratiquement illimité
-icon: "textures/items/feed_stick.png"
+icon: "textures/items/sticks/feed_stick.png"
 ---
 ___
 ## Description

@@ -3,7 +3,7 @@ id: speed-stick
 title: Bâton de vitesse
 category: items
 description: Le bâton de vitesse va permettre d'aller beaucoup plus vite !
-icon: "textures/items/speed_stick.png"
+icon: "textures/items/sticks/speed_stick.png"
 ---
 ___
 ## Description

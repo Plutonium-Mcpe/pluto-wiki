@@ -3,7 +3,7 @@ id: christmas-tree
 title: [New] Sapin de Noël
 category: blocs
 description: Un sapin de Noël pour décorer
-icon: "textures/blocks/others/christmas_tree_full.png"
+icon: "https://cdn.discordapp.com/attachments/958457679641215026/1046361027475935293/unknown.png"
 ---
 ___
 

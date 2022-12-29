@@ -3,7 +3,7 @@ id: christmas-armor
 title: [New] L'armure du père Noël
 category: armor
 description: L'armure du père Noël
-icon: "textures/items/armors/christmas/christmas_helmet.png"
+icon: "textures/items/armors/christmas/christmas_cap.png"
 ---
 ___
 

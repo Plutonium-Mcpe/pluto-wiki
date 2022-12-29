@@ -3,7 +3,7 @@ id: ascenseur
 title: Ascenseur
 category: blocs
 description: Les ascenseurs
-icon: "textures/blocks/elevator.png"
+icon: "textures/blocks/others/elevator.png"
 ---
 ___
 ## Description  

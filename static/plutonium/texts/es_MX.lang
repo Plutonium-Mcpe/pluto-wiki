@@ -14,6 +14,7 @@ item.plutonium:brouilleur=Brouilleur
 item.plutonium:parchment=Parchemin
 item.plutonium:golem_gem=Gemme de Golem
 item.plutonium:ball=§bBalle
+item.plutonium:gold_ball=§gBallon d'Or
 
 item.plutonium:vote_key=Clé Vote
 item.plutonium:common_key=Clé Commune
@@ -133,6 +134,7 @@ item.plutonium:red_jersey9=§cMaillot Rouge (9)
 item.plutonium:red_jersey10=§cMaillot Rouge (10)
 item.plutonium:red_jersey11=§cMaillot Rouge (11)
 item.plutonium:red_jersey_captain=§cMaillot Rouge du Capitaine
+
 item.plutonium:christmas_cap=Bonnet du Père Noël
 item.plutonium:christmas_coat=Manteau du Père Noël
 item.plutonium:christmas_trousers=Pantalon du Père Noël
@@ -143,6 +145,7 @@ item.plutonium:sandals=Sandales
 item.plutonium:fighting_stick=Bâton de combat
 item.plutonium:infinity_snowball=Boule de Neige infinie
 item.plutonium:christmas_star=Étoile de Noël
+item.plutonium:magic_sandals=Sandales magiques
 
 tile.plutonium:block_effect.name=Bloc à Effets
 tile.plutonium:cave_block.name=Cave Block

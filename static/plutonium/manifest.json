@@ -4,7 +4,7 @@
 		"name": "PlutoniumRPV4",
 		"description": "Resource Pack de Plutonium MC:BE V4",
 		"uuid": "28b71964-2cec-11ec-8d3d-0242ac130003",
-		"version": [4, 2, 64],
+		"version": [4, 2, 67],
 		"min_engine_version": [1, 16, 0]
 	},
 	"modules": [

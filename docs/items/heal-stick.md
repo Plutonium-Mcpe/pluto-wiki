@@ -3,7 +3,7 @@ id: heal-stick
 title: Le Bâton de soins
 category: items
 description: Les Bâtons de soins, ça fait du bien !
-icon: "textures/items/heal_stick.png"
+icon: "textures/items/sticks/heal_stick.png"
 ---
 ___
 ## Description

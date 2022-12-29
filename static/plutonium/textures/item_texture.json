@@ -245,6 +245,9 @@
 		"ball": {
 			"textures": "textures/items/others/ball"
 		},
+		"gold_ball": {
+			"textures": "textures/items/others/gold_ball"
+		},
 		"bat_shuriken": {
 			"textures": "textures/items/halloween/bat_shuriken"
 		},
@@ -327,7 +330,7 @@
 			"textures": "textures/items/armors/foot/blue/blue_jersey11"
 		},
 		"blue_jersey_captain": {
-			"textures": "textures/items/armors/foot/blue/blue_jersey"
+			"textures": "textures/items/armors/foot/blue/blue_jersey_captain"
 		},
 		"red_jersey": {
 			"textures": "textures/items/armors/foot/red/red_jersey"
@@ -366,7 +369,7 @@
 			"textures": "textures/items/armors/foot/red/red_jersey11"
 		},
 		"red_jersey_captain": {
-			"textures": "textures/items/armors/foot/red/red_jersey"
+			"textures": "textures/items/armors/foot/red/red_jersey_captain"
 		},
 		"christmas_cap": {
 			"textures": "textures/items/armors/christmas/christmas_cap"

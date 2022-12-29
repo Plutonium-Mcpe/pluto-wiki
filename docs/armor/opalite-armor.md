@@ -3,7 +3,7 @@ id: opalite-armor
 title: Armure en Opalite
 category: armor
 description: L'armure en Opalite 
-icon: "textures/items/opalite_helmet.png"
+icon: "textures/items/armors/opalite/opalite_helmet.png"
 ---
 ___
 
