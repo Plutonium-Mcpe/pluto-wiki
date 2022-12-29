@@ -11,7 +11,7 @@ ___
 
 Le mode de jeu foot est accessible en interagissant avec le ballon de foot situé dans votre inventaire au lobby. Vous pouvez alors rejoindre une file d’attente puisque le mode de jeu nécessite 6 joueurs qui seront séparés en deux équipes de 3 contre 3 pour se lancer.
 
-Les équipes sont composées aléatoirement, tout les joueurs portes un maillots de la couleur de leur équipe afin de se distingé. Chaque vont également occupé un poste dans la partie défini par son emplacement sur le terrain, et par l’item qu’il possède dans son inventaire.
+Les équipes sont composées aléatoirement, tout les joueurs portes un maillots de la couleur de leur équipe afin de se distingé. Chaque joueurs vont également occupé un poste dans la partie défini par son emplacement sur le terrain, et par l’item qu’il possède dans son inventaire.
 
 Un match de foot dure 3 minutes, et à chaque but, les joueurs sont automatiquement téléporté à leur position respective.
 
