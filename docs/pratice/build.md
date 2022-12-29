@@ -22,7 +22,7 @@ Le mode “Build” consiste à tuer vos ennemis ou les pousser dans le vide gr�
 - {{image#items/tools/pickaxes/opalite_pickaxe}} Une pioche en Opalite
 - {{image#items/snowball}} Une boule de neige “switch ball”
 - {{image#items/ender_pearl}} Deux ender pearl
-- {{image#blocks/sandstone_normal}} 64 grès
+- {{image#blocks/sandstone_normal}} 64 blocs de grès
 
 
 > En cas de bug sur votre kit, vous pouvez le restaurer en allant dans les paramètres (enclume) lorsque vous êtes au hub du lobby, puis dans "Equipement du Practice" (épée en Opalite) et pour finir dans "Build" (grès). Vous devez ensuite cliquer sur la vitre rouge afin de remettre votre inventaire dans le mode de jeu build au kit de départ.
