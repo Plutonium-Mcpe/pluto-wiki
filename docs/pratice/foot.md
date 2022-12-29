@@ -18,7 +18,7 @@ Un match de foot dure 3 minutes, et à chaque but, les joueurs sont automatiquem
 ## Postes des joueurs et rôles 
 
 Dans chaque équipe, il y a deux attaquants et un défenseur.   
-L’attaquant possède un #/items/speed-stick, pour avoir speed 2 pendant X secondes, et le défenseur un bâton de blaze, dit “bâton de tacle", qui permet de freeze pendant X secondes la personne qui possède le ballon si elle est touchée avec. 
+L’attaquant possède un #items/speed-stick, pour **doubler sa vitesse pendant 8 secondes**, et le défenseur un bâton de blaze, dit “bâton de tacle", qui permet de **freeze pendant 2 secondes** la personne qui possède le ballon si elle est touchée avec. 
 
 ## Points et classements 
 
