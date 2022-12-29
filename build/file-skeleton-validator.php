@@ -42,14 +42,22 @@ foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($argv[1], 
         $subError = true;
         goto end;
     }
-    $icon = getIcon($contents);
-    // if link is http, verify that the content exists
-    if (substr($icon, 0, 4) === "http") {
-        $headers = get_headers($icon);
-        if (strpos($headers[0], "200") === false) {
-            $errors[] = "The icon link does not exist ($file)";
-            $subError = true;
-            goto end;
+    if(!$category) {
+        $icon = getIcon($contents);
+        // if link is http, verify that the content exists
+        if (substr($icon, 0, 4) === "http") {
+            $headers = get_headers($icon);
+            if (strpos($headers[0], "200") === false) {
+                $errors[] = "The icon link does not exist ($file)";
+                $subError = true;
+                goto end;
+            }
+        }else if (substr($icon, 0, 9) === "textures/") {
+            if(!file_exists(BASE_PATH . "/static/plutonium/" . $icon) && !file_exists(BASE_PATH . "/static/vanilla/" . $icon)) {
+                $errors[] = "The icon link does not exist ($file)";
+                $subError = true;
+                goto end;
+            }
         }
     }
     

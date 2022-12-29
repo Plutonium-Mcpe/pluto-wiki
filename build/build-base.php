@@ -1,5 +1,7 @@
 <?php
 
+define("BASE_PATH", dirname(__DIR__));
+
 function getId(string $contents): string
 {
     $contents = preg_replace("/(\r\n|\r|\n)/i", '', $contents);
