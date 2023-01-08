@@ -2,12 +2,10 @@
 id: scary-lucky-block
 title: Les scarys lucky blocks
 category: blocs
-description: Jouez à la roulette avec ces blocks
-icon: "textures/blocks/others/lucky_block.png"
+description: Jouez à la roulette avec ces blocks aussi terrifiant que généreux !
+icon: "textures/blocks/others/halloween_lucky_block.png"
 ---
 ___
-
-<img class="thumbnail-right" src="https://user-images.githubusercontent.com/91474741/197257381-925586a1-6e87-467c-b308-38e8eb51a989.png">
 
 ## Description :
 
