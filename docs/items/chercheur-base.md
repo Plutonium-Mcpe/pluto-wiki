@@ -41,6 +41,7 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
 
 - ``Zone de détection`` : Zone de 50x50x256 autour de vous 
 - ``Blocs détectés`` : 
+    - Tonneau
     - Dropper
     - Distributeur
     - Entonnoir
