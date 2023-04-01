@@ -1,6 +1,6 @@
 ---
 id: farm-armor
-title: [New] L'armure de farm
+title: L'armure de farm
 category: armor
 description: L'armure de farm
 icon: "textures/items/armors/farm/farm_helmet.png"

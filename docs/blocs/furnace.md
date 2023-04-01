@@ -1,6 +1,6 @@
 ---
 id: furnace
-title: [New] Les fours modés
+title: Les fours modés
 category: blocs
 description: Les fours modés
 icon: "textures/blocks/furnaces/plutonium/plutonium_furnace_front_on.png"

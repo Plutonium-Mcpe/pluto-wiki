@@ -1,6 +1,6 @@
 ---
 id: christmas-star
-title: [New] Étoile de Noël
+title: Étoile de Noël
 category: items
 description: Étoile de Noël
 icon: "textures/items/christmas/christmas_star.png"

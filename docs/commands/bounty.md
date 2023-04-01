@@ -1,6 +1,6 @@
 ---
 id: bounty
-title: [New] Les primes/bounty
+title: Les primes/bounty
 category: commands
 description: Pouvoir mettre à prix la tête d'un joueur ! Que c'est plaisant, embaucher d'autres joueurs pour faire le boulot ingrat !
 icon: "textures/items/others/billet.png"

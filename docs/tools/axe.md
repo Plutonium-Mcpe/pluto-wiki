@@ -1,6 +1,6 @@
 ---
 id: axe
-title: [New] Les Haches Modées
+title: Les Haches Modées
 category: tools
 description: Les Haches Modées
 icon: "textures/items/tools/axes/opalite_axe.png"

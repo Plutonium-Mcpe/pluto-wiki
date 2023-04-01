@@ -1,6 +1,6 @@
 ---
 id: totem
-title: [New] Les totems en warzone
+title: Les totems en warzone
 category: events-auto
 description: Soyez les premier à détruire le totem 
 icon: "textures/items/totem.png"

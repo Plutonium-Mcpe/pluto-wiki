@@ -1,6 +1,6 @@
 ---
 id: sandals
-title: [New] Des sandales magiques
+title: Des sandales magiques
 category: items
 description: Les sandales magiques permettent de générer de la neige sous vos pas.
 icon: "textures/items/christmas/sandals.png"

@@ -1,6 +1,6 @@
 ---
 id: shovel
-title: [New] Les Pelles Modées
+title: Les Pelles Modées
 category: tools
 description: Les pelles Modées
 icon: "textures/items/tools/shovels/plutonium_shovel.png"

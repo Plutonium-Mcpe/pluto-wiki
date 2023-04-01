@@ -1,6 +1,6 @@
 ---
 id: ball
-title: [New] Ballon de foot
+title: Ballon de foot
 category: items
 description: Ballon de foot
 icon: "textures/items/others/ball.png"

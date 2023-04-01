@@ -1,6 +1,6 @@
 ---
 id: lucky-armor
-title: [New] L'armure LuckyBlock
+title: L'armure LuckyBlock
 category: armor
 description: L'armure LuckyBlock
 icon: "textures/items/armors/lucky/lucky_helmet.png"

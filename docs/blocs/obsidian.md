@@ -1,6 +1,6 @@
 ---
 id: obsidian
-title: [New] Obsidienne
+title: Obsidienne
 category: blocs
 description: Obsidienne
 icon: "textures/blocks/obsidian.png"

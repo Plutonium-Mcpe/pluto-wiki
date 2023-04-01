@@ -1,6 +1,6 @@
 ---
 id: energie
-title: [New] Énergie
+title: Énergie
 category: items
 description: Pouvoir obtenir de grand pouvoir pendant un temps court, de quoi vous donner de grand avantage durant vos combats
 icon: "textures/items/others/energie.png"

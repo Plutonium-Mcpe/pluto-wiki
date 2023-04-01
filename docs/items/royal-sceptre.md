@@ -1,6 +1,6 @@
 ---
 id: royal-sceptre
-title: [New] Sceptre royal
+title: Sceptre royal
 category: items
 description: Permet d'immobiliser pendant une certaine période le joueur en face de vous
 icon: "textures/items/sticks/royal_sceptre.png"

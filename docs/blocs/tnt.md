@@ -1,6 +1,6 @@
 ---
 id: tnt
-title: [New] Les TNT moddées
+title: Les TNT moddées
 category: blocs
 description: Les TNT moddées
 icon: "textures/blocks/tnts/lvl9/tnt_lvl9_side.png"

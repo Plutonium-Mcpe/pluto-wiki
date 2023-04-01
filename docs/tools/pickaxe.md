@@ -1,6 +1,6 @@
 ---
 id: pickaxe
-title: [New] Les Pioches Modées
+title: Les Pioches Modées
 category: tools
 description: Les Pioches Modées
 icon: "textures/items/tools/pickaxes/plutonium_pickaxe.png"

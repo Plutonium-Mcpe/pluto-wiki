@@ -1,6 +1,6 @@
 ---
 id: christmas-gift
-title: [New] Les cadeaux de Noël
+title: Les cadeaux de Noël
 category: blocs
 description: Un cadeau de Noël qui contient que des bonnes choses
 icon: "https://user-images.githubusercontent.com/66992287/209977312-26b88606-9ec4-4890-8d20-89533d2e8e74.png"

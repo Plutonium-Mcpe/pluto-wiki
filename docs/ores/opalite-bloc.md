@@ -1,6 +1,6 @@
 ---
 id: opalite-bloc
-title: [New] Bloc en Opalite
+title: Bloc en Opalite
 category: ores
 description: Le bloc en Opalite
 icon: "textures/blocks/others/opalite_block.png"
