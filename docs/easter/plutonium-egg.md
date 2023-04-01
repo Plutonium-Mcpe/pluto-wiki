@@ -22,7 +22,7 @@ Les œufs en Plutonium sont les équivalents des lucky blocs pendant la période
 | {{image#items/easter/easter_rabbit_npc}} Lapin de pâque NPC | 5% |
 | {{image#items/easter/rabbit_slipper}} Chaussons du lapin & {{image#items/easter/rabbit_ears}} oreilles de lapin | 5% |
 | {{image#items/easter/easter_bell}} Cloche de pâque | 2% |
-| {{image#items/armor/plutonium/plutonium_chestplate}} 1 pièce d'armure en plutonium | 1% |
+| {{image#items/armors/plutonium/plutonium_chestplate}} 1 pièce d'armure en plutonium | 1% |
 | {{image#items/tools/pickaxes/plutonium_pickaxe}} 1 outils en plutonium | 1% |
 | {{image#items/ores/plutonium_ingot}} 1 lingot en plutonium | 10% |
 | {{image#items/ores/plutonium_fragment}} 6 fragements en plutonium | 10% |
