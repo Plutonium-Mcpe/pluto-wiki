@@ -15,6 +15,8 @@ item.plutonium:parchment=Parchment
 item.plutonium:golem_gem=Golem Gem
 item.plutonium:ball=§bBall
 item.plutonium:gold_ball=§gGold Ball
+item.plutonium:anti_bdn_kb_potion=Anti Snowball Knockback Potion
+item.plutonium:easter_rabbit_npc=§eEaster Rabbit NPC
 
 item.plutonium:vote_key=Vote Key
 item.plutonium:common_key=Common Key
@@ -146,6 +148,12 @@ item.plutonium:fighting_stick=Fighting Stick
 item.plutonium:infinity_snowball=Infinity Snowball
 item.plutonium:christmas_star=Christmas Star
 item.plutonium:magic_sandals=Magic Sandals
+
+item.plutonium:opalite_egg=§5Opalite Egg
+item.plutonium:plutonium_egg=§9Plutonium Egg
+item.plutonium:easter_bell=Easter Bell
+item.plutonium:rabbit_ears=Rabbit Ears
+item.plutonium:rabbit_slipper=Rabbit Slipper
 
 tile.plutonium:block_effect.name=Block Effect
 tile.plutonium:cave_block.name=Cave Block

@@ -15,6 +15,8 @@ item.plutonium:parchment=Parchemin
 item.plutonium:golem_gem=Gemme de Golem
 item.plutonium:ball=§bBalle
 item.plutonium:gold_ball=§gBallon d'Or
+item.plutonium:anti_bdn_kb_potion=Potion Anti Knockback Boule de Neige
+item.plutonium:easter_rabbit_npc=§eNPC Lapin de Pâques
 
 item.plutonium:vote_key=Clé Vote
 item.plutonium:common_key=Clé Commune
@@ -146,6 +148,12 @@ item.plutonium:fighting_stick=Bâton de combat
 item.plutonium:infinity_snowball=Boule de Neige infinie
 item.plutonium:christmas_star=Étoile de Noël
 item.plutonium:magic_sandals=Sandales magiques
+
+item.plutonium:opalite_egg=§5Œuf en Opalite
+item.plutonium:plutonium_egg=§9Œuf en Plutonium
+item.plutonium:easter_bell=Cloche de Pâques
+item.plutonium:rabbit_ears=Oreilles de Lapin
+item.plutonium:rabbit_slipper=Chausson de Lapin
 
 tile.plutonium:block_effect.name=Bloc à Effets
 tile.plutonium:cave_block.name=Cave Block

@@ -400,6 +400,27 @@
 		},
 		"magic_sandals": {
 			"textures": "textures/items/christmas/sandals"
+		},
+		"opalite_egg": {
+			"textures": "textures/items/easter/opalite_egg"
+		},
+		"plutonium_egg": {
+			"textures": "textures/items/easter/plutonium_egg"
+		},
+		"rabbit_slipper": {
+			"textures": "textures/items/easter/rabbit_slipper"
+		},
+		"rabbit_ears": {
+			"textures": "textures/items/easter/rabbit_ears"
+		},
+		"easter_bell": {
+			"textures": "textures/items/easter/easter_bell"
+		},
+		"anti_bdn_kb_potion": {
+			"textures": "textures/items/others/anti_bdn_kb_potion"
+		},
+		"easter_rabbit_npc": {
+			"textures": "textures/items/easter/easter_rabbit_npc"
 		}
 	}
 }
