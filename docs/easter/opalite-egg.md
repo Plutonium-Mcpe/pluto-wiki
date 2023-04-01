@@ -26,17 +26,17 @@ Les œufs en Plutonium sont les équivalents des lucky blocs pendant la période
 
 | Items | Chance |
 | :---: | :---: |
-| 1 oeuf en plutonium | 0.5% |
-| Lapin de pâque NPC | 0.5% |
-| Bottes du lapin de pâque | 1% |
-| Oreilles de lapin | 1% |
-| Cloche de pâque | 0.01% |
-| Potion anti KB boule de neige 8min | 1.99% |
-| 1 boule de neige infinie | 2.5% |
-| 1 bâtons de combat | 2.25% |
-| 1 Scandale magique | 2.5% |
-| 1 chercheur de base rouge | 5% |
-| 1 chercheur de base bleu | 5% |
+| {{image#items/easter/plutonium_egg}} 1 oeuf en plutonium | 0.5% |
+| {{image#items/easter/easter_rabbit_npc}} Lapin de pâque NPC | 0.5% |
+| {{image#items/easter/rabbit_slipper}} Chaussons du lapin de pâque | 1% |
+| {{image#items/easter/rabbit_ears}} Oreilles de lapin | 1% |
+| {{image#items/easter/easter_bell}} Cloche de pâque | 0.01% |
+| {{image#items/others/anti_bdn_kb_potion}} Potion anti KB boule de neige 8min | 1.99% |
+| {{image#items/christmas/infinity_snowball}} 1 boule de neige infinie | 2.5% |
+| {{image#items/christmas/fighting_stick}} 1 bâtons de combat | 2.25% |
+| {{image#items/christmas/sandals}} 1 Scandale magique | 2.5% |
+| {{image#items/others/red_unclaim_finder}} 1 chercheur de base rouge | 5% |
+| {{image#items/others/blue_unclaim_finder}} 1 chercheur de base bleu | 5% |
 | 1 cave block | 5% |
 | 32 graines en plutonium | 4% |
 | 64 graines en plutonium | 4% |
