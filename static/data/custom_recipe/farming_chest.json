@@ -4,10 +4,6 @@
             "name": "items/ores/zephir",
             "folder": "plutonium"
         },
-        "B": {
-            "name": "blocks/chest_front",
-            "folder": "vanilla"
-        },
         "C": {
             "name": "items/tools/hoes/opalite_hoe",
             "folder": "plutonium"
@@ -30,6 +26,6 @@
     "shape": [
         ["E", "E", "E"],
         ["D", "C", "D"],
-        ["A", "B", "A"]
+        ["A", "E", "A"]
     ]
 }
