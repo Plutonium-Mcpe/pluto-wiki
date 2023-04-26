@@ -4,10 +4,6 @@
             "name": "items/ores/plutonium_fragment",
             "folder": "plutonium"
         },
-        "C": {
-            "name": "blocks/furnaces/opalite/opalite_furnace_front_off",
-            "folder": "plutonium"
-        },
         "B": {
             "name": "blocks/others/zephir_block",
             "folder": "plutonium"
@@ -22,6 +18,6 @@
     "shape": [
         ["A", "A", "A"],
         ["A", "B", "A"],
-        ["A", "C", "A"]
+        ["A", "A", "A"]
     ]
 }
