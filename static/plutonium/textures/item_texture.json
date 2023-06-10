@@ -401,6 +401,33 @@
 		"magic_sandals": {
 			"textures": "textures/items/christmas/sandals"
 		},
+		"claim_compass": {
+			"textures": "textures/items/faction/claim_compass"
+		},
+		"common_claim_parchment": {
+			"textures": "textures/items/faction/common_claim_parchment"
+		},
+		"rare_claim_parchment": {
+			"textures": "textures/items/faction/rare_claim_parchment"
+		},
+		"heroic_claim_parchment": {
+			"textures": "textures/items/faction/heroic_claim_parchment"
+		},
+		"legendary_claim_parchment": {
+			"textures": "textures/items/faction/legendary_claim_parchment"
+		},
+		"common_overclaim_parchment": {
+			"textures": "textures/items/faction/common_overclaim_parchment"
+		},
+		"rare_overclaim_parchment": {
+			"textures": "textures/items/faction/rare_overclaim_parchment"
+		},
+		"heroic_overclaim_parchment": {
+			"textures": "textures/items/faction/heroic_overclaim_parchment"
+		},
+		"legendary_overclaim_parchment": {
+			"textures": "textures/items/faction/legendary_overclaim_parchment"
+		},
 		"opalite_egg": {
 			"textures": "textures/items/easter/opalite_egg"
 		},
