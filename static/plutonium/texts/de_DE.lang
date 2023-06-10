@@ -156,6 +156,16 @@ item.plutonium:easter_bell=Cloche de Pâques
 item.plutonium:rabbit_ears=Oreilles de Lapin
 item.plutonium:rabbit_slipper=Chausson de Lapin
 
+item.plutonium:common_claim_parchment=§7Parchemin de claim commun
+item.plutonium:rare_claim_parchment=§bParchemin de claim rare
+item.plutonium:heroic_claim_parchment=§5Parchemin de claim héroïque
+item.plutonium:legendary_claim_parchment=§6Parchemin de claim légendaire
+item.plutonium:common_overclaim_parchment=§7Parchemin d'overclaim commun
+item.plutonium:rare_overclaim_parchment=§bParchemin d'overclaim rare
+item.plutonium:heroic_overclaim_parchment=§5Parchemin d'overclaim héroïque
+item.plutonium:legendary_overclaim_parchment=§6Parchemin d'overclaim légendaire
+item.plutonium:claim_compass=Boussole de claim
+
 tile.plutonium:block_effect.name=Bloc à Effets
 tile.plutonium:cave_block.name=Cave Block
 tile.plutonium:elevator.name=Ascenseur
