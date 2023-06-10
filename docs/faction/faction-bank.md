@@ -14,7 +14,9 @@ Tout membre avec la permission de déposer de l'argent pourra le faire depuis le
 
 > **A noter, que l'argent une fois déposer en banque de faction, ne pourra pas être retiré.**
 
-Les 50 dernières transactions seront affichées dans le menu de la banque de faction, vous permettant de voir qui a déposé ou retiré de l'argent tant que vous avez la permission de le faire.
+Les 20 dernières transactions seront affichées dans le menu de la banque de faction, vous permettant de voir qui a déposé ou retiré de l'argent tant que vous avez la permission de le faire.
+
+Il est possibel d'obtenir de l'argent de faction dans de nombreux contenus de faction.
 
 ## Permissions liées
 
