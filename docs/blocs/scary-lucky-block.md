@@ -16,8 +16,6 @@ Comparés aux lucky blocks habituels, les scary lucky blocks sont extrêmement r
 
 ## Liste des events possible
 
-Merci d'avoir fourni les descriptions et les probabilités manquantes. Voici la liste mise à jour des événements :
-
 | Événement | Description | Probabilité |
 | --- | --- | --- |
 | Joyeux Halloween | Fera apparaître un Scary LuckyBlock Premium à la position du LuckyBlock, celui-ci contient un maximum de ressources ! | 0.25% |
