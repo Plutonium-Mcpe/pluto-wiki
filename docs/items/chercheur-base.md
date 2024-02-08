@@ -35,7 +35,7 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
 {{craft#craft/craft_red_unclaim_finder}} 
 
 
-## {{image#items/others/blue_unclaim_finder}} Chercheur de bases bleu
+## {{image#items/halloween/purple_unclaim_finder}} Chercheur de bases bleu
 
 ### Caractéristiques
 
@@ -56,3 +56,27 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
 > Nécessite le niveau 9 du métier #jobs/mineur
 
 {{craft#craft/craft_blue_unclaim_finder}} 
+
+## {{image#items/others/purple_unclaim_finder}} Chercheur de bases violet
+
+### Caractéristiques
+
+- ``Zone de détection`` : Zone de 75x75x256 autour de vous 
+- ``Blocs détectés`` : 
+    - Tonneau
+    - Dropper
+    - Distributeur
+    - Entonnoir
+    - Coffre
+    - Four
+    - Cadre
+    - Drawer
+    - Brouilleur
+    - Cloche
+- ``Durabilité`` : 3 heures dans la main d'un joueur
+- ``Spécification`` : Donne la distance ( nombre de blocs ) entre vous et le blocs détecté le plus proche. 
+
+### Craft 
+
+> Pas de craft disponible. Cette item est obtensible en ouvrant les scarys lucky blocks. 
+
