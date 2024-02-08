@@ -34,8 +34,7 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
 
 {{craft#craft/craft_red_unclaim_finder}} 
 
-
-## {{image#items/halloween/purple_unclaim_finder}} Chercheur de bases bleu
+## {{image#items/others/blue_unclaim_finder}} Chercheur de bases bleu
 
 ### Caractéristiques
 
@@ -57,7 +56,7 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
 
 {{craft#craft/craft_blue_unclaim_finder}} 
 
-## {{image#items/others/purple_unclaim_finder}} Chercheur de bases violet
+## {{image#items/halloween/purple_unclaim_finder}} Chercheur de bases violet
 
 ### Caractéristiques
 
