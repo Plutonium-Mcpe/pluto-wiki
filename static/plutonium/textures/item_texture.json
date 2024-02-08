@@ -293,6 +293,12 @@
 		"corrupted_heart": {
 			"textures": "textures/items/halloween/corrupted_heart"
 		},
+		"souls_keeper_npc": {
+			"textures": "textures/items/halloween/souls_keeper_npc"
+		},
+		"purple_unclaim_finder": {
+			"textures": "textures/items/halloween/purple_unclaim_finder"
+		},
 		"blue_jersey": {
 			"textures": "textures/items/armors/foot/blue/blue_jersey"
 		},
