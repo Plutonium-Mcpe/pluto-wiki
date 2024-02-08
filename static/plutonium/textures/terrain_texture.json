@@ -260,6 +260,9 @@
 		"halloween_lucky_block": {
 			"textures": "textures/blocks/others/halloween_lucky_block"
 		},
+		"premium_halloween_lucky_block": {
+			"textures": "textures/blocks/others/premium_halloween_lucky_block"
+		},
 		"opalite_block": {
 			"textures": "textures/blocks/others/opalite_block"
 		},

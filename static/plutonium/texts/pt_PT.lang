@@ -10,6 +10,7 @@ item.plutonium:hand_glider=Planeur
 item.plutonium:xp_collector=Collecteur d'expérience
 item.plutonium:blue_unclaim_finder=Chercheur de bases bleu
 item.plutonium:red_unclaim_finder=Chercheur de bases rouge
+item.plutonium:purple_unclaim_finder=Chercheur de bases violet
 item.plutonium:brouilleur=Brouilleur
 item.plutonium:parchment=Parchemin
 item.plutonium:golem_gem=Gemme de Golem
@@ -109,6 +110,7 @@ item.plutonium:lightning_stick=Bâton de foudre
 item.plutonium:brain=Cerveau
 item.plutonium:halloween_potion=Potion d'Halloween
 item.plutonium:corrupted_heart=Coeur corrompu
+item.plutonium:souls_keeper_npc=§6NPC Gardien des Âmes
 
 item.plutonium:blue_jersey=§bMaillot Bleu
 item.plutonium:blue_jersey1=§bMaillot Bleu (1)
@@ -205,9 +207,10 @@ tile.plutonium:obsidian_state_2.name= Obsidienne Fissurée
 tile.plutonium:obsidian_state_3.name= Obsidienne Très Fissurée
 tile.plutonium:obsidian_state_4.name= Obsidienne Brisée
 
-tile.plutonium:halloween_lucky_block.name=Scary Lucky Block
+tile.plutonium:halloween_lucky_block.name=§6Scary Lucky Block
 tile.plutonium:candlestick.name=Chandelier
 tile.plutonium:parquet.name=Parquet
+tile.plutonium:premium_halloween_lucky_block.name=§aScary Lucky Block Premium
 
 tile.plutonium:white_square_present.name=Cadeau Blanc
 tile.plutonium:blue_square_present.name=Cadeau Bleu

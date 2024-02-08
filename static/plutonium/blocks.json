@@ -331,6 +331,10 @@
     "textures": "halloween_lucky_block",
     "sound": "grass"
   },
+  "plutonium:premium_halloween_lucky_block": {
+    "textures": "premium_halloween_lucky_block",
+    "sound": "grass"
+  },
   "plutonium:opalite_block": {
     "textures": "opalite_block",
     "sound": "stone"
