@@ -84,9 +84,8 @@ Contenu | Probabilité |
 
 Contenu | Probabilité |
 :---: | :---:
-
-{{image#items/others/parchment}} Parchemin d'annonce| 7%
-{{image#items/others/parchment}} Parchemin /rename| 8%
+{{image#items/others/parchment}} Parchemin d'annonce | 7%
+{{image#items/others/parchment}} Parchemin /rename | 8%
 {{image#items/others/parchment}} Parchemin pseudo Rouge | 4%
 {{image#items/others/parchment}} Parchemin coloré | 4%
 {{image#items/ores/zephir}} 10 Zephir | 5%
@@ -114,7 +113,6 @@ Contenu | Probabilité |
 
 Contenu | Probabilité |
 :---: | :---:
-
 {{image#items/tools/swords/celeste_sword}} Épée céleste | 2%
 {{image#items/keys/celeste_key}} 1 Clé céleste | 10%
 {{image#items/keys/celeste_key}} 2 Clé céleste | 3%
