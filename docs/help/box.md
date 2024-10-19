@@ -45,8 +45,8 @@ Contenu | Probabilité |
 {{image#items/armors/opalite/opalite_chestplate}} 1 Plastron Opalite full enchanté | 5%
 {{image#items/armors/opalite/opalite_leggings}} 1 Jambières Opalite full enchanté | 5%
 {{image#items/armors/opalite/opalite_boots}} 1 Bottes opalite full enchanté | 5%
-{{image#items/others/billet}} 125 000 | 5%
-{{image#items/others/billet}} 250 000 | 3%
+{{image#items/others/billet}} 125 000 $ | 5%
+{{image#items/others/billet}} 250 000 $ | 3%
 {{image#items/tools/others/obsi_breaker}} 3 Foreuses à obsidienne | 5%
 {{image#blocks/others/opalite_block}} 16 Blocs d'Opalite | 2%
 {{image#items/tools/hammers/opalite_hammer}} 1 Marteau opalite full enchanté | 2%
@@ -56,6 +56,8 @@ Contenu | Probabilité |
 {{image#items/sticks/speed_stick}} 1 Baton de vitesse | 4 %
 {{image#items/christmas/infinity_snowball} 1 Boules de neige infini | 1%
 {{image#items/ores/plutonium_fragment}} 1 Fragment de Plutonium | 1%
+{{image#items/ores/zephir}} 8 Zephir | 5%
+{{image#items/ores/zephir}} 15 Zephir | 5%
 
 ### {{image#items/keys/plutonium_key}} Box Plutonium
 
@@ -89,13 +91,15 @@ Contenu | Probabilité |
 {{image#items/others/parchment}} Parchemin pseudo Rouge | 4%
 {{image#items/others/parchment}} Parchemin coloré | 4%
 {{image#items/ores/zephir}} 10 Zephir | 5%
-{{image#items/keys/opalite_key}} 5 Clé Opalite | 5%
+{{image#items/keys/opalite_key}} 5 Clé Opalite | 4%
+{{image#items/keys/opalite_key}} 10 Clé Opalite | 2%
 {{image#items/jobs/farmer_bottle}} 1 Bouteille de Farmeur | 4.5%
 {{image#items/jobs/lumberjack_bottle}} 1 Bouteille de Bûcheron | 4.5%
 {{image#items/jobs/warrior_bottle}} 1 Bouteille de Guerrier | 3.5%
 {{image#items/jobs/miner_bottle}} 1 Bouteille de Mineur | 3.5%
 {{image#items/others/billet}} 250 000$ | 5%
 {{image#items/others/billet}} 500 000$ | 2%
+{{image#items/others/billet}} 1 000 000$ | 2%
 {{image#blocks/tnts/lvl5/tnt_lvl5_side}} 1 TNT niveau 5 | 0.5 %
 {{image#items/others/parchment}} Parchemin Aventurier | 4%
 {{image#items/others/parchment}} Parchemin VIP | 3.5%
@@ -106,14 +110,16 @@ Contenu | Probabilité |
 {{image#items/ores/plutonium_fragment}} 1 Fragments de PLutonium | 8%
 {{image#items/keys/plutonium_key}} 1 Clé Plutonium | 2.5%
 {{image#items/keys/plutonium_key}} 2 Clé Plutonium | 1.5%
-{{image#items/keys/celeste_key}} 1 Clé Celeste | 1%
+{{image#items/keys/celeste_key}} 1 Clé Celeste | 2%
+{{image#items/keys/celeste_key}} 2 Clé Celeste | 1%
+{{image#items/others/blue_unclaim_finder}} 1 Chercheur de Bases bleu | 2%
 
 
 ### {{image#items/keys/celeste_key}} Box Celeste
 
 Contenu | Probabilité |
 :---: | :---:
-{{image#items/tools/swords/celeste_sword}} Épée céleste | 2%
+{{image#items/tools/swords/celeste_sword}} Épée céleste | 0.8%
 {{image#items/keys/celeste_key}} 1 Clé céleste | 10%
 {{image#items/keys/celeste_key}} 2 Clé céleste | 3%
 {image#blocks/drawers/wood/wooden_drawer_front}} 1 Drawer 500 heal stick | 15%
@@ -125,3 +131,6 @@ Contenu | Probabilité |
 {{image#items/armors/plutonium/plutonium_chestplate}} 1 Plastron en Plutonium | 2.5%
 {{image#items/armors/plutonium/plutonium_leggings}} 1 Jambier en Plutonium | 2.5%
 {{image#items/armors/plutonium/plutonium_boots}} 1 Botte en Plutonium | 2.5%
+{{image#items/others/billet}} 1 000 000$ | 5%
+{{image#items/others/billet}} 2 000 000$ | 4.2%
+
