@@ -54,4 +54,9 @@ Niveau | Récompenses
 17 | {{image#items/armors/farm/farm_helmet}} 1 Arumure full farm 
 18 | {{image#items/ores/plutonium_fragment}} 2 Fragments Plutonium 
 19 | {{image#items/others/xp_collector}} 1 Collecteur d'expérience
-20 | {{image#items/armors/plutonium/plutonium_leggings}} Craft jambiéres en Plutonium 
+20 | {{image#items/armors/plutonium/plutonium_leggings}} Craft jambiéres en Plutonium
+21 | {{image#items/ores/plutonium_ingot}} 1 Lingot en Plutonium
+22 | {{image#items/keys/celeste_key}} 1 Clé Celeste
+23 | {{image#items/others/billet}} 2 500 000$
+24 | {{image#items/keys/celeste_key}} 2 Clé Celeste
+25 | {{image#items/ores/plutonium_ingot}} 3 Lingot en Plutonium 

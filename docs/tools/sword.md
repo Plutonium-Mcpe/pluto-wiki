@@ -39,3 +39,15 @@ Un craft, un enchantement, et le tour est joué pour vous démarquer lors de vos
 > Nécessite le niveau 11 du métier #jobs/guerrier
 
 {{craft#craft/craft_plutonium_sword}} 
+
+##  {{image#items/tools/swords/celeste_sword}} Épée Céleste
+
+### Caractéristiques
+- ``Dégats`` : 21
+- ``Coups speciaux`` : KnockBack II (Rare) & Flammes
+- ``Durabilité`` : 3000
+- ``Éclaire`` : 1 coup sûr 70 ( Dégat : 1 coeur )
+
+### Obtention 
+
+> Obtenable dans la box Céleste

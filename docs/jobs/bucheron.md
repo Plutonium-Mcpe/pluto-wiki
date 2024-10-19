@@ -49,3 +49,8 @@ Niveau | Récompenses
 18 | {{image#items/ores/plutonium_fragment}} 2 Fragements en Plutonium
 19 | {{image#items/others/billet}} 250 000$
 20 | {{image#items/armors/plutonium/plutonium_boots}} Craft bottes en Plutonium
+21 | {{image#items/ores/plutonium_ingot}} 1 Lingot en Plutonium
+22 | {{image#items/keys/celeste_key}} 1 Clé Celeste
+23 | {{image#items/others/billet}} 2 500 000$
+24 | {{image#items/keys/celeste_key}} Déblocage de l'achat de la Clé Celeste
+25 | {{image#items/ores/plutonium_ingot}} 3 Lingot en Plutonium
