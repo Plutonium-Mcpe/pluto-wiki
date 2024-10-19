@@ -46,7 +46,7 @@ Un craft, un enchantement, et le tour est joué pour vous démarquer lors de vos
 - ``Dégats`` : 21
 - ``Coups speciaux`` : KnockBack II (Rare) & Flammes
 - ``Durabilité`` : 3000
-- ``Éclaire`` : 1 coup sûr 100
+- ``Éclaire`` : 1 coup sûr 70 ( Dégat : 1 coeur )
 
 ### Obtention 
 
