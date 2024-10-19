@@ -66,3 +66,8 @@ Niveau | Récompenses
 18 | {{image#items/ores/plutonium_fragment}} 2 Fragments Plutonium 
 19 | {{image#items/keys/plutonium_key}} 1 Clé en Plutonium 
 20 | {{image#items/armors/plutonium/plutonium_leggings}} Craft jambiéres en Plutonium
+21 | {{image#items/ores/plutonium_ingot}} 1 Lingot en Plutonium
+22 | {{image#items/keys/celeste_key}} 1 Clé Celeste
+23 | {{image#items/others/billet}} 2 500 000$
+24 | {{image#items/keys/celeste_key}} 2 Clé Celeste
+25 | {{image#items/ores/plutonium_ingot}} 3 Lingot en Plutonium
