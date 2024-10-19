@@ -71,4 +71,5 @@ Niveau | Récompenses
 22 | {{image#items/keys/celeste_key}} 1 Clé Celeste
 23 | {{image#items/others/billet}} 2 500 000$
 24 | {{image#items/keys/celeste_key}} Déblocage de l'achat de la Clé Celeste
-25 | {{image#items/ores/plutonium_ingot}} 3 Lingot en Plutonium
+25 | {{image#items/ores/plutonium_ingot}} 3 Lingot en Plutonium 
+
