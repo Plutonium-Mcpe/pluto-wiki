@@ -2,7 +2,7 @@
 id: invisibility-potion
 title: Potion d'invisibilité
 category: items
-description: Hache magique du père Noël
+description: Potion d'invisibilité
 icon: "textures/items/christmas/invisibility_potion.png" 
 ---
 ___
