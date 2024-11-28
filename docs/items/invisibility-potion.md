@@ -15,4 +15,5 @@ La potion d'invisibilité vous permet de devenir invisible pendant vos combats, 
 ## Caractéristique 
 
 - ``Durée de l'effet`` : 2.5 secondes
-
+- ``Cooldown`` : 3 minutes
+- ``Activation`` : instantanée (la potion se boit instantanément)
