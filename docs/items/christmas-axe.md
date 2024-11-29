@@ -1,5 +1,5 @@
 ---
-id: santa-axe
+id: christmas-axe
 title: Hache du père Noël
 category: items
 description: Hache magique du père Noël
