@@ -3,7 +3,7 @@ id: invisibility-potion
 title: Potion d'invisibilité
 category: items
 description: Potion d'invisibilité
-icon: "textures/items/christmas/invisibility_potion.png" 
+icon: "textures/items/christmas/invisibility_potion.png"
 ---
 ___
 ## Description
