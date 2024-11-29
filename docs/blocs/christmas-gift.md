@@ -11,29 +11,24 @@ En ouvrant un cadeau de Noël, vous pouvez être sûr que vous gagnerez quelque 
 
 ## Liste du contenu du cadeau possible
 
+
 |                                         Nom de la récompenses                                         | Probabilité |
 |:-----------------------------------------------------------------------------------------------------:|:-----------:|
-|                   {{image#items/christmas/christmas_ball}} 5 boules de noël                 |     5 %     |
-|                   {{image#items/ores/plutonium_fragment}} Un fragment en Plutonium                    |    10 %    |
-|                   {{image#items/ores/plutonium_fragment}} 2 fragment en Plutonium                    |    5 %    |
-|                   {{image#items/ores/plutonium_fragment}} 3 fragment en Plutonium                    |    5 %    |
-|                {{image#items/others/blue_unclaim_finder}} Un chercheurs de bases violet               |     0.25 %     |
-|                {{image#items/others/red_unclaim_finder}} brouilleur de chercheur de base              |     0.25 %     |
-|           {{image#blocks/drawers/plutonium/plutonium_drawer_front}} Un drawer en Plutonium            |   1 %    |
-|           Billet de 250k           |   1.5 %    |
-|              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer en Opalite de 125 heal sticks            |    5 %    |
-|              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer en Opalite de 10 speed sticks            |    5 %    |
-|              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer en Opalite de 3 fight sticks            |    5 %    |
-|              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer en Opalite de 2 battons de foudre            |    5 %    |
-|                 {{image#items/christmas/infinity_snowball}}Infinity snowbal                     |    2 %    |
-|                    {{image#items/armors/farm/farm_chestplate}} Farm spade + re planteur + seed planteur                  |    5 %    |
-|                    1 potion qui up un niveau d'xp de job aleatoire                  |    2 %    |
-|                    32 blocks opa                 |    8 %    |
+|                   {{image#items/ores/plutonium_fragment}} 1 fragment en Plutonium                     |     7 %     |
+|                   {{image#items/ores/plutonium_fragment}} 2 fragments en Plutonium                   |    12 %     |
+|                   {{image#items/ores/plutonium_ingot}} 1 Lingot en Plutonium                         |     4 %     |
+|                   {{image#items/ores/plutonium_ingot}} 3 Lingots en Plutonium                       |     2 %     |
+|                   {{image#items/keys/plutonium_key}} 1 Clé en Plutonium                             |     8 %     |
+|                   {{image#items/keys/plutonium_key}} 2 Clés en Plutonium                            |    4.5 %    |
+|                  {{image#items/keys/celeste_key}} 1 Clé Celeste                                        |     2 %     |
+|                   {{image#items/keys/celeste_key}} 2 Clés Celestes                                       |     0.5 %    |
+|                                 {{image#items/ores/zephir}} 16 Zéphyr                                 |     5 %     |
 |                                 {{image#items/ores/zephir}} 32 Zéphyr                                 |     5 %     |
-|              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer avec potion antiknockback bdn x3             |    5 %    |
-|              tnt lvl 6           |    10 %    |
-|              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer opa 1000 graines pluto             |    5 %    |
-|              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer opa 500 graines pluto         |    5 %    |
-|              {{image#blocks/drawers/opalite/opalite_drawer_front}} Un drawer opa 500 graines pluto              |    5 %    |
-|              {{image#items/christmas/sandals}} Des sandales magiques                            |     5 %     |
-
+|                     {{image#items/others/billet}} Billet de 250k                                          |    10 %     |
+|                     {{image#items/others/billet}} Billet de 500k                                     |     5 %     |
+|                {{image#items/others/blue_unclaim_finder}} Un chercheurs de bases violet               |     1 %     |
+|                  {{image#items/christmas/sandals}} Des sandales magiques                            |    10 %     |
+|                   {{image#items/christmas/infinity_snowball}} Infinity snowbal                     |     5 %     |
+|                   {{image#items/christmas/christmas_ball}} 16 boules de noël                       |     5 %     |
+|                   {{image#items/christmas/christmas_axe}} 1 Hache du Père Noël                       |    10 %     |
+|                   {{image#items/christmas/invisibility_potion}} 1 Potion d'invisibilité                      |     4 %     |
