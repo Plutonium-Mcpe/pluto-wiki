@@ -1,6 +1,6 @@
 ---
-id: easter_ore
-title: Minerai de Pâques
+id: easter-ore
+title: [New] Le minerai de Pâques
 category: easter
 description: Le minerai de Pâques permet d'obtenir des œufs spéciaux sur les serveur minage.
 icon: "textures/items/easter/goldsuper_pickaxe.png"
