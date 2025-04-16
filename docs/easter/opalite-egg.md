@@ -12,9 +12,9 @@ Les œufs en Plutonium sont les équivalents des lucky blocs pendant la période
 
 ## Moyens d'obtentions
 
-> Les oeufs en opalite spawnent tout les soirs durant la periode de Pâques entre 19h et 20h sur les spawn des serveurs factions.
-> Les oeufs en Opalite sont egalement obtensible dans les minerais de Pâques disponible pendant la periode de Pâques.
-> [Boutique](https://store.plutonium.best/) - 1€/unité
+- Les oeufs en opalite spawnent tout les soirs durant la periode de Pâques entre 19h et 20h sur les spawn des serveurs factions.
+- Les oeufs en Opalite sont egalement obtensible dans les minerais de Pâques disponible pendant la periode de Pâques.
+- [Boutique](https://store.plutonium.best/) - 1€/unité
 
 ## Récompenses
 
