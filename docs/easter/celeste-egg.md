@@ -2,7 +2,7 @@
 id: celeste-egg
 title: [New] Les oeufs Céleste
 category: easter
-description: Les oeufs Céslte sont des oeufs qui sont sortis durant la mise à jour de pâque vous permettant de gagner des récompenses.
+description: Les oeufs Céleste sont des oeufs qui sont sortis durant la mise à jour de pâque vous permettant de gagner des récompenses.
 icon: "textures/items/easter/celeste_egg.png"
 ---
 ___
