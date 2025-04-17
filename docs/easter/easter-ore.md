@@ -13,7 +13,7 @@ En minant ce minerai, vous aurez la chance de récupérer des œufs de Pâques q
 
 ### Caractéristiques du Minerai de Pâques
 
-- **Hauteur**: entre 10 et 30 blocs
+- **Hauteur de spawn**: entre 10 et 30 blocs
 - **XP gagné en minant**: 100 XP de mineur
 - **Ne drop pas au sol** -> Faut bien avoir une place dans l'inventaire ! 
 
