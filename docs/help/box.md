@@ -29,7 +29,7 @@ Contenu | Probabilité |
 {{image#items/keys/plutonium_key}} 1 Clé Plutonium | 2%
 {{image#items/ores/plutonium_dust}} 6 Poussière en plutonium |  1.5 %
 {{image#items/others/billet}} 100 000$ | 5.25%
-{{image#items/keys/celeste_key}} Clé Celeste | 0.15% 
+{{image#items/keys/celeste_key}} Clé Celeste | 0.25% 
 
 
 ### {{image#items/keys/opalite_key}} Box Opalite
