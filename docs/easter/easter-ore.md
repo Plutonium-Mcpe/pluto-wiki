@@ -22,9 +22,12 @@ En minant ce minerai, vous aurez la chance de récupérer des œufs de Pâques q
 ### {{image#items/easter/chocolate_pickaxe}} Pioche en Chocolat
 
 - **Taux de drop**:
-  - 75% de chance d'obtenir un œuf en Opalite
-  - 24% de chance d'obtenir un œuf en Plutonium
-  - 1% de chance d'obtenir un œuf Céleste
+  - 6,2% de chance de ne rien obtenir
+  - 30% de chance d'obtenir un Zephir
+  - 30% de chance d'obtenir de l'opalite
+  - 25% de chance d'obtenir un œuf en Opalite
+  - 8% de chance d'obtenir un œuf en Plutonium
+  - 0.3% de chance d'obtenir un œuf Céleste
 - **Obtenabilité**: 
   - Disponible à la vente dans la boutique dans les packs découverte et medium
   - Peut être trouvée directement dans les œufs de Pâques en Opalite.
@@ -32,9 +35,12 @@ En minant ce minerai, vous aurez la chance de récupérer des œufs de Pâques q
 ### {{image#items/easter/goldsuper_pickaxe}} Pioche Dorée
 
 - **Taux de drop**:
-  - 60% de chance d'obtenir un œuf en Opalite
-  - 32% de chance d'obtenir un œuf en Plutonium
-  - 3% de chance d'obtenir un œuf Céleste
+  - 8% de chance de ne rien obtenir
+  - 30% de chance d'obtenir un Zephir
+  - 30% de chance d'obtenir de l'opalite
+  - 20% de chance d'obtenir un œuf en Opalite
+  - 11% de chance d'obtenir un œuf en Plutonium
+  - 1% de chance d'obtenir un œuf Céleste
 - **Obtenabilité**:
   - Disponible à la vente dans la boutique dans le pack Mega 
   - Quelques exemplaires peuvent être gagnés lors d'événements ou dans les loot des œufs Célestes.
