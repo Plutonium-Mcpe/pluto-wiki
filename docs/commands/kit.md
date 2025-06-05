@@ -33,28 +33,28 @@ Pour chaque kit que vous récupérez, il faut attendre un certain temps avant de
 
 ``Condition pour y accéder`` : Grade Aventurier 
 ``Accessible``: Toutes les 48h  
-``Contenu`` : 1 clé Commune, Casque et bottes en diamant, plastron et pantalon en fer    
-![Kit Aventurier](https://user-images.githubusercontent.com/91474741/192357728-c8121f10-3e76-4bed-9289-83a56498a3fc.png) 
+``Contenu`` : 1 clé Commune et Opalite - bottes,jambière,plastron,casque Diamant - 1 épée Opalite - 5 pommes en Opalite - 2 zéphyr   
+![Kit Aventurier](https://github.com/user-attachments/assets/72a0b8a5-6a5d-41fe-a517-2873d843f23c) 
 
 ### Kit VIP 
 
 ``Condition pour y accéder`` : Grade VIP  
 ``Accessible``: Toutes les 48h  
-``Contenu`` : 1 clé Commune et Opalite, 1 armure diamant, 6 pommes Opalite  
-![Kit VIP](https://user-images.githubusercontent.com/91474741/192136872-c886e47c-fd58-4002-9ce7-557312b5b491.png)
+``Contenu`` : 2 clé Commune et  1 clé Opalite - bottes,casque Opalite - jambière,plastron Diamant - 1 épée Opalite - 10 pommes en Opalite - 4 zéphyr  
+![Kit VIP](https://github.com/user-attachments/assets/24b624c0-c5cd-40c6-aa46-34f7c7044cf1)
 
 ### Kit Titan 
 
 ``Condition pour y accéder`` : Grade Titan  
 ``Accessible``: Toutes les 48h  
-``Contenu`` : 1 clé Opalite, Casque et bottes en diamant p1, plastron et pantalon en diamant
+``Contenu`` : 2 clé Opalite - bottes,casque Opalite P2 - jambière,plastron Opalite - 1 épée Opalite T2 - 15 pommes en Opalite - 6 zéphyr - 3 Lucky Block
 ``Kit suprême Titan`` : 1 clé Suprême accessible toutes les 10 jours     
-![Kit Titan](https://user-images.githubusercontent.com/91474741/192136918-2887bd92-79ad-4de1-a1f0-39fc90e6e7ba.png)
+![Kit Titan](https://github.com/user-attachments/assets/de653d69-a9fd-49af-a711-b9ae5a3dc43b)
 
 ### Kit Légende 
 
 ``Condition pour y accéder`` : Grade Légende  
 ``Accessible``: Toutes les 48h  
-``Contenu`` : 2 clés Opalite, 1 armure diamant p1, 16 Pommes Opalite 
+``Contenu`` : 3 clé Opalite - bottes,casque Opalite P2 - jambière,plastron Opalite P1 - 1 épée Opalite T3 - 15 pommes en Opalite - 8 zéphyr - 5 Lucky Block 
 ``Kit suprême Légende`` : 1 clé Suprême accessible toutes les 5 jours     
-![Kit Légende](https://user-images.githubusercontent.com/91474741/192136967-7b7936a7-a08d-4aec-b368-c55b93ebf216.png)
+![Kit Légende](https://github.com/user-attachments/assets/cd8603c0-b63c-4853-a661-061d1a28e88c)
