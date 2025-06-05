@@ -79,4 +79,3 @@ Pour utiliser un parchemin, il suffit de clique gauche quand vous l'avez dans vo
 ### {{image#items/others/parchment}} Parchemin d'annonce
  
 * ``Fonctionnement`` : Vous donne la possibilité d'utiliser la commande ``/annonce {texte}``. Cette commande vous permet de faire une annonce ig, vos messages sera donc mis en rouge et en gras afin que les autres joueurs du serveur puissent mieux la voir. Ceci peux être utile pour promouvoir une faction, vendre un objet ou juste envoyer un message quelconque.
-* ``Probabilité box Suprême`` : 7.5%
