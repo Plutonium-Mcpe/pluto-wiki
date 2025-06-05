@@ -8,8 +8,9 @@ icon: "textures/items/christmas/infinity_snowball.png"
 ___
 ## Description
 
-La Boule de neige infini est un ancien item exclusif. Il est désormais obtenable par tous via un craft.   
-Cette item est une sorte de boule de neige compacté, elle a donc exactement le même fonctionnement qu'une boule de neige classique mais avec beaucoup plus d'utilisation. Pratique pour réduire la place des boules de neiges dans votre inventaire !
+La Boule de neige infinie est un ancien objet exclusif. Elle est désormais obtenable par tous via un craft.
+
+Cet objet est une sorte de boule de neige compactée. Elle a donc exactement le même fonctionnement qu'une boule de neige classique, mais avec beaucoup plus d'utilisations. Pratique pour réduire la place des boules de neige dans votre inventaire !
 
 ## Caractéristiques  
 
