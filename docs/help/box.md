@@ -17,120 +17,135 @@ Pour ouvrir une box, il faut tout d'abord avoir une #items/key correspondant à 
 
 Contenu | Probabilité |
 :---: | :---:
-{{image#items/others/dynamite}} 4 Dynamites | 15%
-{{image#items/ores/opalite_ingot}} 10 Lingots d'Opalite | 15%
-{{image#items/foods/opalite_apple}} 32 Pommes d'Opalite | 15%
-{{image#items/others/billet}} 10 000$ | 15%
-{{image#items/ores/zephir}} 3 Zephir | 10%
-{{image#blocks/tnts/lvl3/tnt_lvl3_side}} 1 TNT niveau 3 | 5%
-{{image#items/seeds/plutonium_seed}} 16 Graines de Plutonium | 5%
-{{image#items/keys/opalite_key}} 1 Clé Opalite | 6%
-{{image#blocks/others/lucky_block}} 5 Lucky Block | 6%
-{{image#items/keys/plutonium_key}} 1 Clé Plutonium | 2%
-{{image#items/ores/plutonium_dust}} 6 Poussière en plutonium |  1.5 %
-{{image#items/others/billet}} 100 000$ | 5.25%
-{{image#items/keys/celeste_key}} Clé Celeste | 0.25% 
+{{image#items/others/billet}} 5 000$ | 10.5%
+{{image#items/others/billet}} 15 000$ | 8%
+{{image#items/tools/hammers/opalite_hammer}} 1 Marteau opalite | 6%
+{{image#items/ores/zephir}} 6 Zephir | 10%
+{{image#blocks/others/lucky_block}} 2 Lucky Block | 10.5%
+{{image#blocks/others/lucky_block}} 5 Lucky Block | 8%
+{{image#items/ores/opalite_ingot}} 16 Lingots d'Opalite | 6%
+{{image#items/others/energie}} 1 énergie | 5.5%
+{{image#items/others/red_unclaim_finder}} 1 Chercheur de base Rouge | 5%
+{{image#items/seeds/opalite_seed}} 64 Graines d'Opalite | 8%
+{{image#items/seeds/plutonium_seed}} 32 Graines de Plutonium | 4%
+{{image#items/ores/plutonium_dust}} 1 Poussière en plutonium |  5%
+{{image#items/ores/plutonium_dust}} 1 Poussière en plutonium |  3%
+{{image#items/keys/common_key}} Clé Commune | 8% 
+{{image#items/keys/opalite_key}} 1 Clé Opalite | 2%
+{{image#items/keys/supreme_key}} 1 Clé Supreme | 0.5%
+
+### {{image#items/keys/common_key}} Box Commune
+
+Contenu | Probabilité |
+:---: | :---:
+{{image#items/others/billet}} 15 000$ | 10%
+{{image#items/others/billet}} 25 000$ | 8%
+{{image#blocks/others/opalite_block}} 10 Block d'Opalite | 8%
+{{image#items/elytra}} 1 Elytra | 8%
+{{image#items/fireworks}} 64 Feu d'artifice | 8%
+{{image#items/ores/zephir}} 12 Zephir | 8%
+{{image#items/seeds/opalite_seed}} 128 Graines d'Opalite | 10%
+{{image#items/seeds/plutonium_seed}} 64 Graines de Plutonium | 5%
+{{image#blocks/others/lucky_block}} 10 Lucky Block | 7%
+{{image#items/diamond_pickaxe}} 1 Hache en Diamant E5-S3 | 3%
+{{image#items/ores/plutonium_dust}} 3 Poussière en Plutonium |  10%
+{{image#items/ores/plutonium_dust}} 7 Poussière en Plutonium |  4%
+{{image#items/keys/opalite_key}} 1 Clé Opalite | 6% 
+{{image#items/keys/opalite_key}} 2 Clé Opalite | 4%
+{{image#items/keys/supreme_key}} 1 Clé Supreme | 1%
 
 
 ### {{image#items/keys/opalite_key}} Box Opalite
 
 Contenu | Probabilité |
 :---: | :---:
-{{image#items/tools/swords/opalite_sword}} 1 Épée opalite full enchanté | 15%
-{{image#items/ores/opalite_ingot}} 32 Lingots d'Opalite | 6%
-{{image#items/ores/opalite_ingot}} 64 Lingots d'Opalite | 5%
-{{image#blocks/others/lucky_block}} 5 Lucky Block | 5%
-{{image#blocks/others/lucky_block}} 15 Lucky Block | 5%
-{{image#items/armors/opalite/opalite_helmet}} 1 Casque Opalite full enchanté | 5%
-{{image#items/armors/opalite/opalite_chestplate}} 1 Plastron Opalite full enchanté | 5%
-{{image#items/armors/opalite/opalite_leggings}} 1 Jambières Opalite full enchanté | 5%
-{{image#items/armors/opalite/opalite_boots}} 1 Bottes opalite full enchanté | 5%
-{{image#items/others/billet}} 125 000 $ | 5%
-{{image#items/others/billet}} 250 000 $ | 3%
-{{image#items/tools/others/obsi_breaker}} 3 Foreuses à obsidienne | 5%
-{{image#blocks/others/opalite_block}} 16 Blocs d'Opalite | 2%
-{{image#items/tools/hammers/opalite_hammer}} 1 Marteau opalite full enchanté | 2%
+{{image#items/tools/swords/opalite_sword}} 1 Épée Opalite T5 | 5%
+{{image#items/armors/opalite/opalite_helmet}} 1 Casque Opalite P4 | 5%
+{{image#items/armors/opalite/opalite_chestplate}} 1 Plastron Opalite P4 | 5%
+{{image#items/armors/opalite/opalite_leggings}} 1 Jambières Opalite P4 | 5%
+{{image#items/armors/opalite/opalite_boots}} 1 Bottes Opalite P4 | 5%
+{{image#items/others/billet}} 50 000 $ | 6%
+{{image#items/foods/opalite_apple}} 64 Pommes en Opalite | 8%
+{{image#blocks/others/opalite_block}} 16 Block d'Opalite | 5%
+{{image#items/tools/hammers/opalite_hammer}} 1 Marteau Opalite E5-S3 | 8%
+{{image#items/ores/zephir}} 24 Zephir | 5%
+{{image#blocks/drawers/opalite/opalite_drawer_front}} 1 Drawer en Opalite | 5%
+{{image#items/tools/others/obsi_breaker}} 3 Foreuses à obsidienne | 6%
+{{image#blocks/others/block_effect}} 16 Blocs à effect | 5%
+{{image#items/seeds/plutonium_seed}} 64 Graines de Plutonium | 5%
+{{image#items/ores/plutonium_dust}} 5 Poussière en Plutonium |  4%
+{{image#items/ores/plutonium_fragment}} 1 Fragment de Plutonium | 2%
 {{image#items/keys/opalite_key}} 2 Clé Opalite | 5%
+{{image#items/keys/supreme_key}} 1 Clé Supreme | 2%
 {{image#items/keys/plutonium_key}} 1 Clé Plutonium | 1%
-{{image#items/ores/plutonium_dust}} 1 poussière en plutonium | 5% 
-{{image#items/sticks/speed_stick}} 1 Baton de vitesse | 4 %
-{{image#items/christmas/infinity_snowball} 1 Boules de neige infini | 1%
-{{image#items/ores/plutonium_fragment}} 1 Fragment de Plutonium | 1%
-{{image#items/ores/zephir}} 8 Zephir | 5%
-{{image#items/ores/zephir}} 15 Zephir | 5%
 
 ### {{image#items/keys/plutonium_key}} Box Plutonium
 
 Contenu | Probabilité |
 :---: | :---:
-{{image#items/seeds/plutonium_seed}} 64 Graines de Plutonium | 20%
-{{image#items/ores/plutonium_dust}} 2 Poussières de Plutonium | 10%
+{{image#items/others/billet}} 500 000$ | 15%
+{{image#items/others/billet}} 1 000 000$ | 10%
+{{image#blocks/drawers/opalite/opalite_drawer_front}} Drawer en Opalite avec 250 bâton de soin | 8%
+{{image#blocks/others/lucky_block}} 32 Lucky Block | 8%
+{{image#items/seeds/plutonium_seed}} 256 Graines de Plutonium | 15%
 {{image#items/ores/plutonium_dust}} 4 Poussières de Plutonium | 10%
-{{image#items/ores/plutonium_dust}} 6 Poussières de Plutonium | 10%
-{{image#items/ores/plutonium_fragment}} 1 Fragment de PLutonium | 8%
-{{image#items/ores/plutonium_fragment}} 2 Fragments de PLutonium | 8%
-{{image#items/ores/plutonium_fragment}} 3 Fragments de PLutonium | 8%
-{{image#items/ores/plutonium_ingot}} 1 Lingot de Plutonium | 3%
-{{image#items/ores/plutonium_ingot}} 2 Lingot de Plutonium | 2%
-{{image#items/armors/plutonium/plutonium_helmet}} 1 Casque en plutonium | 0.5%
-{{image#items/armors/plutonium/plutonium_chestplate}} 1 Plastron en plutonium | 0.5%
-{{image#items/armors/plutonium/plutonium_leggings}} 1 Jambier en plutonium | 0.5%
-{{image#items/armors/plutonium/plutonium_boots}} 1 Botte en plutonium | 0.5%
-{{image#items/keys/celeste_key}} 1 Clé Celeste | 1 %
-{{image#items/keys/plutonium_key}} 2 Clé plutonium | 1 %
-{{image#items/others/billet}} 150 000$ | 10%
-{{image#items/others/billet}} 300 000$ | 5%
-{{image#items/others/billet}} 1 000 000$ | 2%
+{{image#items/ores/plutonium_dust}} 7 Poussières de Plutonium | 8%
+{{image#items/ores/plutonium_fragment}} 1 Fragment de Plutonium | 5%
+{{image#items/ores/plutonium_fragment}} 3 Fragments de Plutonium | 4%
+{{image#items/ores/plutonium_ingot}} 1 Lingot de Plutonium | 2%
+{{image#items/tools/pickaxes/plutonium_pickaxe}} 1 Pioche en Plutonium | 0.5%
+{{image#items/tools/axes/plutonium_axe}} 1 Hache en Plutonium | 0.5%
+{{image#items/tools/hoes/plutonium_hoe}} 1 Houe en Plutonium | 0.5%
+{{image#items/tools/shovels/plutonium_shovel}} 1 Pelle en Plutonium | 0.5%
+{{image#items/keys/opalite_key}} 8 Clé Opalite | 8%
+{{image#items/keys/plutonium_key}} 2 Clé Plutonium | 1%
+{{image#items/keys/celeste_key}} 2 Clé Celeste | 1%
+
 
 ### {{image#items/keys/supreme_key}} Box Suprême
 
 Contenu | Probabilité |
 :---: | :---:
-{{image#items/others/parchment}} Parchemin d'annonce | 7%
-{{image#items/others/parchment}} Parchemin /rename | 8%
-{{image#items/others/parchment}} Parchemin pseudo Rouge | 4%
-{{image#items/others/parchment}} Parchemin coloré | 4%
-{{image#items/ores/zephir}} 10 Zephir | 5%
-{{image#items/keys/opalite_key}} 5 Clé Opalite | 4%
-{{image#items/keys/opalite_key}} 10 Clé Opalite | 2%
-{{image#items/jobs/farmer_bottle}} 1 Bouteille de Farmeur | 4.5%
-{{image#items/jobs/lumberjack_bottle}} 1 Bouteille de Bûcheron | 4.5%
-{{image#items/jobs/warrior_bottle}} 1 Bouteille de Guerrier | 3.5%
-{{image#items/jobs/miner_bottle}} 1 Bouteille de Mineur | 3.5%
-{{image#items/others/billet}} 250 000$ | 5%
-{{image#items/others/billet}} 500 000$ | 2%
-{{image#items/others/billet}} 1 000 000$ | 2%
-{{image#blocks/tnts/lvl5/tnt_lvl5_side}} 1 TNT niveau 5 | 0.5 %
-{{image#items/others/parchment}} Parchemin Aventurier | 4%
-{{image#items/others/parchment}} Parchemin VIP | 3.5%
-{{image#items/others/parchment}} Parchemin Titan | 2.5%
-{{image#items/others/parchment}} Parchemin Légende | 1%
-{{image#items/others/parchment}} Parchemin 100 lvl d'xp | 5%
-{{image#items/others/parchment}} Parchemin Spawner | 4.5%
+{{image#items/others/parchment}} Parchemin Aventurier | 5%
+{{image#items/others/parchment}} Parchemin VIP | 4%
+{{image#items/others/parchment}} Parchemin Titan | 3%
+{{image#items/others/parchment}} Parchemin Légende | 2%
+{{image#items/others/parchment}} Parchemin Spawner | 8%
+{{image#items/others/parchment}} Parchemin /rename | 10%
+{{image#items/jobs/farmer_bottle}} 1 Bouteille de Farmeur | 6%
+{{image#items/jobs/lumberjack_bottle}} 1 Bouteille de Bûcheron | 6%
+{{image#items/jobs/warrior_bottle}} 1 Bouteille de Guerrier | 6%
+{{image#items/jobs/miner_bottle}} 1 Bouteille de Mineur | 6%
+{{image#items/keys/opalite_key}} 4 Clé Opalite | 10%
+{{image#items/keys/plutonium_key}} 1 Clé Plutonium | 3%
+{{image#items/keys/celeste_key}} 1 Clé Celeste | 1%
+{{image#items/others/billet}} 150 000$ | 6%
+{{image#items/ores/zephir}} 32 Zephir | 10%
+{{image#items/others/blue_unclaim_finder}} 1 Chercheur de base Bleu | 5%
+Tête de dragon | 1%
 {{image#items/ores/plutonium_fragment}} 1 Fragments de PLutonium | 8%
-{{image#items/keys/plutonium_key}} 1 Clé Plutonium | 2.5%
-{{image#items/keys/plutonium_key}} 2 Clé Plutonium | 1.5%
-{{image#items/keys/celeste_key}} 1 Clé Celeste | 2%
-{{image#items/keys/celeste_key}} 2 Clé Celeste | 1%
-{{image#items/others/blue_unclaim_finder}} 1 Chercheur de Bases bleu | 2%
 
 
 ### {{image#items/keys/celeste_key}} Box Celeste
 
 Contenu | Probabilité |
 :---: | :---:
-{{image#items/tools/swords/celeste_sword}} Épée céleste | 0.8%
-{{image#items/keys/celeste_key}} 1 Clé céleste | 10%
-{{image#items/keys/celeste_key}} 2 Clé céleste | 3%
-{image#blocks/drawers/wood/wooden_drawer_front}} 1 Drawer 500 heal stick | 15%
-{image#blocks/drawers/wood/wooden_drawer_front}} 1 Drawer 10 fight stick | 10%
-{{image#items/ores/plutonium_ingot}} 1 Lingot Plutonium | 10%
-{{image#items/ores/plutonium_fragment}} 5 Fragments en Plutonium | 20%
-{{image#items/keys/plutonium_key}} 1 Clé Plutonium | 10%
-{{image#items/armors/plutonium/plutonium_helmet}} 1 Casque en Plutonium | 2.5%
-{{image#items/armors/plutonium/plutonium_chestplate}} 1 Plastron en Plutonium | 2.5%
-{{image#items/armors/plutonium/plutonium_leggings}} 1 Jambier en Plutonium | 2.5%
-{{image#items/armors/plutonium/plutonium_boots}} 1 Botte en Plutonium | 2.5%
-{{image#items/others/billet}} 1 000 000$ | 5%
-{{image#items/others/billet}} 2 000 000$ | 4.2%
+{{image#items/tools/swords/celeste_sword}} Épée céleste | 0.25%
+{{image#items/ores/plutonium_fragment}} 5 Fragments en Plutonium | 25%
+{{image#items/ores/plutonium_ingot}} 1 Lingot Plutonium | 15%
+{{image#items/others/billet}} 1 500 000$ | 15%
+1 potion antikb | 2%
+{{image#blocks/drawers/opalite/opalite_drawer_front}} Drawer en Opalite avec 500 bâton de soin | 8%
+{{image#items/bows/plutonium/plutonium_bow}} 1 Arc en Plutonium | 10%
+{{image#items/tools/hammers/plutonium_hammer}} 1 Marteau en Plutonium | 5%
+{{image#items/keys/plutonium_key}} 2 Clé Plutonium | 5%
+{{image#items/halloween/balloons/red_balloon}} 1 Ballon rouge | 1%
+{{image#items/halloween/balloons/brown_balloon}} 1 Ballon marron | 1%
+{{image#items/halloween/balloons/orange_balloon}} 1 Ballon orange | 1%
+{{image#items/halloween/balloons/gray_balloon}} 1 Ballon gris | 1%
+{{image#items/halloween/balloons/black_balloon}} 1 Ballon noir | 1%
+{{image#items/armors/plutonium/plutonium_helmet}} 1 Casque en Plutonium | 0.5%
+{{image#items/armors/plutonium/plutonium_chestplate}} 1 Plastron en Plutonium | 0.5%
+{{image#items/armors/plutonium/plutonium_leggings}} 1 Jambier en Plutonium | 0.5%
+{{image#items/armors/plutonium/plutonium_boots}} 1 Botte en Plutonium | 0.5%
 
