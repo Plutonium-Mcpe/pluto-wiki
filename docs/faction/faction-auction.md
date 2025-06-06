@@ -50,18 +50,18 @@ Chaque semaine, sont tirés au sort selon un pourcentage:
 | 1 invitation supplémentaire     | 15              |
 | 1 slot de coffre supplémentaire | 16              |
 
-### Parchemins
+### Parchemins & Autres
 
 | Contenu du lot                     | Probabilité (%) |
 | ---------------------------------- | --------------- |
-| 1 Parchemin de claim commun        | 13,5            |
-| 1 Parchemin de claim rare          | 15              |
-| 1 Parchemin de claim héroïque      | 12,5            |
-| 1 Parchemin de claim légendaire    | 9               |
-| 1 Parchemin d'overclaim commun     | 13,5            |
-| 1 Parchemin d'overclaim rare       | 15              |
-| 1 Parchemin d'overclaim héroïque   | 12,5            |
-| 1 Parchemin d'overclaim légendaire | 9               |
+| 16 Zéphyr                          | 10              |
+| 8 Block Opalite                    | 15              |
+| 3 Poussières Plutonium             | 15              |
+| 50 xp de faction                   | 20              |
+| 1 Parchemin VIP                    | 20              |
+| 1 Parchemin Aventurier             | 10              |
+| 1 Parchemin Titan                  | 5               |
+| 1 Parchemin Légende                | 5               |
 
 ### Items
 
