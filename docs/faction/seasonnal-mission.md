@@ -16,10 +16,10 @@ Avec ses 4 niveaux de plus en plus dur pour chaque objectif, elles vous permettr
 
 | Niveau | XP | Récompense supplémentaire |
 | ------ | -- | ---------- |
-| Niveau 1 | 33 xp | 1x Parchemin d'overclaim commun |
-| Niveau 2 | 53 xp | 1 slot de coffre de faction supplémentaire |
-| Niveau 3 | 80 xp | - |
-| Niveau 4 | 166 xp | 1x Parchemin de claim commun + 1 claim max supplémentaire |
+| Niveau 1 | 33 xp | 100 000 $ |
+| Niveau 2 | 53 xp | 300 000 $ |
+| Niveau 3 | 80 xp | 1 000 000 $ |
+| Niveau 4 | 166 xp | 2 000 000 $ |
 
 ## Missions
 
