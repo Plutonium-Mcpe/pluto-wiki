@@ -9,6 +9,7 @@ ___
 ## Introduction
 
 Le pointage quotidien est un système de récompense qui permet de gagner des points de faction et d'autres récompenses en se connectant tous les jours.
+Les pointages de faction sont débloqués 24 heures après la création de la faction. De plus, pour qu'un joueur puisse participer au pointage, sa première connexion doit également dater de plus de 24 heures.
 
 A 00h, le pointage quotidien est réinitialisé et vous pourrez récupérer vos récompenses en fonction du nombre de pointage de la veille:
 - moins de 3 joueurs: 5000$ + 15xp joueurs
