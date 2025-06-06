@@ -1,6 +1,6 @@
 ---
 id: pointage
-title: [New] Le pointage quotidien
+title: Le pointage quotidien
 category: faction
 description: La régularité paye !
 icon: "textures/blocks/command_block.png"
