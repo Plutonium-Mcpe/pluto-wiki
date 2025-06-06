@@ -1,6 +1,6 @@
 ---
 id: faction-level
-title: [New] Les niveaux de faction
+title: Les niveaux de faction
 category: faction
 description: Augmenter pour dominer !
 icon: "textures/blocks/command_block.png"
