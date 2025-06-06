@@ -25,7 +25,7 @@ Chaque faction ne peut dominer qu'une seule enchère, ce qui signifie qu'elle pe
 
 Pour chaque maison de faction, vous ne pouvez poser qu'un seul hopper comme bloc de stockage.
 
-Les factions qui ne sont pas propriétaires de la maison de faction ne peuvent ni casser ni interagir avec les blocs, mais elles peuvent déposer des items. 
+Les factions qui ne sont pas propriétaires de la maison de faction ne peuvent ni casser ni interagir avec les blocs, mais elles peuvent déposer des items. Pour les membres de la faction propriétaire, différentes permissions peuvent être attribuées, permettant ainsi aux membres de casser, de poser des blocs, d'interagir, etc.
 
 Il existe deux tailles de maison de faction : 
 
