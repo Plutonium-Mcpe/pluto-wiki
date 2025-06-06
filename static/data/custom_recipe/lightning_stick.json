@@ -1,0 +1,31 @@
+{
+    "input": {
+        "A": {
+            "name": "items/ores/plutonium_fragment",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "items/sticks/royal_sceptre",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
+        },
+        "D": {
+            "name": "items/stick",
+            "folder": "vanilla"
+        }
+    },
+    "output": [
+        {
+            "name": "items/halloween/lightning_stick",
+            "folder": "plutonium"
+        }
+    ],
+    "shape":  [
+        ["A", "B", "A"],
+        [" ", "C", " "],
+        [" ", "D", " "]
+    ]
+}
