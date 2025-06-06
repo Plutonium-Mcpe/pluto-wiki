@@ -1,6 +1,6 @@
 ---
 id: faction-bank
-title: [New] La banque de faction
+title: La banque de faction
 category: faction
 description: La base de toute l'économie autour des factions, vous permettra de gérer vos enchères et devenir le plus riche !
 icon: "textures/items/others/billet.png"
