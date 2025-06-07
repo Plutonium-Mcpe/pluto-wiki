@@ -1,6 +1,6 @@
 ---
 id: lightning-stick
-title: Bâton de foudre
+title: [New] Bâton de foudre
 category: items
 description: Boule de neige avec 250 d'utilisations
 icon: "textures/items/halloween/lightning_stick.png"
