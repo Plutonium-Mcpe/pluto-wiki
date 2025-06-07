@@ -17,25 +17,28 @@ Il vous faudra miner pour monter en niveau et ainsi débloquer des crafts, obten
 
 Minerais | XP gagné
 :------: | :------:
-Lapis | 1.5xp
-Fer | 0.3xp
-Redstone | 0.75xp
-Charbon | 0.4xp
-RandomOre | 4xp
-Or | 1xp
-Diamant | 3xp
-Opalite | 3xp
-Zéphir | 6xp
-Quartz | 0.75xp
+Lapis | 1.35xp
+Fer | 0.27xp
+Redstone | 0.68xp
+Charbon | 0.36xp
+RandomOre | 3.6xp
+Or | 0.9 xp
+Diamant | 2.7xp
+Opalite | 2.7xp
+Zéphir | 5.4xp
+Quartz | 2,7xp
 
+Casser des minerais avec la pioche ou le marteau en Plutonium rapporte deux fois le nombre d'XP. 
 {{image#blocks/furnaces/plutonium/plutonium_furnace_front_on}} Vous pourrez aussi obtenir de l'xp en cuisant certains minerais spécifiques :
 
 Minerais | XP gagné
 :------: | :------:
-Fer | 0.2xp
-Or | 1xp
-Opalite | 3xp
-Zéphir | 4xp
+Fer | 0.18xp
+Or | 0.9xp
+Opalite | 2.25xp
+Zéphir | 2.7xp
+
+L'utilisation du four en Opalite rapporte 1.5 fois le nombre d'XP et le four en Plutonium 2 fois le nombre d'XP. 
 
 ## XP nécessaire
 
@@ -47,29 +50,30 @@ Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque 
 
 Niveau | Récompenses
 :----: | :---------: 
-1 | {{image#items/keys/common_key}} 1 Clé commune
-2 | {{image#items/armors/farm/farm_helmet}} Craft casque de farm
-3 | {{image#items/ores/opalite_ingot}} 16 Lingots en Opalite
-4 | {{image#items/tools/pickaxes/opalite_pickaxe}} Craft pioche en Opalite
-5 | {{image#blocks/furnaces/opalite/opalite_furnace_front_off}} Craft four en Opalite
-6 | {{image#items/ores/zephir}} 1 Zéphyr
-7 | {{image#items/tools/hammers/opalite_hammer}} Craft hammer en Opalite
-8 | {{image#blocks/others/opalite_block}} 16 blocks d'Opalite
-9 | {{image#items/ores/plutonium_dust}} 1 Poussiére de Plutonium
-10 | {{image#blocks/furnaces/plutonium/plutonium_furnace_front_off}} Craft four en Plutonium
-11 | {{image#items/others/billet}} 50 000$
-12 | {{image#items/tools/pickaxes/plutonium_pickaxe}} Craft pioche en Plutonium
-13 | {{image#items/tools/others/obsi_breaker}} 3 Foreuses obsidienne
-14 | {{image#items/ores/plutonium_dust}} 2 Poussiéres de Plutonium
-15 | {{image#items/tools/hammers/plutonium_hammer}} Craft hammer en Plutonium
-16 | {{image#items/others/plutonium_coal}} 1 Charbon en Plutonium
-17 | {{image#items/armors/farm/farm_helmet}} Bouteille avec 250 000xp
-18 | {{image#items/ores/plutonium_fragment}} 2 Fragments Plutonium
-19 | {{image#items/others/billet}} 200 000$
-20 | {{image#items/armors/plutonium/plutonium_helmet}} Craft casque en Plutonium
-21 | {{image#items/ores/plutonium_ingot}} 1 Lingot en Plutonium
-22 | {{image#items/keys/celeste_key}} 1 Clé Celeste
-23 | {{image#items/others/billet}} 2 500 000$
-24 | {{image#items/keys/celeste_key}} Déblocage de l'achat de la Clé Celeste
-25 | {{image#items/ores/plutonium_ingot}} 3 Lingot en Plutonium 
+1 | Clé Commune
+2 | Craft Chapeau de Farm
+3 | 16 Lingots d’Opalite
+4 | Craft Four en Opalite
+5 | Craft Pioche en Opalite
+6 | 4 Zéphyr
+7 | Craft Marteau en Opalite
+8 | 16 Blocs d’Opalite
+9 | 1 Poussiere en Plutonium
+10 | Craft four en plutonium 
+11 | 75 000$
+12 | Craft Pioche en Plutonium
+13 | 5 Foreuses à Obsidienne
+14 | 2 Poussieres en Plutonium
+15 | Craft Marteau en Plutonium
+16 | 1 Charbon en Plutonium
+17 | 250K XP
+18 | 2 Fragments en Plutonium
+19 | 200 000$
+20 | Craft Casque en Plutonium
+21 | 1 Four en Plutonium
+22 | 1 Lingots en Plutonium
+23 | Déblocage achat de la Clé Céleste 
+24 | 1 Clé Céleste
+25 | 2 Lingots en Plutonium
+
 
