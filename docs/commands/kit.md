@@ -1,6 +1,6 @@
 ---
 id: kit
-title: Les kits
+title: [New] Les kits
 category: commands
 description: Les kits
 icon: "textures/blocks/command_block.png"
