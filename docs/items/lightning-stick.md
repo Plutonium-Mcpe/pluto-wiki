@@ -23,4 +23,4 @@ Il vous donnera un très gros avantage en PVP. En effet, ce bâton a une force s
 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item
 
-{{craft#craft/lightning_stick}}
+{{craft#craft/craft_lightning_stick}}
