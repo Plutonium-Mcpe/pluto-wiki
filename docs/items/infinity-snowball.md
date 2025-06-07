@@ -1,6 +1,6 @@
 ---
 id: infinity-snowball
-title: Boule de neige infini
+title: [New] Boule de neige infini
 category: items
 description: Boule de neige avec 250 d'utilisations
 icon: "textures/items/christmas/infinity_snowball.png"
