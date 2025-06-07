@@ -1,6 +1,6 @@
 ---
 id: farmeur
-title: Le métier de farmeur
+title: [New] Le métier de farmeur
 category: jobs
 description: Faire pousser, récolter et replanter, le maitre mot de ce métier
 icon: "textures/ui/custom/job/farmer.png"
