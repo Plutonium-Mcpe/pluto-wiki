@@ -1,6 +1,6 @@
 ---
 id: mineur
-title: Le métier de mineur
+title: [New] Le métier de mineur
 category: jobs
 description: Miner et gagner des récompenses ! Si tu aimes les cailloux, tu aimeras ce métier.
 icon: "textures/ui/custom/job/miner.png"
