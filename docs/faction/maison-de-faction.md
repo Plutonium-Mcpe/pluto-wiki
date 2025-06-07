@@ -31,6 +31,6 @@ Il existe deux tailles de maison de faction :
 
 | Taille | Nombre | mise de départ pour les enchères |
 | :-: | :-: | :-: | 
-| 9x8x8 | 29 | 40 000$ |
-| 15x17x11 | 6 | 100 000$ |
+| 9x8x8 | 29 | 10 000$ |
+| 15x17x11 | 6 | 20 000$ |
 
