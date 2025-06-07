@@ -1,6 +1,6 @@
 ---
 id: lucky-block
-title: Les lucky blocks de la v4.5 ! 
+title: [New] Les lucky blocks de la v4.5 ! 
 category: blocs
 description: Jouez à la roulette avec ces blocks
 icon: "textures/blocks/others/lucky_block.png"
