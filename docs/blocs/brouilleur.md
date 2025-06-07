@@ -20,6 +20,8 @@ Il vous permettra d'éviter un bon nombre de pillages !
 - `` Perte de durabilité ``: La durabilité descend rapidement lorsqu'une personne avec un chercheur de base dans sa main se trouve dans la zone du brouilleur : 
 **1 seconde = -1 durabilité** 
 
+Il est possible de descendre jusqu'à 1 % au maximum.
+
 ## Craft  
 
 > Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de ce bloc.
