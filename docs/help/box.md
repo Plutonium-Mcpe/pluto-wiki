@@ -1,6 +1,6 @@
 ---
 id: box
-title: Les box
+title: [New] Les box
 category: help
 description: Contenu et fonctionnement des box
 icon: "textures/blocks/ender_chest_front.png"
