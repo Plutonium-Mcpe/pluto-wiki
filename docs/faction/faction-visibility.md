@@ -1,6 +1,6 @@
 ---
 id: faction-visibility
-title: [New] La visibilité des factions
+title: La visibilité des factions
 category: faction
 description: Pouvoir être caché, accepter tout le monde ou pouvoir gérer des campagnes de recrutements, c'est ca la force des visibilités de faction !
 icon: "textures/items/ender_eye.png"

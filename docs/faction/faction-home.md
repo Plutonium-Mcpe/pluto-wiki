@@ -1,6 +1,6 @@
 ---
 id: faction-home
-title: [New] Les homes de faction
+title: Les homes de faction
 category: faction
 description: Marquer ses maisons, la base !
 icon: "textures/blocks/command_block.png"

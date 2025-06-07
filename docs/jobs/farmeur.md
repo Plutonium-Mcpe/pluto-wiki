@@ -1,6 +1,6 @@
 ---
 id: farmeur
-title: Le métier de farmeur
+title: [New] Le métier de farmeur
 category: jobs
 description: Faire pousser, récolter et replanter, le maitre mot de ce métier
 icon: "textures/ui/custom/job/farmer.png"
@@ -17,13 +17,15 @@ Chaque plantes cassée donnera un nombre d'XP qui lui est fixe selon ce tableau 
 
 Plantes | XP gagné
 :------: | :------:
-Pastèques | 1xp
-Citrouilles | 0.3xp
-Carottes | 0.15xp
-Pommes de terre | 0.3xp
-Blé | 0.2xp
-Graine d'Opalite | 2xp
-Graine de Plutonium | 15xp
+Pastèques | 0.85xp
+Citrouilles | 0.255xp
+Carottes | 0.1275xp
+Pommes de terre | 0.255xp
+Blé | 0.17xp
+Graine d'Opalite | 4,25xp
+Graine de Plutonium | 12,75xp
+
+L'utilisation de la hache en Plutonium permet de doubler le nombre d'XP gagné.
 
 ## XP nécessaire
 
@@ -35,28 +37,29 @@ Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque 
 
 Niveau | Récompenses
 :----: | :---------: 
-1 | {{image#items/keys/opalite_key}} 1 Clé en Opalite 
-2 | {{image#items/armors/farm/farm_leggings}} Craft jambiére de farm 
-3 | {{image#items/tools/others/seed_planter}} 1 Planteur de graines 
-4 | {{image#items/tools/hoes/opalite_hoe}} Craft houe en Opalite 
-5 | {{image#items/seeds/opalite_seed}} 64 Graines Opalites 
-6 | {{image#items/others/billet}} 25 000$ 
-7 | {{image#items/seeds/plutonium_seed}} 64 Graines Plutonium 
-8 | {{image#items/ores/plutonium_dust}} 1 Poussiére de Plutonium 
-9 | {{image#items/ores/zephir}} 2 Zéphyrs 
-10 | {{image#items/tools/others/replanter}} 1 Replanteur de graine 
-11 | {{image#items/keys/opalite_key}} 5 Clés en Opalite 
-12 | {{image#items/tools/hoes/plutonium_hoe}} Craft houe en Plutonium 
-13 | {{image#items/ores/plutonium_dust}} 2 Plus de Plutonium loot dans les graines 
-14 | {{image#items/ores/plutonium_dust}} 2 Poussiéres de Plutonium 
-15 | {{image#items/keys/plutonium_key}} 1 Clé en Plutonium 
-16 | {{image#blocks/tnts/lvl5/tnt_lvl5_side}} 1 TNT Niveau 5
-17 | {{image#items/armors/farm/farm_helmet}} 1 Arumure full farm 
-18 | {{image#items/ores/plutonium_fragment}} 2 Fragments Plutonium 
-19 | {{image#items/others/xp_collector}} 1 Collecteur d'expérience
-20 | {{image#items/armors/plutonium/plutonium_leggings}} Craft jambiéres en Plutonium
-21 | {{image#items/ores/plutonium_ingot}} 1 Lingot en Plutonium
-22 | {{image#items/keys/celeste_key}} 1 Clé Celeste
-23 | {{image#items/others/billet}} 2 500 000$
-24 | {{image#items/keys/celeste_key}} 2 Clé Celeste
-25 | {{image#items/ores/plutonium_ingot}} 3 Lingot en Plutonium 
+1 | 1 Clé en Opalite
+2 | 1 Planteur de graine
+3 | Craft Hoe en Opalite
+4 | 64 Graines en Opalite
+5 | Craft Salopette de Farm Haut
+6 | 25 000$
+7 | 64 Graines en Plutonium
+8 | 1 poussière en Plutonium
+9 | 2 Zéphyrs
+10 | Craft Hoe en Plutonium
+11 | 1 Replanteur
+12 | 2 Clés en Opalite
+13 | 2 fois plus de poussière quand on casse des graines Plutonium
+14 | 3 Poussières de Plutonium
+15 | 1 Clé en Plutonium
+16 | 1 Collecteur d'Expérience
+17 | Une Armure de Farm
+18 | 2 Fragments en Plutonium
+19 | 1 Farming Chest
+20 | Craft Pantalon en Plutonium
+21 | 1 Lingot en Plutonium
+22 | 250k XP
+23 | 25 0000$
+24 | 1 Clé Céleste
+25 | 2 Lingots en Plutonium
+

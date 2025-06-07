@@ -1,6 +1,6 @@
 ---
 id: alpha
-title: Le boss Alpha (Linaria) 
+title: [New] Le boss Alpha (Linaria) 
 category: boss
 description: Le boss Alpha
 icon: "https://user-images.githubusercontent.com/91474741/160202571-2e5e2f38-e312-4527-838b-ec873acadb69.png"
@@ -10,7 +10,8 @@ ___
 
 ## Description 
 
-Le boss Alpha est le boss le plus puissant de tous, sa grande taille le rend lent mais aussi
+Le boss Alpha est le boss le plus puissant de tous, disponible toutes les 6 heures sur le Linaria.
+Sa grande taille le rend lent mais aussi
 très puissant, il se fait facile à fuir mais il lui suffit de quelques coups de griffes pour vous
 éliminer ! 
 Mais attention ! Ne vous croyez pas en sécurité même après lui avoir fui, si vous
@@ -19,6 +20,8 @@ arriver à fuir et que vous pensez lui avoir fait mal... alors il se soignera en
 heure et le cauchemar recommencera encore et encore…
 Si vous engagez le combat tout seul, vous êtes certain d’y rester… seule les meilleurs et les
 plus puissant arriveront à l’éliminer !
+
+
 
 ## Caractéristiques 
 **Boss :**  
@@ -30,14 +33,14 @@ plus puissant arriveront à l’éliminer !
 
 | Pourcentage de dégât |                                   Stuff gagné                                    |            XP gagné            |
 |:--------------------:|:--------------------------------------------------------------------------------:|:------------------------------:|
-|         2 %          |              Une clé vote<br/>5 000$<br/>Un Lucky block	               | 1750 xp lvl<br/>35 xp guerrier |
-|         5 %          |            Un Lucky block<br/>Un block de diamand<br/>7 000$	            | 3500 xp lvl<br/>70 xp guerrier |
-|         10 %         | Une clé commune<br/>Un block de diamand<br/>10 000$<br/>2 Lucky blocks	 |   7000 xp lvl<br/>métier 140   |
-|         20 %         |                  5 clés vote<br/>3 Lucky blocks<br/>Un zephir	                   | 10500 xp lvl + 210 xp guerrier |
-|         30 %         |                2 zephir<br/>4 Lucky blocks<br/>20 000$	                 | 14000 xp lvl + 280 xp guerrier |
-|         40 %         |           2 zephir<br/>5 Lucky blocks<br/>Une poussiere en plutonium		           | 17500 xp lvl + 350 xp guerrier |
-|         50 %         |          Foreuse<br/>2 zephir<br/>40 000$<br/>8 Lucky blocks		          | 26250 xp lvl + 525 xp guerrier |
-|         75 %         |  Une clé en plutonium<br/>32 Lucky blocks<br/>2 zephir<br/>50 000$		   | 35000 xp lvl + 700 xp guerrier | 
+|         5 %          |            1 Lucky block<br/>Une clef de vote<br/> 5000$	            | 1750 xp lvl + 35 xp guerrier|
+|         10 %         | 1 Lucky blocks<br/>Un block de diamand<br/>7000$<br/>	 |   3500 xp lvl + métier 70  |
+|         20 %         |                 2 Lucky blocks<br/> Un block de diamants<br/> 10000$ <br/>Une clef de vote | 7000 xp lvl + 140 xp guerrier |
+|         30 %         |                3 Lucky blocks<br/>5 clef de votes<br/>5 zéphirs	                 | 10500 xp lvl + 210 xp guerrier  |
+|         40 %         |         4 Lucky blocks<br/>20000$ <br/> 2 zéphirs	           | 14000 xp lvl + 280 xp guerrier|
+|         50 %         |          5 Lucky blocks <br/>40000$ <br/>1 Poussière Plutonium <br/> 2 zéphirs  | 17500 xp lvl + 350 xp guerrier |
+|         75 %         |  8 Luckys blocks <br/> 40000$<br/> Foreuse <br/>18 zéphirs   | 26250 xp lvl + 525 xp guerrier | 
+|         100 %        |  32 Luckys blocks <br/> 50000$	<br/> 2 zéphirs <br/> 1 clef Plutonium    | 35000 xp lvl + 700 xp guerrier |
 
 **Météorite <img style="width:16px;height:16px" src="https://user-images.githubusercontent.com/91474741/160203589-b557ff77-6f11-4e7a-b70d-1102e098bbcb.png"> :** 
 

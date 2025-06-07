@@ -1,6 +1,6 @@
 ---
 id: guerrier
-title: Le métier de guerrier
+title: [New] Le métier de guerrier
 category: jobs
 description: Combattre, affronter et tuer ! Seul les plus valeureux sauront atteindre la fin de cet objectif.
 icon: "textures/ui/custom/job/warrior.png"
@@ -17,13 +17,13 @@ Cependant, pensons à nos amis les farmeurs, il vous sera possible de monter en 
 
 ### 1. En tuant des mobs agressifs (spawner)
 
-- Chaque mobs tués rapporte 0.02xp
+- Chaque mobs tués rapporte 0.022xp
 
 ### 2. En tuant des mobs passifs
 
 > Ils sont trouvable en minage
 
-- Chaque mobs tués rapporte 6.5xp 
+- Chaque mobs tués rapporte 7.15xp 
 
 ### 3. En tuant des joueurs
 
@@ -36,6 +36,8 @@ Opalite | 20 | 40 | 35 | 15 | 10
 Diamant | 5 | 10 | 7,5 | 5 | 2,5
 Fer | 1,5 | 3,5 | 3 | 1 | 1
 
+L'utilisation de l'épée en Plutonium pour tuer rapporte deux fois le nombre d'XP.
+
 ## XP nécessaire
 
 Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque niveau :  
@@ -46,28 +48,29 @@ Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque 
 
 Niveau | Récompenses
 :----: | :---------: 
-1 | {{image#items/keys/opalite_key}} 1 Clé en Opalite 
-2 | {{image#items/armors/farm/farm_chestplate}} Craft plastron de farm 
-3 | {{image#items/foods/opalite_apple}} 16 Pommes en Opalite 
-4 | {{image#items/tools/swords/opalite_sword}} Craft épée en Opalite 
-5 | {{image#items/others/billet}} 25 000$ 
-6 | {{image#items/tools/swords/opalite_sword}} 1 Epée en Opalite tranchant 5 
-7 | {{image#items/others/xp_collector}} Craft Collecteur d'expérience 
-8 | {{image#blocks/drawers/iron/iron_drawer_front}} 1x Drawer en fer 
-9 | {{image#items/others/billet}} 50 000$ 
-10 | {{image#items/ores/plutonium_dust}} 2 Poussiéres de Plutonium 
-11 | {{image#items/foods/opalite_apple}} 64 Pommes en Opalite 
-12 | {{image#items/armors/plutonium/plutonium_chestplate}} Craft plastron en Plutonium 
-13 | {{image#blocks/tnts/lvl4/tnt_lvl4_side}} 1 TNT niveau 4
-14 | {{image#items/others/xp_collector}} 1 Collecteur d'expérience 
-15 | {{image#blocks/drawers/plutonium/plutonium_drawer_front}} Craft drawer en Plutonium 
-16 | {{image#items/others/xp_collector}} 1 Collecteur d'expérience 
-17 | {{image#items/others/billet}} 100 000$ 
-18 | {{image#items/ores/plutonium_fragment}} 2 Fragments Plutonium 
-19 | {{image#items/keys/plutonium_key}} 1 Clé en Plutonium 
-20 | {{image#items/armors/plutonium/plutonium_leggings}} Craft jambiéres en Plutonium
-21 | {{image#items/ores/plutonium_ingot}} 1 Lingot en Plutonium
-22 | {{image#items/keys/celeste_key}} 1 Clé Celeste
-23 | {{image#items/others/billet}} 2 500 000$
-24 | {{image#items/keys/celeste_key}} 2 Clé Celeste
-25 | {{image#items/ores/plutonium_ingot}} 3 Lingot en Plutonium
+1 | 1 Clé en Opalite
+2 | 1 Feed stick
+3 | Craft Epée en Opalite
+4 | 64 Pommes en Opalite
+5 | Craft Salopette de Farm Bas
+6 | 25 000$
+7 | Epée en Opalite T5
+8 | 1 poussière en Plutonium
+9 | 1 Drawer en Diamant
+10 | Craft Drawer en Plutonium
+11 | Craft Collecteur d'Expérience 
+12 | 2 Clés en Opalite
+13 | 75K XP
+14 | 3 Poussières de Plutonium
+15 | 1 Clé en Plutonium
+16 | 1 Collecteur d'Expérience
+17 | 100 000$
+18 | 2 Fragments en Plutonium
+19 | 1 Drawer en Opalite
+20 | Craft Plastron en Plutonium
+21 | 1 lingot en Plutonium
+22 | 250k XP
+23 | 2 Lingots en Plutonium
+24 | 1 Clé Céleste
+25 | Craft Epée en Plutonium
+

@@ -1,0 +1,27 @@
+{
+    "input": {
+        "A": {
+            "name": "blocks/others/zephir_block",
+            "folder": "plutonium"
+        },
+        "B": {
+            "name": "items/ores/plutonium_dust",
+            "folder": "plutonium"
+        },
+        "C": {
+            "name": "items/snowball",
+            "folder": "vanilla"
+        }
+    },
+    "output": [
+        {
+            "name": "items/christmas/infinity_snowball",
+            "folder": "plutonium"
+        }
+    ],
+    "shape":  [
+        ["A", "B", "A"],
+        ["B", "C", "B"],
+        ["A", "B", "A"]
+    ]
+}

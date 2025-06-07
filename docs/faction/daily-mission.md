@@ -1,6 +1,6 @@
 ---
 id: daily-mission
-title: [New] Les missions quotidiennes
+title: Les missions quotidiennes
 category: faction
 description: Des objectifs quotidiens !
 icon: "textures/blocks/command_block.png"

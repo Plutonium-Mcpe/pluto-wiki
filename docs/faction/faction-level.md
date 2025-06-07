@@ -1,6 +1,6 @@
 ---
 id: faction-level
-title: [New] Les niveaux de faction
+title: Les niveaux de faction
 category: faction
 description: Augmenter pour dominer !
 icon: "textures/blocks/command_block.png"
@@ -32,15 +32,15 @@ L'expérience nécessaire pour passer au niveau suivant est défini selon ce gra
 | Niveau | Récompense                         |
 | ------ | ---------------------------------- |
 | 1      | -                                  |
-| 2      | 1 parchemin de claim commun        |
+| 2      | 1 Pioche en Opalite E5             |
 | 3      | 1 membre                           |
-| 4      | 1 parchemin d'overclaim rare       |
+| 4      | 1 stuff Opalite complet enchanté   |
 | 5      | 1,000,000$ dans la banque          |
 | 6      | 1 home                             |
 | 7      | 1 boussole de claim                |
 | 8      | 1 drawer en fer d'obsi             |
 | 9      | 1 membre                           |
-| 10     | 1 alliance                         |
+| 10     | 8 block de zéphyr                  |
 | 11     | 1 parchemin d'overclaim rare       |
 | 12     | 1 drawer en bois d'obsi amélio     |
 | 13     | 1 lingot pluto                     |
@@ -49,15 +49,15 @@ L'expérience nécessaire pour passer au niveau suivant est défini selon ce gra
 | 16     | 1 parchemin de claim rare          |
 | 17     | 1 home                             |
 | 18     | 1 drawer en pierre d'obsi amélio   |
-| 19     | 1 parchemin de claim héroïque      |
-| 20     | 1 parchemin d'overclaim héroïque   |
+| 19     | 4 Clé Plutonium                    |
+| 20     | 4 Lingot en Plutonium              |
 | 21     | 1 membre                           |
 | 22     | 10,000,000$ dans la banque         |
-| 23     | 1 parchemin de claim légendaire    |
+| 23     | 3 Clé celeste                      |
 | 24     | 1 drawer de fer en obsi amélio     |
 | 25     | 3 lingots pluto                    |
-| 26     | 1 parchemin de claim légendaire    |
+| 26     | 4 Clé celeste                      |
 | 27     | 1 membre                           |
-| 28     | 1 parchemin d'overclaim légendaire |
+| 28     | 5 Clé celeste                      |
 | 29     | 20,000,000$ dans la banque         |
 | 30     | 1 alliance                         |

@@ -1,6 +1,6 @@
 ---
 id: bucheron
-title: Le métier de bûcheron
+title: [New] Le métier de bûcheron
 category: jobs
 description: Casser, bûcheronner, abatter et replanter pour monter dans le classement
 icon: "textures/ui/custom/job/lumber_jack.png"
@@ -14,10 +14,12 @@ Action | XP gagné
 :------: | :------:
 Chêne | 0.4xp
 Sapin | 0.05xp
-Bouleau | 1.3xp
-Acacia | 1xp
+Bouleau | 1xp
+Acacia | 0.7xp
 Tropical | 0.1xp
 Chêne sombre | 0.3px
+
+L'utilisation de la hache en Plutonium permet de doubler le nombre d'XP gagné. 
 
 ## XP nécessaire
 
@@ -29,28 +31,29 @@ Voici un graphique récapitulant la progression de l'XP nécessaire pour chaque 
 
 Niveau | Récompenses
 :----: | :---------: 
-1 | {{image#items/keys/common_key}} 1 Clé commune 
-2 | {{image#items/armors/farm/farm_boots}} Craft bottes de farm
-3 | {{image#blocks/others/lucky_block}} 3 Lucky blocks
-4 | {{image#items/tools/axes/opalite_axe}} Craft hache en Opalite
-5 | {{image#items/diamond_axe}} Hache en diamant efficacité 5
-6 | {{image#items/tools/axes/opalite_axe}} 1 Hache en Opalite
-7 | {{image#items/others/red_unclaim_finder}} Craft chercheurs de bases rouge
-8 | {{image#items/armors/farm/farm_boots}} 1 Bottes de farm
-9 | {{image#items/others/billet}} 50 000$
-10 | {{image#items/others/blue_unclaim_finder}} Craft chercheurs de bases bleu
-11 | {{image#blocks/drawers/diamond/diamond_drawer_front}} 1x Drawer en diamant
-12 | {{image#items/tools/axes/plutonium_axe}} Craft hache en Plutonium
-13 | {{image#blocks/others/lucky_block}} 10 Lucky blocks
-14 | {{image#items/ores/plutonium_dust}} 2 Poussières en Plutonium
-15 | {{image#items/keys/opalite_key}} 2 Clés en opalite 
-16 | {{image#items/ores/plutonium_fragment}} 1 Fragement en Plutonium
-17 | {{image#items/seeds/plutonium_seed}} 128 Graines en Plutonium
-18 | {{image#items/ores/plutonium_fragment}} 2 Fragements en Plutonium
-19 | {{image#items/others/billet}} 250 000$
-20 | {{image#items/armors/plutonium/plutonium_boots}} Craft bottes en Plutonium
-21 | {{image#items/ores/plutonium_ingot}} 1 Lingot en Plutonium
-22 | {{image#items/keys/celeste_key}} 1 Clé Celeste
-23 | {{image#items/others/billet}} 2 500 000$
-24 | {{image#items/keys/celeste_key}} Déblocage de l'achat de la Clé Celeste
-25 | {{image#items/ores/plutonium_ingot}} 3 Lingot en Plutonium
+1 | 1 Clé en Opalite
+2 | 1 Feed stick
+3 | Craft Hache en Opalite
+4 | 3 Lucky Blocks
+5 | Craft Bottes de Farm
+6 | 25 000$
+7 | Hache en Opalite E5
+8 | 1 poussière en Plutonium
+9 | Utilisation dynamites
+10 | Craft Chercheur de base bleu
+11 | 1 Drawer en Diamant
+12 | 10 LuckyBlocks
+13 | 50K XP
+14 | 3 Poussières de Plutonium
+15 | Craft Hache en Plutonium
+16 | 128 Graines en Plutonium
+17 | 1 Clé en Plutonium
+18 | 2 Fragments en Plutonium
+19 | 1 Drawer en Opalite
+20 | Craft Bottes en Plutonium
+21 | 1 Lingot en Plutonium
+22 | 250 000 $
+23 | Déblocage achat de la clé céleste
+24 | 1 Clé Céleste
+25 | 2 Lingots en Plutonium
+

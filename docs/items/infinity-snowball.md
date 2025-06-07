@@ -1,17 +1,24 @@
 ---
 id: infinity-snowball
-title: Boule de neige infini
+title: [New] Boule de neige infini
 category: items
-description: Boule de neige avec 300 d'utilisations
+description: Boule de neige avec 250 d'utilisations
 icon: "textures/items/christmas/infinity_snowball.png"
 ---
 ___
 ## Description
 
-La Boule de neige infini est un item exclusif des #blocs/christmas-gift, il faut donc forcément ouvrir un cadeau de Noël afin d'en obtenir. La probabilité d'obtenir cette item est de 5%.   
-Cette item est une sorte de boule de neige compacté, elle a donc exactement le même fonctionnement qu'une boule de neige classique mais avec beaucoup plus d'utilisation. Pratique pour réduire la place des boules de neiges dans votre inventaire !
+La Boule de neige infinie est un ancien objet exclusif. Elle est désormais obtenable par tous via un craft.
+
+Cet objet est une sorte de boule de neige compactée. Elle a donc exactement le même fonctionnement qu'une boule de neige classique, mais avec beaucoup plus d'utilisations. Pratique pour réduire la place des boules de neige dans votre inventaire !
 
 ## Caractéristiques  
 
--``Durabilité`` : 300 utilisations (impossible à réparer)  
+-``Durabilité`` : 250 utilisations (impossible à réparer)
 -``Cooldown`` : Aucun
+
+### Craft 
+
+> Aucun niveau spécial de métier est nécessaire pour l’utilisation & craft de cet item
+
+{{craft#craft/craft_infinity_snowball}}

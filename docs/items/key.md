@@ -40,4 +40,9 @@ Les clés servent de récompense à diverses actions que vous pouvez réaliser s
 ### {{image#items/keys/supreme_key}} Clé Suprême
 
 - Permet d'ouvrir la box suprême contenant des objets uniques.
-- Obtenable uniquement dans les kits des grades Légendes ( tout les 5 jours ) et Titan ( tout les 10 jours ). 
+- Obtenable uniquement dans les kits des grades Légendes ( tout les 5 jours ) et Titan ( tout les 10 jours ).
+
+### {{image#items/keys/celeste_key}} Clé Celeste
+
+- Permet d'ouvrir la box Celeste contenant des objets uniques.
+- Obtenable uniquement à l'achat dans le /shop et dans la boutique. 

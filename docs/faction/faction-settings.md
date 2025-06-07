@@ -1,6 +1,6 @@
 ---
 id: faction-settings
-title: [New] Les paramètres de faction
+title: Les paramètres de faction
 category: faction
 description: La personnification de votre faction !
 icon: "textures/blocks/command_block.png"
