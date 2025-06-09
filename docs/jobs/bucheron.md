@@ -55,5 +55,5 @@ Niveau | Récompenses
 22 | 250 000 $
 23 | Déblocage achat de la clé céleste
 24 | 1 Clé Céleste
-25 | 1 Lingots en Plutonium
+25 | 1 Lingot en Plutonium
 
