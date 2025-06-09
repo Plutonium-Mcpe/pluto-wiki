@@ -71,9 +71,9 @@ Niveau | Récompenses
 19 | 200 000$
 20 | Craft Casque en Plutonium
 21 | 1 Four en Plutonium
-22 | 1 Lingots en Plutonium
+22 | 3 Fragments en Plutonium
 23 | Déblocage achat de la Clé Céleste 
 24 | 1 Clé Céleste
-25 | 2 Lingots en Plutonium
+25 | 1 Lingot en Plutonium
 
 
