@@ -51,9 +51,9 @@ Niveau | Récompenses
 18 | 2 Fragments en Plutonium
 19 | 1 Drawer en Opalite
 20 | Craft Bottes en Plutonium
-21 | 1 Lingot en Plutonium
+21 | 3 Fragment en Plutonium
 22 | 250 000 $
 23 | Déblocage achat de la clé céleste
 24 | 1 Clé Céleste
-25 | 2 Lingots en Plutonium
+25 | 1 Lingot en Plutonium
 

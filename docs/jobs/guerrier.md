@@ -68,9 +68,9 @@ Niveau | Récompenses
 18 | 2 Fragments en Plutonium
 19 | 1 Drawer en Opalite
 20 | Craft Plastron en Plutonium
-21 | 1 lingot en Plutonium
+21 | 3 Fragments en Plutonium
 22 | 250k XP
-23 | 2 Lingots en Plutonium
+23 | 1 Lingot en Plutonium
 24 | 1 Clé Céleste
 25 | Craft Epée en Plutonium
 

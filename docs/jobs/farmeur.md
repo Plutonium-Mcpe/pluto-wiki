@@ -57,9 +57,9 @@ Niveau | Récompenses
 18 | 2 Fragments en Plutonium
 19 | 1 Farming Chest
 20 | Craft Pantalon en Plutonium
-21 | 1 Lingot en Plutonium
+21 | 3 Framgent en Plutonium
 22 | 250k XP
 23 | 25 0000$
 24 | 1 Clé Céleste
-25 | 2 Lingots en Plutonium
+25 | 1 Lingot en Plutonium
 
