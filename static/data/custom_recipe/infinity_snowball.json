@@ -11,6 +11,10 @@
         "C": {
             "name": "items/snowball",
             "folder": "vanilla"
+        },
+        "D": {
+            "name": "items/ores/plutonium_fragment",
+            "folder": "plutonium"
         }
     },
     "output": [
@@ -21,7 +25,7 @@
     ],
     "shape":  [
         ["A", "B", "A"],
-        ["B", "C", "B"],
-        ["A", "B", "A"]
+        ["D", "C", "D"],
+        ["A", "D", "A"]
     ]
 }
