@@ -15,7 +15,7 @@
         "D": {
             "name": "items/ores/plutonium_fragment",
             "folder": "plutonium"
-        }
+        },
         "E": {
             "name": "blocks/others/zephir_block",
             "folder": "plutonium"
