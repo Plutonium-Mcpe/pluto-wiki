@@ -25,7 +25,8 @@ Il est aussi possible de les placers dans votre seconde main, facilitant ainsi l
 - ``Blocs détectés`` : 
     - Coffre
     - Four
-    - Cadre 
+    - Cadre
+    - Tonneau
 - ``Durabilité`` : 1 heure dans la main d'un joueur
 
 ### Craft 

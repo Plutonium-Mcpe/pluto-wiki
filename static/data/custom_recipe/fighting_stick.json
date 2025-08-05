@@ -1,7 +1,7 @@
 {
     "input": {
         "A": {
-            "name": "blocks/others/zephir_block",
+            "name": "items/tools/swords/opalite_sword",
             "folder": "plutonium"
         },
         "B": {
@@ -9,23 +9,27 @@
             "folder": "plutonium"
         },
         "C": {
-            "name": "items/snowball",
-            "folder": "vanilla"
+            "name": "items/ores/zephir",
+            "folder": "plutonium"
         },
         "D": {
             "name": "items/ores/plutonium_fragment",
+            "folder": "plutonium"
+        },
+        "E": {
+            "name": "blocks/others/zephir_block",
             "folder": "plutonium"
         }
     },
     "output": [
         {
-            "name": "items/christmas/infinity_snowball",
+            "name": "items/christmas/fighting_stick",
             "folder": "plutonium"
         }
     ],
     "shape":  [
-        ["A", "A", "A"],
-        ["B", "C", "B"],
-        ["A", "D", "A"]
+        ["B", "A", "B"],
+        ["B", "D", "B"],
+        ["C", "E", "C"]
     ]
 }

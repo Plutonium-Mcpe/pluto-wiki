@@ -136,14 +136,10 @@ Contenu | Probabilité |
 {{image#items/others/billet}} 1 500 000$ | 15%
 1 potion antikb | 2%
 {{image#blocks/drawers/opalite/opalite_drawer_front}} Drawer en Opalite avec 500 bâton de soin | 8%
-{{image#items/bows/plutonium/plutonium_bow}} 1 Arc en Plutonium | 10%
+{{image#blocks/others/lucky_block}} 64 Lucky Block | 10%
 {{image#items/tools/hammers/plutonium_hammer}} 1 Marteau en Plutonium | 5%
-{{image#items/keys/plutonium_key}} 2 Clé Plutonium | 5%
-{{image#items/halloween/balloons/red_balloon}} 1 Ballon rouge | 1%
-{{image#items/halloween/balloons/brown_balloon}} 1 Ballon marron | 1%
-{{image#items/halloween/balloons/orange_balloon}} 1 Ballon orange | 1%
-{{image#items/halloween/balloons/gray_balloon}} 1 Ballon gris | 1%
-{{image#items/halloween/balloons/black_balloon}} 1 Ballon noir | 1%
+{{image#items/keys/celeste_key}} 2 Clé Céleste | 5%
+{{image#items/ores/plutonium_ingot}} 2 Lingot en Plutonium | 5%
 {{image#items/armors/plutonium/plutonium_helmet}} 1 Casque en Plutonium | 0.5%
 {{image#items/armors/plutonium/plutonium_chestplate}} 1 Plastron en Plutonium | 0.5%
 {{image#items/armors/plutonium/plutonium_leggings}} 1 Jambier en Plutonium | 0.5%
