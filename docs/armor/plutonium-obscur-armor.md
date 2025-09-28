@@ -29,4 +29,4 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 ### Obtention 
 
-> Ce casque peut uniquement s'obtenir via la récompence du niveau 27 du metier #jobs/guerrier
+> Ce casque peut uniquement s'obtenir via la récompence du niveau 28 du metier #jobs/guerrier
