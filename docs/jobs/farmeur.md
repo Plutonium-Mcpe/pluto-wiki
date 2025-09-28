@@ -62,4 +62,9 @@ Niveau | Récompenses
 23 | 25 0000$
 24 | 1 Clé Céleste
 25 | 1 Lingot en Plutonium
+26 | 5 Bâtons de combat
+27 | 64 Lucky Block
+28 | 10 000 000 $
+29 | 2 Lingots de Plutonium
+30 | 2 Clés Céleste
 

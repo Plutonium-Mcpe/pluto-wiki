@@ -23,7 +23,7 @@ Elle vous donnera des avantages très conséquent vis à vis de vos adversaire d
 
 - ``Durabilité`` : 2600
 - ``Résistance`` : 5,5
-- ``Effets ajoutés`` : 
+- ``Effet ajouté`` : 
     * Vision nocturne
 
 ### Craft 
