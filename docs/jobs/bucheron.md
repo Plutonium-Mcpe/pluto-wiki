@@ -56,4 +56,9 @@ Niveau | Récompenses
 23 | Déblocage achat de la clé céleste
 24 | 1 Clé Céleste
 25 | 1 Lingot en Plutonium
+26 | 32 Poussières en Plutonium
+27 | 10 000 000 $
+28 | 1 Hache en Plutonium 
+29 | 1 Drawer avec 10 boules de neige infini
+30 | 2 Lingots de Plutonium
 

@@ -75,5 +75,10 @@ Niveau | Récompenses
 23 | Déblocage achat de la Clé Céleste 
 24 | 1 Clé Céleste
 25 | 1 Lingot en Plutonium
+26 | 1 Brouilleur
+27 | 1 Pioche en Plutonium
+28 | 1 Potion anti-kb
+29 | 2 Lingots de Plutonium
+30 | 3 Clés Celeste
 
 

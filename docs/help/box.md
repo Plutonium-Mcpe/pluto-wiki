@@ -130,16 +130,16 @@ Tête de dragon | 1%
 
 Contenu | Probabilité |
 :---: | :---:
-{{image#items/tools/swords/celeste_sword}} Épée céleste | 0.25%
+{{image#items/tools/swords/celeste_sword}} Épée céleste | 0.5%
 {{image#items/ores/plutonium_fragment}} 5 Fragments en Plutonium | 25%
 {{image#items/ores/plutonium_ingot}} 1 Lingot Plutonium | 15%
-{{image#items/others/billet}} 1 500 000$ | 15%
+{{image#items/others/billet}} 3 500 000$ | 14.75%
 1 potion antikb | 2%
-{{image#blocks/drawers/opalite/opalite_drawer_front}} Drawer en Opalite avec 500 bâton de soin | 8%
-{{image#blocks/others/lucky_block}} 64 Lucky Block | 10%
+{{image#blocks/drawers/opalite/opalite_drawer_front}} Drawer en Opalite avec 500 bâtons de soin | 8%
+{{image#blocks/others/lucky_block}} 64 Lucky Block | 5%
 {{image#items/tools/hammers/plutonium_hammer}} 1 Marteau en Plutonium | 5%
 {{image#items/keys/celeste_key}} 2 Clé Céleste | 5%
-{{image#items/ores/plutonium_ingot}} 2 Lingot en Plutonium | 5%
+{{image#items/ores/plutonium_ingot}} 2 Lingot en Plutonium | 10%
 {{image#items/armors/plutonium/plutonium_helmet}} 1 Casque en Plutonium | 0.5%
 {{image#items/armors/plutonium/plutonium_chestplate}} 1 Plastron en Plutonium | 0.5%
 {{image#items/armors/plutonium/plutonium_leggings}} 1 Jambier en Plutonium | 0.5%

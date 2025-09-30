@@ -73,4 +73,9 @@ Niveau | Récompenses
 23 | 1 Lingot en Plutonium
 24 | 1 Clé Céleste
 25 | Craft Epée en Plutonium
+26 | 32 Poussiere de Plutonium
+27 | 10 Bâtons de combat
+28 | 1 Casque en Plutonium Obscur
+29 | 3 Lingots de Plutonium
+30 | 3 Clés Celeste
 
